@@ -1,0 +1,471 @@
+[
+  {
+    "ts": 1779643480454,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.c0smosis.dailyfantasyshared.activities.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779643480492,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779643480497,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779643480497,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779643480498,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779643480518,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|887460030500|*"
+    }
+  },
+  {
+    "ts": 1779643480519,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|887460030500|*"
+    }
+  },
+  {
+    "ts": 1779643480520,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779643480530,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779643480563,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.atlasappco.draftkingsdailyfootball/databases/google_app_measurement_local.db"
+    }
+  },
+  {
+    "ts": 1779643480631,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779643480655,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779643480657,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|887460030500|*"
+    }
+  },
+  {
+    "ts": 1779643480834,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.c0smosis.dailyfantasyshared.activities.LoginOrRegisterActivity"
+    }
+  },
+  {
+    "ts": 1779643480866,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779643480866,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779643480867,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779643480881,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779643480881,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779643480886,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779643480887,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779643480887,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779643480889,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779643480889,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779643480891,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779643480891,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779643480895,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779643480895,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779643480902,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779643480903,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779643480903,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779643480903,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779643480903,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779643480903,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779643480903,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779643480906,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779643480906,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779643480906,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779643480906,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779643480906,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779643480995,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779643481001,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779643481002,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779643481006,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779643481006,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779643481007,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.atlasappco.draftkingsdailyfootball/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643481018,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779643481090,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779643481248,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.atlasappco.draftkingsdailyfootball/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643481388,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779643481398,
+    "type": "webview",
+    "data": {
+      "url": "file:///android_asset/html/login1.html"
+    }
+  },
+  {
+    "ts": 1779643481456,
+    "type": "url_access",
+    "data": {
+      "url": "file:/system/framework/framework.jar"
+    }
+  },
+  {
+    "ts": 1779643481511,
+    "type": "url_access",
+    "data": {
+      "url": "file:/system/framework/framework.jar"
+    }
+  },
+  {
+    "ts": 1779643481541,
+    "type": "url_access",
+    "data": {
+      "url": "file:/system/framework/framework.jar"
+    }
+  },
+  {
+    "ts": 1779643484588,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|887460030500|*"
+    }
+  },
+  {
+    "ts": 1779643484589,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779643484589,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779643484590,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|887460030500|*"
+    }
+  },
+  {
+    "ts": 1779643484591,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779643484591,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|887460030500|*"
+    }
+  },
+  {
+    "ts": 1779643484592,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|ctKf89nZdPk:APA91bG5tgpU1I2_mWK6uhfgZ-IDEVfhS1vojjZwp-ksduJa4xLuH8jrjRhzJy9CueZcE96LEsUfM_7xx-ORPtL_NQ1FD67EeK4TPCqBTh_jG_69MB2ypEA|/topics/site_draftkings"
+    }
+  },
+  {
+    "ts": 1779643486265,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779643486265,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779643486265,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|887460030500|*"
+    }
+  },
+  {
+    "ts": 1779643486265,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|ctKf89nZdPk:APA91bG5tgpU1I2_mWK6uhfgZ-IDEVfhS1vojjZwp-ksduJa4xLuH8jrjRhzJy9CueZcE96LEsUfM_7xx-ORPtL_NQ1FD67EeK4TPCqBTh_jG_69MB2ypEA|/topics/lineupprojchange"
+    }
+  },
+  {
+    "ts": 1779643487187,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779643487187,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  }
+]

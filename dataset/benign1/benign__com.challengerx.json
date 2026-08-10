@@ -1,0 +1,184 @@
+[
+  {
+    "ts": 1778226869833,
+    "type": "sp",
+    "data": {
+      "key": "ApiSessionKey"
+    }
+  },
+  {
+    "ts": 1778226869834,
+    "type": "device",
+    "data": {
+      "api": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1778226869850,
+    "type": "file",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1778226869851,
+    "type": "file",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1778226869851,
+    "type": "file",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1778226869852,
+    "type": "file",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1778226869853,
+    "type": "file",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1778226869854,
+    "type": "file",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1778226869854,
+    "type": "file",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1778226869855,
+    "type": "file",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1778226869860,
+    "type": "file",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1778226869861,
+    "type": "file",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1778226869861,
+    "type": "file",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1778226869861,
+    "type": "file",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1778226870025,
+    "type": "activity",
+    "data": {
+      "activity": "com.challengerx.LoginActivity"
+    }
+  },
+  {
+    "ts": 1778226890013,
+    "type": "file",
+    "data": {
+      "path": "./twitter4j.properties"
+    }
+  },
+  {
+    "ts": 1778226890018,
+    "type": "file",
+    "data": {
+      "path": "WEB-INF/twitter4j.properties"
+    }
+  },
+  {
+    "ts": 1778226890023,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.challengerx/shared_prefs/Twitter_Preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1778226890026,
+    "type": "sp",
+    "data": {
+      "key": "tweet_auth_key"
+    }
+  },
+  {
+    "ts": 1778226890026,
+    "type": "sp",
+    "data": {
+      "key": "tweet_auth_secret_key"
+    }
+  },
+  {
+    "ts": 1778226890028,
+    "type": "sp",
+    "data": {
+      "key": "tweet_auth_key"
+    }
+  },
+  {
+    "ts": 1778226890029,
+    "type": "sp",
+    "data": {
+      "key": "tweet_auth_secret_key"
+    }
+  },
+  {
+    "ts": 1778226890029,
+    "type": "sp",
+    "data": {
+      "key": "tweet_user_name"
+    }
+  },
+  {
+    "ts": 1778226890031,
+    "type": "sp",
+    "data": {
+      "key": "oauth_token"
+    }
+  },
+  {
+    "ts": 1778226890031,
+    "type": "sp",
+    "data": {
+      "key": "oauth_token_secret"
+    }
+  },
+  {
+    "ts": 1778226890066,
+    "type": "network",
+    "data": {
+      "url": "https://api.twitter.com/oauth/request_token"
+    }
+  }
+]

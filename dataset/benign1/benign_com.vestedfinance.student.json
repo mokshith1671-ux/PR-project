@@ -1,0 +1,716 @@
+[
+  {
+    "ts": 1779139478825,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.vestedfinance.student/databases/com.localytics.android.d10f3e9becf60a0ec9bc655dc1b93cc8b4c69daa92b012a1cd60b549f495c49.analytics.sqlite"
+    }
+  },
+  {
+    "ts": 1779139478831,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.vestedfinance.student/databases/com.localytics.android.d10f3e9becf60a0ec9bc655dc1b93cc8b4c69daa92b012a1cd60b549f495c49.profile.sqlite"
+    }
+  },
+  {
+    "ts": 1779139478867,
+    "type": "shared_pref",
+    "data": {
+      "key": "domain"
+    }
+  },
+  {
+    "ts": 1779139478868,
+    "type": "shared_pref",
+    "data": {
+      "key": "appId"
+    }
+  },
+  {
+    "ts": 1779139478868,
+    "type": "shared_pref",
+    "data": {
+      "key": "apiKey"
+    }
+  },
+  {
+    "ts": 1779139478868,
+    "type": "shared_pref",
+    "data": {
+      "key": "config"
+    }
+  },
+  {
+    "ts": 1779139478869,
+    "type": "shared_pref",
+    "data": {
+      "key": "config"
+    }
+  },
+  {
+    "ts": 1779139478870,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.vestedfinance.student.activities.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779139478871,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceToken"
+    }
+  },
+  {
+    "ts": 1779139478871,
+    "type": "shared_pref",
+    "data": {
+      "key": "appConfig"
+    }
+  },
+  {
+    "ts": 1779139478872,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779139478872,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779139478872,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779139478872,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779139478872,
+    "type": "shared_pref",
+    "data": {
+      "key": "activeConversation"
+    }
+  },
+  {
+    "ts": 1779139478874,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779139478874,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779139478875,
+    "type": "shared_pref",
+    "data": {
+      "key": "uuid"
+    }
+  },
+  {
+    "ts": 1779139478875,
+    "type": "shared_pref",
+    "data": {
+      "key": "uuid"
+    }
+  },
+  {
+    "ts": 1779139478876,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779139478876,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779139478877,
+    "type": "shared_pref",
+    "data": {
+      "key": "sdkType"
+    }
+  },
+  {
+    "ts": 1779139478877,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779139478878,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceId"
+    }
+  },
+  {
+    "ts": 1779139478878,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779139478878,
+    "type": "shared_pref",
+    "data": {
+      "key": "uuid"
+    }
+  },
+  {
+    "ts": 1779139478879,
+    "type": "shared_pref",
+    "data": {
+      "key": "uuid"
+    }
+  },
+  {
+    "ts": 1779139478884,
+    "type": "url_access",
+    "data": {
+      "url": "https://schoold.helpshift.com/api/lib/2/config/?signature=890ccae8644ca54412e3d5f359c4befbe7c50cd8e4e73b35e66cf20e31dc4225&platform-id=schoold_platform_20151020174814295-91961dfdcd1afae&timestamp=1779139478.873"
+    }
+  },
+  {
+    "ts": 1779139478885,
+    "type": "shared_pref",
+    "data": {
+      "key": "sdkLanguage"
+    }
+  },
+  {
+    "ts": 1779139478889,
+    "type": "url_access",
+    "data": {
+      "url": "http://version.api.schoold.co/?version=2.0.0&platform=android"
+    }
+  },
+  {
+    "ts": 1779139478891,
+    "type": "shared_pref",
+    "data": {
+      "key": "etags"
+    }
+  },
+  {
+    "ts": 1779139478898,
+    "type": "url_access",
+    "data": {
+      "url": "https://schoold.helpshift.com/api/lib/2/events/"
+    }
+  },
+  {
+    "ts": 1779139478901,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.vestedfinance.student/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139478902,
+    "type": "shared_pref",
+    "data": {
+      "key": "sdkLanguage"
+    }
+  },
+  {
+    "ts": 1779139478904,
+    "type": "url_access",
+    "data": {
+      "url": "http://version.api.schoold.co/?version=2.0.0&platform=android"
+    }
+  },
+  {
+    "ts": 1779139478906,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779139478911,
+    "type": "shared_pref",
+    "data": {
+      "key": "675851555874176json"
+    }
+  },
+  {
+    "ts": 1779139478912,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.vestedfinance.student/shared_prefs/vestedprefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139478914,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139478914,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139478915,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139478915,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139478917,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139478917,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139478918,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.vestedfinance.student/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139478920,
+    "type": "shared_pref",
+    "data": {
+      "key": "domain"
+    }
+  },
+  {
+    "ts": 1779139478921,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779139478921,
+    "type": "shared_pref",
+    "data": {
+      "key": "appId"
+    }
+  },
+  {
+    "ts": 1779139478921,
+    "type": "shared_pref",
+    "data": {
+      "key": "apiKey"
+    }
+  },
+  {
+    "ts": 1779139478922,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779139478922,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779139478922,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779139478923,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779139478924,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139478924,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139478924,
+    "type": "shared_pref",
+    "data": {
+      "key": "failedMessages"
+    }
+  },
+  {
+    "ts": 1779139478924,
+    "type": "shared_pref",
+    "data": {
+      "key": "failedApiCalls"
+    }
+  },
+  {
+    "ts": 1779139478925,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139478925,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139478928,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139478928,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139478929,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779139478931,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/675851555874176/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779139479028,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139479029,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139479029,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779139479029,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779139479030,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.vestedfinance.student/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139479031,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779139479032,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.vestedfinance.student/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B839602E1-0001-5005-C9EAAEEF7B76SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779139479033,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779139479036,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.vestedfinance.student/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779139479038,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139479040,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.vestedfinance.student/settings?instance=a30e564e2c8603f9f8f71df7f469bb4a20fdf518&build_version=32&display_version=2.0.0.21-release&source=1&icon_hash=d626b1b6c2f065b46d422e5f17ced79fcd6eeb0e"
+    }
+  },
+  {
+    "ts": 1779139479042,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.vestedfinance.student/settings?instance=a30e564e2c8603f9f8f71df7f469bb4a20fdf518&build_version=32&display_version=2.0.0.21-release&source=1&icon_hash=d626b1b6c2f065b46d422e5f17ced79fcd6eeb0e"
+    }
+  },
+  {
+    "ts": 1779139479043,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.vestedfinance.student/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779139479046,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.vestedfinance.student/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779139479047,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139479059,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.vestedfinance.student/databases/com.localytics.android.d10f3e9becf60a0ec9bc655dc1b93cc8b4c69daa92b012a1cd60b549f495c49.analytics.sqlite"
+    }
+  },
+  {
+    "ts": 1779139479071,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.vestedfinance.student/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779139479072,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139479075,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.vestedfinance.student/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779139479075,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139479081,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.vestedfinance.student/databases/com.localytics.android.d10f3e9becf60a0ec9bc655dc1b93cc8b4c69daa92b012a1cd60b549f495c49.analytics.sqlite"
+    }
+  },
+  {
+    "ts": 1779139479088,
+    "type": "url_access",
+    "data": {
+      "url": "https://analytics.localytics.com/api/v2/uploads"
+    }
+  },
+  {
+    "ts": 1779139479518,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.vestedfinance.student/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-6A0B839602E1-0001-5005-C9EAAEEF7B76.temp.tmp"
+    }
+  },
+  {
+    "ts": 1779139480028,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_twittersession"
+    }
+  },
+  {
+    "ts": 1779139480028,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_appsession"
+    }
+  },
+  {
+    "ts": 1779139480087,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779139480088,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_session"
+    }
+  },
+  {
+    "ts": 1779139480090,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.vestedfinance.student/shared_prefs/com.digits.sdk.android:digits:com.digits.sdk.android.Digits.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139480091,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779139480103,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779139480106,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779139480529,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779139480532,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779139480533,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779139480533,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779139481329,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.vestedfinance.student/databases/com.localytics.android.d10f3e9becf60a0ec9bc655dc1b93cc8b4c69daa92b012a1cd60b549f495c49.analytics.sqlite"
+    }
+  },
+  {
+    "ts": 1779139482178,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.schoold.co/health"
+    }
+  },
+  {
+    "ts": 1779139482180,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.schoold.co/health"
+    }
+  },
+  {
+    "ts": 1779139493652,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/675851555874176/activities?access_token=&format=json&sdk=android"
+    }
+  }
+]

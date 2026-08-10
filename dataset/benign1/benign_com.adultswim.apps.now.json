@@ -1,0 +1,177 @@
+[
+  {
+    "ts": 1779638288292,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779638288293,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779638288294,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779638288295,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779638288405,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.adultswim.apps.ott.MainController"
+    }
+  },
+  {
+    "ts": 1779638288410,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.adultswim.com/tools/includes/ott/configs/config.json"
+    }
+  },
+  {
+    "ts": 1779638288414,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.adultswim.com/tools/includes/ott/configs/config.json"
+    }
+  },
+  {
+    "ts": 1779638288536,
+    "type": "shared_pref",
+    "data": {
+      "key": "Token"
+    }
+  },
+  {
+    "ts": 1779638288536,
+    "type": "shared_pref",
+    "data": {
+      "key": "Secret"
+    }
+  },
+  {
+    "ts": 1779638288537,
+    "type": "shared_pref",
+    "data": {
+      "key": "Secret"
+    }
+  },
+  {
+    "ts": 1779638288545,
+    "type": "shared_pref",
+    "data": {
+      "key": "APIServer"
+    }
+  },
+  {
+    "ts": 1779638288547,
+    "type": "url_access",
+    "data": {
+      "url": "https://marketing-ssl.upsight-api.com/v4/publisher/install/"
+    }
+  },
+  {
+    "ts": 1779638288637,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.adultswim.com/tools/includes/ott/configs/config.json"
+    }
+  },
+  {
+    "ts": 1779638288641,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.adultswim.com/tools/includes/ott/configs/config.json"
+    }
+  },
+  {
+    "ts": 1779638288851,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.adultswim.com/tools/includes/ott/configs/config.json"
+    }
+  },
+  {
+    "ts": 1779638288968,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.adultswim.com/tools/includes/ott/configs/config.json"
+    }
+  },
+  {
+    "ts": 1779638289085,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.adultswim.com/tools/includes/ott/configs/config.json"
+    }
+  },
+  {
+    "ts": 1779638291719,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.adultswim.apps.ott.MainController"
+    }
+  },
+  {
+    "ts": 1779638291722,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.adultswim.com/tools/includes/ott/configs/config.json"
+    }
+  },
+  {
+    "ts": 1779638291724,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.adultswim.com/tools/includes/ott/configs/config.json"
+    }
+  },
+  {
+    "ts": 1779638291775,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.adultswim.com/tools/includes/ott/configs/config.json"
+    }
+  },
+  {
+    "ts": 1779638291777,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.adultswim.com/tools/includes/ott/configs/config.json"
+    }
+  },
+  {
+    "ts": 1779638291939,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.adultswim.com/tools/includes/ott/configs/config.json"
+    }
+  },
+  {
+    "ts": 1779638292047,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.adultswim.com/tools/includes/ott/configs/config.json"
+    }
+  },
+  {
+    "ts": 1779638292126,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.adultswim.com/tools/includes/ott/configs/config.json"
+    }
+  }
+]

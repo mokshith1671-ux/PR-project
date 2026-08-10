@@ -1,0 +1,737 @@
+[
+  {
+    "ts": 1779135365236,
+    "type": "shared_pref",
+    "data": {
+      "key": "cards"
+    }
+  },
+  {
+    "ts": 1779135365264,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135365268,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.alaskaairlines.android.MainActivity"
+    }
+  },
+  {
+    "ts": 1779135365269,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alaskaairlines.android/shared_prefs/APP_MEASUREMENT_CACHE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135365279,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADOBEMOBILE_STOREDDEFAULTS_AID"
+    }
+  },
+  {
+    "ts": 1779135365280,
+    "type": "url_access",
+    "data": {
+      "url": "https://alaskaairlines.sc.omtrdc.net/id"
+    }
+  },
+  {
+    "ts": 1779135365292,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_id"
+    }
+  },
+  {
+    "ts": 1779135365292,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth_token"
+    }
+  },
+  {
+    "ts": 1779135365318,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_full_name"
+    }
+  },
+  {
+    "ts": 1779135365322,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth_token"
+    }
+  },
+  {
+    "ts": 1779135365342,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779135365356,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alaskaairlines.android/cacheADBMobileDataCache.sqlite"
+    }
+  },
+  {
+    "ts": 1779135365368,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779135365557,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779135365565,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alaskaairlines.android/no_backup/com.urbanairship.databases"
+    }
+  },
+  {
+    "ts": 1779135365571,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alaskaairlines.android/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135365581,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779135365581,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779135366339,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779135366341,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779135366343,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779135366343,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779135366402,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779135366402,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADMS_LifecycleData"
+    }
+  },
+  {
+    "ts": 1779135366410,
+    "type": "url_access",
+    "data": {
+      "url": "https://alaskaairlines.sc.omtrdc.net/b/ss/alaskamobileapp/0/JAVA-4.8.3-AN/s85633448"
+    }
+  },
+  {
+    "ts": 1779135366410,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_VISITORID_IDS"
+    }
+  },
+  {
+    "ts": 1779135366411,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID"
+    }
+  },
+  {
+    "ts": 1779135366411,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID_HINT"
+    }
+  },
+  {
+    "ts": 1779135366412,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID_BLOB"
+    }
+  },
+  {
+    "ts": 1779135366414,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-5565005a3064311a48530500.json"
+    }
+  },
+  {
+    "ts": 1779135366415,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-5565005a6238651ba1c70700.json"
+    }
+  },
+  {
+    "ts": 1779135366416,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-5565005a6238651ba1c70700.json"
+    }
+  },
+  {
+    "ts": 1779135366417,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-5565005a3064311a48530500.json"
+    }
+  },
+  {
+    "ts": 1779135366420,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADB_LIFETIME_VALUE"
+    }
+  },
+  {
+    "ts": 1779135366425,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779135366478,
+    "type": "url_access",
+    "data": {
+      "url": "https://alaskaairlines.sc.omtrdc.net/b/ss/alaskamobileapp/0/JAVA-4.8.3-AN/s66413243"
+    }
+  },
+  {
+    "ts": 1779135367242,
+    "type": "shared_pref",
+    "data": {
+      "key": "tier_status"
+    }
+  },
+  {
+    "ts": 1779135367265,
+    "type": "crypto",
+    "data": {
+      "algorithm": "PBEwithMD5andDES"
+    }
+  },
+  {
+    "ts": 1779135367266,
+    "type": "crypto",
+    "data": {
+      "algorithm": "PBEwithMD5andDES"
+    }
+  },
+  {
+    "ts": 1779135367270,
+    "type": "crypto",
+    "data": {
+      "algorithm": "PBEwithMD5andDES"
+    }
+  },
+  {
+    "ts": 1779135367270,
+    "type": "crypto",
+    "data": {
+      "algorithm": "PBEwithMD5andDES"
+    }
+  },
+  {
+    "ts": 1779135367270,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.alaskaair.com/1/support?tier="
+    }
+  },
+  {
+    "ts": 1779135367829,
+    "type": "crypto",
+    "data": {
+      "algorithm": "PBEwithMD5andDES"
+    }
+  },
+  {
+    "ts": 1779135367830,
+    "type": "crypto",
+    "data": {
+      "algorithm": "PBEwithMD5andDES"
+    }
+  },
+  {
+    "ts": 1779135367830,
+    "type": "crypto",
+    "data": {
+      "algorithm": "PBEwithMD5andDES"
+    }
+  },
+  {
+    "ts": 1779135367830,
+    "type": "crypto",
+    "data": {
+      "algorithm": "PBEwithMD5andDES"
+    }
+  },
+  {
+    "ts": 1779135367831,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.alaskaair.com/1/airports?CONTEXTKEY=aspublished"
+    }
+  },
+  {
+    "ts": 1779135368737,
+    "type": "shared_pref",
+    "data": {
+      "key": "alk-uuid"
+    }
+  },
+  {
+    "ts": 1779135368738,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779135368748,
+    "type": "url_access",
+    "data": {
+      "url": "https://alaskaairlines.sc.omtrdc.net/b/ss/alaskamobileapp/0/JAVA-4.8.3-AN/s40667429"
+    }
+  },
+  {
+    "ts": 1779135368785,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779135368786,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779135368786,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779135368792,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779135368793,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779135368799,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779135368799,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779135368800,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779135368800,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779135368800,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779135368802,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779135368802,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779135368809,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779135368809,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779135368812,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779135368813,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779135368813,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779135368813,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779135368813,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779135368813,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779135368813,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779135368815,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779135368815,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779135368815,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779135368816,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779135368816,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779135368892,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779135368897,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779135368897,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779135368903,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779135368904,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779135368905,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alaskaairlines.android/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135368916,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779135368959,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alaskaairlines.android/cache/adbdownloadcache/53beed09dcfefbe836241e56c8e8fb5f.1445895309000_2235356138396336376366373031373933323736396565306532666464633061303A3134343538393533303922"
+    }
+  },
+  {
+    "ts": 1779135368967,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779135369078,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alaskaairlines.android/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135369153,
+    "type": "webview",
+    "data": {
+      "url": "https://m.alaskaair.com/shopping"
+    }
+  },
+  {
+    "ts": 1779135369190,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.alaskaairlines.android.BookTripActivity"
+    }
+  },
+  {
+    "ts": 1779135369193,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alaskaairlines.android/cacheADBMobileDataCache.sqliteADBMobileTimedActionsCache.sqlite"
+    }
+  },
+  {
+    "ts": 1779135369233,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779135369379,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alaskaairlines.android/cache/adbdownloadcache/684c6406c75ba5a4e0dc925ae60573af.1445895309000_2232303739393930353761663031353536613831363831373030646132643661363A3134343538393533303922"
+    }
+  },
+  {
+    "ts": 1779135370368,
+    "type": "crypto",
+    "data": {
+      "algorithm": "PBEwithMD5andDES"
+    }
+  },
+  {
+    "ts": 1779135370368,
+    "type": "crypto",
+    "data": {
+      "algorithm": "PBEwithMD5andDES"
+    }
+  },
+  {
+    "ts": 1779135370369,
+    "type": "crypto",
+    "data": {
+      "algorithm": "PBEwithMD5andDES"
+    }
+  },
+  {
+    "ts": 1779135370369,
+    "type": "crypto",
+    "data": {
+      "algorithm": "PBEwithMD5andDES"
+    }
+  },
+  {
+    "ts": 1779135370371,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.alaskaair.com/1/airports?CONTEXTKEY=aspublished"
+    }
+  },
+  {
+    "ts": 1779135370912,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779135372881,
+    "type": "crypto",
+    "data": {
+      "algorithm": "PBEwithMD5andDES"
+    }
+  },
+  {
+    "ts": 1779135372882,
+    "type": "crypto",
+    "data": {
+      "algorithm": "PBEwithMD5andDES"
+    }
+  },
+  {
+    "ts": 1779135372883,
+    "type": "crypto",
+    "data": {
+      "algorithm": "PBEwithMD5andDES"
+    }
+  },
+  {
+    "ts": 1779135372884,
+    "type": "crypto",
+    "data": {
+      "algorithm": "PBEwithMD5andDES"
+    }
+  },
+  {
+    "ts": 1779135372885,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.alaskaair.com/1/airports?CONTEXTKEY=aspublished"
+    }
+  },
+  {
+    "ts": 1779135376355,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779135376357,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779135376357,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  }
+]

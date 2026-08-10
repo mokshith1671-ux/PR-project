@@ -1,0 +1,219 @@
+[
+  {
+    "ts": 1779640989309,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.snappy.appypie.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779640989354,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779640989359,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779640989368,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779640989372,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779640989392,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779640990150,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640990151,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640990152,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640990153,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640990155,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640990155,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640990155,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640990155,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640990157,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640990157,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640990158,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640990158,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640990161,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640990162,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640990162,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640990162,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640990165,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640990165,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640990165,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640990166,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640990168,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640990168,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640990168,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640990169,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640990181,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.app.familytv/files/files/"
+    }
+  }
+]

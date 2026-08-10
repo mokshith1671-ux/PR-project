@@ -1,0 +1,450 @@
+[
+  {
+    "ts": 1779637473040,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.restpos/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637473058,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637473058,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637473058,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637473058,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637473060,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637473060,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637473060,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637473061,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637473061,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/WnOPOS_ST"
+    }
+  },
+  {
+    "ts": 1779637473070,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/WnOPOS_ST/db"
+    }
+  },
+  {
+    "ts": 1779637473074,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/WnOPOS_ST/export_import"
+    }
+  },
+  {
+    "ts": 1779637473077,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/WnOPOS_ST/report"
+    }
+  },
+  {
+    "ts": 1779637473082,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/WnOPOS_ST/cash_close_out"
+    }
+  },
+  {
+    "ts": 1779637473085,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/WnOPOS_ST/time_clock"
+    }
+  },
+  {
+    "ts": 1779637473089,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/WnOPOS_ST/receipt"
+    }
+  },
+  {
+    "ts": 1779637473091,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/WnOPOS_ST/print"
+    }
+  },
+  {
+    "ts": 1779637473093,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREFS_VERSION_KEY"
+    }
+  },
+  {
+    "ts": 1779637473095,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/WnOPOS_ST/printer_setup_guide.pdf"
+    }
+  },
+  {
+    "ts": 1779637473115,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.restpos/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779637473173,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779637473248,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefLangSys"
+    }
+  },
+  {
+    "ts": 1779637473283,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637473346,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefLang"
+    }
+  },
+  {
+    "ts": 1779637473382,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aadhk.restpos.LoginActivity"
+    }
+  },
+  {
+    "ts": 1779637473547,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|39775724576|*"
+    }
+  },
+  {
+    "ts": 1779637473547,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779637473548,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779637473548,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779637473762,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779637473762,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779637474373,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aadhk.restpos.LoginActivity"
+    }
+  },
+  {
+    "ts": 1779637474423,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aadhk.restpos.LoginActivity"
+    }
+  },
+  {
+    "ts": 1779637477290,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|39775724576|*"
+    }
+  },
+  {
+    "ts": 1779637477290,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779637482068,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490148,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490157,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490195,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490196,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490196,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490198,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490199,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490199,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490199,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490200,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490200,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490201,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490201,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490201,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490202,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490220,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490221,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490222,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490222,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637490223,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefDateFormat"
+    }
+  },
+  {
+    "ts": 1779637490226,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREFS_VERSION_KEY"
+    }
+  },
+  {
+    "ts": 1779637490261,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aadhk.restpos.TableListActivity"
+    }
+  },
+  {
+    "ts": 1779637495470,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637495470,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637495472,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637495473,
+    "type": "shared_pref",
+    "data": {
+      "key": "serverIp"
+    }
+  },
+  {
+    "ts": 1779637495475,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefDateFormat"
+    }
+  },
+  {
+    "ts": 1779637495537,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aadhk.restpos.TakeOrderActivity"
+    }
+  }
+]

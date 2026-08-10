@@ -1,0 +1,100 @@
+[
+  {
+    "ts": 1779636078061,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.blood.giveblood/shared_prefs/ca.blood.giveblood_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636078062,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.blood.giveblood/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636078065,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779636078065,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779636078066,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779636078851,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.blood.giveblood/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636078872,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ca.blood.giveblood.WelcomeActivity"
+    }
+  },
+  {
+    "ts": 1779636078884,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.blood.giveblood/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779636078921,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779636079554,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779636079558,
+    "type": "shared_pref",
+    "data": {
+      "key": "tracking_id"
+    }
+  },
+  {
+    "ts": 1779636087553,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779636087557,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779636087558,
+    "type": "shared_pref",
+    "data": {
+      "key": "tracking_id"
+    }
+  }
+]

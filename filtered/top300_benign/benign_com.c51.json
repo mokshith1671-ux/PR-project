@@ -1,0 +1,373 @@
+[
+  {
+    "ts": 1779646168485,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.c51/shared_prefs/com.c51_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646168500,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.appevents.SessionInfo.sessionId"
+    }
+  },
+  {
+    "ts": 1779646168561,
+    "type": "url_access",
+    "data": {
+      "url": "https://sdk.fiksu.com/config.json?device_class=android&bundle_id=com.c51&tracking_rev=50024&app_version=4.0.1"
+    }
+  },
+  {
+    "ts": 1779646168592,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.c51.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779646168618,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.c51/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646168620,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779646168623,
+    "type": "shared_pref",
+    "data": {
+      "key": "198427666955651json"
+    }
+  },
+  {
+    "ts": 1779646168666,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646168670,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646168674,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646168674,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646168679,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646168679,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646168679,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646168681,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646168685,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646168686,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646168687,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646168688,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646168689,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646168690,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646168690,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646168690,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646168691,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646168691,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646168692,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646168692,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646168697,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646168698,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646168698,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646168699,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646168703,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779646168705,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.7/198427666955651/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779646168798,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779646168818,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646168824,
+    "type": "url_access",
+    "data": {
+      "url": "https://a.fiksu.com/50024/android/com.c51/event?appid=com.c51&a_id=e2e11e0c-62de-4efa-8887-f79235260dd8&a_enabled=1&deviceid=&udid=d464393758b25927&device=sdk_gphone_x86_64&app_version=4.0.1&app_name=Checkout+51&system_version=11&system_name=sdk_gphone_x86_64&country=US&lang=en&timezone=India+Standard+Time&gmtoffset=19800&event=Launch&app_tracking_enabled=1"
+    }
+  },
+  {
+    "ts": 1779646168824,
+    "type": "shared_pref",
+    "data": {
+      "key": "Fiksu.savedUrls"
+    }
+  },
+  {
+    "ts": 1779646168847,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646168847,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646168849,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646168849,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646168850,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.c51/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646168852,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779646168853,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.c51/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779646168867,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646168875,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779646168875,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779646168876,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.c51/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A133ED603E7-0001-2AA7-FA4994550602SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779646168900,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.c51/settings?instance=2acaeff8a4219a6f40eef185972c1194b007615d&build_version=40&display_version=4.0.1&source=1&icon_hash=0fc37d33db4a942dd097b946ea4fc5026bdad374"
+    }
+  },
+  {
+    "ts": 1779646168900,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.c51/settings?instance=2acaeff8a4219a6f40eef185972c1194b007615d&build_version=40&display_version=4.0.1&source=1&icon_hash=0fc37d33db4a942dd097b946ea4fc5026bdad374"
+    }
+  },
+  {
+    "ts": 1779646168919,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.c51/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779646169087,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779646183626,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.7/198427666955651/activities?access_token=&format=json&sdk=android"
+    }
+  }
+]

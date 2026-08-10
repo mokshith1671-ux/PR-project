@@ -1,0 +1,464 @@
+[
+  {
+    "ts": 1779638638731,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airsenze.bchighways.activities.MainActivity"
+    }
+  },
+  {
+    "ts": 1779638638878,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.gun0912.tedpermission.TedPermissionActivity"
+    }
+  },
+  {
+    "ts": 1779638638915,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779638638916,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638638917,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airsenze.bchighways/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638638917,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638638918,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638638918,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779638638919,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779638638919,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airsenze.bchighways/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13216E0271-0001-2AC3-1A1111A90AAESessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779638638920,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779638638932,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779638638934,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airsenze.bchighways/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779638638938,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.airsenze.bchighways/settings?instance=9b54442dab78160911c00d2a63e90ddc699b516a&build_version=11&display_version=1.1.0&source=1&icon_hash=0e87852e788137c76d9eb8695750b88c1f378421"
+    }
+  },
+  {
+    "ts": 1779638638939,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.airsenze.bchighways/settings?instance=9b54442dab78160911c00d2a63e90ddc699b516a&build_version=11&display_version=1.1.0&source=1&icon_hash=0e87852e788137c76d9eb8695750b88c1f378421"
+    }
+  },
+  {
+    "ts": 1779638638964,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airsenze.bchighways/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779638640240,
+    "type": "shared_pref",
+    "data": {
+      "key": "KEY_PREV_URL"
+    }
+  },
+  {
+    "ts": 1779638640241,
+    "type": "shared_pref",
+    "data": {
+      "key": "KEY_MAP_URL"
+    }
+  },
+  {
+    "ts": 1779638640246,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779638640246,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779638640246,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779638640250,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779638640250,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779638640252,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638640252,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638640252,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638640252,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779638640253,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779638640255,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779638640257,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779638640259,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779638640260,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779638640265,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638640266,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638640266,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638640266,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779638640266,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779638640267,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779638640267,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779638640269,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638640269,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638640269,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638640269,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779638640270,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779638640313,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779638640316,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779638640317,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779638640321,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779638640322,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779638640322,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airsenze.bchighways/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638640334,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779638640369,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779638640487,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airsenze.bchighways/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638640582,
+    "type": "webview",
+    "data": {
+      "url": "http://www.drivebc.ca/mobile/map/map.html?l=roadcond&l=incident&l=currentplanevent"
+    }
+  },
+  {
+    "ts": 1779638640629,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779638640706,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.open511.gov.bc.ca/events?geography=POINT(37.421998333333335%20-122.084)&tolerance=50000"
+    }
+  },
+  {
+    "ts": 1779638640733,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.open511.gov.bc.ca/events?geography=POINT(37.421998333333335%20-122.084)&tolerance=50000"
+    }
+  },
+  {
+    "ts": 1779638641003,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airsenze.bchighways.activities.MainActivity"
+    }
+  },
+  {
+    "ts": 1779638643100,
+    "type": "webview",
+    "data": {
+      "url": "https://www.drivebc.ca/mobile/map/map.html?l=roadcond&l=incident&l=currentplanevent"
+    }
+  },
+  {
+    "ts": 1779638643667,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779638643669,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779638643672,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779638643673,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779638643673,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779638643990,
+    "type": "webview",
+    "data": {
+      "url": "https://www.drivebc.ca/"
+    }
+  },
+  {
+    "ts": 1779638647222,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airsenze.bchighways/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  }
+]

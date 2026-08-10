@@ -1,0 +1,51 @@
+[
+  {
+    "ts": 1779645765534,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779645765537,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bp.fingerprint.bloodpressure.prank.free/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779645765540,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|807371758755|*"
+    }
+  },
+  {
+    "ts": 1779645765547,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bp.fingerprint.bloodpressure.prank.free/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779645765551,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/8772/cmdline"
+    }
+  },
+  {
+    "ts": 1779645765565,
+    "type": "shared_pref",
+    "data": {
+      "key": "gmp_app_id"
+    }
+  },
+  {
+    "ts": 1779645765578,
+    "type": "shared_pref",
+    "data": {
+      "key": "previous_os_version"
+    }
+  }
+]

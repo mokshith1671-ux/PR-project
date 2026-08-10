@@ -1,0 +1,163 @@
+[
+  {
+    "ts": 1779636192749,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|404040462136|*"
+    }
+  },
+  {
+    "ts": 1779636192750,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|404040462136|*"
+    }
+  },
+  {
+    "ts": 1779636192750,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779636192750,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779636192764,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779636192764,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779636192766,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636192767,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636192769,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779636192770,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779636192771,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.coba.scolarit.lionelgroulx/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779636192771,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636192774,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.coba.scolarit.lionelgroulx/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636192774,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779636192777,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.coba.scolarit.lionelgroulx/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1317E000EF-0001-5FD2-F69BAA10E6AFSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779636192781,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/ca.coba.scolarit.lionelgroulx/settings?instance=7db29d310c0a36420b765096ce3bb8e95ec085c2&build_version=38&display_version=V1.0.5&source=1&icon_hash=78a6d9567d0442d5c7095788003666cbc6ec48ef"
+    }
+  },
+  {
+    "ts": 1779636192783,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/ca.coba.scolarit.lionelgroulx/settings?instance=7db29d310c0a36420b765096ce3bb8e95ec085c2&build_version=38&display_version=V1.0.5&source=1&icon_hash=78a6d9567d0442d5c7095788003666cbc6ec48ef"
+    }
+  },
+  {
+    "ts": 1779636192784,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.coba.scolarit.lionelgroulx/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779636192852,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779636192853,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779636196368,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|404040462136|*"
+    }
+  },
+  {
+    "ts": 1779636196368,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779636197559,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.coba.scolarit.lionelgroulx/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  }
+]

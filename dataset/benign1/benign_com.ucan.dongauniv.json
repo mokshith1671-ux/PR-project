@@ -1,0 +1,240 @@
+[
+  {
+    "ts": 1779139091216,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779139091220,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779139091221,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779139091227,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779139091227,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779139091229,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ucan.dongauniv/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139091246,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779139091253,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ucan.dongauniv/shared_prefs/com.ucan.dongauniv_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139091259,
+    "type": "shared_pref",
+    "data": {
+      "key": "socialserver"
+    }
+  },
+  {
+    "ts": 1779139091259,
+    "type": "shared_pref",
+    "data": {
+      "key": "socialxe"
+    }
+  },
+  {
+    "ts": 1779139091259,
+    "type": "shared_pref",
+    "data": {
+      "key": "socialxe2015"
+    }
+  },
+  {
+    "ts": 1779139091259,
+    "type": "shared_pref",
+    "data": {
+      "key": "my_domain_is_socialserver"
+    }
+  },
+  {
+    "ts": 1779139091259,
+    "type": "shared_pref",
+    "data": {
+      "key": "only_use_social_login"
+    }
+  },
+  {
+    "ts": 1779139091259,
+    "type": "shared_pref",
+    "data": {
+      "key": "menubutton"
+    }
+  },
+  {
+    "ts": 1779139091260,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginpage"
+    }
+  },
+  {
+    "ts": 1779139091260,
+    "type": "shared_pref",
+    "data": {
+      "key": "notadmob_url"
+    }
+  },
+  {
+    "ts": 1779139091260,
+    "type": "shared_pref",
+    "data": {
+      "key": "social_naver_auth"
+    }
+  },
+  {
+    "ts": 1779139091260,
+    "type": "shared_pref",
+    "data": {
+      "key": "social_kakao_auth"
+    }
+  },
+  {
+    "ts": 1779139091260,
+    "type": "shared_pref",
+    "data": {
+      "key": "social_facebook_auth"
+    }
+  },
+  {
+    "ts": 1779139091260,
+    "type": "shared_pref",
+    "data": {
+      "key": "social_google_auth"
+    }
+  },
+  {
+    "ts": 1779139091260,
+    "type": "shared_pref",
+    "data": {
+      "key": "social_twitter_auth"
+    }
+  },
+  {
+    "ts": 1779139091260,
+    "type": "shared_pref",
+    "data": {
+      "key": "intro_s"
+    }
+  },
+  {
+    "ts": 1779139091286,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779139091375,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ucan.dongauniv/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139091417,
+    "type": "shared_pref",
+    "data": {
+      "key": "dataclear"
+    }
+  },
+  {
+    "ts": 1779139091430,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.ucan.dongauniv.MainActivity"
+    }
+  },
+  {
+    "ts": 1779139091476,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779139094617,
+    "type": "shared_pref",
+    "data": {
+      "key": "another_activity"
+    }
+  },
+  {
+    "ts": 1779139094626,
+    "type": "shared_pref",
+    "data": {
+      "key": "regid"
+    }
+  },
+  {
+    "ts": 1779139094637,
+    "type": "url_access",
+    "data": {
+      "url": "http://dongauniv.com/"
+    }
+  },
+  {
+    "ts": 1779139094659,
+    "type": "url_access",
+    "data": {
+      "url": "http://dongauniv.com/"
+    }
+  },
+  {
+    "ts": 1779139094660,
+    "type": "url_access",
+    "data": {
+      "url": "http://dongauniv.com/"
+    }
+  },
+  {
+    "ts": 1779139096536,
+    "type": "url_access",
+    "data": {
+      "url": "http://survey-smiles.com/"
+    }
+  },
+  {
+    "ts": 1779139096537,
+    "type": "url_access",
+    "data": {
+      "url": "http://survey-smiles.com/"
+    }
+  }
+]

@@ -1,0 +1,1878 @@
+[
+  {
+    "ts": 1779138974086,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779138974091,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974106,
+    "type": "shared_pref",
+    "data": {
+      "key": "previous_os_version"
+    }
+  },
+  {
+    "ts": 1779138974119,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/com.crashlytics.sdk.android:answers:com.crashlytics.android.answers.Answers.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974123,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/ECB/PKCS7Padding"
+    }
+  },
+  {
+    "ts": 1779138974125,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/com.crashlytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974125,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779138974140,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779138974147,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138974149,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779138974151,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/TwitterAdvertisingInfoPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974152,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/files/.Fabric/com.crashlytics.sdk.android:crashlytics/6A0B819E0093-0001-420E-E3E553D7355CBeginSession.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138974153,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779138974153,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/files/.Fabric/com.crashlytics.sdk.android:crashlytics/6A0B819E0093-0001-420E-E3E553D7355CBeginSession.cls"
+    }
+  },
+  {
+    "ts": 1779138974155,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/files/.Fabric/com.crashlytics.sdk.android:crashlytics/6A0B819E0093-0001-420E-E3E553D7355CSessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138974155,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779138974160,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/databases/google_app_measurement.db"
+    }
+  },
+  {
+    "ts": 1779138974162,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/files/.Fabric/com.crashlytics.sdk.android:crashlytics/6A0B819E0093-0001-420E-E3E553D7355CSessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779138974163,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/files/.Fabric/com.crashlytics.sdk.android:crashlytics/6A0B819E0093-0001-420E-E3E553D7355CSessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138974163,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138974164,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779138974164,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779138974165,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/files/.Fabric/com.crashlytics.sdk.android:crashlytics/6A0B819E0093-0001-420E-E3E553D7355CSessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779138974165,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/files/.Fabric/com.crashlytics.sdk.android:crashlytics/6A0B819E0093-0001-420E-E3E553D7355CSessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138974166,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138974167,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779138974170,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138974170,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138974170,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779138974260,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/.uber_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974262,
+    "type": "shared_pref",
+    "data": {
+      "key": "uber.analytics_v2_disable"
+    }
+  },
+  {
+    "ts": 1779138974262,
+    "type": "shared_pref",
+    "data": {
+      "key": "uber.analytics_v2.logging"
+    }
+  },
+  {
+    "ts": 1779138974263,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/.network.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974264,
+    "type": "shared_pref",
+    "data": {
+      "key": "hostname"
+    }
+  },
+  {
+    "ts": 1779138974265,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/.session.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974266,
+    "type": "shared_pref",
+    "data": {
+      "key": "destination_coach_mark_dismissed"
+    }
+  },
+  {
+    "ts": 1779138974267,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/.rider_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974267,
+    "type": "shared_pref",
+    "data": {
+      "key": "has_tracked_install"
+    }
+  },
+  {
+    "ts": 1779138974268,
+    "type": "shared_pref",
+    "data": {
+      "key": "new_confirmation_enabled"
+    }
+  },
+  {
+    "ts": 1779138974268,
+    "type": "shared_pref",
+    "data": {
+      "key": "registered_with_notifier"
+    }
+  },
+  {
+    "ts": 1779138974268,
+    "type": "shared_pref",
+    "data": {
+      "key": "employee.key.payment.braintree.key"
+    }
+  },
+  {
+    "ts": 1779138974268,
+    "type": "shared_pref",
+    "data": {
+      "key": "employee.key.payment.expense_service_fake"
+    }
+  },
+  {
+    "ts": 1779138974268,
+    "type": "shared_pref",
+    "data": {
+      "key": "employee.key.payment.last_expense_info_fake"
+    }
+  },
+  {
+    "ts": 1779138974268,
+    "type": "shared_pref",
+    "data": {
+      "key": "employee.key.notifications.clients"
+    }
+  },
+  {
+    "ts": 1779138974268,
+    "type": "shared_pref",
+    "data": {
+      "key": "employee.key.mobile.messages"
+    }
+  },
+  {
+    "ts": 1779138974268,
+    "type": "shared_pref",
+    "data": {
+      "key": "employee.key.other.vehicle.show_all"
+    }
+  },
+  {
+    "ts": 1779138974268,
+    "type": "shared_pref",
+    "data": {
+      "key": "employee.key.payment.google_wallet.env"
+    }
+  },
+  {
+    "ts": 1779138974271,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779138974271,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779138974272,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779138974275,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779138974275,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779138974279,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779138974279,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779138974279,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779138974280,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138974282,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779138974282,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779138974286,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779138974286,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779138974286,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779138974286,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138974287,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138974287,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138974294,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779138974294,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779138974295,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779138974295,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138974301,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779138974302,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779138974302,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138974311,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779138974312,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138974313,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779138974314,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138974314,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138974316,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138974317,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86/libconscrypt_gmscore_jni.so"
+    }
+  },
+  {
+    "ts": 1779138974330,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779138974330,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779138974331,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779138974332,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779138974332,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779138974333,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779138974333,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138974333,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138974368,
+    "type": "shared_pref",
+    "data": {
+      "key": "hostname"
+    }
+  },
+  {
+    "ts": 1779138974369,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/network_preference.storage.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974371,
+    "type": "shared_pref",
+    "data": {
+      "key": "uber.analytics_v2.session_id"
+    }
+  },
+  {
+    "ts": 1779138974381,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779138974387,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779138974397,
+    "type": "shared_pref",
+    "data": {
+      "key": "uber.experiment_manager_type"
+    }
+  },
+  {
+    "ts": 1779138974397,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779138974404,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/.experiment_overrides.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974409,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/io.fabric.sdk.android:fabric:lxl.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974410,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779138974412,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138974413,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138974413,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.ubercab/settings?instance=5a8d0f3945acbe20a65a0e86f137b63c2c25113a&build_version=31304&display_version=3.105.3&source=1&icon_hash=eed4b6a0a50223c3b87a0cda547c5b14974491b0"
+    }
+  },
+  {
+    "ts": 1779138974413,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/.storage.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974414,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.ubercab/settings?instance=5a8d0f3945acbe20a65a0e86f137b63c2c25113a&build_version=31304&display_version=3.105.3&source=1&icon_hash=eed4b6a0a50223c3b87a0cda547c5b14974491b0"
+    }
+  },
+  {
+    "ts": 1779138974415,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779138974420,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779138974420,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/.device_prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974420,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138974421,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779138974422,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/.mat_referrer_cache.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974422,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779138974423,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/files/.Fabric/com.crashlytics.sdk.android:crashlytics/6A0B819E0093-0001-420E-E3E553D7355CSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779138974424,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-geo1.uber.com/"
+    }
+  },
+  {
+    "ts": 1779138974424,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/.mat_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974425,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/mat_log_id_open.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974426,
+    "type": "shared_pref",
+    "data": {
+      "key": "logId"
+    }
+  },
+  {
+    "ts": 1779138974427,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/mat_log_id_last_open.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974427,
+    "type": "shared_pref",
+    "data": {
+      "key": "logId"
+    }
+  },
+  {
+    "ts": 1779138974428,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/mat_referrer.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974428,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779138974429,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/mat_id.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974430,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_id"
+    }
+  },
+  {
+    "ts": 1779138974431,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_install_id"
+    }
+  },
+  {
+    "ts": 1779138974431,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_install_id"
+    }
+  },
+  {
+    "ts": 1779138974431,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat.referrer"
+    }
+  },
+  {
+    "ts": 1779138974437,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779138974442,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779138974453,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138974453,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138974453,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/.preload.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974454,
+    "type": "shared_pref",
+    "data": {
+      "key": "has_been_opened"
+    }
+  },
+  {
+    "ts": 1779138974458,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/permission_analytics.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974458,
+    "type": "shared_pref",
+    "data": {
+      "key": "fake_geo"
+    }
+  },
+  {
+    "ts": 1779138974460,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779138974470,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138974471,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/ubercab_prefs_file.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974472,
+    "type": "shared_pref",
+    "data": {
+      "key": "client.token"
+    }
+  },
+  {
+    "ts": 1779138974476,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138974477,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138974492,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779138974504,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138974519,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138974519,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138974520,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779138974525,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779138974544,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138974544,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138974548,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.ubercab.client.feature.launch.LauncherActivity"
+    }
+  },
+  {
+    "ts": 1779138974555,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138974555,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138974564,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974565,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/.push_google.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974568,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138974569,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779138974573,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/class/net/wlan0/address"
+    }
+  },
+  {
+    "ts": 1779138974574,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/class/net/eth0/address"
+    }
+  },
+  {
+    "ts": 1779138974575,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-geo1.uber.com/"
+    }
+  },
+  {
+    "ts": 1779138974576,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138974619,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/shared_prefs/com.ubercab_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138974619,
+    "type": "shared_pref",
+    "data": {
+      "key": "AdjustInstallReferrer"
+    }
+  },
+  {
+    "ts": 1779138974746,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138975119,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138975125,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138975125,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779138975131,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779138975134,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ubercab/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138975226,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779138975228,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779138975229,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779138975230,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779138975245,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138975245,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779138975246,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.geixahba.com/"
+    }
+  },
+  {
+    "ts": 1779138975247,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138975247,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779138975249,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.geixahba.com/"
+    }
+  },
+  {
+    "ts": 1779138975833,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779138975835,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779138976271,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138976271,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779138976272,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138976272,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779138976274,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.shaipeeg.net/"
+    }
+  },
+  {
+    "ts": 1779138976275,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.shaipeeg.net/"
+    }
+  },
+  {
+    "ts": 1779138976601,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138976602,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138976603,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779138976603,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779138976605,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.oojoovae.org/"
+    }
+  },
+  {
+    "ts": 1779138976605,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.oojoovae.org/"
+    }
+  },
+  {
+    "ts": 1779138977505,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138977505,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779138977506,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.ooshahwa.biz/"
+    }
+  },
+  {
+    "ts": 1779138977513,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138977514,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779138977515,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.ooshahwa.biz/"
+    }
+  },
+  {
+    "ts": 1779138977607,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138977608,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138977609,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138977611,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.ubercab.client.feature.launch.LauncherActivity"
+    }
+  },
+  {
+    "ts": 1779138977612,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138977612,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138977625,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138977625,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779138977627,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.ooshahwa.biz/"
+    }
+  },
+  {
+    "ts": 1779138978805,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138978805,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138999991,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138999994,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000000,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000001,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000002,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.ubercab.client.feature.launch.LauncherActivity"
+    }
+  },
+  {
+    "ts": 1779139000003,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000003,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000010,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000013,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000013,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779139000014,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.ooshahwa.biz/"
+    }
+  },
+  {
+    "ts": 1779139000023,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779139000033,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.ooshahwa.biz/"
+    }
+  },
+  {
+    "ts": 1779139000140,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000142,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000145,
+    "type": "shared_pref",
+    "data": {
+      "key": "fake_location"
+    }
+  },
+  {
+    "ts": 1779139000147,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000147,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000151,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000154,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000155,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000166,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000167,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000198,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000200,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000202,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000203,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000205,
+    "type": "shared_pref",
+    "data": {
+      "key": "fake_location"
+    }
+  },
+  {
+    "ts": 1779139000205,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000257,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.ubercab.client.feature.launch.SignInOrRegisterActivity"
+    }
+  },
+  {
+    "ts": 1779139000261,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000262,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000264,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000264,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000692,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000692,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000693,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779139000693,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779139000694,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000695,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000695,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779139000696,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.naevooda.co/"
+    }
+  },
+  {
+    "ts": 1779139000696,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.naevooda.co/"
+    }
+  },
+  {
+    "ts": 1779139000696,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139000697,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779139000697,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779139000698,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.naevooda.co/"
+    }
+  },
+  {
+    "ts": 1779139000699,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.naevooda.co/"
+    }
+  },
+  {
+    "ts": 1779139000700,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.naevooda.co/"
+    }
+  },
+  {
+    "ts": 1779139002722,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139002722,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779139002725,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139002725,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779139002728,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139002728,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779139002729,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.uber.com/"
+    }
+  },
+  {
+    "ts": 1779139002730,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.uber.com/"
+    }
+  },
+  {
+    "ts": 1779139002731,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139002731,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779139002732,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779139002733,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.uber.com/"
+    }
+  },
+  {
+    "ts": 1779139002734,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_uuid"
+    }
+  },
+  {
+    "ts": 1779139002735,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.uber.com/"
+    }
+  },
+  {
+    "ts": 1779139002735,
+    "type": "url_access",
+    "data": {
+      "url": "https://cn-dc1.uber.com/"
+    }
+  }
+]

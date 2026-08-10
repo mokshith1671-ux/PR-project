@@ -1,0 +1,16 @@
+[
+  {
+    "ts": 1779633721070,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779633721071,
+    "type": "file_access",
+    "data": {
+      "path": "/"
+    }
+  }
+]

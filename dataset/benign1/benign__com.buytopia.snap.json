@@ -1,0 +1,219 @@
+[
+  {
+    "ts": 1778218111809,
+    "type": "activity",
+    "data": {
+      "activity": "com.buytopia.snap.splash.SplashScreenActivity"
+    }
+  },
+  {
+    "ts": 1778218111812,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.buytopia.snap/shared_prefs/DYNAMATIK_SNAP_PREF.xml.bak"
+    }
+  },
+  {
+    "ts": 1778218111814,
+    "type": "sp",
+    "data": {
+      "key": "DYNAMATIK_LOGIN_KEY"
+    }
+  },
+  {
+    "ts": 1778218111914,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.buytopia.snap/shared_prefs/com.urbanairship.preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1778218111917,
+    "type": "sp",
+    "data": {
+      "key": "com.urbanairship.preferences.apid"
+    }
+  },
+  {
+    "ts": 1778218111956,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778218111964,
+    "type": "network",
+    "data": {
+      "url": "https://boxoffice.urbanairship.com/firstrun"
+    }
+  },
+  {
+    "ts": 1778218111964,
+    "type": "network",
+    "data": {
+      "url": "https://boxoffice.urbanairship.com/firstrun"
+    }
+  },
+  {
+    "ts": 1778218112042,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778218112060,
+    "type": "network",
+    "data": {
+      "url": "https://combine.urbanairship.com/warp9/"
+    }
+  },
+  {
+    "ts": 1778218112068,
+    "type": "network",
+    "data": {
+      "url": "https://combine.urbanairship.com/warp9/"
+    }
+  },
+  {
+    "ts": 1778218112217,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.buytopia.snap/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1778218112217,
+    "type": "sp",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.154146981427616"
+    }
+  },
+  {
+    "ts": 1778218112219,
+    "type": "network",
+    "data": {
+      "url": "https://graph.facebook.com/v2.1/154146981427616?fields=supports_attribution%2Csupports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1778218112235,
+    "type": "network",
+    "data": {
+      "url": "https://graph.facebook.com/v2.1/154146981427616?fields=supports_attribution%2Csupports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1778218112249,
+    "type": "network",
+    "data": {
+      "url": "https://graph.facebook.com/v2.1/154146981427616"
+    }
+  },
+  {
+    "ts": 1778218112261,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.buytopia.snap/shared_prefs/com.facebook.SharedPreferencesTokenCachingStrategy.DEFAULT_KEY.xml.bak"
+    }
+  },
+  {
+    "ts": 1778218112329,
+    "type": "activity",
+    "data": {
+      "activity": "com.buytopia.snap.user.registration.UserCreationActivity"
+    }
+  },
+  {
+    "ts": 1778218112471,
+    "type": "network",
+    "data": {
+      "url": "https://api.crittercism.com/android_v2/handle_app_loads"
+    }
+  },
+  {
+    "ts": 1778218115910,
+    "type": "file",
+    "data": {
+      "path": "/proc/stat"
+    }
+  },
+  {
+    "ts": 1778218116992,
+    "type": "network",
+    "data": {
+      "url": "https://boxoffice.urbanairship.com/firstrun"
+    }
+  },
+  {
+    "ts": 1778218117093,
+    "type": "network",
+    "data": {
+      "url": "https://combine.urbanairship.com/warp9/"
+    }
+  },
+  {
+    "ts": 1778218117306,
+    "type": "network",
+    "data": {
+      "url": "https://graph.facebook.com/v2.1/154146981427616"
+    }
+  },
+  {
+    "ts": 1778218117467,
+    "type": "network",
+    "data": {
+      "url": "https://boxoffice.urbanairship.com/firstrun"
+    }
+  },
+  {
+    "ts": 1778218117469,
+    "type": "network",
+    "data": {
+      "url": "https://combine.urbanairship.com/warp9/"
+    }
+  },
+  {
+    "ts": 1778218117470,
+    "type": "network",
+    "data": {
+      "url": "https://graph.facebook.com/v2.1/154146981427616"
+    }
+  },
+  {
+    "ts": 1778218126480,
+    "type": "network",
+    "data": {
+      "url": "https://graph.facebook.com/v2.1/154146981427616?fields=supports_attribution%2Csupports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1778218126482,
+    "type": "network",
+    "data": {
+      "url": "https://graph.facebook.com/v2.1/154146981427616?fields=supports_attribution%2Csupports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1778218126483,
+    "type": "network",
+    "data": {
+      "url": "https://graph.facebook.com/v2.1/154146981427616"
+    }
+  },
+  {
+    "ts": 1778218126503,
+    "type": "network",
+    "data": {
+      "url": "https://graph.facebook.com/v2.1/154146981427616"
+    }
+  },
+  {
+    "ts": 1778218127469,
+    "type": "network",
+    "data": {
+      "url": "https://graph.facebook.com/v2.1/154146981427616"
+    }
+  }
+]

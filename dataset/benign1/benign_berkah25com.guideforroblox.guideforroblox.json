@@ -1,0 +1,1283 @@
+[
+  {
+    "ts": 1779635487300,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779635487300,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779635487301,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779635487302,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779635487321,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/x86_64"
+    }
+  },
+  {
+    "ts": 1779635487321,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/arm64-v8a"
+    }
+  },
+  {
+    "ts": 1779635487321,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779635487321,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779635487325,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779635487337,
+    "type": "shared_pref",
+    "data": {
+      "key": "flag_configuration"
+    }
+  },
+  {
+    "ts": 1779635487354,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:interstitial:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779635487360,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/berkah25com.guideforroblox.guideforroblox/shared_prefs/admob.xml.bak"
+    }
+  },
+  {
+    "ts": 1779635487361,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_url_hashes"
+    }
+  },
+  {
+    "ts": 1779635487362,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_vertical_hashes"
+    }
+  },
+  {
+    "ts": 1779635487362,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/admob_user_agent.xml.bak"
+    }
+  },
+  {
+    "ts": 1779635487363,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_settings_json"
+    }
+  },
+  {
+    "ts": 1779635487363,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_agent"
+    }
+  },
+  {
+    "ts": 1779635487364,
+    "type": "shared_pref",
+    "data": {
+      "key": "display_cutout"
+    }
+  },
+  {
+    "ts": 1779635487364,
+    "type": "shared_pref",
+    "data": {
+      "key": "native_advanced_settings"
+    }
+  },
+  {
+    "ts": 1779635487370,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635487388,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_csi_server"
+    }
+  },
+  {
+    "ts": 1779635487389,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487389,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487389,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487389,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487389,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487390,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487390,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487390,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779635487390,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779635487390,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779635487390,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779635487390,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779635487391,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_for_coarse_permission:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487391,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_timeout:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487391,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_interval:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487391,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:pan:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487397,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487398,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487398,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487398,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487398,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487398,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487398,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487398,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779635487399,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779635487399,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779635487399,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779635487399,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779635487409,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487409,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487409,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487409,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487409,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487410,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487410,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635487410,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779635487410,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779635487410,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779635487410,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779635487411,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779635487414,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/berkah25com.guideforroblox.guideforroblox/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779635487415,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779635487418,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/berkah25com.guideforroblox.guideforroblox/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1779635487419,
+    "type": "dex_load",
+    "data": {
+      "dex": "/data/user/0/berkah25com.guideforroblox.guideforroblox/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779635487420,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/berkah25com.guideforroblox.guideforroblox/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779635487420,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/berkah25com.guideforroblox.guideforroblox/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779635487424,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779635487424,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779635487425,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/berkah25com.guideforroblox.guideforroblox/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779635487425,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779635487426,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/berkah25com.guideforroblox.guideforroblox/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1779635487426,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/berkah25com.guideforroblox.guideforroblox/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1779635487427,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/berkah25com.guideforroblox.guideforroblox/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1779635487435,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/berkah25com.guideforroblox.guideforroblox/shared_prefs/mobileads_consent.xml.bak"
+    }
+  },
+  {
+    "ts": 1779635487443,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779635487463,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/berkah25com.guideforroblox.guideforroblox/shared_prefs/berkah25com.guideforroblox.guideforroblox_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779635487473,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~eH_MpoWV3KqCw5olBOWbfQ==/berkah25com.guideforroblox.guideforroblox-Kpny0iQZlFE2xtxmiI9GSA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779635487476,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779635487479,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779635487483,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779635487484,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779635487484,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779635487487,
+    "type": "activity_resume",
+    "data": {
+      "activity": "berkah25com.guideforroblox.guideforroblox.Splash"
+    }
+  },
+  {
+    "ts": 1779635487499,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779635487500,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779635487506,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779635487507,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779635487507,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779635487507,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779635487507,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779635487508,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779635487508,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779635487510,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779635487510,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779635487521,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779635487522,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779635487522,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779635487523,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779635487523,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779635487523,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779635487523,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779635487526,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779635487527,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779635487527,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779635487527,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779635487528,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779635487568,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779635487573,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779635487574,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779635487577,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779635487578,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779635487579,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/berkah25com.guideforroblox.guideforroblox/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779635487603,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779635487719,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779635487784,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/berkah25com.guideforroblox.guideforroblox/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779635487830,
+    "type": "webview",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779635487860,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779635488018,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779635488976,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779635488981,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779635488983,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779635488983,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779635488983,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779635489217,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/favicon.ico"
+    }
+  },
+  {
+    "ts": 1779635495519,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779635495520,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635495528,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495529,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495529,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495529,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495529,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495529,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495529,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495530,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779635495530,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779635495530,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779635495530,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779635495530,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779635495534,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495534,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495534,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495534,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495534,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495535,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495535,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495535,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779635495535,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779635495535,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779635495535,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779635495535,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779635495539,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779635495539,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779635495548,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:interstitial:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779635495549,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635495552,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495552,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495553,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495553,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495554,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495554,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495554,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495555,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779635495557,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779635495557,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779635495557,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779635495557,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779635495559,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495559,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495559,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495560,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495560,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495560,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495560,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779635495563,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779635495564,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779635495564,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779635495564,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779635495564,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779635495566,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779635495570,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779635495574,
+    "type": "activity_resume",
+    "data": {
+      "activity": "berkah25com.guideforroblox.guideforroblox.Aktifitas"
+    }
+  },
+  {
+    "ts": 1779635495596,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/getconfig/pubsetting?app_name=berkah25com.guideforroblox.guideforroblox&client=ca-app-pub-3007524464978940&slotname=7767861319"
+    }
+  }
+]

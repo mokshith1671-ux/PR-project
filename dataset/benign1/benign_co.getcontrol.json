@@ -1,0 +1,121 @@
+[
+  {
+    "ts": 1779133362515,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.getcontrol/shared_prefs/com.google.android.gcm.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133362515,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779133362519,
+    "type": "shared_pref",
+    "data": {
+      "key": "control_device_id"
+    }
+  },
+  {
+    "ts": 1779133362600,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~04GcLctiN9GhSJ9gu4OE2Q==/co.getcontrol-5NYW_6mo3HQ27-BT5JAhzw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779133362614,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.getcontrol/shared_prefs/mat_id.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133362615,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_id"
+    }
+  },
+  {
+    "ts": 1779133362623,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/NoPadding"
+    }
+  },
+  {
+    "ts": 1779133362624,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.getcontrol/shared_prefs/mat_queue.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133362631,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_user_logged_token"
+    }
+  },
+  {
+    "ts": 1779133362631,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_user_logged_email"
+    }
+  },
+  {
+    "ts": 1779133362631,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_user_logged_name"
+    }
+  },
+  {
+    "ts": 1779133362647,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~04GcLctiN9GhSJ9gu4OE2Q==/co.getcontrol-5NYW_6mo3HQ27-BT5JAhzw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779133362790,
+    "type": "shared_pref",
+    "data": {
+      "key": "control_device_id"
+    }
+  },
+  {
+    "ts": 1779133364412,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779133364417,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779133364417,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779133364418,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  }
+]

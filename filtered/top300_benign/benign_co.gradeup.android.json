@@ -1,0 +1,1241 @@
+[
+  {
+    "ts": 1779133442739,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133442750,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.621920911182005"
+    }
+  },
+  {
+    "ts": 1779133442761,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133442762,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/621920911182005?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779133442765,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/loginSharedPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133442768,
+    "type": "shared_pref",
+    "data": {
+      "key": "userId"
+    }
+  },
+  {
+    "ts": 1779133442769,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779133442827,
+    "type": "shared_pref",
+    "data": {
+      "key": "userId"
+    }
+  },
+  {
+    "ts": 1779133442827,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/firstOpen.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133442886,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/databases/google_tagmanager.db"
+    }
+  },
+  {
+    "ts": 1779133442899,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779133442902,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779133442904,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133442914,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_version"
+    }
+  },
+  {
+    "ts": 1779133442917,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_identifier"
+    }
+  },
+  {
+    "ts": 1779133442917,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_link"
+    }
+  },
+  {
+    "ts": 1779133442917,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_push_identifier"
+    }
+  },
+  {
+    "ts": 1779133442917,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_uri"
+    }
+  },
+  {
+    "ts": 1779133442920,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_extra"
+    }
+  },
+  {
+    "ts": 1779133442923,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779133442930,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.udofy.ui.activity.AppLauncherActivity"
+    }
+  },
+  {
+    "ts": 1779133442935,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133442947,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779133442956,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779133442964,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133442966,
+    "type": "shared_pref",
+    "data": {
+      "key": "621920911182005json"
+    }
+  },
+  {
+    "ts": 1779133442966,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779133443006,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133443006,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133443006,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133443006,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133443007,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133443007,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133443007,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133443008,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133443025,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133443033,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133443033,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133443033,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133443039,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133443042,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133443042,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133443042,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133443046,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133443050,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133443050,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133443050,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133443052,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133443052,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133443052,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133443052,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133443053,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779133443055,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/621920911182005/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779133443073,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779133443077,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779133443082,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/no_backup/com.urbanairship.databases"
+    }
+  },
+  {
+    "ts": 1779133443086,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133443086,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779133443088,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/install"
+    }
+  },
+  {
+    "ts": 1779133443094,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779133443094,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779133443537,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779133443540,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779133443541,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779133443541,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779133444089,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779133444102,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_params"
+    }
+  },
+  {
+    "ts": 1779133444104,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779133444105,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779133444105,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779133444106,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779133444106,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~534koeBpAvtl8mUQ3t-b7g==/co.gradeup.android-p5ij-HjQFDJYygv5ekCgFA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779133444106,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~534koeBpAvtl8mUQ3t-b7g==/co.gradeup.android-p5ij-HjQFDJYygv5ekCgFA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779133444108,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/com.amazonaws.android.auth.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133444113,
+    "type": "shared_pref",
+    "data": {
+      "key": "us-east-1:64963623-5328-4779-a3c4-535235e4dd6f.identityId"
+    }
+  },
+  {
+    "ts": 1779133444117,
+    "type": "shared_pref",
+    "data": {
+      "key": "us-east-1:64963623-5328-4779-a3c4-535235e4dd6f.identityId"
+    }
+  },
+  {
+    "ts": 1779133444121,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/57f75be197764ad49fdceab4d8403b44515d6767-01b7-49e5-8273-c8d11b0f331d.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133444123,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/57f75be197764ad49fdceab4d8403b44.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133444123,
+    "type": "shared_pref",
+    "data": {
+      "key": "UniqueId"
+    }
+  },
+  {
+    "ts": 1779133444124,
+    "type": "shared_pref",
+    "data": {
+      "key": "UniqueId"
+    }
+  },
+  {
+    "ts": 1779133444129,
+    "type": "shared_pref",
+    "data": {
+      "key": "configuration"
+    }
+  },
+  {
+    "ts": 1779133444133,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/advertisingId.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133444133,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertisingId"
+    }
+  },
+  {
+    "ts": 1779133444136,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/regId.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133444141,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779133444147,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/installedApps.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133444173,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/firstRun.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133444174,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertisingId"
+    }
+  },
+  {
+    "ts": 1779133444175,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133444176,
+    "type": "shared_pref",
+    "data": {
+      "key": "userId"
+    }
+  },
+  {
+    "ts": 1779133444203,
+    "type": "url_access",
+    "data": {
+      "url": "https://cognito-identity.us-east-1.amazonaws.com/"
+    }
+  },
+  {
+    "ts": 1779133444219,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r?id=GTM-TVCXZK&v=a65833898"
+    }
+  },
+  {
+    "ts": 1779133444221,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/ApsalarAppPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133444233,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/deviceId.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133444235,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceId"
+    }
+  },
+  {
+    "ts": 1779133444236,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133444240,
+    "type": "shared_pref",
+    "data": {
+      "key": "userId"
+    }
+  },
+  {
+    "ts": 1779133444240,
+    "type": "shared_pref",
+    "data": {
+      "key": "examNamesCD"
+    }
+  },
+  {
+    "ts": 1779133444245,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/TwitterAdvertisingInfoPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133444248,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~534koeBpAvtl8mUQ3t-b7g==/co.gradeup.android-p5ij-HjQFDJYygv5ekCgFA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779133444251,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/com.crashlytics.sdk.android:answers:settings.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133444255,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133444256,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779133444258,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/ECB/PKCS7Padding"
+    }
+  },
+  {
+    "ts": 1779133444262,
+    "type": "shared_pref",
+    "data": {
+      "key": "userId"
+    }
+  },
+  {
+    "ts": 1779133444262,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/notificationsForLater.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133444262,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/com.crashlytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133444262,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779133444263,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779133444266,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133444270,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779133444272,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6C04010B-0001-2F5E-06E97FAE81FBBeginSession.cls_temp"
+    }
+  },
+  {
+    "ts": 1779133444274,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6C04010B-0001-2F5E-06E97FAE81FBBeginSession.cls"
+    }
+  },
+  {
+    "ts": 1779133444276,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6C04010B-0001-2F5E-06E97FAE81FBSessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1779133444276,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779133444279,
+    "type": "shared_pref",
+    "data": {
+      "key": "userId"
+    }
+  },
+  {
+    "ts": 1779133444282,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6C04010B-0001-2F5E-06E97FAE81FBSessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779133444283,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6C04010B-0001-2F5E-06E97FAE81FBSessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779133444284,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133444286,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_params"
+    }
+  },
+  {
+    "ts": 1779133444288,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779133444288,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779133444289,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertisingId"
+    }
+  },
+  {
+    "ts": 1779133444290,
+    "type": "shared_pref",
+    "data": {
+      "key": "userId"
+    }
+  },
+  {
+    "ts": 1779133444291,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/sentAdvertisingId.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133444293,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6C04010B-0001-2F5E-06E97FAE81FBSessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779133444296,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6C04010B-0001-2F5E-06E97FAE81FBSessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779133444300,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133444303,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779133444311,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133444311,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133444334,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133444336,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133444336,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779133444337,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779133444338,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6C04010B-0001-2F5E-06E97FAE81FBSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779133444342,
+    "type": "shared_pref",
+    "data": {
+      "key": "HASH"
+    }
+  },
+  {
+    "ts": 1779133444345,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133444346,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133444347,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779133444352,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779133444353,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/co.gradeup.android/settings?instance=9889da49565bfcd8aceccf1b245b3659d15289c0&build_version=118&display_version=2.075&source=1&icon_hash=7f19083476d60688accd8371e5edd9ff3828999b"
+    }
+  },
+  {
+    "ts": 1779133444355,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779133444356,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/co.gradeup.android/settings?instance=9889da49565bfcd8aceccf1b245b3659d15289c0&build_version=118&display_version=2.075&source=1&icon_hash=7f19083476d60688accd8371e5edd9ff3828999b"
+    }
+  },
+  {
+    "ts": 1779133444390,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779133444421,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133444441,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.gs.loginlibrary.ui.activity.ExamSelectionActivity"
+    }
+  },
+  {
+    "ts": 1779133444471,
+    "type": "url_access",
+    "data": {
+      "url": "http://e.apsalar.com/api/v1/canonical?a=timesinternet&br=google&c=wifi&de=generic_x86_64_arm64&ma=Google&mo=sdk_gphone_x86_64&n=GradeUp&p=Android&pr=sdk_gphone_x86_64&sdk=Apsalar%2F6.2.0&v=11&sup=%5B+%22AIFA%22%2C+%22ANDI%22+%5D&ps=true"
+    }
+  },
+  {
+    "ts": 1779133444472,
+    "type": "url_access",
+    "data": {
+      "url": "http://e.apsalar.com/api/v1/canonical?a=timesinternet&br=google&c=wifi&de=generic_x86_64_arm64&ma=Google&mo=sdk_gphone_x86_64&n=GradeUp&p=Android&pr=sdk_gphone_x86_64&sdk=Apsalar%2F6.2.0&v=11&sup=%5B+%22AIFA%22%2C+%22ANDI%22+%5D&ps=true"
+    }
+  },
+  {
+    "ts": 1779133444500,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779133444557,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779133445248,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r?id=GTM-TVCXZK&v=a65833898&pv=MTM4Mg$0"
+    }
+  },
+  {
+    "ts": 1779133445604,
+    "type": "url_access",
+    "data": {
+      "url": "https://cognito-identity.us-east-1.amazonaws.com/"
+    }
+  },
+  {
+    "ts": 1779133445867,
+    "type": "url_access",
+    "data": {
+      "url": "http://e.apsalar.com/api/v1/resolve?a=timesinternet&i=co.gradeup.android&k=ANDI&u=6d2594b7a3a8ac36&p=Android&pi=1&v=11&rt=json&h=798d556cc70f33db58ccd25d6b0b399a34c6ec29"
+    }
+  },
+  {
+    "ts": 1779133445868,
+    "type": "url_access",
+    "data": {
+      "url": "http://e.apsalar.com/api/v1/resolve?a=timesinternet&i=co.gradeup.android&k=ANDI&u=6d2594b7a3a8ac36&p=Android&pi=1&v=11&rt=json&h=798d556cc70f33db58ccd25d6b0b399a34c6ec29"
+    }
+  },
+  {
+    "ts": 1779133446111,
+    "type": "shared_pref",
+    "data": {
+      "key": "userId"
+    }
+  },
+  {
+    "ts": 1779133446208,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.gs.loginlibrary.ui.activity.SelectLoginActivity"
+    }
+  },
+  {
+    "ts": 1779133446906,
+    "type": "url_access",
+    "data": {
+      "url": "http://e.apsalar.com/api/v1/start?a=timesinternet&ab=x86_64&av=2.075&br=google&c=wifi&de=generic_x86_64_arm64&i=co.gradeup.android&ma=Google&mo=sdk_gphone_x86_64&n=GradeUp&p=Android&pr=sdk_gphone_x86_64&rt=json&s=bcb61934-ae17-4262-8d66-b730dd081348&sdk=Apsalar%2F6.2.0&u=6d2594b7a3a8ac36&k=ANDI&dk=%5B%7B%22k%22%3A%22AIFA%22%2C+%22v%22%3A%22b812026a-97d9-4281-b475-7b41a56a9161%22%7D%5D&aifa=b812026a-97d9-4281-b475-7b41a56a9161&dnt=0&v=11&lag=2.686&h=2592719754912b45bfcab35324246d846433323e"
+    }
+  },
+  {
+    "ts": 1779133446907,
+    "type": "url_access",
+    "data": {
+      "url": "http://e.apsalar.com/api/v1/start?a=timesinternet&ab=x86_64&av=2.075&br=google&c=wifi&de=generic_x86_64_arm64&i=co.gradeup.android&ma=Google&mo=sdk_gphone_x86_64&n=GradeUp&p=Android&pr=sdk_gphone_x86_64&rt=json&s=bcb61934-ae17-4262-8d66-b730dd081348&sdk=Apsalar%2F6.2.0&u=6d2594b7a3a8ac36&k=ANDI&dk=%5B%7B%22k%22%3A%22AIFA%22%2C+%22v%22%3A%22b812026a-97d9-4281-b475-7b41a56a9161%22%7D%5D&aifa=b812026a-97d9-4281-b475-7b41a56a9161&dnt=0&v=11&lag=2.686&h=2592719754912b45bfcab35324246d846433323e"
+    }
+  },
+  {
+    "ts": 1779133452689,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/apsalar_csi_co.gradeup.android.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133453903,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779133453904,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779133453904,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779133457933,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/621920911182005/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779133461396,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/shared_prefs/com.google.android.gms.signin.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133461397,
+    "type": "shared_pref",
+    "data": {
+      "key": "defaultGoogleSignInAccount"
+    }
+  },
+  {
+    "ts": 1779133461437,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+    }
+  },
+  {
+    "ts": 1779133461442,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.gradeup.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779133463423,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_device_fingerprint_id"
+    }
+  },
+  {
+    "ts": 1779133463423,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779133463423,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_id"
+    }
+  },
+  {
+    "ts": 1779133463423,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_id"
+    }
+  },
+  {
+    "ts": 1779133463425,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779133463428,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_id"
+    }
+  },
+  {
+    "ts": 1779133463428,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_device_fingerprint_id"
+    }
+  },
+  {
+    "ts": 1779133463430,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779133463442,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/close"
+    }
+  }
+]

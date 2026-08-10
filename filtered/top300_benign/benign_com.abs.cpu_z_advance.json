@@ -1,0 +1,4643 @@
+[
+  {
+    "ts": 1779134121391,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779134121395,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779134121396,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779134121396,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779134121396,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779134121416,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/x86_64"
+    }
+  },
+  {
+    "ts": 1779134121416,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/arm64-v8a"
+    }
+  },
+  {
+    "ts": 1779134121416,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779134121416,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779134121424,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779134121437,
+    "type": "shared_pref",
+    "data": {
+      "key": "flag_configuration"
+    }
+  },
+  {
+    "ts": 1779134121459,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/shared_prefs/admob.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134121462,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_url_hashes"
+    }
+  },
+  {
+    "ts": 1779134121462,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_vertical_hashes"
+    }
+  },
+  {
+    "ts": 1779134121462,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_settings_json"
+    }
+  },
+  {
+    "ts": 1779134121462,
+    "type": "shared_pref",
+    "data": {
+      "key": "display_cutout"
+    }
+  },
+  {
+    "ts": 1779134121463,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_csi_server"
+    }
+  },
+  {
+    "ts": 1779134121464,
+    "type": "shared_pref",
+    "data": {
+      "key": "native_advanced_settings"
+    }
+  },
+  {
+    "ts": 1779134121465,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/admob_user_agent.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134121468,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_agent"
+    }
+  },
+  {
+    "ts": 1779134121477,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_csi_server"
+    }
+  },
+  {
+    "ts": 1779134121478,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134121479,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134121479,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134121480,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779134121480,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779134121480,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134121480,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134121481,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779134121481,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779134121481,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779134121481,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779134121481,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779134121481,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_for_coarse_permission:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134121482,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_timeout:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134121482,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_interval:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134121482,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:pan:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134121494,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779134121494,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779134121494,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779134121501,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134121501,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134121504,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134121504,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134121504,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134121504,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779134121504,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779134121505,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134121505,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134121506,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134121507,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134121510,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134121510,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134121510,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134121510,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779134121510,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779134121511,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134121511,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134121511,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134121511,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134121512,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134121512,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134121512,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134121547,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779134121551,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134121552,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134121554,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134121554,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134121555,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134121565,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779134121612,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134121694,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134121751,
+    "type": "webview",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779134121789,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/shared_prefs/RateDilog.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134121828,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.abs.cpu_z_advance.MainActivity"
+    }
+  },
+  {
+    "ts": 1779134121852,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779134121859,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779134121895,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common/"
+    }
+  },
+  {
+    "ts": 1779134121901,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common/"
+    }
+  },
+  {
+    "ts": 1779134121921,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134121955,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134121955,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134121970,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779134121970,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779134121998,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_governor"
+    }
+  },
+  {
+    "ts": 1779134121999,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_governor"
+    }
+  },
+  {
+    "ts": 1779134122001,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779134122002,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/version"
+    }
+  },
+  {
+    "ts": 1779134122010,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134122221,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|519636979617|*"
+    }
+  },
+  {
+    "ts": 1779134122224,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779134122224,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779134122224,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779134122235,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779134122350,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779134122351,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779134122437,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/shared_prefs/com.abs.cpu_z_advance_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134122439,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/shared_prefs/com.abs.cpu_z.batterymoni.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134122440,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/shared_prefs/com.abs.cpu_z.datamoni.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134122528,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134122528,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134122530,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134122530,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134122532,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134122534,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134122535,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134122536,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134122537,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134122538,
+    "type": "shared_pref",
+    "data": {
+      "key": "vendor"
+    }
+  },
+  {
+    "ts": 1779134122538,
+    "type": "shared_pref",
+    "data": {
+      "key": "renderer"
+    }
+  },
+  {
+    "ts": 1779134122538,
+    "type": "shared_pref",
+    "data": {
+      "key": "version"
+    }
+  },
+  {
+    "ts": 1779134122923,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779134122930,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134122934,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134122935,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779134122935,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779134122967,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134122968,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134123038,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134123039,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134123041,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134123041,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134123042,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134123043,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134123044,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134123044,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134123045,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134123206,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/favicon.ico"
+    }
+  },
+  {
+    "ts": 1779134123309,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/getconfig/pubsetting?app_name=com.abs.cpu_z_advance&client=ca-app-pub-2162183514975683&admob_appcc=7722208251"
+    }
+  },
+  {
+    "ts": 1779134123406,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779134123548,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134123548,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134123550,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134123550,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134123551,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134123552,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134123552,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134123553,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134123553,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134123976,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134123976,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134124055,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134124055,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134124056,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134124056,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134124057,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134124057,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134124058,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134124058,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134124060,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134124563,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134124563,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134124564,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134124565,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134124566,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134124566,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134124566,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134124567,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134124568,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134124981,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134124981,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134125070,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134125070,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134125072,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134125072,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134125073,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134125074,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134125076,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134125076,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134125078,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134125336,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|519636979617|*"
+    }
+  },
+  {
+    "ts": 1779134125337,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779134125581,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134125582,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134125583,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134125584,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134125585,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134125586,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134125586,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134125587,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134125588,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134125986,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134125986,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134126090,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134126091,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134126093,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134126093,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134126095,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134126095,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134126097,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134126098,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134126099,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134126602,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134126602,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134126603,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134126603,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134126604,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134126605,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134126605,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134126606,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134126607,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134126988,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134126988,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134127108,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134127109,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134127110,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134127110,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134127111,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134127111,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134127112,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134127113,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134127114,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134127616,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134127616,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134127617,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134127617,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134127618,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134127619,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134127620,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134127620,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134127621,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134127992,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134127992,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134128124,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134128124,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134128125,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134128125,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134128126,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134128127,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134128128,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134128128,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134128128,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134128631,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134128632,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134128633,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134128633,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134128634,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134128634,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134128635,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134128635,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134128636,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134128997,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134128997,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134129138,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134129139,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134129140,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134129140,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134129142,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134129142,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134129143,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134129144,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134129144,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134129646,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134129646,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134129647,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134129647,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134129648,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134129648,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134129649,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134129649,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134129649,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134130001,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134130001,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134130152,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134130152,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134130153,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134130153,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134130154,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134130154,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134130154,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134130154,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134130155,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134130657,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134130657,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134130659,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134130659,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134130661,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134130661,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134130662,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134130663,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134130664,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134131004,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134131004,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134131165,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134131166,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134131167,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134131167,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134131168,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134131168,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134131169,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134131169,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134131170,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134131672,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134131672,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134131673,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134131673,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134131674,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134131674,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134131675,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134131675,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134131676,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134132010,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134132010,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134132178,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134132178,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134132179,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134132179,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134132180,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134132180,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134132182,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134132182,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134132184,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134132686,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134132686,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134132687,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134132687,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134132687,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134132687,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134132688,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134132688,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134132689,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134133014,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134133014,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134133191,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134133192,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134133193,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134133194,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134133195,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134133195,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134133196,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134133197,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134133198,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134133702,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134133702,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134133703,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134133703,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134133705,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134133705,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134133706,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134133706,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134133707,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134134019,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134134019,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134134209,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134134209,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134134211,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134134211,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134134212,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134134213,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134134215,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134134215,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134134215,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134134719,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134134719,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134134720,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134134721,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134134722,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134134723,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134134725,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134134725,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134134726,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134135023,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134135024,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134135228,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134135229,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134135230,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134135231,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134135232,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134135232,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134135232,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134135233,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134135233,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134135736,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134135736,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134135737,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134135737,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134135738,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134135738,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134135739,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134135739,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134135741,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134136029,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134136029,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134136244,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134136244,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134136245,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134136245,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134136246,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134136246,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134136247,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134136247,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134136248,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134136752,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134136753,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134136754,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134136754,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134136755,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134136756,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134136756,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134136756,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134136757,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134137035,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134137035,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134137260,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134137260,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134137261,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134137261,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134137262,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134137262,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134137262,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134137263,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134137263,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134137769,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134137769,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134137770,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134137770,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134137771,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134137771,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134137772,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134137772,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134137773,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134138039,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134138039,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134138275,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134138276,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134138276,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134138277,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134138277,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134138277,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134138278,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134138278,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134138278,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134138780,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134138780,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134138781,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134138781,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134138782,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134138782,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134138782,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134138782,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134138783,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134139041,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134139041,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134139285,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134139285,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134139285,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134139286,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134139286,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134139286,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134139286,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134139287,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134139287,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134139788,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134139788,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134139789,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134139789,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134139789,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134139789,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134139790,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134139790,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134139790,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134140044,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134140044,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134140291,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134140292,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134140293,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134140293,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134140294,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134140294,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134140295,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134140295,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134140295,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134140798,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134140798,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134140799,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134140799,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134140800,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134140800,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134140801,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134140801,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134140802,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134141047,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134141047,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134141304,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134141304,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134141305,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134141306,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134141306,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134141307,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134141308,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134141308,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134141309,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134141811,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134141812,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134141812,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134141813,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134141813,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134141813,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134141814,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134141814,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134141815,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134142048,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134142048,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134142317,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134142317,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134142318,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134142318,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134142320,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134142320,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134142320,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134142321,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134142324,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134142826,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134142826,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134142826,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134142827,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134142827,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134142827,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134142828,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134142828,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134142830,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134143051,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134143052,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134143331,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134143331,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134143332,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134143332,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134143333,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134143333,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134143334,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134143334,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134143335,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134143843,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134143843,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134143844,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134143845,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134143846,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134143846,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134143847,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134143847,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134143848,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134144055,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134144055,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134144351,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134144352,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134144352,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134144353,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134144354,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134144355,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134144355,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134144356,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134144357,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134144859,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134144860,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134144860,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134144861,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134144861,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134144862,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134144862,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134144862,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134144865,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134145057,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134145057,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134145368,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134145368,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134145368,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134145369,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134145370,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134145370,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134145371,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134145371,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134145371,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134145875,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134145875,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134145876,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134145876,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134145877,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134145878,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134145880,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134145880,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134145881,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134146060,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134146060,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134146386,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134146387,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134146387,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134146388,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134146389,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134146389,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134146390,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134146390,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134146391,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134146895,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134146896,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134146897,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134146897,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134146897,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134146898,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134146899,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134146899,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134146900,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134147064,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134147064,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134147402,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134147402,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134147402,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134147403,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134147403,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134147403,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134147405,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134147405,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134147406,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134147908,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134147909,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134147909,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134147909,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134147911,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134147911,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134147911,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134147911,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134147914,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134148067,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134148067,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134148421,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134148421,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134148422,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134148422,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134148423,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134148423,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134148423,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134148423,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134148424,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134148926,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134148926,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134148927,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134148927,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134148927,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134148927,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134148928,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134148928,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134148930,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134149070,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134149070,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134149436,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134149437,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134149437,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134149437,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134149438,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134149438,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134149439,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134149439,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134149440,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134149942,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134149942,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134149944,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134149944,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134149945,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134149945,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134149946,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134149946,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1779134149947,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/loadavg"
+    }
+  },
+  {
+    "ts": 1779134150073,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  },
+  {
+    "ts": 1779134150073,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abs.cpu_z_advance/files"
+    }
+  }
+]

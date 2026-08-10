@@ -1,0 +1,485 @@
+[
+  {
+    "ts": 1779641802066,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.appswiz.alwaaha/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641802072,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779641802073,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779641802073,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779641803350,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779641803353,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779641803355,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779641803355,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779641803356,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.appswiz.alwaaha/shared_prefs/FLURRY_SHARED_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641803362,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641803363,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641803363,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641803364,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641803365,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641803365,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641803367,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641803367,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641803367,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641803367,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779641803368,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779641803369,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641803370,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641803374,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641803374,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641803375,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641803375,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641803375,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641803375,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779641803376,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779641803376,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641803376,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641803383,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641803383,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641803383,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641803384,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641803385,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641803396,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779641803399,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641803400,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641803403,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641803403,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641803406,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.appswiz.alwaaha/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641803414,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779641803446,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779641803485,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.appswiz.alwaaha/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641803538,
+    "type": "shared_pref",
+    "data": {
+      "key": "menu"
+    }
+  },
+  {
+    "ts": 1779641803554,
+    "type": "webview",
+    "data": {
+      "url": "http://test.mymobileapp.online/appoffline.html"
+    }
+  },
+  {
+    "ts": 1779641803578,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779641803583,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if (typeof $ != 'undefined') { $('#TINY_MENU').hide(); $('#MOBILE_ACTIONS_MENU').hide(); }"
+    }
+  },
+  {
+    "ts": 1779641803747,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779641803827,
+    "type": "webview",
+    "data": {
+      "url": "javascript: function goTo (anchorText) { var anchors = document.querySelectorAll('#TINY_MENU a, #MOBILE_ACTIONS_MENU a'); var i; for (i = 0; i < anchors.length; i++) { if (anchors[i].text == anchorText) { anchors[i].click(); anchors[i].click(); break; } } } function getMenu() { if (typeof Wix != 'undefined') { Wix.Settings.getSitePages(function(sitePages) { var mainUrl = window.location.href.toString(); var homePageId, items = []; $(sitePages).each(function(i, page) { if (page.hide) return true; if (page.id) { if (page.isHomepage) { if (!homePageId) { homePageId = page.id; page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; } } else if (page.title && page.id) { page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; page.isSubPage = false; } } items.push(page); if (page.subPages && page.subPages.length > 0) { page.subPages.forEach(function (subPage) { if (subPage.hide) return true; if (subPage.id) { subPage.url = mainUrl + '#!' + encodeURIComponent(subPage.title.replace(/ /g, '-')) + '/' + subPage.id; subPage.isSubPage = true; subPage.parent = page.id; } items.push(subPage); }); delete page['subPages']; } }); console.log('Assets acquired, returning to base...'); JsHandler.onMenuRetrieved(JSON.stringify(items)); }); } else { $.ajax({ type:'GET', url: 'http://static.parastorage.com/services/js-sdk/1.61.0/js/wix.min.js', dataType: 'script', async: true, complete: function (jqXHR, textStatus) { console.log('Wix SDK injected!'); getMenu(); }, error: function(xhr, textStatus, errorThrown) { window.sdkGet = false; console.log('Failed to retrieve site pages: ' + textStatus); } }); } } JsHandler.onHtmlProcessed();"
+    }
+  },
+  {
+    "ts": 1779641805252,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.appswiz.alwaaha.MainActivity"
+    }
+  },
+  {
+    "ts": 1779641805256,
+    "type": "webview",
+    "data": {
+      "url": "javascript: function goTo (anchorText) { var anchors = document.querySelectorAll('#TINY_MENU a, #MOBILE_ACTIONS_MENU a'); var i; for (i = 0; i < anchors.length; i++) { if (anchors[i].text == anchorText) { anchors[i].click(); anchors[i].click(); break; } } } function getMenu() { if (typeof Wix != 'undefined') { Wix.Settings.getSitePages(function(sitePages) { var mainUrl = window.location.href.toString(); var homePageId, items = []; $(sitePages).each(function(i, page) { if (page.hide) return true; if (page.id) { if (page.isHomepage) { if (!homePageId) { homePageId = page.id; page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; } } else if (page.title && page.id) { page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; page.isSubPage = false; } } items.push(page); if (page.subPages && page.subPages.length > 0) { page.subPages.forEach(function (subPage) { if (subPage.hide) return true; if (subPage.id) { subPage.url = mainUrl + '#!' + encodeURIComponent(subPage.title.replace(/ /g, '-')) + '/' + subPage.id; subPage.isSubPage = true; subPage.parent = page.id; } items.push(subPage); }); delete page['subPages']; } }); console.log('Assets acquired, returning to base...'); JsHandler.onMenuRetrieved(JSON.stringify(items)); }); } else { $.ajax({ type:'GET', url: 'http://static.parastorage.com/services/js-sdk/1.61.0/js/wix.min.js', dataType: 'script', async: true, complete: function (jqXHR, textStatus) { console.log('Wix SDK injected!'); getMenu(); }, error: function(xhr, textStatus, errorThrown) { window.sdkGet = false; console.log('Failed to retrieve site pages: ' + textStatus); } }); } } JsHandler.onHtmlProcessed();"
+    }
+  },
+  {
+    "ts": 1779641805262,
+    "type": "webview",
+    "data": {
+      "url": "javascript: function goTo (anchorText) { var anchors = document.querySelectorAll('#TINY_MENU a, #MOBILE_ACTIONS_MENU a'); var i; for (i = 0; i < anchors.length; i++) { if (anchors[i].text == anchorText) { anchors[i].click(); anchors[i].click(); break; } } } function getMenu() { if (typeof Wix != 'undefined') { Wix.Settings.getSitePages(function(sitePages) { var mainUrl = window.location.href.toString(); var homePageId, items = []; $(sitePages).each(function(i, page) { if (page.hide) return true; if (page.id) { if (page.isHomepage) { if (!homePageId) { homePageId = page.id; page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; } } else if (page.title && page.id) { page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; page.isSubPage = false; } } items.push(page); if (page.subPages && page.subPages.length > 0) { page.subPages.forEach(function (subPage) { if (subPage.hide) return true; if (subPage.id) { subPage.url = mainUrl + '#!' + encodeURIComponent(subPage.title.replace(/ /g, '-')) + '/' + subPage.id; subPage.isSubPage = true; subPage.parent = page.id; } items.push(subPage); }); delete page['subPages']; } }); console.log('Assets acquired, returning to base...'); JsHandler.onMenuRetrieved(JSON.stringify(items)); }); } else { $.ajax({ type:'GET', url: 'http://static.parastorage.com/services/js-sdk/1.61.0/js/wix.min.js', dataType: 'script', async: true, complete: function (jqXHR, textStatus) { console.log('Wix SDK injected!'); getMenu(); }, error: function(xhr, textStatus, errorThrown) { window.sdkGet = false; console.log('Failed to retrieve site pages: ' + textStatus); } }); } } JsHandler.onHtmlProcessed();"
+    }
+  },
+  {
+    "ts": 1779641805290,
+    "type": "webview",
+    "data": {
+      "url": "javascript: function goTo (anchorText) { var anchors = document.querySelectorAll('#TINY_MENU a, #MOBILE_ACTIONS_MENU a'); var i; for (i = 0; i < anchors.length; i++) { if (anchors[i].text == anchorText) { anchors[i].click(); anchors[i].click(); break; } } } function getMenu() { if (typeof Wix != 'undefined') { Wix.Settings.getSitePages(function(sitePages) { var mainUrl = window.location.href.toString(); var homePageId, items = []; $(sitePages).each(function(i, page) { if (page.hide) return true; if (page.id) { if (page.isHomepage) { if (!homePageId) { homePageId = page.id; page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; } } else if (page.title && page.id) { page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; page.isSubPage = false; } } items.push(page); if (page.subPages && page.subPages.length > 0) { page.subPages.forEach(function (subPage) { if (subPage.hide) return true; if (subPage.id) { subPage.url = mainUrl + '#!' + encodeURIComponent(subPage.title.replace(/ /g, '-')) + '/' + subPage.id; subPage.isSubPage = true; subPage.parent = page.id; } items.push(subPage); }); delete page['subPages']; } }); console.log('Assets acquired, returning to base...'); JsHandler.onMenuRetrieved(JSON.stringify(items)); }); } else { $.ajax({ type:'GET', url: 'http://static.parastorage.com/services/js-sdk/1.61.0/js/wix.min.js', dataType: 'script', async: true, complete: function (jqXHR, textStatus) { console.log('Wix SDK injected!'); getMenu(); }, error: function(xhr, textStatus, errorThrown) { window.sdkGet = false; console.log('Failed to retrieve site pages: ' + textStatus); } }); } } JsHandler.onHtmlProcessed();"
+    }
+  },
+  {
+    "ts": 1779641805297,
+    "type": "webview",
+    "data": {
+      "url": "javascript: function goTo (anchorText) { var anchors = document.querySelectorAll('#TINY_MENU a, #MOBILE_ACTIONS_MENU a'); var i; for (i = 0; i < anchors.length; i++) { if (anchors[i].text == anchorText) { anchors[i].click(); anchors[i].click(); break; } } } function getMenu() { if (typeof Wix != 'undefined') { Wix.Settings.getSitePages(function(sitePages) { var mainUrl = window.location.href.toString(); var homePageId, items = []; $(sitePages).each(function(i, page) { if (page.hide) return true; if (page.id) { if (page.isHomepage) { if (!homePageId) { homePageId = page.id; page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; } } else if (page.title && page.id) { page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; page.isSubPage = false; } } items.push(page); if (page.subPages && page.subPages.length > 0) { page.subPages.forEach(function (subPage) { if (subPage.hide) return true; if (subPage.id) { subPage.url = mainUrl + '#!' + encodeURIComponent(subPage.title.replace(/ /g, '-')) + '/' + subPage.id; subPage.isSubPage = true; subPage.parent = page.id; } items.push(subPage); }); delete page['subPages']; } }); console.log('Assets acquired, returning to base...'); JsHandler.onMenuRetrieved(JSON.stringify(items)); }); } else { $.ajax({ type:'GET', url: 'http://static.parastorage.com/services/js-sdk/1.61.0/js/wix.min.js', dataType: 'script', async: true, complete: function (jqXHR, textStatus) { console.log('Wix SDK injected!'); getMenu(); }, error: function(xhr, textStatus, errorThrown) { window.sdkGet = false; console.log('Failed to retrieve site pages: ' + textStatus); } }); } } JsHandler.onHtmlProcessed();"
+    }
+  },
+  {
+    "ts": 1779641805306,
+    "type": "webview",
+    "data": {
+      "url": "javascript: function goTo (anchorText) { var anchors = document.querySelectorAll('#TINY_MENU a, #MOBILE_ACTIONS_MENU a'); var i; for (i = 0; i < anchors.length; i++) { if (anchors[i].text == anchorText) { anchors[i].click(); anchors[i].click(); break; } } } function getMenu() { if (typeof Wix != 'undefined') { Wix.Settings.getSitePages(function(sitePages) { var mainUrl = window.location.href.toString(); var homePageId, items = []; $(sitePages).each(function(i, page) { if (page.hide) return true; if (page.id) { if (page.isHomepage) { if (!homePageId) { homePageId = page.id; page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; } } else if (page.title && page.id) { page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; page.isSubPage = false; } } items.push(page); if (page.subPages && page.subPages.length > 0) { page.subPages.forEach(function (subPage) { if (subPage.hide) return true; if (subPage.id) { subPage.url = mainUrl + '#!' + encodeURIComponent(subPage.title.replace(/ /g, '-')) + '/' + subPage.id; subPage.isSubPage = true; subPage.parent = page.id; } items.push(subPage); }); delete page['subPages']; } }); console.log('Assets acquired, returning to base...'); JsHandler.onMenuRetrieved(JSON.stringify(items)); }); } else { $.ajax({ type:'GET', url: 'http://static.parastorage.com/services/js-sdk/1.61.0/js/wix.min.js', dataType: 'script', async: true, complete: function (jqXHR, textStatus) { console.log('Wix SDK injected!'); getMenu(); }, error: function(xhr, textStatus, errorThrown) { window.sdkGet = false; console.log('Failed to retrieve site pages: ' + textStatus); } }); } } JsHandler.onHtmlProcessed();"
+    }
+  },
+  {
+    "ts": 1779641805308,
+    "type": "webview",
+    "data": {
+      "url": "javascript: function goTo (anchorText) { var anchors = document.querySelectorAll('#TINY_MENU a, #MOBILE_ACTIONS_MENU a'); var i; for (i = 0; i < anchors.length; i++) { if (anchors[i].text == anchorText) { anchors[i].click(); anchors[i].click(); break; } } } function getMenu() { if (typeof Wix != 'undefined') { Wix.Settings.getSitePages(function(sitePages) { var mainUrl = window.location.href.toString(); var homePageId, items = []; $(sitePages).each(function(i, page) { if (page.hide) return true; if (page.id) { if (page.isHomepage) { if (!homePageId) { homePageId = page.id; page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; } } else if (page.title && page.id) { page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; page.isSubPage = false; } } items.push(page); if (page.subPages && page.subPages.length > 0) { page.subPages.forEach(function (subPage) { if (subPage.hide) return true; if (subPage.id) { subPage.url = mainUrl + '#!' + encodeURIComponent(subPage.title.replace(/ /g, '-')) + '/' + subPage.id; subPage.isSubPage = true; subPage.parent = page.id; } items.push(subPage); }); delete page['subPages']; } }); console.log('Assets acquired, returning to base...'); JsHandler.onMenuRetrieved(JSON.stringify(items)); }); } else { $.ajax({ type:'GET', url: 'http://static.parastorage.com/services/js-sdk/1.61.0/js/wix.min.js', dataType: 'script', async: true, complete: function (jqXHR, textStatus) { console.log('Wix SDK injected!'); getMenu(); }, error: function(xhr, textStatus, errorThrown) { window.sdkGet = false; console.log('Failed to retrieve site pages: ' + textStatus); } }); } } JsHandler.onHtmlProcessed();"
+    }
+  },
+  {
+    "ts": 1779641805312,
+    "type": "webview",
+    "data": {
+      "url": "javascript: function goTo (anchorText) { var anchors = document.querySelectorAll('#TINY_MENU a, #MOBILE_ACTIONS_MENU a'); var i; for (i = 0; i < anchors.length; i++) { if (anchors[i].text == anchorText) { anchors[i].click(); anchors[i].click(); break; } } } function getMenu() { if (typeof Wix != 'undefined') { Wix.Settings.getSitePages(function(sitePages) { var mainUrl = window.location.href.toString(); var homePageId, items = []; $(sitePages).each(function(i, page) { if (page.hide) return true; if (page.id) { if (page.isHomepage) { if (!homePageId) { homePageId = page.id; page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; } } else if (page.title && page.id) { page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; page.isSubPage = false; } } items.push(page); if (page.subPages && page.subPages.length > 0) { page.subPages.forEach(function (subPage) { if (subPage.hide) return true; if (subPage.id) { subPage.url = mainUrl + '#!' + encodeURIComponent(subPage.title.replace(/ /g, '-')) + '/' + subPage.id; subPage.isSubPage = true; subPage.parent = page.id; } items.push(subPage); }); delete page['subPages']; } }); console.log('Assets acquired, returning to base...'); JsHandler.onMenuRetrieved(JSON.stringify(items)); }); } else { $.ajax({ type:'GET', url: 'http://static.parastorage.com/services/js-sdk/1.61.0/js/wix.min.js', dataType: 'script', async: true, complete: function (jqXHR, textStatus) { console.log('Wix SDK injected!'); getMenu(); }, error: function(xhr, textStatus, errorThrown) { window.sdkGet = false; console.log('Failed to retrieve site pages: ' + textStatus); } }); } } JsHandler.onHtmlProcessed();"
+    }
+  },
+  {
+    "ts": 1779641805333,
+    "type": "shared_pref",
+    "data": {
+      "key": "gcm_token"
+    }
+  },
+  {
+    "ts": 1779641805405,
+    "type": "webview",
+    "data": {
+      "url": "javascript: function goTo (anchorText) { var anchors = document.querySelectorAll('#TINY_MENU a, #MOBILE_ACTIONS_MENU a'); var i; for (i = 0; i < anchors.length; i++) { if (anchors[i].text == anchorText) { anchors[i].click(); anchors[i].click(); break; } } } function getMenu() { if (typeof Wix != 'undefined') { Wix.Settings.getSitePages(function(sitePages) { var mainUrl = window.location.href.toString(); var homePageId, items = []; $(sitePages).each(function(i, page) { if (page.hide) return true; if (page.id) { if (page.isHomepage) { if (!homePageId) { homePageId = page.id; page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; } } else if (page.title && page.id) { page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; page.isSubPage = false; } } items.push(page); if (page.subPages && page.subPages.length > 0) { page.subPages.forEach(function (subPage) { if (subPage.hide) return true; if (subPage.id) { subPage.url = mainUrl + '#!' + encodeURIComponent(subPage.title.replace(/ /g, '-')) + '/' + subPage.id; subPage.isSubPage = true; subPage.parent = page.id; } items.push(subPage); }); delete page['subPages']; } }); console.log('Assets acquired, returning to base...'); JsHandler.onMenuRetrieved(JSON.stringify(items)); }); } else { $.ajax({ type:'GET', url: 'http://static.parastorage.com/services/js-sdk/1.61.0/js/wix.min.js', dataType: 'script', async: true, complete: function (jqXHR, textStatus) { console.log('Wix SDK injected!'); getMenu(); }, error: function(xhr, textStatus, errorThrown) { window.sdkGet = false; console.log('Failed to retrieve site pages: ' + textStatus); } }); } } JsHandler.onHtmlProcessed();"
+    }
+  },
+  {
+    "ts": 1779641805415,
+    "type": "webview",
+    "data": {
+      "url": "javascript: function goTo (anchorText) { var anchors = document.querySelectorAll('#TINY_MENU a, #MOBILE_ACTIONS_MENU a'); var i; for (i = 0; i < anchors.length; i++) { if (anchors[i].text == anchorText) { anchors[i].click(); anchors[i].click(); break; } } } function getMenu() { if (typeof Wix != 'undefined') { Wix.Settings.getSitePages(function(sitePages) { var mainUrl = window.location.href.toString(); var homePageId, items = []; $(sitePages).each(function(i, page) { if (page.hide) return true; if (page.id) { if (page.isHomepage) { if (!homePageId) { homePageId = page.id; page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; } } else if (page.title && page.id) { page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; page.isSubPage = false; } } items.push(page); if (page.subPages && page.subPages.length > 0) { page.subPages.forEach(function (subPage) { if (subPage.hide) return true; if (subPage.id) { subPage.url = mainUrl + '#!' + encodeURIComponent(subPage.title.replace(/ /g, '-')) + '/' + subPage.id; subPage.isSubPage = true; subPage.parent = page.id; } items.push(subPage); }); delete page['subPages']; } }); console.log('Assets acquired, returning to base...'); JsHandler.onMenuRetrieved(JSON.stringify(items)); }); } else { $.ajax({ type:'GET', url: 'http://static.parastorage.com/services/js-sdk/1.61.0/js/wix.min.js', dataType: 'script', async: true, complete: function (jqXHR, textStatus) { console.log('Wix SDK injected!'); getMenu(); }, error: function(xhr, textStatus, errorThrown) { window.sdkGet = false; console.log('Failed to retrieve site pages: ' + textStatus); } }); } } JsHandler.onHtmlProcessed();"
+    }
+  },
+  {
+    "ts": 1779641805415,
+    "type": "webview",
+    "data": {
+      "url": "javascript: function goTo (anchorText) { var anchors = document.querySelectorAll('#TINY_MENU a, #MOBILE_ACTIONS_MENU a'); var i; for (i = 0; i < anchors.length; i++) { if (anchors[i].text == anchorText) { anchors[i].click(); anchors[i].click(); break; } } } function getMenu() { if (typeof Wix != 'undefined') { Wix.Settings.getSitePages(function(sitePages) { var mainUrl = window.location.href.toString(); var homePageId, items = []; $(sitePages).each(function(i, page) { if (page.hide) return true; if (page.id) { if (page.isHomepage) { if (!homePageId) { homePageId = page.id; page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; } } else if (page.title && page.id) { page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; page.isSubPage = false; } } items.push(page); if (page.subPages && page.subPages.length > 0) { page.subPages.forEach(function (subPage) { if (subPage.hide) return true; if (subPage.id) { subPage.url = mainUrl + '#!' + encodeURIComponent(subPage.title.replace(/ /g, '-')) + '/' + subPage.id; subPage.isSubPage = true; subPage.parent = page.id; } items.push(subPage); }); delete page['subPages']; } }); console.log('Assets acquired, returning to base...'); JsHandler.onMenuRetrieved(JSON.stringify(items)); }); } else { $.ajax({ type:'GET', url: 'http://static.parastorage.com/services/js-sdk/1.61.0/js/wix.min.js', dataType: 'script', async: true, complete: function (jqXHR, textStatus) { console.log('Wix SDK injected!'); getMenu(); }, error: function(xhr, textStatus, errorThrown) { window.sdkGet = false; console.log('Failed to retrieve site pages: ' + textStatus); } }); } } JsHandler.onHtmlProcessed();"
+    }
+  },
+  {
+    "ts": 1779641805498,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if (typeof $ != 'undefined' && typeof getMenu != 'undefined') getMenu();"
+    }
+  },
+  {
+    "ts": 1779641806098,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779641806101,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779641806101,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779641806102,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779641821505,
+    "type": "webview",
+    "data": {
+      "url": "javascript: function goTo (anchorText) { var anchors = document.querySelectorAll('#TINY_MENU a, #MOBILE_ACTIONS_MENU a'); var i; for (i = 0; i < anchors.length; i++) { if (anchors[i].text == anchorText) { anchors[i].click(); anchors[i].click(); break; } } } function getMenu() { if (typeof Wix != 'undefined') { Wix.Settings.getSitePages(function(sitePages) { var mainUrl = window.location.href.toString(); var homePageId, items = []; $(sitePages).each(function(i, page) { if (page.hide) return true; if (page.id) { if (page.isHomepage) { if (!homePageId) { homePageId = page.id; page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; } } else if (page.title && page.id) { page.url = mainUrl + '#!' + encodeURIComponent(page.title.replace(/ /g, '-')) + '/' + page.id; page.isSubPage = false; } } items.push(page); if (page.subPages && page.subPages.length > 0) { page.subPages.forEach(function (subPage) { if (subPage.hide) return true; if (subPage.id) { subPage.url = mainUrl + '#!' + encodeURIComponent(subPage.title.replace(/ /g, '-')) + '/' + subPage.id; subPage.isSubPage = true; subPage.parent = page.id; } items.push(subPage); }); delete page['subPages']; } }); console.log('Assets acquired, returning to base...'); JsHandler.onMenuRetrieved(JSON.stringify(items)); }); } else { $.ajax({ type:'GET', url: 'http://static.parastorage.com/services/js-sdk/1.61.0/js/wix.min.js', dataType: 'script', async: true, complete: function (jqXHR, textStatus) { console.log('Wix SDK injected!'); getMenu(); }, error: function(xhr, textStatus, errorThrown) { window.sdkGet = false; console.log('Failed to retrieve site pages: ' + textStatus); } }); } } JsHandler.onHtmlProcessed();"
+    }
+  }
+]

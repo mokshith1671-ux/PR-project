@@ -1,0 +1,744 @@
+[
+  {
+    "ts": 1779140576418,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779140576419,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.urbanairship.preferences.CHANNEL_ID"
+    }
+  },
+  {
+    "ts": 1779140576447,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.urbanairship.preferences.CHANNEL_ID"
+    }
+  },
+  {
+    "ts": 1779140576467,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.urbanairship.preferences.CHANNEL_ID"
+    }
+  },
+  {
+    "ts": 1779140576586,
+    "type": "url_access",
+    "data": {
+      "url": "http://wileypublishing.112.2o7.net/b/ss/wileyjournalapps/0/JAVA-4.0.4-AN/s17601071?AQB=1&ndh=1&ce=UTF-8&c.&a.&CarrierName=Android&AppID=CEI%2F1.0.2132&OSVersion=Android%2011&action=App%20Launch%20%28Custom%20Event%29&Resolution=1080x2009&DeviceName=sdk_gphone_x86_64&.a&osvendor=Android&MobileBrand=google&journalsocietycode=CEI&event80=event80&MobileDeviceType=phone&channel=Clinical%20%26%20Experimental%20Immunology&userfullaccessornot=Not%20Logged%20In&rdis=wileyjournalapps&appversion=1.0.2132&MobileScreenSize=1080x2009&useronlineornot=Online&userloggedinornot=Not%20Logged%20In&MobileManufacturer=Google&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20-330&pe=lnk_o&pev2=AMACTION%3AApp%20Launch%20%28Custom%20Event%29&pageName=CEI%2F1.0.2132&aid=3505C3F004A8CCC8-60000AFDF21E6C15&ts=1779140574&AQE=1"
+    }
+  },
+  {
+    "ts": 1779140576593,
+    "type": "url_access",
+    "data": {
+      "url": "http://wileypublishing.112.2o7.net/b/ss/wileyjournalapps/0/JAVA-4.0.4-AN/s17601071?AQB=1&ndh=1&ce=UTF-8&c.&a.&CarrierName=Android&AppID=CEI%2F1.0.2132&OSVersion=Android%2011&action=App%20Launch%20%28Custom%20Event%29&Resolution=1080x2009&DeviceName=sdk_gphone_x86_64&.a&osvendor=Android&MobileBrand=google&journalsocietycode=CEI&event80=event80&MobileDeviceType=phone&channel=Clinical%20%26%20Experimental%20Immunology&userfullaccessornot=Not%20Logged%20In&rdis=wileyjournalapps&appversion=1.0.2132&MobileScreenSize=1080x2009&useronlineornot=Online&userloggedinornot=Not%20Logged%20In&MobileManufacturer=Google&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20-330&pe=lnk_o&pev2=AMACTION%3AApp%20Launch%20%28Custom%20Event%29&pageName=CEI%2F1.0.2132&aid=3505C3F004A8CCC8-60000AFDF21E6C15&ts=1779140574&AQE=1"
+    }
+  },
+  {
+    "ts": 1779140576616,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779140576622,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wiley.jas.cei/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140576635,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779140576635,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779140576665,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token"
+    }
+  },
+  {
+    "ts": 1779140576666,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token_secret"
+    }
+  },
+  {
+    "ts": 1779140576666,
+    "type": "shared_pref",
+    "data": {
+      "key": "userLogin"
+    }
+  },
+  {
+    "ts": 1779140576666,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_code_value_null"
+    }
+  },
+  {
+    "ts": 1779140576668,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token"
+    }
+  },
+  {
+    "ts": 1779140576668,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token_secret"
+    }
+  },
+  {
+    "ts": 1779140576709,
+    "type": "shared_pref",
+    "data": {
+      "key": "society_is_society_content_enabled"
+    }
+  },
+  {
+    "ts": 1779140576710,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_token"
+    }
+  },
+  {
+    "ts": 1779140576712,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscription_receipt"
+    }
+  },
+  {
+    "ts": 1779140576745,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wiley.jas.cei"
+    }
+  },
+  {
+    "ts": 1779140576746,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.wiley.jas.cei"
+    }
+  },
+  {
+    "ts": 1779140576746,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wiley.jas.cei"
+    }
+  },
+  {
+    "ts": 1779140576758,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779140576759,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779140576759,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779140576764,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779140576765,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779140576767,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140576768,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140576768,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140576768,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779140576768,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779140576769,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779140576775,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779140576775,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779140576777,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140576778,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140576779,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140576779,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779140576779,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779140576780,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779140576786,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140576786,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140576787,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140576787,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779140576787,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779140576800,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779140576803,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779140576803,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779140576804,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779140576807,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779140576810,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wiley.jas.cei/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140576823,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779140576858,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140576891,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wiley.jas.cei/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140576969,
+    "type": "shared_pref",
+    "data": {
+      "key": "society_footer_logo_image_url"
+    }
+  },
+  {
+    "ts": 1779140576970,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token"
+    }
+  },
+  {
+    "ts": 1779140576970,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token_secret"
+    }
+  },
+  {
+    "ts": 1779140576970,
+    "type": "shared_pref",
+    "data": {
+      "key": "userLogin"
+    }
+  },
+  {
+    "ts": 1779140576972,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_code_value_null"
+    }
+  },
+  {
+    "ts": 1779140576972,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token"
+    }
+  },
+  {
+    "ts": 1779140576972,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token_secret"
+    }
+  },
+  {
+    "ts": 1779140576998,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token"
+    }
+  },
+  {
+    "ts": 1779140576999,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token_secret"
+    }
+  },
+  {
+    "ts": 1779140576999,
+    "type": "shared_pref",
+    "data": {
+      "key": "userLogin"
+    }
+  },
+  {
+    "ts": 1779140577000,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_code_value_null"
+    }
+  },
+  {
+    "ts": 1779140577001,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token"
+    }
+  },
+  {
+    "ts": 1779140577001,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token_secret"
+    }
+  },
+  {
+    "ts": 1779140577003,
+    "type": "webview",
+    "data": {
+      "url": "javascript:(function() { try{$('.centered_images_class').show();}catch(err){hostCallbacks.handleJavascriptErrors(err.message)}})()"
+    }
+  },
+  {
+    "ts": 1779140577007,
+    "type": "webview",
+    "data": {
+      "url": "javascript:(function() { try{$('.right_images_class').hide();}catch(err){hostCallbacks.handleJavascriptErrors(err.message)}})()"
+    }
+  },
+  {
+    "ts": 1779140577019,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.wiley.android.journalApp.base.MainActivity"
+    }
+  },
+  {
+    "ts": 1779140577034,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wiley.jas.cei/cacheADBMobileDataCache.sqliteADBMobileTimedActionsCache.sqlite"
+    }
+  },
+  {
+    "ts": 1779140577034,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_token"
+    }
+  },
+  {
+    "ts": 1779140577042,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_token"
+    }
+  },
+  {
+    "ts": 1779140577145,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token"
+    }
+  },
+  {
+    "ts": 1779140577145,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token_secret"
+    }
+  },
+  {
+    "ts": 1779140577145,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token"
+    }
+  },
+  {
+    "ts": 1779140577146,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token_secret"
+    }
+  },
+  {
+    "ts": 1779140577149,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token"
+    }
+  },
+  {
+    "ts": 1779140577149,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token_secret"
+    }
+  },
+  {
+    "ts": 1779140577185,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token"
+    }
+  },
+  {
+    "ts": 1779140577185,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token_secret"
+    }
+  },
+  {
+    "ts": 1779140577185,
+    "type": "shared_pref",
+    "data": {
+      "key": "userLogin"
+    }
+  },
+  {
+    "ts": 1779140577185,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_code_value_null"
+    }
+  },
+  {
+    "ts": 1779140577186,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token"
+    }
+  },
+  {
+    "ts": 1779140577186,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token_secret"
+    }
+  },
+  {
+    "ts": 1779140577201,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779140577221,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscription_receipt"
+    }
+  },
+  {
+    "ts": 1779140577221,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token"
+    }
+  },
+  {
+    "ts": 1779140577221,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token_secret"
+    }
+  },
+  {
+    "ts": 1779140577221,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token"
+    }
+  },
+  {
+    "ts": 1779140577222,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token_secret"
+    }
+  },
+  {
+    "ts": 1779140577253,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779140577404,
+    "type": "url_access",
+    "data": {
+      "url": "http://wileypublishing.112.2o7.net/b/ss/wileyjournalapps/0/JAVA-4.0.4-AN/s82089926?AQB=1&ndh=1&ce=UTF-8&c.&a.&DayOfWeek=3&CarrierName=Android&LaunchEvent=LaunchEvent&HourOfDay=3&InstallDate=5%2F19%2F2026&internalaction=Lifecycle&InstallEvent=InstallEvent&MonthlyEngUserEvent=MonthlyEngUserEvent&AppID=CEI%2F1.0.2132&Launches=1&OSVersion=Android%2011&DailyEngUserEvent=DailyEngUserEvent&Resolution=1080x2009&DeviceName=sdk_gphone_x86_64&.a&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20-330&pe=lnk_o&pev2=ADBINTERNAL%3ALifecycle&pageName=CEI%2F1.0.2132&aid=3505C3F004A8CCC8-60000AFDF21E6C15&ts=1779140575&AQE=1"
+    }
+  },
+  {
+    "ts": 1779140577407,
+    "type": "url_access",
+    "data": {
+      "url": "http://wileypublishing.112.2o7.net/b/ss/wileyjournalapps/0/JAVA-4.0.4-AN/s82089926?AQB=1&ndh=1&ce=UTF-8&c.&a.&DayOfWeek=3&CarrierName=Android&LaunchEvent=LaunchEvent&HourOfDay=3&InstallDate=5%2F19%2F2026&internalaction=Lifecycle&InstallEvent=InstallEvent&MonthlyEngUserEvent=MonthlyEngUserEvent&AppID=CEI%2F1.0.2132&Launches=1&OSVersion=Android%2011&DailyEngUserEvent=DailyEngUserEvent&Resolution=1080x2009&DeviceName=sdk_gphone_x86_64&.a&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20-330&pe=lnk_o&pev2=ADBINTERNAL%3ALifecycle&pageName=CEI%2F1.0.2132&aid=3505C3F004A8CCC8-60000AFDF21E6C15&ts=1779140575&AQE=1"
+    }
+  },
+  {
+    "ts": 1779140577452,
+    "type": "url_access",
+    "data": {
+      "url": "http://wileypublishing.112.2o7.net/b/ss/wileyjournalapps/0/JAVA-4.0.4-AN/s23341644?AQB=1&ndh=1&ce=UTF-8&c.&a.&CarrierName=Android&AppID=CEI%2F1.0.2132&OSVersion=Android%2011&action=App%20Launch%20%28Custom%20Event%29&Resolution=1080x2009&DeviceName=sdk_gphone_x86_64&.a&osvendor=Android&MobileBrand=google&journalsocietycode=CEI&event80=event80&MobileDeviceType=phone&channel=Clinical%20%26%20Experimental%20Immunology&userfullaccessornot=Not%20Logged%20In&rdis=wileyjournalapps&appversion=1.0.2132&MobileScreenSize=1080x2009&useronlineornot=Online&userloggedinornot=Not%20Logged%20In&MobileManufacturer=Google&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20-330&pe=lnk_o&pev2=AMACTION%3AApp%20Launch%20%28Custom%20Event%29&pageName=CEI%2F1.0.2132&aid=3505C3F004A8CCC8-60000AFDF21E6C15&ts=1779140576&AQE=1"
+    }
+  },
+  {
+    "ts": 1779140577454,
+    "type": "url_access",
+    "data": {
+      "url": "http://wileypublishing.112.2o7.net/b/ss/wileyjournalapps/0/JAVA-4.0.4-AN/s23341644?AQB=1&ndh=1&ce=UTF-8&c.&a.&CarrierName=Android&AppID=CEI%2F1.0.2132&OSVersion=Android%2011&action=App%20Launch%20%28Custom%20Event%29&Resolution=1080x2009&DeviceName=sdk_gphone_x86_64&.a&osvendor=Android&MobileBrand=google&journalsocietycode=CEI&event80=event80&MobileDeviceType=phone&channel=Clinical%20%26%20Experimental%20Immunology&userfullaccessornot=Not%20Logged%20In&rdis=wileyjournalapps&appversion=1.0.2132&MobileScreenSize=1080x2009&useronlineornot=Online&userloggedinornot=Not%20Logged%20In&MobileManufacturer=Google&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20-330&pe=lnk_o&pev2=AMACTION%3AApp%20Launch%20%28Custom%20Event%29&pageName=CEI%2F1.0.2132&aid=3505C3F004A8CCC8-60000AFDF21E6C15&ts=1779140576&AQE=1"
+    }
+  },
+  {
+    "ts": 1779140577494,
+    "type": "url_access",
+    "data": {
+      "url": "http://wileypublishing.112.2o7.net/b/ss/wileyjournalapps/0/JAVA-4.0.4-AN/s38623775?AQB=1&ndh=1&ce=UTF-8&c.&pagetype=Early%20View&a.&CarrierName=Android&AppID=CEI%2F1.0.2132&OSVersion=Android%2011&Resolution=1080x2009&DeviceName=sdk_gphone_x86_64&.a&osvendor=Android&MobileBrand=google&journalsocietycode=CEI&MobileDeviceType=phone&channel=Clinical%20%26%20Experimental%20Immunology&userfullaccessornot=Not%20Logged%20In&rdis=wileyjournalapps&appversion=1.0.2132&MobileScreenSize=1080x2009&useronlineornot=Online&userloggedinornot=Not%20Logged%20In&MobileManufacturer=Google&state=Clinical%20%26%20Experimental%20Immunology%20-%20Early%20View&pagesubtype=Early%20View&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20-330&pageName=Early%20View&aid=3505C3F004A8CCC8-60000AFDF21E6C15&ts=1779140576&AQE=1"
+    }
+  },
+  {
+    "ts": 1779140577497,
+    "type": "url_access",
+    "data": {
+      "url": "http://wileypublishing.112.2o7.net/b/ss/wileyjournalapps/0/JAVA-4.0.4-AN/s38623775?AQB=1&ndh=1&ce=UTF-8&c.&pagetype=Early%20View&a.&CarrierName=Android&AppID=CEI%2F1.0.2132&OSVersion=Android%2011&Resolution=1080x2009&DeviceName=sdk_gphone_x86_64&.a&osvendor=Android&MobileBrand=google&journalsocietycode=CEI&MobileDeviceType=phone&channel=Clinical%20%26%20Experimental%20Immunology&userfullaccessornot=Not%20Logged%20In&rdis=wileyjournalapps&appversion=1.0.2132&MobileScreenSize=1080x2009&useronlineornot=Online&userloggedinornot=Not%20Logged%20In&MobileManufacturer=Google&state=Clinical%20%26%20Experimental%20Immunology%20-%20Early%20View&pagesubtype=Early%20View&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20-330&pageName=Early%20View&aid=3505C3F004A8CCC8-60000AFDF21E6C15&ts=1779140576&AQE=1"
+    }
+  },
+  {
+    "ts": 1779140577531,
+    "type": "url_access",
+    "data": {
+      "url": "http://wileypublishing.112.2o7.net/b/ss/wileyjournalapps/0/JAVA-4.0.4-AN/s1433031?AQB=1&ndh=1&ce=UTF-8&c.&pagetype=List%20of%20Issues&a.&CarrierName=Android&AppID=CEI%2F1.0.2132&OSVersion=Android%2011&Resolution=1080x2009&DeviceName=sdk_gphone_x86_64&.a&osvendor=Android&MobileBrand=google&journalsocietycode=CEI&MobileDeviceType=phone&channel=Clinical%20%26%20Experimental%20Immunology&userfullaccessornot=Not%20Logged%20In&rdis=wileyjournalapps&appversion=1.0.2132&MobileScreenSize=1080x2009&useronlineornot=Online&userloggedinornot=Not%20Logged%20In&MobileManufacturer=Google&state=Clinical%20%26%20Experimental%20Immunology%20-%20List%20of%20Issues&pagesubtype=List%20of%20Issues&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20-330&pageName=List%20of%20Issues&aid=3505C3F004A8CCC8-60000AFDF21E6C15&ts=1779140577&AQE=1"
+    }
+  },
+  {
+    "ts": 1779140577534,
+    "type": "url_access",
+    "data": {
+      "url": "http://wileypublishing.112.2o7.net/b/ss/wileyjournalapps/0/JAVA-4.0.4-AN/s1433031?AQB=1&ndh=1&ce=UTF-8&c.&pagetype=List%20of%20Issues&a.&CarrierName=Android&AppID=CEI%2F1.0.2132&OSVersion=Android%2011&Resolution=1080x2009&DeviceName=sdk_gphone_x86_64&.a&osvendor=Android&MobileBrand=google&journalsocietycode=CEI&MobileDeviceType=phone&channel=Clinical%20%26%20Experimental%20Immunology&userfullaccessornot=Not%20Logged%20In&rdis=wileyjournalapps&appversion=1.0.2132&MobileScreenSize=1080x2009&useronlineornot=Online&userloggedinornot=Not%20Logged%20In&MobileManufacturer=Google&state=Clinical%20%26%20Experimental%20Immunology%20-%20List%20of%20Issues&pagesubtype=List%20of%20Issues&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20-330&pageName=List%20of%20Issues&aid=3505C3F004A8CCC8-60000AFDF21E6C15&ts=1779140577&AQE=1"
+    }
+  },
+  {
+    "ts": 1779140577569,
+    "type": "url_access",
+    "data": {
+      "url": "http://wileypublishing.112.2o7.net/b/ss/wileyjournalapps/0/JAVA-4.0.4-AN/s84826799?AQB=1&ndh=1&ce=UTF-8&c.&a.&CarrierName=Android&AppID=CEI%2F1.0.2132&OSVersion=Android%2011&Resolution=1080x2009&DeviceName=sdk_gphone_x86_64&.a&osvendor=Android&MobileBrand=google&journalsocietycode=CEI&MobileDeviceType=phone&channel=Clinical%20%26%20Experimental%20Immunology&userfullaccessornot=Not%20Logged%20In&rdis=wileyjournalapps&appversion=1.0.2132&MobileScreenSize=1080x2009&useronlineornot=Online&userloggedinornot=Not%20Logged%20In&MobileManufacturer=Google&overlaytype=Get%20Access%20Dialogue%20Do%20You%20Have%20Access&state=Clinical%20%26%20Experimental%20Immunology%20-%20List%20of%20Issues%20-%20Get%20Access%20Dialogue%20Do%20You%20Have%20Access&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20-330&pageName=Get%20Access%20Dialogue%20Do%20You%20Have%20Access&aid=3505C3F004A8CCC8-60000AFDF21E6C15&ts=1779140577&AQE=1"
+    }
+  },
+  {
+    "ts": 1779140577571,
+    "type": "url_access",
+    "data": {
+      "url": "http://wileypublishing.112.2o7.net/b/ss/wileyjournalapps/0/JAVA-4.0.4-AN/s84826799?AQB=1&ndh=1&ce=UTF-8&c.&a.&CarrierName=Android&AppID=CEI%2F1.0.2132&OSVersion=Android%2011&Resolution=1080x2009&DeviceName=sdk_gphone_x86_64&.a&osvendor=Android&MobileBrand=google&journalsocietycode=CEI&MobileDeviceType=phone&channel=Clinical%20%26%20Experimental%20Immunology&userfullaccessornot=Not%20Logged%20In&rdis=wileyjournalapps&appversion=1.0.2132&MobileScreenSize=1080x2009&useronlineornot=Online&userloggedinornot=Not%20Logged%20In&MobileManufacturer=Google&overlaytype=Get%20Access%20Dialogue%20Do%20You%20Have%20Access&state=Clinical%20%26%20Experimental%20Immunology%20-%20List%20of%20Issues%20-%20Get%20Access%20Dialogue%20Do%20You%20Have%20Access&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20-330&pageName=Get%20Access%20Dialogue%20Do%20You%20Have%20Access&aid=3505C3F004A8CCC8-60000AFDF21E6C15&ts=1779140577&AQE=1"
+    }
+  },
+  {
+    "ts": 1779140588040,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779140588045,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779140588045,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  }
+]

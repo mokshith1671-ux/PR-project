@@ -1,0 +1,23 @@
+[
+  {
+    "ts": 1779137583612,
+    "type": "activity_resume",
+    "data": {
+      "activity": "air.goyungames.adamas.AppEntry"
+    }
+  },
+  {
+    "ts": 1779137583627,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779137583628,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  }
+]

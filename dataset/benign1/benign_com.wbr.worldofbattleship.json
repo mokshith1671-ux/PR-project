@@ -1,0 +1,44 @@
+[
+  {
+    "ts": 1779140102258,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wbr.worldofbattleship/shared_prefs/com.wbr.worldofbattleship.v2.playerprefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140102259,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wbr.worldofbattleship/shared_prefs/com.wbr.worldofbattleship.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140102371,
+    "type": "shared_pref",
+    "data": {
+      "key": "5.3.4"
+    }
+  },
+  {
+    "ts": 1779140102375,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140102378,
+    "type": "url_access",
+    "data": {
+      "url": "https://stats.unity3d.com/HWStats.cgi"
+    }
+  },
+  {
+    "ts": 1779140105659,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.unity3d.player.UnityPlayerActivity"
+    }
+  }
+]

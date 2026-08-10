@@ -1,0 +1,16 @@
+[
+  {
+    "ts": 1779130592323,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ams.newsfeed.activity/shared_prefs/ObjectPreference.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130592350,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ams.newsfeed.activity.OneTimeActivity"
+    }
+  }
+]

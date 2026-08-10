@@ -1,0 +1,471 @@
+[
+  {
+    "ts": 1779638723939,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwaysnews.airwaysmagazine/shared_prefs/com.airwaysnews.airwaysmagazine_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638724027,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwaysnews.airwaysmagazine/shared_prefs/DevicePrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638724029,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceId"
+    }
+  },
+  {
+    "ts": 1779638724046,
+    "type": "url_access",
+    "data": {
+      "url": "https://config.adobedps.com/configurationservice/environment/prod/1/accounts/cefba892-f01a-5215-b9d1-0f02d2e2616b?role=viewer"
+    }
+  },
+  {
+    "ts": 1779638724112,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airwaysnews.airwaysmagazine.LibraryActivity"
+    }
+  },
+  {
+    "ts": 1779638724113,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwaysnews.airwaysmagazine/cache/AppMeasurementOfflineCacheDatabase.sqlite"
+    }
+  },
+  {
+    "ts": 1779638724155,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwaysnews.airwaysmagazine/shared_prefs/APP_MEASUREMENT_CACHE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638724159,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779638724184,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwaysnews.airwaysmagazine/shared_prefs/AnalyticsPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638724185,
+    "type": "url_access",
+    "data": {
+      "url": "http://dps.sc.omtrdc.net/b/ss/adp.sj.sec%2Cadp.or.airways.magazine.analytics/0/JAVA-3.2.6-AN/s813095?AQB=1&ndh=1&ts=1779638724&c33=Distribution&events=event1&v3=Airways%20Magazine&v2=1.0.2%3BAndroid-11&c30=32.4.0&v1=App%20Startup&c18=cefba892-f01a-5215-b9d1-0f02d2e2616b&pageName=App%20Startup&c12=AppStartup&c11=Portrait&c42=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&c10=online&t=24%2F4%2F2026%2021%3A35%3A24%200%20-330&v33=Distribution&ce=UTF-8&cc=USD&c3=Airways%20Magazine&v30=32.4.0&c2=1.0.2%3BAndroid-11&c1=App%20Startup&pev2=App%20Startup&v18=cefba892-f01a-5215-b9d1-0f02d2e2616b&c.&a.&OSVersion=Android%2011&DeviceName=sdk_gphone_x86_64&CarrierName=Android&Resolution=1080x2009&.a&.c&v12=AppStartup&vid=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&v11=Portrait&v42=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&v10=online&pe=lnk_o&AQE=1"
+    }
+  },
+  {
+    "ts": 1779638724194,
+    "type": "url_access",
+    "data": {
+      "url": "http://dps.sc.omtrdc.net/b/ss/adp.sj.sec%2Cadp.or.airways.magazine.analytics/0/JAVA-3.2.6-AN/s813095?AQB=1&ndh=1&ts=1779638724&c33=Distribution&events=event1&v3=Airways%20Magazine&v2=1.0.2%3BAndroid-11&c30=32.4.0&v1=App%20Startup&c18=cefba892-f01a-5215-b9d1-0f02d2e2616b&pageName=App%20Startup&c12=AppStartup&c11=Portrait&c42=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&c10=online&t=24%2F4%2F2026%2021%3A35%3A24%200%20-330&v33=Distribution&ce=UTF-8&cc=USD&c3=Airways%20Magazine&v30=32.4.0&c2=1.0.2%3BAndroid-11&c1=App%20Startup&pev2=App%20Startup&v18=cefba892-f01a-5215-b9d1-0f02d2e2616b&c.&a.&OSVersion=Android%2011&DeviceName=sdk_gphone_x86_64&CarrierName=Android&Resolution=1080x2009&.a&.c&v12=AppStartup&vid=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&v11=Portrait&v42=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&v10=online&pe=lnk_o&AQE=1"
+    }
+  },
+  {
+    "ts": 1779638724214,
+    "type": "shared_pref",
+    "data": {
+      "key": "utm_source"
+    }
+  },
+  {
+    "ts": 1779638724215,
+    "type": "shared_pref",
+    "data": {
+      "key": "utm_medium"
+    }
+  },
+  {
+    "ts": 1779638724216,
+    "type": "shared_pref",
+    "data": {
+      "key": "utm_term"
+    }
+  },
+  {
+    "ts": 1779638724216,
+    "type": "shared_pref",
+    "data": {
+      "key": "utm_content"
+    }
+  },
+  {
+    "ts": 1779638724217,
+    "type": "shared_pref",
+    "data": {
+      "key": "utm_campaign"
+    }
+  },
+  {
+    "ts": 1779638724317,
+    "type": "url_access",
+    "data": {
+      "url": "http://dps.sc.omtrdc.net/b/ss/adp.sj.sec%2Cadp.or.airways.magazine.analytics/0/JAVA-3.2.6-AN/s31650533?AQB=1&ndh=1&ts=1779638724&c33=Distribution&events=event3&v3=Airways%20Magazine&v2=1.0.2%3BAndroid-11&c30=32.4.0&v1=App%20Installation&c18=cefba892-f01a-5215-b9d1-0f02d2e2616b&pageName=App%20Installation&c12=AppInstall&c11=Portrait&c42=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&c10=online&t=24%2F4%2F2026%2021%3A35%3A24%200%20-330&v33=Distribution&ce=UTF-8&cc=USD&c3=Airways%20Magazine&v30=32.4.0&c2=1.0.2%3BAndroid-11&c1=App%20Installation&pev2=App%20Installation&v18=cefba892-f01a-5215-b9d1-0f02d2e2616b&c.&a.&OSVersion=Android%2011&DeviceName=sdk_gphone_x86_64&CarrierName=Android&Resolution=1080x2009&.a&.c&v12=AppInstall&vid=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&v11=Portrait&v42=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&v10=online&pe=lnk_o&AQE=1"
+    }
+  },
+  {
+    "ts": 1779638724319,
+    "type": "url_access",
+    "data": {
+      "url": "http://dps.sc.omtrdc.net/b/ss/adp.sj.sec%2Cadp.or.airways.magazine.analytics/0/JAVA-3.2.6-AN/s31650533?AQB=1&ndh=1&ts=1779638724&c33=Distribution&events=event3&v3=Airways%20Magazine&v2=1.0.2%3BAndroid-11&c30=32.4.0&v1=App%20Installation&c18=cefba892-f01a-5215-b9d1-0f02d2e2616b&pageName=App%20Installation&c12=AppInstall&c11=Portrait&c42=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&c10=online&t=24%2F4%2F2026%2021%3A35%3A24%200%20-330&v33=Distribution&ce=UTF-8&cc=USD&c3=Airways%20Magazine&v30=32.4.0&c2=1.0.2%3BAndroid-11&c1=App%20Installation&pev2=App%20Installation&v18=cefba892-f01a-5215-b9d1-0f02d2e2616b&c.&a.&OSVersion=Android%2011&DeviceName=sdk_gphone_x86_64&CarrierName=Android&Resolution=1080x2009&.a&.c&v12=AppInstall&vid=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&v11=Portrait&v42=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&v10=online&pe=lnk_o&AQE=1"
+    }
+  },
+  {
+    "ts": 1779638724355,
+    "type": "url_access",
+    "data": {
+      "url": "http://dps.sc.omtrdc.net/b/ss/adp.sj.sec%2Cadp.or.airways.magazine.analytics/0/JAVA-3.2.6-AN/s68079166?AQB=1&ndh=1&ts=1779638724&c33=Distribution&v3=Airways%20Magazine&v2=1.0.2%3BAndroid-11&c30=32.4.0&c18=cefba892-f01a-5215-b9d1-0f02d2e2616b&pageName=Airways%20Magazine%281.0.2%29%20Install&c42=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&t=24%2F4%2F2026%2021%3A35%3A24%200%20-330&v33=Distribution&ce=UTF-8&cc=USD&v30=32.4.0&c3=Airways%20Magazine&c2=1.0.2%3BAndroid-11&pev2=ADMS%20BP%20Event&v18=cefba892-f01a-5215-b9d1-0f02d2e2616b&c.&a.&EngDaysLifetime=%2B1&AppID=Airways%20Magazine%281.0.2%29&Resolution=1080x2009&DailyEngUserEvent=DailyEngUserEvent&OSEnvironment=Android%2011&LaunchEvent=LaunchEvent&OSVersion=Android%2011&DayOfWeek=1&DeviceName=sdk_gphone_x86_64&InstallEvent=InstallEvent&CarrierName=Android&MonthlyEngUserEvent=MonthlyEngUserEvent&InstallDate=5%2F24%2F2026&Launches=1&HourOfDay=21&.a&.c&vid=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&v42=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&pe=lnk_o&AQE=1"
+    }
+  },
+  {
+    "ts": 1779638724357,
+    "type": "url_access",
+    "data": {
+      "url": "http://dps.sc.omtrdc.net/b/ss/adp.sj.sec%2Cadp.or.airways.magazine.analytics/0/JAVA-3.2.6-AN/s68079166?AQB=1&ndh=1&ts=1779638724&c33=Distribution&v3=Airways%20Magazine&v2=1.0.2%3BAndroid-11&c30=32.4.0&c18=cefba892-f01a-5215-b9d1-0f02d2e2616b&pageName=Airways%20Magazine%281.0.2%29%20Install&c42=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&t=24%2F4%2F2026%2021%3A35%3A24%200%20-330&v33=Distribution&ce=UTF-8&cc=USD&v30=32.4.0&c3=Airways%20Magazine&c2=1.0.2%3BAndroid-11&pev2=ADMS%20BP%20Event&v18=cefba892-f01a-5215-b9d1-0f02d2e2616b&c.&a.&EngDaysLifetime=%2B1&AppID=Airways%20Magazine%281.0.2%29&Resolution=1080x2009&DailyEngUserEvent=DailyEngUserEvent&OSEnvironment=Android%2011&LaunchEvent=LaunchEvent&OSVersion=Android%2011&DayOfWeek=1&DeviceName=sdk_gphone_x86_64&InstallEvent=InstallEvent&CarrierName=Android&MonthlyEngUserEvent=MonthlyEngUserEvent&InstallDate=5%2F24%2F2026&Launches=1&HourOfDay=21&.a&.c&vid=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&v42=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&pe=lnk_o&AQE=1"
+    }
+  },
+  {
+    "ts": 1779638727591,
+    "type": "url_access",
+    "data": {
+      "url": "https://config.adobedps.com/configurationservice/environment/prod/1/accounts/cefba892-f01a-5215-b9d1-0f02d2e2616b?role=viewer"
+    }
+  },
+  {
+    "ts": 1779638727597,
+    "type": "url_access",
+    "data": {
+      "url": "http://edge.adobe-dcfs.com/ddp/issueServer/issues?accountId=cefba892-f01a-5215-b9d1-0f02d2e2616b&includeDisabled=false&includeTest=false&targetDimension=1024x768%2C2048x1536&sessionId=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&clientVersion=android-32.4.0.3.5b7cca9&viewerVersion=32.4.0&clientId=Google+sdk_gphone_x86_64&clientOs=11"
+    }
+  },
+  {
+    "ts": 1779638727598,
+    "type": "url_access",
+    "data": {
+      "url": "http://edge.adobe-dcfs.com/ddp/issueServer/issues?accountId=cefba892-f01a-5215-b9d1-0f02d2e2616b&includeDisabled=false&includeTest=false&targetDimension=1024x768%2C2048x1536&sessionId=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&clientVersion=android-32.4.0.3.5b7cca9&viewerVersion=32.4.0&clientId=Google+sdk_gphone_x86_64&clientOs=11"
+    }
+  },
+  {
+    "ts": 1779638727774,
+    "type": "url_access",
+    "data": {
+      "url": "https://config.adobedps.com/configurationservice/environment/prod/1/accounts/cefba892-f01a-5215-b9d1-0f02d2e2616b?role=viewer"
+    }
+  },
+  {
+    "ts": 1779638727775,
+    "type": "url_access",
+    "data": {
+      "url": "https://config.adobedps.com/configurationservice/environment/prod/1/accounts/cefba892-f01a-5215-b9d1-0f02d2e2616b?role=viewer"
+    }
+  },
+  {
+    "ts": 1779638727776,
+    "type": "url_access",
+    "data": {
+      "url": "https://origin.adobe-dcfs.com/ddp/issueServer/logClientEvent?clientId=google+sdk_gphone_x86_64&sessionId=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&clientVersion=32.4.0.3.5b7cca9&clientOs=11&accountId=cefba892-f01a-5215-b9d1-0f02d2e2616b&code=ViewerIssueListError&description=errorType%3DfailureResponse+externalErrorCode%3D403&data=underlayingReason%3DRequestFailed+requestUrl%3Dhttp%3A%2F%2Fedge.adobe-dcfs.com%2Fddp%2FissueServer%2Fissues%3FaccountId%3Dcefba892-f01a-5215-b9d1-0f02d2e2616b%26includeDisabled%3Dfalse%26includeTest%3Dfalse%26targetDimension%3D1024x768%252C2048x1536%26sessionId%3D95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8%26clientVersion%3Dandroid-32.4.0.3.5b7cca9%26viewerVersion%3D32.4.0%26clientId%3DGoogle%2Bsdk_gphone_x86_64%26clientOs%3D11+httpStatusCode%3D403"
+    }
+  },
+  {
+    "ts": 1779638727914,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779638727917,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779638727918,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779638727918,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779638732797,
+    "type": "url_access",
+    "data": {
+      "url": "https://config.adobedps.com/configurationservice/environment/prod/1/accounts/cefba892-f01a-5215-b9d1-0f02d2e2616b?role=viewer"
+    }
+  },
+  {
+    "ts": 1779638732800,
+    "type": "url_access",
+    "data": {
+      "url": "https://config.adobedps.com/configurationservice/environment/prod/1/accounts/cefba892-f01a-5215-b9d1-0f02d2e2616b?role=viewer"
+    }
+  },
+  {
+    "ts": 1779638732801,
+    "type": "url_access",
+    "data": {
+      "url": "https://origin.adobe-dcfs.com/ddp/issueServer/logClientEvent?clientId=google+sdk_gphone_x86_64&sessionId=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&clientVersion=32.4.0.3.5b7cca9&clientOs=11&accountId=cefba892-f01a-5215-b9d1-0f02d2e2616b&code=ViewerFolioPurchaseError&description=errorType%3DfailureResponse+externalErrorCode%3D&data=underlayingReason%3DRequestFailed"
+    }
+  },
+  {
+    "ts": 1779638738970,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwaysnews.airwaysmagazine/shared_prefs/StoragePrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638738985,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedStorageId"
+    }
+  },
+  {
+    "ts": 1779638738987,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779638738987,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779638738987,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779638738988,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779638739000,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779638739000,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779638739000,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779638739001,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779638739004,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airwaysnews.airwaysmagazine.library.settings.SettingsActivity"
+    }
+  },
+  {
+    "ts": 1779638739008,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779638739008,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779638739009,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779638739009,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779638739015,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779638739015,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779638739015,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779638739015,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779638746999,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airwaysnews.airwaysmagazine.LibraryActivity"
+    }
+  },
+  {
+    "ts": 1779638747001,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779638747002,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779638747002,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779638747002,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779638747007,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779638747008,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779638747008,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779638747008,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779638747017,
+    "type": "url_access",
+    "data": {
+      "url": "https://config.adobedps.com/configurationservice/environment/prod/1/accounts/cefba892-f01a-5215-b9d1-0f02d2e2616b?role=viewer"
+    }
+  },
+  {
+    "ts": 1779638747021,
+    "type": "url_access",
+    "data": {
+      "url": "http://edge.adobe-dcfs.com/ddp/issueServer/issues?accountId=cefba892-f01a-5215-b9d1-0f02d2e2616b&includeDisabled=false&includeTest=false&targetDimension=1024x768%2C2048x1536&sessionId=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&clientVersion=android-32.4.0.3.5b7cca9&viewerVersion=32.4.0&clientId=Google+sdk_gphone_x86_64&clientOs=11"
+    }
+  },
+  {
+    "ts": 1779638747023,
+    "type": "url_access",
+    "data": {
+      "url": "http://edge.adobe-dcfs.com/ddp/issueServer/issues?accountId=cefba892-f01a-5215-b9d1-0f02d2e2616b&includeDisabled=false&includeTest=false&targetDimension=1024x768%2C2048x1536&sessionId=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&clientVersion=android-32.4.0.3.5b7cca9&viewerVersion=32.4.0&clientId=Google+sdk_gphone_x86_64&clientOs=11"
+    }
+  },
+  {
+    "ts": 1779638747110,
+    "type": "url_access",
+    "data": {
+      "url": "https://config.adobedps.com/configurationservice/environment/prod/1/accounts/cefba892-f01a-5215-b9d1-0f02d2e2616b?role=viewer"
+    }
+  },
+  {
+    "ts": 1779638747111,
+    "type": "url_access",
+    "data": {
+      "url": "https://config.adobedps.com/configurationservice/environment/prod/1/accounts/cefba892-f01a-5215-b9d1-0f02d2e2616b?role=viewer"
+    }
+  },
+  {
+    "ts": 1779638747115,
+    "type": "url_access",
+    "data": {
+      "url": "https://origin.adobe-dcfs.com/ddp/issueServer/logClientEvent?clientId=google+sdk_gphone_x86_64&sessionId=95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8&clientVersion=32.4.0.3.5b7cca9&clientOs=11&accountId=cefba892-f01a-5215-b9d1-0f02d2e2616b&code=ViewerIssueListError&description=errorType%3DfailureResponse+externalErrorCode%3D403&data=underlayingReason%3DRequestFailed+requestUrl%3Dhttp%3A%2F%2Fedge.adobe-dcfs.com%2Fddp%2FissueServer%2Fissues%3FaccountId%3Dcefba892-f01a-5215-b9d1-0f02d2e2616b%26includeDisabled%3Dfalse%26includeTest%3Dfalse%26targetDimension%3D1024x768%252C2048x1536%26sessionId%3D95dedb82-e1c0-4fc9-a182-1d9c67d4a1e8%26clientVersion%3Dandroid-32.4.0.3.5b7cca9%26viewerVersion%3D32.4.0%26clientId%3DGoogle%2Bsdk_gphone_x86_64%26clientOs%3D11+httpStatusCode%3D403"
+    }
+  }
+]

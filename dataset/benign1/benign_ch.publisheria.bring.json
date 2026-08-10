@@ -1,0 +1,170 @@
+[
+  {
+    "ts": 1779132879104,
+    "type": "shared_pref",
+    "data": {
+      "key": "shown-release-notes-version-key"
+    }
+  },
+  {
+    "ts": 1779132879114,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ch.publisheria.bring/shared_prefs/com.google.android.gms.signin.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132879115,
+    "type": "shared_pref",
+    "data": {
+      "key": "defaultGoogleSignInAccount"
+    }
+  },
+  {
+    "ts": 1779132879119,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ch.publisheria.bring.activities.BringWelcomeActivity"
+    }
+  },
+  {
+    "ts": 1779132879129,
+    "type": "shared_pref",
+    "data": {
+      "key": "bring-list-uuid"
+    }
+  },
+  {
+    "ts": 1779132879223,
+    "type": "shared_pref",
+    "data": {
+      "key": "1393027731012151json"
+    }
+  },
+  {
+    "ts": 1779132879227,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.3/1393027731012151/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779132879673,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779132879682,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779132879682,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779132879683,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779132890708,
+    "type": "shared_pref",
+    "data": {
+      "key": "bring-user-uuid"
+    }
+  },
+  {
+    "ts": 1779132890712,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ch.publisheria.bring.activities.BringRegistrationActivity"
+    }
+  },
+  {
+    "ts": 1779132890845,
+    "type": "shared_pref",
+    "data": {
+      "key": "1393027731012151json"
+    }
+  },
+  {
+    "ts": 1779132893598,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.3/1393027731012151/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779132893953,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ch.publisheria.bring.activities.BringRegistrationActivity"
+    }
+  },
+  {
+    "ts": 1779132893984,
+    "type": "shared_pref",
+    "data": {
+      "key": "1393027731012151json"
+    }
+  },
+  {
+    "ts": 1779132901066,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ch.publisheria.bring.activities.BringSkipRegistrationActivity"
+    }
+  },
+  {
+    "ts": 1779132901073,
+    "type": "shared_pref",
+    "data": {
+      "key": "1393027731012151json"
+    }
+  },
+  {
+    "ts": 1779132904679,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ch.publisheria.bring.activities.BringRegistrationActivity"
+    }
+  },
+  {
+    "ts": 1779132904772,
+    "type": "shared_pref",
+    "data": {
+      "key": "1393027731012151json"
+    }
+  },
+  {
+    "ts": 1779132906795,
+    "type": "shared_pref",
+    "data": {
+      "key": "defaultGoogleSignInAccount"
+    }
+  },
+  {
+    "ts": 1779132906799,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ch.publisheria.bring.activities.BringWelcomeActivity"
+    }
+  },
+  {
+    "ts": 1779132906874,
+    "type": "shared_pref",
+    "data": {
+      "key": "1393027731012151json"
+    }
+  }
+]

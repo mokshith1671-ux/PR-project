@@ -1,0 +1,1563 @@
+[
+  {
+    "ts": 1779641606520,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779641606521,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779641606521,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779641606521,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779641606706,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606706,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606706,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606706,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606707,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606709,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606709,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606709,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606709,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606710,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606712,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606712,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606712,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606712,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606715,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606715,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606715,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606715,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606717,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/self/mounts"
+    }
+  },
+  {
+    "ts": 1779641606720,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/shared_prefs/share.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641606787,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/analytics_name.db-wal"
+    }
+  },
+  {
+    "ts": 1779641606836,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779641606847,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/shared_prefs/space_datareport_config_sp_name.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641606851,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.clean.spaceplus.main.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779641606851,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779641606862,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/pre_install.appsflyer"
+    }
+  },
+  {
+    "ts": 1779641606866,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/shared_prefs/db_conn_sp_name.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641606868,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779641606869,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641606875,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/stat"
+    }
+  },
+  {
+    "ts": 1779641606877,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/adv_desc_1.0.5.db"
+    }
+  },
+  {
+    "ts": 1779641606879,
+    "type": "shared_pref",
+    "data": {
+      "key": "1123567074366906json"
+    }
+  },
+  {
+    "ts": 1779641606882,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779641606886,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779641606898,
+    "type": "shared_pref",
+    "data": {
+      "key": "1123567074366906json"
+    }
+  },
+  {
+    "ts": 1779641606900,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779641606901,
+    "type": "shared_pref",
+    "data": {
+      "key": "AF_INSTALLATION"
+    }
+  },
+  {
+    "ts": 1779641606923,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.7/1123567074366906/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779641606949,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606950,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606951,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606951,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606952,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606952,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606953,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606953,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606959,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606959,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606959,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606960,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606961,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606962,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606962,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606962,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606962,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606962,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606963,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606963,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606971,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606976,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641606978,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606978,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641606985,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.7/1123567074366906/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779641607013,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases"
+    }
+  },
+  {
+    "ts": 1779641607013,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607086,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779641607104,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779641607106,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779641607115,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.p.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641607118,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779641607119,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779641607120,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779641607124,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779641607125,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779641607125,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.apps.go.clean.boost.master/settings?instance=7a4849913a01c9794f6f41da0974a4ed8b0fc3d8&build_version=11518&display_version=1.8.9&source=1&icon_hash=e39cc85773a463166503f13f5da0742ae187a841"
+    }
+  },
+  {
+    "ts": 1779641607126,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.apps.go.clean.boost.master/settings?instance=7a4849913a01c9794f6f41da0974a4ed8b0fc3d8&build_version=11518&display_version=1.8.9&source=1&icon_hash=e39cc85773a463166503f13f5da0742ae187a841"
+    }
+  },
+  {
+    "ts": 1779641607128,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v4/androidevent?buildnumber=5.0&app_id=com.apps.go.clean.boost.master"
+    }
+  },
+  {
+    "ts": 1779641607132,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779641607177,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607177,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/adv_path_1.0.5.db"
+    }
+  },
+  {
+    "ts": 1779641607178,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases"
+    }
+  },
+  {
+    "ts": 1779641607179,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607193,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779641607200,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607200,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/cache_1.0.1.db"
+    }
+  },
+  {
+    "ts": 1779641607201,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779641607203,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779641607204,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779641607208,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases"
+    }
+  },
+  {
+    "ts": 1779641607208,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607215,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A132D06010C-0001-351D-E441DC3156F2SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779641607236,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607237,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/cache_hf_en20170118030321.db"
+    }
+  },
+  {
+    "ts": 1779641607238,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases"
+    }
+  },
+  {
+    "ts": 1779641607238,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607285,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/shared_prefs/phone_util.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641607288,
+    "type": "shared_pref",
+    "data": {
+      "key": "imei"
+    }
+  },
+  {
+    "ts": 1779641607357,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607358,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/clearpath_other_1.0.1"
+    }
+  },
+  {
+    "ts": 1779641607358,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases"
+    }
+  },
+  {
+    "ts": 1779641607358,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607367,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607368,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/interception_pkg_1.0.0.db"
+    }
+  },
+  {
+    "ts": 1779641607368,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases"
+    }
+  },
+  {
+    "ts": 1779641607368,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607379,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607379,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/junkprocess_en_1.0.2.filter"
+    }
+  },
+  {
+    "ts": 1779641607379,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases"
+    }
+  },
+  {
+    "ts": 1779641607379,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607382,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607382,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/leftover_cache_1.0.1.db"
+    }
+  },
+  {
+    "ts": 1779641607382,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases"
+    }
+  },
+  {
+    "ts": 1779641607382,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607388,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607388,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/leftover_pkg_cache_1.0.1.db"
+    }
+  },
+  {
+    "ts": 1779641607389,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases"
+    }
+  },
+  {
+    "ts": 1779641607390,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607393,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607393,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/process_tips.db"
+    }
+  },
+  {
+    "ts": 1779641607394,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases"
+    }
+  },
+  {
+    "ts": 1779641607394,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607407,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607408,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/residual_dir_hf_en_20170106033042.db"
+    }
+  },
+  {
+    "ts": 1779641607409,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases"
+    }
+  },
+  {
+    "ts": 1779641607410,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607414,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641607415,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641607415,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641607415,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641607416,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641607417,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641607417,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641607417,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641607417,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641607418,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641607419,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641607419,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641607419,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641607581,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/.temp"
+    }
+  },
+  {
+    "ts": 1779641607585,
+    "type": "shared_pref",
+    "data": {
+      "key": "space_datareport_version"
+    }
+  },
+  {
+    "ts": 1779641607586,
+    "type": "shared_pref",
+    "data": {
+      "key": "space_datareport_activity_time"
+    }
+  },
+  {
+    "ts": 1779641607649,
+    "type": "subscriber_id_access",
+    "data": {
+      "action": "getSubscriberId"
+    }
+  },
+  {
+    "ts": 1779641607662,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779641607664,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779641607665,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779641607666,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641607666,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641607666,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641607666,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641607667,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641607673,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641607678,
+    "type": "file_access",
+    "data": {
+      "path": "/system/bin/su"
+    }
+  },
+  {
+    "ts": 1779641607678,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779641607685,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/shared_prefs/DB_VERSION_SP_NAME.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641607686,
+    "type": "shared_pref",
+    "data": {
+      "key": "adv_path_db_version"
+    }
+  },
+  {
+    "ts": 1779641607689,
+    "type": "shared_pref",
+    "data": {
+      "key": "junk_process_db_version"
+    }
+  },
+  {
+    "ts": 1779641607689,
+    "type": "shared_pref",
+    "data": {
+      "key": "pkg_cache_hf_db_version"
+    }
+  },
+  {
+    "ts": 1779641607690,
+    "type": "shared_pref",
+    "data": {
+      "key": "pkg_cache_db_version"
+    }
+  },
+  {
+    "ts": 1779641607690,
+    "type": "shared_pref",
+    "data": {
+      "key": "pkg_query_hf_db_version"
+    }
+  },
+  {
+    "ts": 1779641607690,
+    "type": "shared_pref",
+    "data": {
+      "key": "residual_cache_db_version"
+    }
+  },
+  {
+    "ts": 1779641607690,
+    "type": "shared_pref",
+    "data": {
+      "key": "adv_desc_db_version"
+    }
+  },
+  {
+    "ts": 1779641607690,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779641607696,
+    "type": "shared_pref",
+    "data": {
+      "key": "space_datareport_activity_hour"
+    }
+  },
+  {
+    "ts": 1779641609689,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779641609689,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779641609690,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779641609692,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641609693,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641609697,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779641609697,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779641609697,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779641609698,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779641609699,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641609699,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641609701,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641609702,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641609705,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779641609706,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779641609706,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779641609706,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779641609707,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641609707,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641609707,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779641609707,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779641609708,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779641609708,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641609708,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641609737,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779641609740,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641609741,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641609741,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641609742,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641609745,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641609753,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779641609785,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779641609841,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641609907,
+    "type": "shared_pref",
+    "data": {
+      "key": "imei"
+    }
+  },
+  {
+    "ts": 1779641609933,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.clean.spaceplus.setting.privacy.PrivacyActivity"
+    }
+  },
+  {
+    "ts": 1779641609959,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779641610062,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/databases/analytics_name.db-wal"
+    }
+  },
+  {
+    "ts": 1779641610063,
+    "type": "shared_pref",
+    "data": {
+      "key": "space_new_uuid"
+    }
+  },
+  {
+    "ts": 1779641610065,
+    "type": "shared_pref",
+    "data": {
+      "key": "imei"
+    }
+  },
+  {
+    "ts": 1779641610067,
+    "type": "webview",
+    "data": {
+      "url": "http://cleanportal.tclclouds.com/policyen.html"
+    }
+  },
+  {
+    "ts": 1779641610067,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779641610068,
+    "type": "runtime_exec",
+    "data": {
+      "command": "cat /sys/class/net/wlan0/address "
+    }
+  },
+  {
+    "ts": 1779641610106,
+    "type": "subscriber_id_access",
+    "data": {
+      "action": "getSubscriberId"
+    }
+  },
+  {
+    "ts": 1779641610136,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apps.go.clean.boost.master/shared_prefs/com.apps.go.clean.boost.master_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641610146,
+    "type": "shared_pref",
+    "data": {
+      "key": "language_selected"
+    }
+  },
+  {
+    "ts": 1779641610148,
+    "type": "shared_pref",
+    "data": {
+      "key": "country_selected"
+    }
+  },
+  {
+    "ts": 1779641610150,
+    "type": "shared_pref",
+    "data": {
+      "key": "language_selected"
+    }
+  },
+  {
+    "ts": 1779641610150,
+    "type": "shared_pref",
+    "data": {
+      "key": "country_selected"
+    }
+  },
+  {
+    "ts": 1779641610163,
+    "type": "shared_pref",
+    "data": {
+      "key": "imei"
+    }
+  },
+  {
+    "ts": 1779641621869,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.7/1123567074366906?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout%2Capp_events_feature_bitmask&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779641633385,
+    "type": "subscriber_id_access",
+    "data": {
+      "action": "getSubscriberId"
+    }
+  },
+  {
+    "ts": 1779641633391,
+    "type": "shared_pref",
+    "data": {
+      "key": "language_selected"
+    }
+  },
+  {
+    "ts": 1779641633391,
+    "type": "shared_pref",
+    "data": {
+      "key": "country_selected"
+    }
+  },
+  {
+    "ts": 1779641633392,
+    "type": "shared_pref",
+    "data": {
+      "key": "language_selected"
+    }
+  },
+  {
+    "ts": 1779641633392,
+    "type": "shared_pref",
+    "data": {
+      "key": "country_selected"
+    }
+  },
+  {
+    "ts": 1779641633394,
+    "type": "shared_pref",
+    "data": {
+      "key": "imei"
+    }
+  }
+]

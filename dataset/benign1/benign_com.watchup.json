@@ -1,0 +1,282 @@
+[
+  {
+    "ts": 1779139983893,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.watchup.user"
+    }
+  },
+  {
+    "ts": 1779139983907,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.watchup.authorization.token"
+    }
+  },
+  {
+    "ts": 1779139983908,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.watchup/shared_prefs/com.watchup.communication.Client.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139983915,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.watchup.toReorganize.LandingActivity"
+    }
+  },
+  {
+    "ts": 1779139983915,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.watchup.user"
+    }
+  },
+  {
+    "ts": 1779139983916,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.watchup.device"
+    }
+  },
+  {
+    "ts": 1779139984008,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.watchup.user"
+    }
+  },
+  {
+    "ts": 1779139984025,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.watchup.user"
+    }
+  },
+  {
+    "ts": 1779139984066,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.watchup.toReorganize.PlayContentSelectorActivity"
+    }
+  },
+  {
+    "ts": 1779139984071,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.watchup.user"
+    }
+  },
+  {
+    "ts": 1779139984072,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.watchup.info/v3/seeds?ip=false"
+    }
+  },
+  {
+    "ts": 1779139984096,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779139984098,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139984100,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139984100,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.watchup/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139984101,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.watchup/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779139984102,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779139984103,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779139984104,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779139984105,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.watchup/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B858F02E5-0001-5AE0-79C131044663SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779139984109,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.watchup/settings?instance=d3fea3997de9a178f560c9b3a75f7f6426e6b71d&build_version=380&display_version=3.10.6+380.armplay.release&source=1&icon_hash=90995e760d687bb79ae1bdc035a41d69c4006549"
+    }
+  },
+  {
+    "ts": 1779139984110,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.watchup/settings?instance=d3fea3997de9a178f560c9b3a75f7f6426e6b71d&build_version=380&display_version=3.10.6%2B380.armplay.release&source=1&icon_hash=90995e760d687bb79ae1bdc035a41d69c4006549"
+    }
+  },
+  {
+    "ts": 1779139984127,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.watchup/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779139984592,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.watchup.user"
+    }
+  },
+  {
+    "ts": 1779139985570,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779139985572,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779139985572,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779139985573,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779139987250,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.watchup.toReorganize.PlayContentSelectorActivity"
+    }
+  },
+  {
+    "ts": 1779139987270,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.watchup.info/v3/seeds?ip=false"
+    }
+  },
+  {
+    "ts": 1779139987467,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.watchup/shared_prefs/schedule.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139987467,
+    "type": "shared_pref",
+    "data": {
+      "key": "time"
+    }
+  },
+  {
+    "ts": 1779139987476,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.watchup.toReorganize.PlayScheduleActivity"
+    }
+  },
+  {
+    "ts": 1779139987479,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.watchup/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779139987895,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.watchup.user"
+    }
+  },
+  {
+    "ts": 1779139987943,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.watchup.toReorganize.SigningActivity"
+    }
+  },
+  {
+    "ts": 1779139988142,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.watchup.toReorganize.SigningActivity"
+    }
+  },
+  {
+    "ts": 1779139988707,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.watchup/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779139997260,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.watchup.authorization.token"
+    }
+  },
+  {
+    "ts": 1779140007272,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.watchup.authorization.token"
+    }
+  }
+]

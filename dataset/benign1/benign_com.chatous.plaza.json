@@ -1,0 +1,1500 @@
+[
+  {
+    "ts": 1779646916703,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/15146/cmdline"
+    }
+  },
+  {
+    "ts": 1779646916709,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646916713,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646916713,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646916713,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646916785,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.plaza.tl/api/categories"
+    }
+  },
+  {
+    "ts": 1779646916810,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.plaza.tl/api/categories"
+    }
+  },
+  {
+    "ts": 1779646916826,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646916831,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646916831,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779646916836,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646916837,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646916837,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646916837,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646916837,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646916837,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646916837,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646916837,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646916856,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.plaza.tl/api/event"
+    }
+  },
+  {
+    "ts": 1779646916857,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.plaza.tl/api/event"
+    }
+  },
+  {
+    "ts": 1779646916862,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.chatous.plaza.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779646916869,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779646916870,
+    "type": "shared_pref",
+    "data": {
+      "key": "ANNOUNCEMENTS"
+    }
+  },
+  {
+    "ts": 1779646916880,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646916882,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646916882,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646916882,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646916882,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646916882,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646916882,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646916883,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646916883,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646916890,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646916893,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/valid"
+    }
+  },
+  {
+    "ts": 1779646916894,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/valid"
+    }
+  },
+  {
+    "ts": 1779646916931,
+    "type": "shared_pref",
+    "data": {
+      "key": "ANNOUNCEMENTS"
+    }
+  },
+  {
+    "ts": 1779646916947,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646916948,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646916948,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646916949,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646916949,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646916949,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646916959,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646916961,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646916967,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646916995,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646916996,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646916999,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646917013,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646917014,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646917014,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646917015,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646917015,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646917016,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646917016,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646917016,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646917016,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646917018,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.plaza.tl/api/announcements/android"
+    }
+  },
+  {
+    "ts": 1779646917047,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.plaza.tl/api/announcements/android"
+    }
+  },
+  {
+    "ts": 1779646917074,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646917083,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779646917085,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646917183,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646917183,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646917184,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646917184,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779646917184,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779646917185,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1341C40237-0001-3B2A-361907AC3B38SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779646917186,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/shared_prefs/io.fabric.sdk.android:fabric:c.a.a.a.m.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646917207,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779646917209,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779646917218,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.chatous.plaza/settings?instance=a57f6e146fbcb891b179b2c69864abe10ec05be8&build_version=101&display_version=1.7.0&source=1&icon_hash=1ab4e8ead411e05479ffdcf73bd55fbf6b3f782a"
+    }
+  },
+  {
+    "ts": 1779646917222,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.chatous.plaza/settings?instance=a57f6e146fbcb891b179b2c69864abe10ec05be8&build_version=101&display_version=1.7.0&source=1&icon_hash=1ab4e8ead411e05479ffdcf73bd55fbf6b3f782a"
+    }
+  },
+  {
+    "ts": 1779646917264,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779646917303,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/shared_prefs/FLURRY_SHARED_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646917334,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779646917774,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779646918565,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646918565,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646918565,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646918565,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646918565,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646918565,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646918566,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646918568,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646918573,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646918574,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646919577,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646919577,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646919577,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646919577,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646919577,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646919578,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646919579,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646919579,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646919583,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646919583,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646920589,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646920590,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646920590,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646920590,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646920590,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646920591,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646920592,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646920593,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646920593,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646920596,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646921599,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646921599,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646921599,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646921599,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646921599,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646921599,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646921600,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646921600,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646921601,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646921601,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646922610,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646922610,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646922610,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646922610,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646922610,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646922611,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646922611,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646922611,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646922612,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646922614,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646923617,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646923617,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646923617,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646923617,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646923617,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646923618,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646923618,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646923618,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646923619,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646923621,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646924626,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646924627,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646924627,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646924627,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646924627,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646924627,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646924627,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646924627,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646924628,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646924628,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646925630,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646925631,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646925631,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646925631,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646925631,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646925633,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646925633,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646925633,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646925635,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646925636,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646926642,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646926642,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646926642,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646926642,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646926642,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646926642,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646926642,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646926643,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646926644,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646926645,
+    "type": "url_access",
+    "data": {
+      "url": "https://metersdeep.com/announcements?client=plaza&platform=android"
+    }
+  },
+  {
+    "ts": 1779646926648,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_ID"
+    }
+  },
+  {
+    "ts": 1779646926652,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1341C40237-0001-3B2A-361907AC3B38SessionEvent0000000000.cls_temp"
+    }
+  },
+  {
+    "ts": 1779646926657,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646926659,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646926663,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.251956831538195"
+    }
+  },
+  {
+    "ts": 1779646926666,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.2/251956831538195?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779646926695,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646926698,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779646926706,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1341C40237-0001-3B2A-361907AC3B38SessionEvent0000000000.cls"
+    }
+  },
+  {
+    "ts": 1779646926826,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/cache/as"
+    }
+  },
+  {
+    "ts": 1779646928355,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779646928359,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779646928362,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779646928362,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779646928614,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779646935140,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646935141,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1341C40237-0001-3B2A-361907AC3B38SessionEvent0000000001.cls_temp"
+    }
+  },
+  {
+    "ts": 1779646935142,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646935162,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1341C40237-0001-3B2A-361907AC3B38SessionEvent0000000001.cls"
+    }
+  },
+  {
+    "ts": 1779646935164,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1341C40237-0001-3B2A-361907AC3B38SessionEvent0000000002.cls_temp"
+    }
+  },
+  {
+    "ts": 1779646935165,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646935167,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1341C40237-0001-3B2A-361907AC3B38SessionEvent0000000002.cls"
+    }
+  },
+  {
+    "ts": 1779646936143,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646936143,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646936143,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646936143,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646936143,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646936144,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646936144,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646936145,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646936147,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.plaza.tl/api/announcements/android"
+    }
+  },
+  {
+    "ts": 1779646936149,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.plaza.tl/api/announcements/android"
+    }
+  },
+  {
+    "ts": 1779646936150,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646936151,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1341C40237-0001-3B2A-361907AC3B38SessionEvent0000000003.cls_temp"
+    }
+  },
+  {
+    "ts": 1779646936157,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646936163,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1341C40237-0001-3B2A-361907AC3B38SessionEvent0000000003.cls"
+    }
+  },
+  {
+    "ts": 1779646936827,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chatous.plaza/cache/as"
+    }
+  },
+  {
+    "ts": 1779646937151,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646937151,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LAT"
+    }
+  },
+  {
+    "ts": 1779646937152,
+    "type": "shared_pref",
+    "data": {
+      "key": "FORCED_LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646937152,
+    "type": "shared_pref",
+    "data": {
+      "key": "LOCATION_LONG"
+    }
+  },
+  {
+    "ts": 1779646937152,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646937152,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646937152,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646937152,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_ID"
+    }
+  },
+  {
+    "ts": 1779646937154,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.plaza.tl/api/announcements/android"
+    }
+  },
+  {
+    "ts": 1779646937154,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.plaza.tl/api/announcements/android"
+    }
+  }
+]

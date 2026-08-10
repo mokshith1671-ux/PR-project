@@ -1,0 +1,107 @@
+[
+  {
+    "ts": 1778227251489,
+    "type": "file",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1778227251497,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1778227251500,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1778227251501,
+    "type": "file",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1778227251502,
+    "type": "file",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1778227251507,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.chenoa.mquest/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1778227251523,
+    "type": "file",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1778227251561,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1778227251670,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.chenoa.mquest/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1778227251786,
+    "type": "device",
+    "data": {
+      "api": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1778227251799,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778227251813,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.chenoa.mquest/shared_prefs/AdHandler.xml.bak"
+    }
+  },
+  {
+    "ts": 1778227251814,
+    "type": "sp",
+    "data": {
+      "key": "admob_id"
+    }
+  },
+  {
+    "ts": 1778227251819,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778227251907,
+    "type": "activity",
+    "data": {
+      "activity": "com.chenoa.mquest.MarbleMaze"
+    }
+  }
+]

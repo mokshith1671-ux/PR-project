@@ -1,0 +1,247 @@
+[
+  {
+    "ts": 1779132016638,
+    "type": "activity_resume",
+    "data": {
+      "activity": "br.com.gerenciadorfinanceiro.controller.WelcomeActivity"
+    }
+  },
+  {
+    "ts": 1779132025551,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.gerenciadorfinanceiro.controller/shared_prefs/com.facebook.SharedPreferencesTokenCachingStrategy.DEFAULT_KEY.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132025592,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.gerenciadorfinanceiro.controller/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132025603,
+    "type": "shared_pref",
+    "data": {
+      "key": "idioma"
+    }
+  },
+  {
+    "ts": 1779132025604,
+    "type": "shared_pref",
+    "data": {
+      "key": "moeda"
+    }
+  },
+  {
+    "ts": 1779132025604,
+    "type": "shared_pref",
+    "data": {
+      "key": "moeda_id"
+    }
+  },
+  {
+    "ts": 1779132025604,
+    "type": "shared_pref",
+    "data": {
+      "key": "moeda_codigo"
+    }
+  },
+  {
+    "ts": 1779132025605,
+    "type": "shared_pref",
+    "data": {
+      "key": "ordenar_despesa"
+    }
+  },
+  {
+    "ts": 1779132025605,
+    "type": "shared_pref",
+    "data": {
+      "key": "tela_inicial"
+    }
+  },
+  {
+    "ts": 1779132025605,
+    "type": "shared_pref",
+    "data": {
+      "key": "data"
+    }
+  },
+  {
+    "ts": 1779132025605,
+    "type": "shared_pref",
+    "data": {
+      "key": "valor"
+    }
+  },
+  {
+    "ts": 1779132025606,
+    "type": "shared_pref",
+    "data": {
+      "key": "id_usuario"
+    }
+  },
+  {
+    "ts": 1779132025606,
+    "type": "shared_pref",
+    "data": {
+      "key": "nome_usuario"
+    }
+  },
+  {
+    "ts": 1779132025606,
+    "type": "shared_pref",
+    "data": {
+      "key": "token_usuario"
+    }
+  },
+  {
+    "ts": 1779132025609,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.gerenciadorfinanceiro.controller/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132025609,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.819926324713636"
+    }
+  },
+  {
+    "ts": 1779132025611,
+    "type": "shared_pref",
+    "data": {
+      "key": "id_usuario"
+    }
+  },
+  {
+    "ts": 1779132025611,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.2/819926324713636?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779132025618,
+    "type": "activity_resume",
+    "data": {
+      "activity": "br.com.gerenciadorfinanceiro.controller.PrimeiraVezAtividade"
+    }
+  },
+  {
+    "ts": 1779132025619,
+    "type": "shared_pref",
+    "data": {
+      "key": "moeda"
+    }
+  },
+  {
+    "ts": 1779132025619,
+    "type": "shared_pref",
+    "data": {
+      "key": "moeda_id"
+    }
+  },
+  {
+    "ts": 1779132025620,
+    "type": "shared_pref",
+    "data": {
+      "key": "moeda_codigo"
+    }
+  },
+  {
+    "ts": 1779132025620,
+    "type": "shared_pref",
+    "data": {
+      "key": "ordenar_despesa"
+    }
+  },
+  {
+    "ts": 1779132025620,
+    "type": "shared_pref",
+    "data": {
+      "key": "tela_inicial"
+    }
+  },
+  {
+    "ts": 1779132025621,
+    "type": "shared_pref",
+    "data": {
+      "key": "data"
+    }
+  },
+  {
+    "ts": 1779132025621,
+    "type": "shared_pref",
+    "data": {
+      "key": "valor"
+    }
+  },
+  {
+    "ts": 1779132025621,
+    "type": "shared_pref",
+    "data": {
+      "key": "id_usuario"
+    }
+  },
+  {
+    "ts": 1779132025621,
+    "type": "shared_pref",
+    "data": {
+      "key": "nome_usuario"
+    }
+  },
+  {
+    "ts": 1779132025621,
+    "type": "shared_pref",
+    "data": {
+      "key": "token_usuario"
+    }
+  },
+  {
+    "ts": 1779132025659,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.gerenciadorfinanceiro.controller/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779132025720,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779132027370,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779132027374,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779132027375,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779132027375,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  }
+]

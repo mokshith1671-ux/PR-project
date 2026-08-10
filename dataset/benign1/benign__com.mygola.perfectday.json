@@ -1,0 +1,86 @@
+[
+  {
+    "ts": 1778247776485,
+    "type": "file",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1778247776626,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1778247777169,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mygola.perfectday/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1778247778577,
+    "type": "webview",
+    "data": {
+      "url": "file:///android_asset/www/index.html"
+    }
+  },
+  {
+    "ts": 1778247778772,
+    "type": "activity",
+    "data": {
+      "activity": "com.mygola.perfectday.CordovaApp"
+    }
+  },
+  {
+    "ts": 1778247778801,
+    "type": "network",
+    "data": {
+      "url": "file:/system/framework/framework.jar"
+    }
+  },
+  {
+    "ts": 1778247779056,
+    "type": "network",
+    "data": {
+      "url": "file:/system/framework/framework.jar"
+    }
+  },
+  {
+    "ts": 1778247779089,
+    "type": "network",
+    "data": {
+      "url": "file:/system/framework/framework.jar"
+    }
+  },
+  {
+    "ts": 1778247780039,
+    "type": "settings",
+    "data": {
+      "key": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1778247783624,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778247783730,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mygola.perfectday/shared_prefs/com.google.android.gcm.xml.bak"
+    }
+  },
+  {
+    "ts": 1778247785465,
+    "type": "webview",
+    "data": {
+      "url": "javascript:try{cordova.fireDocumentEvent('pause');}catch(e){console.log('exception firing pause event from native');};"
+    }
+  }
+]

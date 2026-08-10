@@ -1,0 +1,310 @@
+[
+  {
+    "ts": 1779135606608,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779135606632,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779135606636,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.allproperty.android.consumer.my/shared_prefs/propertyguru.app.preference.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135606639,
+    "type": "shared_pref",
+    "data": {
+      "key": "app.default.language"
+    }
+  },
+  {
+    "ts": 1779135606641,
+    "type": "shared_pref",
+    "data": {
+      "key": "app.default.language"
+    }
+  },
+  {
+    "ts": 1779135606642,
+    "type": "shared_pref",
+    "data": {
+      "key": "app.default.language"
+    }
+  },
+  {
+    "ts": 1779135606648,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779135606653,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779135606653,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779135606706,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.allproperty.android.consumer.my/shared_prefs/com.propertyguru.android.analytics.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135606885,
+    "type": "url_access",
+    "data": {
+      "url": "https://play.google.com/store/apps/details?id=com.allproperty.android.consumer.my"
+    }
+  },
+  {
+    "ts": 1779135606886,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.allproperty.android.consumer.my/shared_prefs/propertyguru.app.migration.data.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135606888,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_USER_LOGIN_ID"
+    }
+  },
+  {
+    "ts": 1779135606888,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_USER_PASSWORD"
+    }
+  },
+  {
+    "ts": 1779135606888,
+    "type": "shared_pref",
+    "data": {
+      "key": "app.default.language"
+    }
+  },
+  {
+    "ts": 1779135606890,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.allproperty.android.consumer.my/shared_prefs/propertyguru.app.preference.sync.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135606891,
+    "type": "url_access",
+    "data": {
+      "url": "http://mobile-android.pgimgs.com/android/PropertyGuru/MY/version.json"
+    }
+  },
+  {
+    "ts": 1779135606900,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.allpropertymedia.android.apps.ui.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779135606905,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779135607058,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779135607063,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779135607065,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135607067,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.allproperty.android.consumer.my/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135607075,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.allproperty.android.consumer.my/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779135607086,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135607087,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135607087,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779135607088,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779135607089,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.allproperty.android.consumer.my/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B747601B9-0001-6D43-96500FB8C3ABSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779135607090,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779135607097,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.allproperty.android.consumer.my/settings?instance=e97fa881788a67d12939dd41c31f67d6b8885977&build_version=20160601&display_version=2.98.3&source=1&icon_hash=2720ab2b76d80b3921b95b107d271de13f8f668b"
+    }
+  },
+  {
+    "ts": 1779135607107,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.allproperty.android.consumer.my/settings?instance=e97fa881788a67d12939dd41c31f67d6b8885977&build_version=20160601&display_version=2.98.3&source=1&icon_hash=2720ab2b76d80b3921b95b107d271de13f8f668b"
+    }
+  },
+  {
+    "ts": 1779135607118,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.allproperty.android.consumer.my/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779135607433,
+    "type": "shared_pref",
+    "data": {
+      "key": "app.default.language"
+    }
+  },
+  {
+    "ts": 1779135607437,
+    "type": "shared_pref",
+    "data": {
+      "key": "app.default.language"
+    }
+  },
+  {
+    "ts": 1779135607481,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://api.propertyguru.com.my/en/referencedata/getGeographicArea/D, tag=null}"
+    }
+  },
+  {
+    "ts": 1779135607541,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779135607595,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.allproperty.android.consumer.my/shared_prefs/com.propertyguru.android.analytics.tagline.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135609079,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779135609604,
+    "type": "shared_pref",
+    "data": {
+      "key": "https://api.propertyguru.com/v2/developerprojects/constants?targetCountry=my&locale=en"
+    }
+  },
+  {
+    "ts": 1779135609604,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=https://api.propertyguru.com/v2/developerprojects/constants?targetCountry=my&locale=en, tag=null}"
+    }
+  },
+  {
+    "ts": 1779135612862,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779135621001,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779135635489,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  }
+]

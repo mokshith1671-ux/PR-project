@@ -1,0 +1,3166 @@
+[
+  {
+    "ts": 1779131859887,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779131859908,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/class/net/eth0/address"
+    }
+  },
+  {
+    "ts": 1779131859910,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.dafiti/shared_prefs/com.ad4screen.sdk.A4S.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131859917,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.dafiti/shared_prefs/com.ad4screen.sdk.common.DeviceInfo.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131859920,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131859922,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.dafiti/databases/google_tagmanager.db"
+    }
+  },
+  {
+    "ts": 1779131859940,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779131859941,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779131859944,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~9npScY5zzem0FYBZyHWahg==/br.com.dafiti-55EKVgALHlx4gQSX3VigjQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779131859946,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~9npScY5zzem0FYBZyHWahg==/br.com.dafiti-55EKVgALHlx4gQSX3VigjQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779131859947,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~9npScY5zzem0FYBZyHWahg==/br.com.dafiti-55EKVgALHlx4gQSX3VigjQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779131860052,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860053,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860056,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860056,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860056,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860057,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860057,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860057,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860075,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860079,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860080,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860081,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860081,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860086,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860090,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131860090,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131860090,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860090,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860090,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860090,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860110,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/stat"
+    }
+  },
+  {
+    "ts": 1779131860111,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.dafiti/shared_prefs/notiphi_prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131860112,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131860112,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.dafiti/shared_prefs/NotiphiUtility.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131860113,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779131860114,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.dafiti/shared_prefs/gcm_pref.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131860115,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/appusers"
+    }
+  },
+  {
+    "ts": 1779131860116,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/appusers"
+    }
+  },
+  {
+    "ts": 1779131860116,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/appusers"
+    }
+  },
+  {
+    "ts": 1779131860118,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/appusers"
+    }
+  },
+  {
+    "ts": 1779131860120,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860120,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860121,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860197,
+    "type": "shared_pref",
+    "data": {
+      "key": "preLoads"
+    }
+  },
+  {
+    "ts": 1779131860200,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131860200,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131860205,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131860205,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131860212,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860215,
+    "type": "activity_resume",
+    "data": {
+      "activity": "br.com.dafiti.activity.SplashSelectCountry_"
+    }
+  },
+  {
+    "ts": 1779131860216,
+    "type": "shared_pref",
+    "data": {
+      "key": "cartVO"
+    }
+  },
+  {
+    "ts": 1779131860232,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860233,
+    "type": "shared_pref",
+    "data": {
+      "key": "listLoginForCountry"
+    }
+  },
+  {
+    "ts": 1779131860235,
+    "type": "shared_pref",
+    "data": {
+      "key": "listLoginForCountry"
+    }
+  },
+  {
+    "ts": 1779131860236,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860238,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.dafiti/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131860240,
+    "type": "shared_pref",
+    "data": {
+      "key": "listLoginForCountry"
+    }
+  },
+  {
+    "ts": 1779131860241,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860245,
+    "type": "shared_pref",
+    "data": {
+      "key": "listLoginForCountry"
+    }
+  },
+  {
+    "ts": 1779131860245,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779131860245,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860246,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860247,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860247,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860247,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860248,
+    "type": "shared_pref",
+    "data": {
+      "key": "preLoads"
+    }
+  },
+  {
+    "ts": 1779131860249,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/576010465795031/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779131860249,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/576010465795031/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779131860249,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/576010465795031/activities"
+    }
+  },
+  {
+    "ts": 1779131860254,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860255,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860257,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860258,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860260,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860261,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860262,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860262,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860287,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860287,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860290,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860290,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860314,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860315,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860315,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860315,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131860327,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860332,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131860395,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131860395,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131860396,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131860396,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779131860396,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779131860397,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.dafiti/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B65D30317-0001-79E5-86F0AC56E804SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779131860404,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779131860417,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.dafiti/shared_prefs/io.fabric.sdk.android:fabric:act.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131860417,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779131860422,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/br.com.dafiti/settings?instance=eb7179094a4c8abc8ff0b91f8f15d2e085c2137a&build_version=60010028&display_version=6.1.28&source=1&icon_hash=b48bedd907f1c089578642c54b5ac725123de410"
+    }
+  },
+  {
+    "ts": 1779131860423,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/br.com.dafiti/settings?instance=eb7179094a4c8abc8ff0b91f8f15d2e085c2137a&build_version=60010028&display_version=6.1.28&source=1&icon_hash=b48bedd907f1c089578642c54b5ac725123de410"
+    }
+  },
+  {
+    "ts": 1779131860424,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/br.com.dafiti/settings?instance=eb7179094a4c8abc8ff0b91f8f15d2e085c2137a&build_version=60010028&display_version=6.1.28&source=1&icon_hash=b48bedd907f1c089578642c54b5ac725123de410"
+    }
+  },
+  {
+    "ts": 1779131860425,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/br.com.dafiti/settings"
+    }
+  },
+  {
+    "ts": 1779131860427,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.dafiti/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779131860469,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779131860470,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779131860478,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/br.com.dafiti/settings"
+    }
+  },
+  {
+    "ts": 1779131860515,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131860519,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131860520,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779131860520,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779131860544,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/576010465795031/activities"
+    }
+  },
+  {
+    "ts": 1779131860582,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/appusers"
+    }
+  },
+  {
+    "ts": 1779131860757,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/br.com.dafiti/settings"
+    }
+  },
+  {
+    "ts": 1779131860758,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/576010465795031/activities"
+    }
+  },
+  {
+    "ts": 1779131860758,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/appusers"
+    }
+  },
+  {
+    "ts": 1779131860784,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/576010465795031"
+    }
+  },
+  {
+    "ts": 1779131860800,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131860802,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/clients/heartbeat"
+    }
+  },
+  {
+    "ts": 1779131860803,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/clients/heartbeat"
+    }
+  },
+  {
+    "ts": 1779131860803,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/clients/heartbeat"
+    }
+  },
+  {
+    "ts": 1779131860804,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/clients/heartbeat"
+    }
+  },
+  {
+    "ts": 1779131860834,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/clients/heartbeat"
+    }
+  },
+  {
+    "ts": 1779131861024,
+    "type": "url_access",
+    "data": {
+      "url": "http://md-a-c.apptimize.com/api/metadata/v4/ALccV6yJaqHaMbTRUR3CfGgr8iwXaUa"
+    }
+  },
+  {
+    "ts": 1779131861032,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.dafiti/files/apptimize_crash_report"
+    }
+  },
+  {
+    "ts": 1779131861206,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779131861651,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131861653,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131861757,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/576010465795031"
+    }
+  },
+  {
+    "ts": 1779131861757,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/clients/heartbeat"
+    }
+  },
+  {
+    "ts": 1779131861758,
+    "type": "url_access",
+    "data": {
+      "url": "http://md-a-c.apptimize.com/api/metadata/v4/ALccV6yJaqHaMbTRUR3CfGgr8iwXaUa"
+    }
+  },
+  {
+    "ts": 1779131861758,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779131861851,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131861853,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131862627,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131862628,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131862628,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131862641,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131862641,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131862643,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131862643,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131862650,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863223,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/attribution?needs_attribution_data=1&environment=production&app_token=tl2t6ltbs42m&gps_adid=b812026a-97d9-4281-b475-7b41a56a9161&android_uuid=42c8d36d-d48f-4120-89c0-76d91e6b96bb&tracking_enabled=1"
+    }
+  },
+  {
+    "ts": 1779131863223,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/attribution"
+    }
+  },
+  {
+    "ts": 1779131863240,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r?id=GTM-5B5XRM&v=a65833898"
+    }
+  },
+  {
+    "ts": 1779131863241,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r?id=GTM-5B5XRM&v=a65833898"
+    }
+  },
+  {
+    "ts": 1779131863241,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r"
+    }
+  },
+  {
+    "ts": 1779131863247,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.dafiti/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131863272,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863273,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863273,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863273,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863274,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863274,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863276,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863280,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863281,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863284,
+    "type": "shared_pref",
+    "data": {
+      "key": "listLoginForCountry"
+    }
+  },
+  {
+    "ts": 1779131863284,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863285,
+    "type": "shared_pref",
+    "data": {
+      "key": "listLoginForCountry"
+    }
+  },
+  {
+    "ts": 1779131863285,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863285,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863287,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863287,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863288,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863288,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863294,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.dafiti/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779131863295,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863295,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863295,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863296,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863303,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863307,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863309,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863310,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863318,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863323,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863323,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863324,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863331,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779131863335,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863589,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r"
+    }
+  },
+  {
+    "ts": 1779131863596,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r"
+    }
+  },
+  {
+    "ts": 1779131863610,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863611,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863612,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863618,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.dafiti/shared_prefs/analytics-android.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131863620,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863621,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863622,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.dafiti/files/yChLixzYIkVSRtDApNO100hW7bwzLQws-payloads-v1.tmp"
+    }
+  },
+  {
+    "ts": 1779131863622,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863622,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131863636,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131863642,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131863642,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131863642,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131863642,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131863642,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131863643,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131863643,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131863643,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131863643,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131863646,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131863646,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131863646,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131863646,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131863664,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r?id=GTM-5B5XRM&v=a65833898"
+    }
+  },
+  {
+    "ts": 1779131863665,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r?id=GTM-5B5XRM&v=a65833898"
+    }
+  },
+  {
+    "ts": 1779131863665,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r"
+    }
+  },
+  {
+    "ts": 1779131863682,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131863686,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/events/identification"
+    }
+  },
+  {
+    "ts": 1779131863693,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/events/identification"
+    }
+  },
+  {
+    "ts": 1779131863693,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/events/identification"
+    }
+  },
+  {
+    "ts": 1779131863696,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/events/identification"
+    }
+  },
+  {
+    "ts": 1779131863738,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131863747,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/events/identification"
+    }
+  },
+  {
+    "ts": 1779131863756,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r"
+    }
+  },
+  {
+    "ts": 1779131863756,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/events/identification"
+    }
+  },
+  {
+    "ts": 1779131863785,
+    "type": "activity_resume",
+    "data": {
+      "activity": "br.com.dafiti.activity.SplashSelectCountry_"
+    }
+  },
+  {
+    "ts": 1779131863786,
+    "type": "shared_pref",
+    "data": {
+      "key": "cartVO"
+    }
+  },
+  {
+    "ts": 1779131863799,
+    "type": "shared_pref",
+    "data": {
+      "key": "preLoads"
+    }
+  },
+  {
+    "ts": 1779131863844,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131863847,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r"
+    }
+  },
+  {
+    "ts": 1779131863847,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131863850,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r"
+    }
+  },
+  {
+    "ts": 1779131864087,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/attribution"
+    }
+  },
+  {
+    "ts": 1779131864679,
+    "type": "shared_pref",
+    "data": {
+      "key": "openAppOrigin"
+    }
+  },
+  {
+    "ts": 1779131864679,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131864756,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r"
+    }
+  },
+  {
+    "ts": 1779131864756,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/attribution"
+    }
+  },
+  {
+    "ts": 1779131864779,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131864780,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131864782,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131864794,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131864794,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131864797,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131864798,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131864802,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131864862,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131864863,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131864863,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131864869,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131864870,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131864870,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131864871,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131864874,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131865842,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131865844,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131865844,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131865851,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131865852,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131865853,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131865853,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131865857,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131882326,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131882327,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131882328,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131882328,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131882331,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131882334,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131882335,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131882335,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131882336,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131882336,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131882336,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131882344,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131882344,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131882344,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131882349,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779131882349,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131882353,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/appusers"
+    }
+  },
+  {
+    "ts": 1779131882353,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/appusers"
+    }
+  },
+  {
+    "ts": 1779131882353,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131882354,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131882354,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131882354,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/appusers"
+    }
+  },
+  {
+    "ts": 1779131882355,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/appusers"
+    }
+  },
+  {
+    "ts": 1779131882371,
+    "type": "shared_pref",
+    "data": {
+      "key": "preLoads"
+    }
+  },
+  {
+    "ts": 1779131882374,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131882374,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131882376,
+    "type": "shared_pref",
+    "data": {
+      "key": "dinamicHomeDefault"
+    }
+  },
+  {
+    "ts": 1779131882378,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131882378,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131882379,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131882380,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131882383,
+    "type": "shared_pref",
+    "data": {
+      "key": "gpsAdid"
+    }
+  },
+  {
+    "ts": 1779131882387,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131882389,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131882389,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131882390,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131882390,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131882391,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131882392,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131882392,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131882392,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenAppDeeplink"
+    }
+  },
+  {
+    "ts": 1779131882393,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131882393,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenAppDeeplink"
+    }
+  },
+  {
+    "ts": 1779131882393,
+    "type": "shared_pref",
+    "data": {
+      "key": "utmCampaign"
+    }
+  },
+  {
+    "ts": 1779131882393,
+    "type": "shared_pref",
+    "data": {
+      "key": "utmSource"
+    }
+  },
+  {
+    "ts": 1779131882393,
+    "type": "shared_pref",
+    "data": {
+      "key": "utmMedium"
+    }
+  },
+  {
+    "ts": 1779131882393,
+    "type": "shared_pref",
+    "data": {
+      "key": "utmMedium"
+    }
+  },
+  {
+    "ts": 1779131882393,
+    "type": "shared_pref",
+    "data": {
+      "key": "utmMedium"
+    }
+  },
+  {
+    "ts": 1779131882394,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131882402,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131882402,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131882405,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131882409,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131882410,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131882415,
+    "type": "activity_resume",
+    "data": {
+      "activity": "br.com.dafiti.activity.HomeActivity_"
+    }
+  },
+  {
+    "ts": 1779131882416,
+    "type": "shared_pref",
+    "data": {
+      "key": "cartVO"
+    }
+  },
+  {
+    "ts": 1779131882457,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131882458,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131882458,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131882459,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131882460,
+    "type": "shared_pref",
+    "data": {
+      "key": "preLoads"
+    }
+  },
+  {
+    "ts": 1779131882474,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779131882490,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131882492,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131882494,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131882496,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131882498,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131882544,
+    "type": "shared_pref",
+    "data": {
+      "key": "cartVO"
+    }
+  },
+  {
+    "ts": 1779131882585,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779131882586,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779131882827,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/appusers"
+    }
+  },
+  {
+    "ts": 1779131883408,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/appusers"
+    }
+  },
+  {
+    "ts": 1779131883504,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131883506,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/clients/heartbeat"
+    }
+  },
+  {
+    "ts": 1779131883507,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/clients/heartbeat"
+    }
+  },
+  {
+    "ts": 1779131883507,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/clients/heartbeat"
+    }
+  },
+  {
+    "ts": 1779131883509,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/clients/heartbeat"
+    }
+  },
+  {
+    "ts": 1779131883511,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/clients/heartbeat"
+    }
+  },
+  {
+    "ts": 1779131883712,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131883712,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131883794,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779131883798,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779131883798,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779131884262,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779131884265,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779131884265,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779131884407,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/clients/heartbeat"
+    }
+  },
+  {
+    "ts": 1779131884407,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779131884408,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779131884728,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779131885407,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779131888975,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131888980,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131888980,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131888982,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131888983,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131888983,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131888986,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131888986,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131888993,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131888997,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/events/identification"
+    }
+  },
+  {
+    "ts": 1779131888998,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/events/identification"
+    }
+  },
+  {
+    "ts": 1779131888998,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/events/identification"
+    }
+  },
+  {
+    "ts": 1779131889001,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/events/identification"
+    }
+  },
+  {
+    "ts": 1779131889004,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131889004,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131889006,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889006,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131889011,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889015,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889016,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889016,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889016,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889022,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131889023,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779131889026,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889026,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889026,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889027,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/appusers"
+    }
+  },
+  {
+    "ts": 1779131889028,
+    "type": "shared_pref",
+    "data": {
+      "key": "userEmail"
+    }
+  },
+  {
+    "ts": 1779131889028,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFirstName"
+    }
+  },
+  {
+    "ts": 1779131889028,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/appusers"
+    }
+  },
+  {
+    "ts": 1779131889029,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/appusers"
+    }
+  },
+  {
+    "ts": 1779131889029,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779131889030,
+    "type": "shared_pref",
+    "data": {
+      "key": "installNetwork"
+    }
+  },
+  {
+    "ts": 1779131889030,
+    "type": "shared_pref",
+    "data": {
+      "key": "installCampaign"
+    }
+  },
+  {
+    "ts": 1779131889030,
+    "type": "shared_pref",
+    "data": {
+      "key": "installAdgroup"
+    }
+  },
+  {
+    "ts": 1779131889030,
+    "type": "shared_pref",
+    "data": {
+      "key": "installCreative"
+    }
+  },
+  {
+    "ts": 1779131889031,
+    "type": "shared_pref",
+    "data": {
+      "key": "installNetwork"
+    }
+  },
+  {
+    "ts": 1779131889031,
+    "type": "shared_pref",
+    "data": {
+      "key": "installCampaign"
+    }
+  },
+  {
+    "ts": 1779131889031,
+    "type": "shared_pref",
+    "data": {
+      "key": "installAdgroup"
+    }
+  },
+  {
+    "ts": 1779131889031,
+    "type": "shared_pref",
+    "data": {
+      "key": "installCreative"
+    }
+  },
+  {
+    "ts": 1779131889032,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889032,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/appusers"
+    }
+  },
+  {
+    "ts": 1779131889051,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131889052,
+    "type": "url_access",
+    "data": {
+      "url": "http://uninstall.io/api/v1/events/identification"
+    }
+  },
+  {
+    "ts": 1779131889060,
+    "type": "shared_pref",
+    "data": {
+      "key": "preLoads"
+    }
+  },
+  {
+    "ts": 1779131889063,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889064,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889066,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131889066,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889067,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131889070,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889070,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131889070,
+    "type": "shared_pref",
+    "data": {
+      "key": "dinamicBannersDefault"
+    }
+  },
+  {
+    "ts": 1779131889071,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889071,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131889075,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131889076,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131889077,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131889077,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131889077,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889078,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889078,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenAppDeeplink"
+    }
+  },
+  {
+    "ts": 1779131889078,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889079,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131889079,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenAppDeeplink"
+    }
+  },
+  {
+    "ts": 1779131889080,
+    "type": "shared_pref",
+    "data": {
+      "key": "utmCampaign"
+    }
+  },
+  {
+    "ts": 1779131889080,
+    "type": "shared_pref",
+    "data": {
+      "key": "utmSource"
+    }
+  },
+  {
+    "ts": 1779131889080,
+    "type": "shared_pref",
+    "data": {
+      "key": "utmMedium"
+    }
+  },
+  {
+    "ts": 1779131889081,
+    "type": "shared_pref",
+    "data": {
+      "key": "utmMedium"
+    }
+  },
+  {
+    "ts": 1779131889081,
+    "type": "shared_pref",
+    "data": {
+      "key": "utmMedium"
+    }
+  },
+  {
+    "ts": 1779131889082,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889086,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131889086,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenAppDeeplink"
+    }
+  },
+  {
+    "ts": 1779131889086,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenAppDeeplink"
+    }
+  },
+  {
+    "ts": 1779131889087,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackOpenApp"
+    }
+  },
+  {
+    "ts": 1779131889090,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889091,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889094,
+    "type": "activity_resume",
+    "data": {
+      "activity": "br.com.dafiti.activity.HomeGenderActivity_"
+    }
+  },
+  {
+    "ts": 1779131889095,
+    "type": "shared_pref",
+    "data": {
+      "key": "cartVO"
+    }
+  },
+  {
+    "ts": 1779131889098,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.dafiti/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-6A0B65D30317-0001-79E5-86F0AC56E804.temp.tmp"
+    }
+  },
+  {
+    "ts": 1779131889101,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.dafiti/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779131889106,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889106,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889107,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889107,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889108,
+    "type": "shared_pref",
+    "data": {
+      "key": "menuDefault"
+    }
+  },
+  {
+    "ts": 1779131889114,
+    "type": "shared_pref",
+    "data": {
+      "key": "preLoads"
+    }
+  },
+  {
+    "ts": 1779131889115,
+    "type": "shared_pref",
+    "data": {
+      "key": "preLoads"
+    }
+  },
+  {
+    "ts": 1779131889120,
+    "type": "shared_pref",
+    "data": {
+      "key": "gpsAdid"
+    }
+  },
+  {
+    "ts": 1779131889122,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889124,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131889125,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889126,
+    "type": "shared_pref",
+    "data": {
+      "key": "dinamicBannersDefault"
+    }
+  },
+  {
+    "ts": 1779131889127,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889128,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131889137,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889141,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131889144,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889144,
+    "type": "shared_pref",
+    "data": {
+      "key": "wrapper"
+    }
+  },
+  {
+    "ts": 1779131889148,
+    "type": "shared_pref",
+    "data": {
+      "key": "selectedCountry"
+    }
+  },
+  {
+    "ts": 1779131889152,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889154,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889155,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889157,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889160,
+    "type": "shared_pref",
+    "data": {
+      "key": "segmentKey"
+    }
+  },
+  {
+    "ts": 1779131889228,
+    "type": "shared_pref",
+    "data": {
+      "key": "cartVO"
+    }
+  },
+  {
+    "ts": 1779131889263,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779131889263,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  }
+]

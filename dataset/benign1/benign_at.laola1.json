@@ -1,0 +1,219 @@
+[
+  {
+    "ts": 1779130956577,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779130956577,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779130956577,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779130956578,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779130956581,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.laola1/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B624C009B-0001-5B26-FE2D7EF84570SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779130956584,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779130956586,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779130956586,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779130956605,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.laola1/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779130956656,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779130956656,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.laola1/shared_prefs/io.fabric.sdk.android:fabric:b.a.a.a.u.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130956657,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779130956668,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779130956672,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779130956676,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779130956680,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.laola1/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779130956757,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/at.laola1/settings?instance=b049f5abd6e5b9bd1d61abd7a959594585af151f&build_version=259&display_version=2.0.5&source=1&icon_hash=50cac42ce21dea461f9d60196506846f58fa342d"
+    }
+  },
+  {
+    "ts": 1779130956791,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/at.laola1/settings?instance=b049f5abd6e5b9bd1d61abd7a959594585af151f&build_version=259&display_version=2.0.5&source=1&icon_hash=50cac42ce21dea461f9d60196506846f58fa342d"
+    }
+  },
+  {
+    "ts": 1779130957334,
+    "type": "shared_pref",
+    "data": {
+      "key": "application_id"
+    }
+  },
+  {
+    "ts": 1779130957334,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779130957334,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_id"
+    }
+  },
+  {
+    "ts": 1779130957334,
+    "type": "shared_pref",
+    "data": {
+      "key": "pw_base_url"
+    }
+  },
+  {
+    "ts": 1779130957334,
+    "type": "url_access",
+    "data": {
+      "url": "https://cp.pushwoosh.com/json/1.3/applicationOpen"
+    }
+  },
+  {
+    "ts": 1779130958284,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779130959604,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779130960610,
+    "type": "shared_pref",
+    "data": {
+      "key": "application_id"
+    }
+  },
+  {
+    "ts": 1779130960611,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779130960618,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_id"
+    }
+  },
+  {
+    "ts": 1779130960620,
+    "type": "shared_pref",
+    "data": {
+      "key": "pw_base_url"
+    }
+  },
+  {
+    "ts": 1779130960620,
+    "type": "url_access",
+    "data": {
+      "url": "https://cp.pushwoosh.com/json/1.3/registerDevice"
+    }
+  },
+  {
+    "ts": 1779130964863,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.laola1/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  }
+]

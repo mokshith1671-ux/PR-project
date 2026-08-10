@@ -1,0 +1,1437 @@
+[
+  {
+    "ts": 1779634523413,
+    "type": "shared_pref",
+    "data": {
+      "key": "flag_configuration"
+    }
+  },
+  {
+    "ts": 1779634523431,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779634523437,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/andrewgilman.dartsscoreboard/shared_prefs/admob.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634523439,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_url_hashes"
+    }
+  },
+  {
+    "ts": 1779634523439,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_vertical_hashes"
+    }
+  },
+  {
+    "ts": 1779634523439,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_settings_json"
+    }
+  },
+  {
+    "ts": 1779634523439,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/admob_user_agent.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634523440,
+    "type": "shared_pref",
+    "data": {
+      "key": "display_cutout"
+    }
+  },
+  {
+    "ts": 1779634523440,
+    "type": "shared_pref",
+    "data": {
+      "key": "native_advanced_settings"
+    }
+  },
+  {
+    "ts": 1779634523441,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_agent"
+    }
+  },
+  {
+    "ts": 1779634523447,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779634523464,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_csi_server"
+    }
+  },
+  {
+    "ts": 1779634523465,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523465,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523469,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523469,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523469,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523470,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523470,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523470,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779634523470,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779634523470,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779634523471,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779634523471,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779634523472,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_for_coarse_permission:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523473,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_timeout:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523473,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_interval:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523473,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:pan:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523478,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523478,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523478,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523479,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523479,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523479,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523480,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523480,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779634523480,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779634523481,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779634523481,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779634523481,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779634523498,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523498,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523498,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/andrewgilman.dartsscoreboard/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779634523499,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523499,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523500,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523500,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523500,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634523501,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779634523501,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779634523501,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779634523502,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779634523502,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779634523502,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779634523504,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/andrewgilman.dartsscoreboard/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1779634523507,
+    "type": "dex_load",
+    "data": {
+      "dex": "/data/user/0/andrewgilman.dartsscoreboard/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779634523507,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/andrewgilman.dartsscoreboard/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779634523507,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/andrewgilman.dartsscoreboard/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779634523509,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779634523509,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779634523511,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/andrewgilman.dartsscoreboard/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779634523513,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/andrewgilman.dartsscoreboard/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1779634523513,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/andrewgilman.dartsscoreboard/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1779634523514,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/andrewgilman.dartsscoreboard/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1779634523524,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779634523532,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/andrewgilman.dartsscoreboard/shared_prefs/mobileads_consent.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634523534,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779634523536,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779634523548,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/andrewgilman.dartsscoreboard/shared_prefs/andrewgilman.dartsscoreboard_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634523559,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~fwuV9TAq68jcdnO9qC4qlg==/andrewgilman.dartsscoreboard-A5n3vJ3C5wi_9nC5zvWspA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779634523577,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779634523579,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779634523580,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779634523581,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779634523586,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779634523586,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779634523588,
+    "type": "activity_resume",
+    "data": {
+      "activity": "andrewgilman.dartsscoreboard.DartsScoreboard"
+    }
+  },
+  {
+    "ts": 1779634523589,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779634523590,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779634523590,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779634523590,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779634523590,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779634523591,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779634523592,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779634523594,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779634523594,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779634523596,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779634523597,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779634523597,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779634523597,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779634523597,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779634523598,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779634523598,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779634523599,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779634523600,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779634523600,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779634523600,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779634523601,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779634523611,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779634523614,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779634523616,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779634523618,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779634523618,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779634523619,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/andrewgilman.dartsscoreboard/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634523650,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779634523745,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779634523806,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/andrewgilman.dartsscoreboard/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634523847,
+    "type": "webview",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779634523856,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779634523905,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779634525518,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779634525521,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779634525523,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779634525523,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779634525523,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779634525737,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/favicon.ico"
+    }
+  },
+  {
+    "ts": 1779634525844,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/getconfig/pubsetting?app_name=andrewgilman.dartsscoreboard&client=ca-app-pub-4527589462219859&slotname=8710022727"
+    }
+  },
+  {
+    "ts": 1779634526146,
+    "type": "webview",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779634526148,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779634526156,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779634526171,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779634526176,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779634526179,
+    "type": "file_access",
+    "data": {
+      "path": "data:text/html;charset=utf-8;base64,"
+    }
+  },
+  {
+    "ts": 1779634526188,
+    "type": "file_access",
+    "data": {
+      "path": "https://fonts.googleapis.com/css?family=Open%20Sans%3A400%2C500"
+    }
+  },
+  {
+    "ts": 1779634526193,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/omsdk/releases/live/omsdk-v1.js"
+    }
+  },
+  {
+    "ts": 1779634526194,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260520/r20110914/client/one_afma_ctd.js"
+    }
+  },
+  {
+    "ts": 1779634526195,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260520/r20110914/client/qs_click_protection.js"
+    }
+  },
+  {
+    "ts": 1779634526197,
+    "type": "file_access",
+    "data": {
+      "path": "https://www.googletagservices.com/activeview/js/current/lidar.js?cache=r20110914"
+    }
+  },
+  {
+    "ts": 1779634526197,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/omsdk/releases/live/omid_session_bin.js"
+    }
+  },
+  {
+    "ts": 1779634526211,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/favicon.ico"
+    }
+  },
+  {
+    "ts": 1779634528189,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260520/r20110914/client/load_preloaded_resource.js"
+    }
+  },
+  {
+    "ts": 1779634528189,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260520/r20110914/abg_lite.js"
+    }
+  },
+  {
+    "ts": 1779634528191,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260520/r20110914/client/window_focus.js"
+    }
+  },
+  {
+    "ts": 1779634528191,
+    "type": "file_access",
+    "data": {
+      "path": "https://www.gstatic.com/mysidia/1f438863f65ca9ac45f20f2ebb7ac91e.js?tag=addon/mysidia_one_click_handler_one_afma"
+    }
+  },
+  {
+    "ts": 1779634528326,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=colleague-executed&name=4"
+    }
+  },
+  {
+    "ts": 1779634528352,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=reach&proto=CAlgAWACaAM%3D"
+    }
+  },
+  {
+    "ts": 1779634528358,
+    "type": "file_access",
+    "data": {
+      "path": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2"
+    }
+  },
+  {
+    "ts": 1779634528983,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779634528992,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779634528997,
+    "type": "url_access",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/pagead/interaction/?ai=CudZcXhETaraJBrSTmsMP6Mqy0QYAvon7lPcV5f2dhvMKEAEgkcCvIWDlsueDxA6IAQGgAZjeovEDyAEBqQKh8q-v5OmnPqgDAcgDigSYBAiqBIsCT9A-4MLV_4kzqc3jd4tQehqJEXTbiXFhezLPfeMAEaToanAFCRCrRk3B4x3DXQ-j5RF83x2wLx8fsZTg8k-SwGJsMirllKdWIhrKKyRg0f2QJAAVGSR5LwddJK71TrqyEeCMI9Gq3Wx4EoFNpJJo30aEwbwg8xc5WwRF3Nai4XOJA7oT4l18wNoEr9zQRQ4kDa5pMyDohBHiYQJGcVI5x9ViosekHC4XGbftxa-TPoPhN3cNBMKT9L677DHAhdJXqbxx-jSv-eaZW8ptiOlxM6lBb3JuUs_zCCja_0gacjKVardkRZwmqVNVS4UlfTjK6mknouFoAjI2VJfSUQBTdEwA_ITE3Q_kxkOAwATbpbaB2ASIBf_Sn-BOkAYB2AYCgAfQod0OmAcBqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB_fCsQLYBwHyBwQQk8RPoAiy5LcEsAgC0ggxCIBhEAEY3wMyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOlj_94eel9KUA4AKAsgLAaoNAklO6g0TCIG_iJ6X0pQDFbSJZgIdaKUsaogOBNgTCoIUKxopbW9iaWxlYXBwOjoyLWFuZHJld2dpbG1hbi5kYXJ0c3Njb3JlYm9hcmTQFQHKFgIKAPgWAYAXAbIXVwoaCAASFHB1Yi00NTI3NTg5NDYyMjE5ODU5GAAYASoKODcxMDAyMjcyNzIpbW9iaWxlYXBwOjoyLWFuZHJld2dpbG1hbi5kYXJ0c3Njb3JlYm9hcmRQBroXAjgBqhgXCQAAAAAT4jNBEgo4NzEwMDIyNzI3GAGyGAkSAv1aGAEiAQDQGAHCGQIIAQ&sigh=OxizXuhCShw&cid=CAQSvwIABaugfWh_NjY_5JR8zpUlcpo21WCuMC_21pa8366F0fSMGoTqUbCYBMxrN3spGsUEaZ3ccffPaar0PXvXGRmpgsTWBobiaqhEp15VcJZdC8NZB34j7UJd9WhFVQlbW9858DKDserN59lgAEdMzd8KdGW1rjRikIB5qiLBLyjCvOY6AIoeAfj0wIj1wQpOA3sPIW0mDGqUCZbEeuqxNAHF86Kjmk_DDUAWHxMVdrdO1aLPYAgci5kFMuJTkqSTt7xYAiEOMO3m5nAKesS7L8jBg4KhmuDQCC0xGIPDV6PFCd42pKkhrRhTuC3-oroMXcaBDdN-o07yK4fmoCmNaofpgPhelmDP_j8tOGlwpABBpQafj6EQ_-BA_UF42V0ycbdmCIFi-iKHt_eBRhlbgDDVmS81DHMUxwjS6UWrkZux&label=admob_mediation_request_fill_result&mediation_fill_status=-3.0.2856.-3&ttr=@gw_ttr@&smc_index=0"
+    }
+  },
+  {
+    "ts": 1779634528998,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.init({\"impressionOwner\":\"javascript\",\"videoEventsOwner\":\"none\",\"isolateVerificationScripts\":true})}"
+    }
+  },
+  {
+    "ts": 1779634528999,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setState(\"foregrounded\")}"
+    }
+  },
+  {
+    "ts": 1779634529002,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setDeviceVolume(0.33333334)}"
+    }
+  },
+  {
+    "ts": 1779634529003,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setDeviceVolume(0.33333334)}"
+    }
+  },
+  {
+    "ts": 1779634529003,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.startSession(\"65390bef-a8d2-4003-9295-f24cafedb115\",{\"environment\":\"app\",\"adSessionType\":\"html\",\"deviceInfo\":{\"deviceType\":\"Google; sdk_gphone_x86_64\",\"osVersion\":\"30\",\"os\":\"Android\"},\"supports\":[\"clid\",\"vlid\"],\"omidNativeInfo\":{\"partnerName\":\"Google\",\"partnerVersion\":\"201004999.8298000\"},\"app\":{\"libraryVersion\":\"1.3.1-google_20200121\",\"appId\":\"andrewgilman.dartsscoreboard\"},\"customReferenceData\":\"\"},{},\"\")}"
+    }
+  },
+  {
+    "ts": 1779634529014,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/favicon.ico"
+    }
+  },
+  {
+    "ts": 1779634529025,
+    "type": "url_access",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/pagead/adview?ai=CudZcXhETaraJBrSTmsMP6Mqy0QYAvon7lPcV5f2dhvMKEAEgkcCvIWDlsueDxA6IAQGgAZjeovEDyAEBqQKh8q-v5OmnPqgDAcgDigSYBAiqBIsCT9A-4MLV_4kzqc3jd4tQehqJEXTbiXFhezLPfeMAEaToanAFCRCrRk3B4x3DXQ-j5RF83x2wLx8fsZTg8k-SwGJsMirllKdWIhrKKyRg0f2QJAAVGSR5LwddJK71TrqyEeCMI9Gq3Wx4EoFNpJJo30aEwbwg8xc5WwRF3Nai4XOJA7oT4l18wNoEr9zQRQ4kDa5pMyDohBHiYQJGcVI5x9ViosekHC4XGbftxa-TPoPhN3cNBMKT9L677DHAhdJXqbxx-jSv-eaZW8ptiOlxM6lBb3JuUs_zCCja_0gacjKVardkRZwmqVNVS4UlfTjK6mknouFoAjI2VJfSUQBTdEwA_ITE3Q_kxkOAwATbpbaB2ASIBf_Sn-BOkAYB2AYCgAfQod0OmAcBqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB_fCsQLYBwHyBwQQk8RPoAiy5LcEsAgC0ggxCIBhEAEY3wMyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOlj_94eel9KUA4AKAsgLAaoNAklO6g0TCIG_iJ6X0pQDFbSJZgIdaKUsaogOBNgTCoIUKxopbW9iaWxlYXBwOjoyLWFuZHJld2dpbG1hbi5kYXJ0c3Njb3JlYm9hcmTQFQHKFgIKAPgWAYAXAbIXVwoaCAASFHB1Yi00NTI3NTg5NDYyMjE5ODU5GAAYASoKODcxMDAyMjcyNzIpbW9iaWxlYXBwOjoyLWFuZHJld2dpbG1hbi5kYXJ0c3Njb3JlYm9hcmRQBroXAjgBqhgXCQAAAAAT4jNBEgo4NzEwMDIyNzI3GAGyGAkSAv1aGAEiAQDQGAHCGQIIAQ&sigh=VdZbeOL-nuQ&cmd=ChtjYS1hcHAtcHViLTQ1Mjc1ODk0NjIyMTk4NTkQABgB&uach_m=%5BUACH%5D&cid=CAQSvwIABaugfWh_NjY_5JR8zpUlcpo21WCuMC_21pa8366F0fSMGoTqUbCYBMxrN3spGsUEaZ3ccffPaar0PXvXGRmpgsTWBobiaqhEp15VcJZdC8NZB34j7UJd9WhFVQlbW9858DKDserN59lgAEdMzd8KdGW1rjRikIB5qiLBLyjCvOY6AIoeAfj0wIj1wQpOA3sPIW0mDGqUCZbEeuqxNAHF86Kjmk_DDUAWHxMVdrdO1aLPYAgci5kFMuJTkqSTt7xYAiEOMO3m5nAKesS7L8jBg4KhmuDQCC0xGIPDV6PFCd42pKkhrRhTuC3-oroMXcaBDdN-o07yK4fmoCmNaofpgPhelmDP_j8tOGlwpABBpQafj6EQ_-BA_UF42V0ycbdmCIFi-iKHt_eBRhlbgDDVmS81DHMUxwjS6UWrkZuxGAE&plcmtid=@gw_placement_id@&ms=CoACde2nkEnvyqtvCOQ6JyIxoxfgLyk8ZosFfhviMoZ_gn1ahiuqpYqcXjChVxFDBFHRqvrJo7SkCvR5Y8018vmH0hZzxWAnTB6JEawdnoVSosu0cqTM7D9wYNyQx6p7FFwnu4HSiMUQTYBkqi4bRglqyPXLL1COpca2L8JZFSRDxSF_n0aPRvsgrsOIKrl5G6GMAJ2qqXOs3sFI77DTiPIOHXhYOZ7kuUNCDSZ0HqK_5MFodby3tFKo5F1Y3ZTy_osftECQWiRQdluV_92ZMqVIQE0X8PAwDd3odkPEwsZuILPnrZAX4eGz5d6517zMALbrLKLeHPUXfjZa3nVpAX2ekwqAAk6E5YfixmAxwgdPy0WYoBEIgZZ8xXe3FGCjTipYAvCBDYGxiaFynlkG86IuopinSjmw_PkOKvfUpi74ZGV-3TC9_Dcw65b4Kc0OGa6_WODbMEhiEcPQFX5xIZwjlhTL8kJ1QaxW6znQGZWK0RozQ0ek4BlwOxZjlYnqde9qJ9ClsDdlxV2wCCNpyGUig5Eu4LT2EwnKlJC-d8VyFhzG1-ZExGrMfltRKM1dOGf0qw-GP0PgkVgTaTZLsdkK9vBjY2O4WkEL9ifD58yNRSoT0kT7cVfi4-A_n1qSro0y-rFVt3UIYf7SEZu4LGg4e-HU_kCBH3HgkWj2WPs_gFLphd4SEGSxvsVrm-OeeNdp3vm6wKI"
+    }
+  },
+  {
+    "ts": 1779634529036,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setNativeViewHierarchy({\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":850.9091186523438,\"childViews\":[{\"x\":0,\"y\":690.1818237304688,\"width\":392.7272644042969,\"height\":89.81818389892578,\"adSessionId\":\"65390bef-a8d2-4003-9295-f24cafedb115\",\"notVisibleReason\":\"noWindowFocus\"}]})}"
+    }
+  },
+  {
+    "ts": 1779634529047,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?zx=40c8egn1zos8&id=gmob-apps-activeview&event=empty-clickstring&immediate=false&v=sdk_20260514_RC00&app_name=app_name_unavailable"
+    }
+  },
+  {
+    "ts": 1779634530411,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setNativeViewHierarchy({\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":850.9091186523438,\"childViews\":[{\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":780,\"childViews\":[{\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":780,\"childViews\":[{\"x\":0,\"y\":108.7272720336914,\"width\":392.7272644042969,\"height\":671.272705078125,\"childViews\":[{\"x\":0,\"y\":108.7272720336914,\"width\":392.7272644042969,\"height\":671.272705078125,\"childViews\":[{\"x\":0,\"y\":690.1818237304688,\"width\":392.7272644042969,\"height\":89.81818389892578,\"childViews\":[{\"x\":0,\"y\":690.1818237304688,\"width\":392.7272644042969,\"height\":89.81818389892578,\"childViews\":[{\"x\":0,\"y\":690.1818237304688,\"width\":392.7272644042969,\"height\":89.81818389892578,\"childViews\":[{\"x\":0,\"y\":690.1818237304688,\"width\":392.7272644042969,\"height\":89.81818389892578,\"adSessionId\":\"65390bef-a8d2-4003-9295-f24cafedb115\"}]}]}]}]}]},{\"x\":0,\"y\":52.727272033691406,\"width\":392.7272644042969,\"height\":56,\"childViews\":[{\"x\":0,\"y\":52.727272033691406,\"width\":392.7272644042969,\"height\":56,\"childViews\":[{\"x\":16,\"y\":67.2727279663086,\"width\":156.36363220214844,\"height\":26.909090042114258},{\"x\":352.3636474609375,\"y\":52.727272033691406,\"width\":40.3636360168457,\"height\":56,\"childViews\":[{\"x\":352.3636474609375,\"y\":56.727272033691406,\"width\":40.3636360168457,\"height\":48}]}]}]}]},{\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":52.727272033691406}]}]})}"
+    }
+  },
+  {
+    "ts": 1779634531420,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsvRLABb3e8kTfnxIDQQkSp1g_ic6Mhqvoghrgh3xSkI_HJAEBDYL0ASvX_2fV0ryzyAHBEa4WxqzEfGAtUtG1tSnBQLrBwpaxbakPIGcdQemyBcZLU4QhSUu5ReuwMrbcH0QO0FjKvIS3hT333poLa3PJYa47w4PBOPymOtTYDciibpY7rmXkKCxDlzdYf7kYgrT3MKQz-zznjM16u7dIdrbQ&sai=AMfl-YTK1VsDIA5mF9dIduRyF6fC4-RhA6SvJMeCyzchMoUG-WMx7ciHRiykIzZztWKkjOfXuRQLKEl5R6AQdSqyobZuq35T0nMKLntfS3qWXfFKAJzTZlLGay2UTwFD9wGIaGI69Cgosuz5Qcct8nkP-HoUd1yMImEH10TU7dPgCxCklfbsyq-wPXWiEAT_Lar86tjKCjuBIQp41OqVP8-wAfYf8Xa5fXy0n5VMmK9R2jfRIGKIDvFppG9tt3U_NzOuN8y3C_d8o8cDjauPi8VpmOoWkPOF2wiWlYgLhkWFY-nmVheM2UAnOK_O8czvwWTW9yZt3OAtv3VEq4b_4a-5J8odGleKxBU6dciyVhZGgUDaeFY7R4CeTAcZcL36CZWpRkHtF_k1UQ3So50l6sgw0FbiOa8A9LU-BEYz5U8VokImrBkv1FelEtpQhd3I9fDOzYpNvSSbkehahLwm_CQ0pZ-s4UY&sig=Cg0ArKJSzO3f564-2BSGEAE&cid=CAQSvwIABaugfWh_NjY_5JR8zpUlcpo21WCuMC_21pa8366F0fSMGoTqUbCYBMxrN3spGsUEaZ3ccffPaar0PXvXGRmpgsTWBobiaqhEp15VcJZdC8NZB34j7UJd9WhFVQlbW9858DKDserN59lgAEdMzd8KdGW1rjRikIB5qiLBLyjCvOY6AIoeAfj0wIj1wQpOA3sPIW0mDGqUCZbEeuqxNAHF86Kjmk_DDUAWHxMVdrdO1aLPYAgci5kFMuJTkqSTt7xYAiEOMO3m5nAKesS7L8jBg4KhmuDQCC0xGIPDV6PFCd42pKkhrRhTuC3-oroMXcaBDdN-o07yK4fmoCmNaofpgPhelmDP_j8tOGlwpABBpQafj6EQ_-BA_UF42V0ycbdmCIFi-iKHt_eBRhlbgDDVmS81DHMUxwjS6UWrkZuxGAE&id=lidar2&mcvt=1001&p=690,0,780.203125,393.109375&tm=3070.799999999783&tu=2069.799999999783&mtos=0,1001,1001,1001,1001&tos=0,1001,0,0,0&v=20260521&bin=2&avms=omio&bs=392,850&mc=0.98&app=1&itpl=22&adk=3953787641&rs=9&la=0&cr=0&vs=4&r=v&co=7556732800&rst=1779634526170&rpt=2804&sfr=15,15&met=mue&wmsd=0&pbe=0&fle=0&vae=0&spb=0&sfl=0&ffslot=0&reach=8&io2=0"
+    }
+  },
+  {
+    "ts": 1779634540719,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779634540719,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779634540721,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634540721,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634540722,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634540722,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779634540722,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779634540722,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634540722,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634540722,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779634540722,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779634540722,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779634540722,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779634540723,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779634540724,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634540725,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634540725,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634540725,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779634540725,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779634540725,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634540726,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779634540726,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779634540727,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779634540728,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779634540728,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779634540728,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779634540730,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779634540731,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779634540736,
+    "type": "shared_pref",
+    "data": {
+      "key": "TEAMS"
+    }
+  },
+  {
+    "ts": 1779634540736,
+    "type": "shared_pref",
+    "data": {
+      "key": "HANDICAP_POINTS"
+    }
+  },
+  {
+    "ts": 1779634540743,
+    "type": "activity_resume",
+    "data": {
+      "activity": "andrewgilman.dartsscoreboard.MatchSetup"
+    }
+  },
+  {
+    "ts": 1779634540752,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?zx=liq4a8qo8sa0&id=gmob-apps-activeview&event=scrollable-view-baseline&v=sdk_20260514_RC00&is_tos=false"
+    }
+  },
+  {
+    "ts": 1779634540869,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setNativeViewHierarchy({\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":850.9091186523438,\"childViews\":[{\"x\":0,\"y\":690.1818237304688,\"width\":392.7272644042969,\"height\":89.81818389892578,\"adSessionId\":\"65390bef-a8d2-4003-9295-f24cafedb115\",\"notVisibleReason\":\"noWindowFocus\"}]})}"
+    }
+  },
+  {
+    "ts": 1779634541465,
+    "type": "file_access",
+    "data": {
+      "path": "data:text/html;charset=utf-8;base64,"
+    }
+  },
+  {
+    "ts": 1779634541477,
+    "type": "file_access",
+    "data": {
+      "path": "https://fonts.googleapis.com/css?family=Open%20Sans%3A400%2C500"
+    }
+  },
+  {
+    "ts": 1779634541479,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260520/r20110914/client/load_preloaded_resource.js"
+    }
+  },
+  {
+    "ts": 1779634541493,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260520/r20110914/abg_lite.js"
+    }
+  },
+  {
+    "ts": 1779634541494,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260520/r20110914/client/window_focus.js"
+    }
+  },
+  {
+    "ts": 1779634541495,
+    "type": "file_access",
+    "data": {
+      "path": "https://www.gstatic.com/mysidia/1f438863f65ca9ac45f20f2ebb7ac91e.js?tag=addon/mysidia_one_click_handler_one_afma"
+    }
+  },
+  {
+    "ts": 1779634541517,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=colleague-executed&name=4"
+    }
+  },
+  {
+    "ts": 1779634541535,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=reach&proto=CAlgAWACaAM%3D"
+    }
+  },
+  {
+    "ts": 1779634541564,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/favicon.ico"
+    }
+  },
+  {
+    "ts": 1779634541566,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779634541572,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.init({\"impressionOwner\":\"javascript\",\"videoEventsOwner\":\"none\",\"isolateVerificationScripts\":true})}"
+    }
+  },
+  {
+    "ts": 1779634541573,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setDeviceVolume(0.33333334)}"
+    }
+  },
+  {
+    "ts": 1779634541574,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.startSession(\"9c06b584-eee9-4ea7-8199-580022d22b0a\",{\"environment\":\"app\",\"adSessionType\":\"html\",\"deviceInfo\":{\"deviceType\":\"Google; sdk_gphone_x86_64\",\"osVersion\":\"30\",\"os\":\"Android\"},\"supports\":[\"clid\",\"vlid\"],\"omidNativeInfo\":{\"partnerName\":\"Google\",\"partnerVersion\":\"201004999.8298000\"},\"app\":{\"libraryVersion\":\"1.3.1-google_20200121\",\"appId\":\"andrewgilman.dartsscoreboard\"},\"customReferenceData\":\"\"},{},\"\")}"
+    }
+  },
+  {
+    "ts": 1779634541575,
+    "type": "url_access",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/pagead/interaction/?ai=C3GuabRETapnTHMfZmsMP5OzE-QYAvon7lPcV5f2dhvMKEAEgkcCvIWDlsueDxA6IAQGgAZjeovEDyAEBqQKh8q-v5OmnPqgDAcgDigSYBAiqBIsCT9CxPporql5yZ89kPbilD7EPvpnxh9OFIkcOuOdqIp7gOwZz6PDAKOrzOnB2bpw1HapaRJXMyMzjXwdXhGXdQrcmvr6mL2FqwPKUfdOYOqKXl64IlSJH1odwIwkxOimx8LadUoPWJzITEhPRl1LOUH4wKriEkuKDeu2MMnNyzJ6sng1cIFIGHbZw-Qj6-zYe5sxhf6cJi40mAffiuP85ZG4S33IToWHXNFayZD4ryTq8Gg7EVJUaCwq8HQjAMpm5oKe2ogjpATTvHTnqodL6Ku1K8y5sTAWtVIFJNEIehizQ3mPW3PtlMfXlDdbQX8mIIP2Efha8ogrry9Mj96E8KarV71gNSKNcniNrwATbpbaB2ASIBf_Sn-BOkAYB2AYCgAfQod0OmAcBqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB_fCsQLYBwHyBwQQto5AoAiy5LcEsAgC0ggxCIBhEAEY3wMyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOliDhrKll9KUA4AKAsgLAaoNAklO6g0TCNrKsqWX0pQDFcesZgIdZDYxb4gOBNgTCoIUKxopbW9iaWxlYXBwOjoyLWFuZHJld2dpbG1hbi5kYXJ0c3Njb3JlYm9hcmTQFQHKFgIKAPgWAYAXAbIXVwoaCAASFHB1Yi00NTI3NTg5NDYyMjE5ODU5GAAYASoKODcxMDAyMjcyNzIpbW9iaWxlYXBwOjoyLWFuZHJld2dpbG1hbi5kYXJ0c3Njb3JlYm9hcmRQBroXAjgBqhgXCQAAAAA2BzBBEgo4NzEwMDIyNzI3GAGyGAkSAv1aGAEiAQDQGAHCGQIIAQ&sigh=pW24PzgGrWU&cid=CAQSvwIABaugfS_Jap9LnSJdrTlGXL5nULN6kgT9tcKBmsIh4s1OigDHxoOYt17UqLSscAO4bb2iBsfiaCkafl2nLBBIh18l605H-SP8a4nsPPpF1OC4J5I3nNSrbePM8x9TkyqtgwWfI1MyDQ6zL3EoCBLjTQzP3BIHeJ-jEYHkmEY2ySmPXtEPbI4KhoGldGJbrlVuMg19fXJLy-AvgsZoK-13UCBHJGBk-CKEAOsY0cGPWu0631CCUfBmE-xxyWlq5zg8ccoKahUpNvWKw1WTSBHB7MDMrrbvAAAPlLGGxTzGUPsODj5o7fckFn1xwjkYA-iL9WQ8b6AANfmq_qytSkZ_uSt8sRJ3S-s3ufXh5zCAOc9n0zW-FHwpnHE7ZMWR9_NPxOXj0H-o4ZRHL1oNAW-uxgy-VhFpAIza3Q6Yla_U&label=admob_mediation_request_fill_result&mediation_fill_status=-3.0.121.-3&ttr=@gw_ttr@&smc_index=0"
+    }
+  },
+  {
+    "ts": 1779634541584,
+    "type": "url_access",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/pagead/adview?ai=C3GuabRETapnTHMfZmsMP5OzE-QYAvon7lPcV5f2dhvMKEAEgkcCvIWDlsueDxA6IAQGgAZjeovEDyAEBqQKh8q-v5OmnPqgDAcgDigSYBAiqBIsCT9CxPporql5yZ89kPbilD7EPvpnxh9OFIkcOuOdqIp7gOwZz6PDAKOrzOnB2bpw1HapaRJXMyMzjXwdXhGXdQrcmvr6mL2FqwPKUfdOYOqKXl64IlSJH1odwIwkxOimx8LadUoPWJzITEhPRl1LOUH4wKriEkuKDeu2MMnNyzJ6sng1cIFIGHbZw-Qj6-zYe5sxhf6cJi40mAffiuP85ZG4S33IToWHXNFayZD4ryTq8Gg7EVJUaCwq8HQjAMpm5oKe2ogjpATTvHTnqodL6Ku1K8y5sTAWtVIFJNEIehizQ3mPW3PtlMfXlDdbQX8mIIP2Efha8ogrry9Mj96E8KarV71gNSKNcniNrwATbpbaB2ASIBf_Sn-BOkAYB2AYCgAfQod0OmAcBqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB_fCsQLYBwHyBwQQto5AoAiy5LcEsAgC0ggxCIBhEAEY3wMyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOliDhrKll9KUA4AKAsgLAaoNAklO6g0TCNrKsqWX0pQDFcesZgIdZDYxb4gOBNgTCoIUKxopbW9iaWxlYXBwOjoyLWFuZHJld2dpbG1hbi5kYXJ0c3Njb3JlYm9hcmTQFQHKFgIKAPgWAYAXAbIXVwoaCAASFHB1Yi00NTI3NTg5NDYyMjE5ODU5GAAYASoKODcxMDAyMjcyNzIpbW9iaWxlYXBwOjoyLWFuZHJld2dpbG1hbi5kYXJ0c3Njb3JlYm9hcmRQBroXAjgBqhgXCQAAAAA2BzBBEgo4NzEwMDIyNzI3GAGyGAkSAv1aGAEiAQDQGAHCGQIIAQ&sigh=XAgQfX5xZWU&cmd=ChtjYS1hcHAtcHViLTQ1Mjc1ODk0NjIyMTk4NTkQABgB&uach_m=%5BUACH%5D&cid=CAQSvwIABaugfS_Jap9LnSJdrTlGXL5nULN6kgT9tcKBmsIh4s1OigDHxoOYt17UqLSscAO4bb2iBsfiaCkafl2nLBBIh18l605H-SP8a4nsPPpF1OC4J5I3nNSrbePM8x9TkyqtgwWfI1MyDQ6zL3EoCBLjTQzP3BIHeJ-jEYHkmEY2ySmPXtEPbI4KhoGldGJbrlVuMg19fXJLy-AvgsZoK-13UCBHJGBk-CKEAOsY0cGPWu0631CCUfBmE-xxyWlq5zg8ccoKahUpNvWKw1WTSBHB7MDMrrbvAAAPlLGGxTzGUPsODj5o7fckFn1xwjkYA-iL9WQ8b6AANfmq_qytSkZ_uSt8sRJ3S-s3ufXh5zCAOc9n0zW-FHwpnHE7ZMWR9_NPxOXj0H-o4ZRHL1oNAW-uxgy-VhFpAIza3Q6Yla_UGAE&plcmtid=@gw_placement_id@&ms=CoACc-mngVrq2rtbBeUpBy8hlBbgLh0oYpoGbhbjFIF2gn5dijq8tY-NWBeoRgF2BFDxuvvJs4SpGuJqYt0U9PWH9gF-xEcERR-9Eawcr5FTo92RdqXoyDJhZOqY161LGF0liYXDuNcUXIBTrj4oUgx7_uLLLlaooMaSDsZYMBZLxCFcllabYvshqeeIO4pNH6GeF5iquXGh3_Bt77DDnPseKGxYOZvGtFNXOStlK6W65ON_eKy2olu5w1xdzLb08oobtECBXQRcZk6W_s2bMaFIcHgb4dMSBc36RkLV8dZqMYD2rIAz1uCj5-68xon7AKfPKq_OHOIbfhR43nVqNnmPsQqAArYXbj8WWIwzgBnrOZv7wvAcby9pDWDHZW9swdVtuIT7_YogN5jdXXkow8dsZIF-fyRUfHb0lI4Z5vTxx7D8LHTgWMZ-R_t6PnWzUl7MkjWMMPrE0OkxVHX-7vheoPaOB4nNjyIypOgGiCqRdugoh3hwekFt1eGnnug3CNu-WtIu7neE0vs59trXM_lvo-CRqgnVHdBJmu_HjiMk3YL-03QI6Inzfzneu3c-PlSSAxd31HYyypMwltpvnj0pE9wMgUlRFJrUfyElo82usFm5hIkXe3s4uzKT1JAM7YRZYi5o96aZOikDiNcr2O5_mBJJjUrl2HGW_5ziEkVmXKUIDWISEMjLG36pYxAMqct3rz0IPm4"
+    }
+  },
+  {
+    "ts": 1779634541603,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?zx=7cm9s9coe6vi&id=gmob-apps-activeview&event=empty-clickstring&immediate=false&v=sdk_20260514_RC00&app_name=app_name_unavailable"
+    }
+  },
+  {
+    "ts": 1779634541613,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?zx=qv7y7zii7opq&id=gmob-apps-activeview&event=scrollable-view-baseline&v=sdk_20260514_RC00&is_tos=false"
+    }
+  },
+  {
+    "ts": 1779634541754,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setNativeViewHierarchy({\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":850.9091186523438,\"childViews\":[{\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":780,\"childViews\":[{\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":780,\"childViews\":[{\"x\":0,\"y\":108.7272720336914,\"width\":392.7272644042969,\"height\":671.272705078125,\"childViews\":[{\"x\":0,\"y\":108.7272720336914,\"width\":392.7272644042969,\"height\":671.272705078125,\"childViews\":[{\"x\":0,\"y\":690.1818237304688,\"width\":392.7272644042969,\"height\":89.81818389892578,\"childViews\":[{\"x\":0,\"y\":690.1818237304688,\"width\":392.7272644042969,\"height\":89.81818389892578,\"childViews\":[{\"x\":0,\"y\":690.1818237304688,\"width\":392.7272644042969,\"height\":89.81818389892578,\"childViews\":[{\"x\":0,\"y\":690.1818237304688,\"width\":392.7272644042969,\"height\":89.81818389892578,\"adSessionId\":\"9c06b584-eee9-4ea7-8199-580022d22b0a\"}]}]}]},{\"x\":0,\"y\":631.6363525390625,\"width\":392.7272644042969,\"height\":52.3636360168457}]}]},{\"x\":0,\"y\":52.727272033691406,\"width\":392.7272644042969,\"height\":56,\"childViews\":[{\"x\":0,\"y\":52.727272033691406,\"width\":392.7272644042969,\"height\":56,\"childViews\":[{\"x\":16,\"y\":67.2727279663086,\"width\":56.727272033691406,\"height\":26.909090042114258},{\"x\":208.36363220214844,\"y\":52.727272033691406,\"width\":184.36363220214844,\"height\":56,\"childViews\":[{\"x\":208.36363220214844,\"y\":56.727272033691406,\"width\":48,\"height\":48},{\"x\":256.3636474609375,\"y\":56.727272033691406,\"width\":48,\"height\":48},{\"x\":304.3636474609375,\"y\":56.727272033691406,\"width\":48,\"height\":48},{\"x\":352.3636474609375,\"y\":56.727272033691406,\"width\":40.3636360168457,\"height\":48}]}]}]}]},{\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":52.727272033691406}]}]})}"
+    }
+  },
+  {
+    "ts": 1779634542760,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsuE9i5OQ73H_aT8slTYoUE2PCbI8dq9jtnhkc_9spy0FJAYJE_FPijcn9zHG31WT7d5XTYUcYJQlBMrWDm00Hgh6k4ESI6rQQdZBJLImsWbZTtPg59XuiCutjKUkoOQoW3jspWS1ql3syWC2IankKzLXnagDndOtn4VB_6bmQmveptCQ8iTgHT-M6P125-BskVpY5Hqsp1aKZzd3L3HNP3XHQ&sai=AMfl-YST_VxtR8K_k8Iv0ooqojGojXFHXz2WPUmfdyMqBS5j-SZZSoaaNLwZjvCBF1BkedMuIr-BkXfCf6Sw3IjQx0dFckWNLCwydqSTSkU1x8zAGmeNUbISTv8qhBChrUMuXim2S-wqxRnfqY_KHkRURjk5Cst18L11q6sLvMG4dq3eQ7JNxWvS9UTQZrFB6C_DYuELblMXHNO0ICbLkgnPnDbPoCQfKFz8qBGvZ1AgxaOiXKXYSM3_2Rb9cvck-lMNNEUDCdkF7o4qRAXVV0FdidvAUdbJBsDqeC1I2eYB4QbvUcsKmhFhGs5-c3tc43sEOi3A81dO7nZUMjXfiCot_5TJxwvd7M0GDuYrPzq5mUAwUZI4RGIkB3d3OcWUrDjYv6_WoMHF_--UX_ffInfhqj_WcT2gyUpcFVUaXSnhZ5itkrpjxkS6Ts4Jq6BPgcV5csKG4yhqG9x64I6d60lnT4qi9LI&sig=Cg0ArKJSzPbvEmZvPmyFEAE&cid=CAQSvwIABaugfS_Jap9LnSJdrTlGXL5nULN6kgT9tcKBmsIh4s1OigDHxoOYt17UqLSscAO4bb2iBsfiaCkafl2nLBBIh18l605H-SP8a4nsPPpF1OC4J5I3nNSrbePM8x9TkyqtgwWfI1MyDQ6zL3EoCBLjTQzP3BIHeJ-jEYHkmEY2ySmPXtEPbI4KhoGldGJbrlVuMg19fXJLy-AvgsZoK-13UCBHJGBk-CKEAOsY0cGPWu0631CCUfBmE-xxyWlq5zg8ccoKahUpNvWKw1WTSBHB7MDMrrbvAAAPlLGGxTzGUPsODj5o7fckFn1xwjkYA-iL9WQ8b6AANfmq_qytSkZ_uSt8sRJ3S-s3ufXh5zCAOc9n0zW-FHwpnHE7ZMWR9_NPxOXj0H-o4ZRHL1oNAW-uxgy-VhFpAIza3Q6Yla_UGAE&id=lidar2&mcvt=1000&p=690,0,780.203125,393.109375&tm=1227.4999999999873&tu=227.20000000003893&mtos=0,1000,1000,1000,1000&tos=0,1000,0,0,0&v=20260521&bin=2&avms=omio&bs=392,850&mc=0.98&app=1&itpl=22&adk=1472248550&rs=9&la=0&cr=0&vs=4&r=v&co=7556734100&rst=1779634541464&rpt=100&sfr=15,15&met=mue&wmsd=0&pbe=0&fle=0&vae=0&spb=0&sfl=0&ffslot=0&reach=8&io2=0"
+    }
+  },
+  {
+    "ts": 1779634546889,
+    "type": "activity_resume",
+    "data": {
+      "activity": "andrewgilman.dartsscoreboard.MatchOptionsActivity"
+    }
+  },
+  {
+    "ts": 1779634547024,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setNativeViewHierarchy({\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":850.9091186523438,\"childViews\":[{\"x\":0,\"y\":690.1818237304688,\"width\":392.7272644042969,\"height\":89.81818389892578,\"adSessionId\":\"9c06b584-eee9-4ea7-8199-580022d22b0a\",\"notVisibleReason\":\"noWindowFocus\"}]})}"
+    }
+  }
+]

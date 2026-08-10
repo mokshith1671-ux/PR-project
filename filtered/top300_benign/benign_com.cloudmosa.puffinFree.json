@@ -1,0 +1,814 @@
+[
+  {
+    "ts": 1779647579419,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.cloudmosa.app.welcomePage.WelcomePageActivity"
+    }
+  },
+  {
+    "ts": 1779647579739,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779647579741,
+    "type": "shared_pref",
+    "data": {
+      "key": "set_data_savings"
+    }
+  },
+  {
+    "ts": 1779647579742,
+    "type": "shared_pref",
+    "data": {
+      "key": "new_tab_mode"
+    }
+  },
+  {
+    "ts": 1779647579742,
+    "type": "shared_pref",
+    "data": {
+      "key": "color_theme"
+    }
+  },
+  {
+    "ts": 1779647579742,
+    "type": "shared_pref",
+    "data": {
+      "key": "gesture_menu_mode"
+    }
+  },
+  {
+    "ts": 1779647579742,
+    "type": "shared_pref",
+    "data": {
+      "key": "download_to_where"
+    }
+  },
+  {
+    "ts": 1779647579791,
+    "type": "shared_pref",
+    "data": {
+      "key": "server"
+    }
+  },
+  {
+    "ts": 1779647579792,
+    "type": "shared_pref",
+    "data": {
+      "key": "debugConnection"
+    }
+  },
+  {
+    "ts": 1779647579805,
+    "type": "shared_pref",
+    "data": {
+      "key": "set_home_page"
+    }
+  },
+  {
+    "ts": 1779647579806,
+    "type": "shared_pref",
+    "data": {
+      "key": "default_search_engine_url"
+    }
+  },
+  {
+    "ts": 1779647579806,
+    "type": "shared_pref",
+    "data": {
+      "key": "flash_mode"
+    }
+  },
+  {
+    "ts": 1779647579806,
+    "type": "shared_pref",
+    "data": {
+      "key": "flash_quality"
+    }
+  },
+  {
+    "ts": 1779647579806,
+    "type": "shared_pref",
+    "data": {
+      "key": "settings_data_savings_mode"
+    }
+  },
+  {
+    "ts": 1779647579823,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779647579854,
+    "type": "shared_pref",
+    "data": {
+      "key": "first_launch_time"
+    }
+  },
+  {
+    "ts": 1779647579930,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779647579931,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779647579931,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779647579932,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779647579932,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/puffin/puff_academy.ini"
+    }
+  },
+  {
+    "ts": 1779647579982,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779647579982,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779647580015,
+    "type": "shared_pref",
+    "data": {
+      "key": "color_theme"
+    }
+  },
+  {
+    "ts": 1779647580052,
+    "type": "shared_pref",
+    "data": {
+      "key": "color_theme"
+    }
+  },
+  {
+    "ts": 1779647580062,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cloudmosa.puffinFree/shared_prefs/wallpaper_pref.xml.bak"
+    }
+  },
+  {
+    "ts": 1779647580064,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cloudmosa.puffinFree/shared_prefs/speed_dial_fav.xml.bak"
+    }
+  },
+  {
+    "ts": 1779647580090,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779647580090,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779647580091,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779647580114,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779647580114,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779647580124,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779647580124,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779647580125,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779647580125,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779647580126,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779647580127,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779647580129,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779647580130,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779647580138,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779647580141,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779647580141,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779647580141,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779647580141,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779647580141,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779647580144,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779647580144,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779647580144,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779647580145,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779647580146,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779647580234,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779647580241,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779647580241,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779647580241,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779647580241,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779647580244,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cloudmosa.puffinFree/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779647580255,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779647580376,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779647580650,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cloudmosa.puffinFree/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779647580665,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cloudmosa.puffinFree/shared_prefs/tab_info.xml.bak"
+    }
+  },
+  {
+    "ts": 1779647580669,
+    "type": "shared_pref",
+    "data": {
+      "key": "new_tab_mode"
+    }
+  },
+  {
+    "ts": 1779647580707,
+    "type": "shared_pref",
+    "data": {
+      "key": "button_x"
+    }
+  },
+  {
+    "ts": 1779647580707,
+    "type": "shared_pref",
+    "data": {
+      "key": "button_y"
+    }
+  },
+  {
+    "ts": 1779647580708,
+    "type": "shared_pref",
+    "data": {
+      "key": "button_a"
+    }
+  },
+  {
+    "ts": 1779647580709,
+    "type": "shared_pref",
+    "data": {
+      "key": "button_b"
+    }
+  },
+  {
+    "ts": 1779647580726,
+    "type": "url_access",
+    "data": {
+      "url": "about:startpage"
+    }
+  },
+  {
+    "ts": 1779647580726,
+    "type": "url_access",
+    "data": {
+      "url": "about:startpage"
+    }
+  },
+  {
+    "ts": 1779647580786,
+    "type": "shared_pref",
+    "data": {
+      "key": "color_theme"
+    }
+  },
+  {
+    "ts": 1779647581002,
+    "type": "url_access",
+    "data": {
+      "url": "https://gd8.cloudmosa.net/dispatch/?v=3&pv=33&pr=&gi=&ct=lemon_pf&nocache=1&did=6ADCADD31E70A44FD7F87954B31FF99C&cv=4.8.0.2965"
+    }
+  },
+  {
+    "ts": 1779647581003,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cloudmosa.puffinFree/app_certificate/cacert.pem"
+    }
+  },
+  {
+    "ts": 1779647581004,
+    "type": "url_access",
+    "data": {
+      "url": "https://gd7.cloudmosa.net/dispatch/?v=3&pv=33&pr=&gi=&ct=lemon_pf&nocache=1&did=6ADCADD31E70A44FD7F87954B31FF99C&cv=4.8.0.2965"
+    }
+  },
+  {
+    "ts": 1779647581009,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cloudmosa.puffinFree/app_certificate/cacert.pem"
+    }
+  },
+  {
+    "ts": 1779647581026,
+    "type": "url_access",
+    "data": {
+      "url": "https://gd10.cloudmosa.net/dispatch/?v=3&pv=33&pr=&gi=&ct=lemon_pf&nocache=1&did=6ADCADD31E70A44FD7F87954B31FF99C&cv=4.8.0.2965"
+    }
+  },
+  {
+    "ts": 1779647581048,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cloudmosa.puffinFree/app_certificate/cacert.pem"
+    }
+  },
+  {
+    "ts": 1779647581647,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647581651,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647581651,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779647581651,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779647581809,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647581812,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647581873,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647581879,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647583293,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.cloudmosa.app.LemonActivity"
+    }
+  },
+  {
+    "ts": 1779647586145,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.flashbrowser.com/wifisignin.htm"
+    }
+  },
+  {
+    "ts": 1779647586146,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.google.com"
+    }
+  },
+  {
+    "ts": 1779647586148,
+    "type": "url_access",
+    "data": {
+      "url": "https://en.wikipedia.org"
+    }
+  },
+  {
+    "ts": 1779647586154,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.flashbrowser.com/wifisignin.htm"
+    }
+  },
+  {
+    "ts": 1779647586243,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647586244,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647586701,
+    "type": "url_access",
+    "data": {
+      "url": "https://pointer2.cloudmosa.net/address/"
+    }
+  },
+  {
+    "ts": 1779647586702,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cloudmosa.puffinFree/app_certificate/cacert.pem"
+    }
+  },
+  {
+    "ts": 1779647587378,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647587379,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647587674,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.flashbrowser.com/wifisignin.htm"
+    }
+  },
+  {
+    "ts": 1779647587677,
+    "type": "url_access",
+    "data": {
+      "url": "https://pointer2.cloudmosa.net/address/"
+    }
+  },
+  {
+    "ts": 1779647587678,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.google.com"
+    }
+  },
+  {
+    "ts": 1779647587681,
+    "type": "url_access",
+    "data": {
+      "url": "https://en.wikipedia.org"
+    }
+  },
+  {
+    "ts": 1779647587684,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cloudmosa.puffinFree/app_certificate/cacert.pem"
+    }
+  },
+  {
+    "ts": 1779647587686,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.flashbrowser.com/wifisignin.htm"
+    }
+  },
+  {
+    "ts": 1779647587736,
+    "type": "url_access",
+    "data": {
+      "url": "https://gd7.cloudmosa.net/dispatch/?v=3&pv=33&pr=&gi=&ct=lemon_pf&nocache=1&did=6ADCADD31E70A44FD7F87954B31FF99C&cv=4.8.0.2965"
+    }
+  },
+  {
+    "ts": 1779647587737,
+    "type": "url_access",
+    "data": {
+      "url": "https://gd4.cloudmosa.net/dispatch/?v=3&pv=33&pr=&gi=&ct=lemon_pf&nocache=1&did=6ADCADD31E70A44FD7F87954B31FF99C&cv=4.8.0.2965"
+    }
+  },
+  {
+    "ts": 1779647587738,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cloudmosa.puffinFree/app_certificate/cacert.pem"
+    }
+  },
+  {
+    "ts": 1779647587749,
+    "type": "url_access",
+    "data": {
+      "url": "https://gd2.cloudmosa.net/dispatch/?v=3&pv=33&pr=&gi=&ct=lemon_pf&nocache=1&did=6ADCADD31E70A44FD7F87954B31FF99C&cv=4.8.0.2965"
+    }
+  },
+  {
+    "ts": 1779647587755,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cloudmosa.puffinFree/app_certificate/cacert.pem"
+    }
+  },
+  {
+    "ts": 1779647587757,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cloudmosa.puffinFree/app_certificate/cacert.pem"
+    }
+  },
+  {
+    "ts": 1779647588231,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647588232,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647588275,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647588276,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647588368,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647588369,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647588490,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647588492,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779647589186,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cloudmosa.puffinFree/shared_prefs/DataUsageLogger.xml.bak"
+    }
+  },
+  {
+    "ts": 1779647589196,
+    "type": "shared_pref",
+    "data": {
+      "key": "log_date"
+    }
+  }
+]

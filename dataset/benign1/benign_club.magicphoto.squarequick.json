@@ -1,0 +1,240 @@
+[
+  {
+    "ts": 1779133078671,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/club.magicphoto.squarequick/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6A960229-0001-2386-6AA586E7C8DBSessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779133078679,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/club.magicphoto.squarequick/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6A960229-0001-2386-6AA586E7C8DBSessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779133078704,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133078713,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/club.magicphoto.squarequick/shared_prefs/sticker_history.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133078718,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779133078751,
+    "type": "activity_resume",
+    "data": {
+      "activity": "mobi.charmer.squarequick.activity.LoadingActivity"
+    }
+  },
+  {
+    "ts": 1779133078763,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133078763,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133078775,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133078777,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/club.magicphoto.squarequick/shared_prefs/FLURRY_SHARED_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133078825,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133078826,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133078828,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133078830,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133079028,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779133079028,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133079030,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779133079031,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/club.magicphoto.squarequick/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133079031,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779133079032,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/club.magicphoto.squarequick/settings?instance=01de123d2f419c5f4817a6f922cffc08a92dabea&build_version=52&display_version=4.0.3&source=1&icon_hash=16e7f93028089734be2b23eafd544fc93278ad2e"
+    }
+  },
+  {
+    "ts": 1779133079039,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133079039,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133079081,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779133079095,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779133079097,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779133079099,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/club.magicphoto.squarequick/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6A960229-0001-2386-6AA586E7C8DBSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779133079104,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/club.magicphoto.squarequick/settings?instance=01de123d2f419c5f4817a6f922cffc08a92dabea&build_version=52&display_version=4.0.3&source=1&icon_hash=16e7f93028089734be2b23eafd544fc93278ad2e"
+    }
+  },
+  {
+    "ts": 1779133079125,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/club.magicphoto.squarequick/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779133079148,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/club.magicphoto.squarequick/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779133080818,
+    "type": "activity_resume",
+    "data": {
+      "activity": "mobi.charmer.squarequick.activity.HomeActivity"
+    }
+  },
+  {
+    "ts": 1779133082124,
+    "type": "activity_resume",
+    "data": {
+      "activity": "mobi.charmer.squarequick.activity.HomeActivity"
+    }
+  },
+  {
+    "ts": 1779133087136,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/club.magicphoto.squarequick/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779133093202,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779133093205,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  }
+]

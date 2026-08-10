@@ -1,0 +1,485 @@
+[
+  {
+    "ts": 1779642967209,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779642967213,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779642967216,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779642967216,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779642967230,
+    "type": "shared_pref",
+    "data": {
+      "key": "athanUser"
+    }
+  },
+  {
+    "ts": 1779642967243,
+    "type": "shared_pref",
+    "data": {
+      "key": "athanUser"
+    }
+  },
+  {
+    "ts": 1779642967251,
+    "type": "shared_pref",
+    "data": {
+      "key": "athanUser"
+    }
+  },
+  {
+    "ts": 1779642967254,
+    "type": "shared_pref",
+    "data": {
+      "key": "athanUser"
+    }
+  },
+  {
+    "ts": 1779642967258,
+    "type": "shared_pref",
+    "data": {
+      "key": "athanCity"
+    }
+  },
+  {
+    "ts": 1779642967296,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.athan.activity.AthanSplashActivity"
+    }
+  },
+  {
+    "ts": 1779642967308,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.athan/databases/google_app_measurement_local.db"
+    }
+  },
+  {
+    "ts": 1779642967323,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|37395596816|*"
+    }
+  },
+  {
+    "ts": 1779642967327,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|37395596816|*"
+    }
+  },
+  {
+    "ts": 1779642967328,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779642967328,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779642967354,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.athan/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642967363,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779642967366,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/272020122895147/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779642967384,
+    "type": "shared_pref",
+    "data": {
+      "key": "272020122895147json"
+    }
+  },
+  {
+    "ts": 1779642967417,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779642967428,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779642967432,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779642967449,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642967449,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642967450,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642967450,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642967452,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642967453,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642967455,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642967474,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642967483,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642967488,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642967488,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642967488,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642967495,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642967496,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642967496,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642967496,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642967501,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642967507,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642967509,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642967509,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642967521,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642967522,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642967522,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642967523,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642967532,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779642967574,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/272020122895147/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779642967691,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779642967693,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642967694,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642967703,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779642967721,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642967758,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.athan/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779642967765,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779642967767,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.athan/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642967776,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779642967777,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.athan/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1332570025-0001-64DB-76C481FF53E9SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779642967799,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779642967805,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.athan/settings?instance=0ff5fdcb8e1b40608e08b36a8e9a939be58fb48d&build_version=2017021702&display_version=4.4.0&source=1&icon_hash=e3f13c80838e1b9194ee7d5f26ef96af0589125d"
+    }
+  },
+  {
+    "ts": 1779642967808,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.athan/settings?instance=0ff5fdcb8e1b40608e08b36a8e9a939be58fb48d&build_version=2017021702&display_version=4.4.0&source=1&icon_hash=e3f13c80838e1b9194ee7d5f26ef96af0589125d"
+    }
+  },
+  {
+    "ts": 1779642967853,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.athan/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779642970752,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.athan.activity.LocationActivity"
+    }
+  },
+  {
+    "ts": 1779642971099,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|37395596816|*"
+    }
+  },
+  {
+    "ts": 1779642971105,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779642971318,
+    "type": "shared_pref",
+    "data": {
+      "key": "google_cloud_messaging_id"
+    }
+  },
+  {
+    "ts": 1779642971318,
+    "type": "shared_pref",
+    "data": {
+      "key": "athanUser"
+    }
+  },
+  {
+    "ts": 1779642976231,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.athan/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779642982080,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/272020122895147/activities?access_token=&format=json&sdk=android"
+    }
+  }
+]

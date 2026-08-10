@@ -1,0 +1,23 @@
+[
+  {
+    "ts": 1779135842033,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.unity3d.player.UnityPlayerActivity"
+    }
+  },
+  {
+    "ts": 1779135845199,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.unity3d.player.UnityPlayerProxyActivity"
+    }
+  },
+  {
+    "ts": 1779135845450,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.unity3d.player.UnityPlayerProxyActivity"
+    }
+  }
+]

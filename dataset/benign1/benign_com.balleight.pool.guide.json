@@ -1,0 +1,835 @@
+[
+  {
+    "ts": 1779644180535,
+    "type": "url_access",
+    "data": {
+      "url": "http://init.startappexchange.com/1.4/getadsmetadata?productId=200302270&os=android&sdkVersion=3.5.1&packageId=com.balleight.pool.guide&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&ssid=XW9ta2N%2Fc3dLaXh%2BaTs%3D%0A&bssid=USg5MD0qNClRKjstPTUkI0Y%3D%0A&grid=WIFI&silev=e106&cellSignalLevel=e106&wifiSignalLevel=e106&wifiRssiLevel=e106&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=151733bd-6fa9-4a52-92d2-7af39fcd6894&appVersion=1.0&appCode=1&totalSessions=0&daysSinceFirstSession=0&payingUser=false&paidAmount=0.0&reason=LAUNCH&apkHash=33CE9AB9D1C07FEB7FA4107BF21FDCBA1A63CA877723D7BCAD928037383BF190"
+    }
+  },
+  {
+    "ts": 1779644180557,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644180563,
+    "type": "url_access",
+    "data": {
+      "url": "http://init.startappexchange.com/1.4/getadsmetadata?productId=200302270&os=android&sdkVersion=3.5.1&packageId=com.balleight.pool.guide&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&ssid=XW9ta2N%2Fc3dLaXh%2BaTs%3D%0A&bssid=USg5MD0qNClRKjstPTUkI0Y%3D%0A&grid=WIFI&silev=e106&cellSignalLevel=e106&wifiSignalLevel=e106&wifiRssiLevel=e106&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=151733bd-6fa9-4a52-92d2-7af39fcd6894&appVersion=1.0&appCode=1&totalSessions=0&daysSinceFirstSession=0&payingUser=false&paidAmount=0.0&reason=LAUNCH&apkHash=33CE9AB9D1C07FEB7FA4107BF21FDCBA1A63CA877723D7BCAD928037383BF190"
+    }
+  },
+  {
+    "ts": 1779644180575,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779644180581,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779644180584,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779644180587,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779644180587,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779644180589,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644180598,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779644180620,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779644180682,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644180735,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.balleight.pool.guide.Splash"
+    }
+  },
+  {
+    "ts": 1779644180758,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644180758,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644180848,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644180848,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644180873,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/trackdownload?productId=200302270&os=android&sdkVersion=3.5.1&packageId=com.balleight.pool.guide&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=DEVICE&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&ssid=XW9ta2N%2Fc3dLaXh%2BaTs%3D%0A&bssid=USg5MD0qNClRKjstPTUkI0Y%3D%0A&grid=WIFI&silev=4&cellSignalLevel=e106&wifiSignalLevel=4&wifiRssiLevel=-50&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=151733bd-6fa9-4a52-92d2-7af39fcd6894&appVersion=1.0&appCode=1&placement=INAPP_DOWNLOAD"
+    }
+  },
+  {
+    "ts": 1779644180876,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644180882,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/trackdownload?productId=200302270&os=android&sdkVersion=3.5.1&packageId=com.balleight.pool.guide&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=DEVICE&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&ssid=XW9ta2N%2Fc3dLaXh%2BaTs%3D%0A&bssid=USg5MD0qNClRKjstPTUkI0Y%3D%0A&grid=WIFI&silev=4&cellSignalLevel=e106&wifiSignalLevel=4&wifiRssiLevel=-50&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=151733bd-6fa9-4a52-92d2-7af39fcd6894&appVersion=1.0&appCode=1&placement=INAPP_DOWNLOAD"
+    }
+  },
+  {
+    "ts": 1779644180905,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644180905,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644180915,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779644181047,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.startapp.android.publish.OverlayActivity"
+    }
+  },
+  {
+    "ts": 1779644181172,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644181172,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644181172,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644181172,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644181188,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779644181262,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=200302270&os=android&sdkVersion=3.5.1&packageId=com.balleight.pool.guide&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=DEVICE&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&ssid=XW9ta2N%2Fc3dLaXh%2BaTs%3D%0A&bssid=USg5MD0qNClRKjstPTUkI0Y%3D%0A&grid=WIFI&silev=4&cellSignalLevel=3&wifiSignalLevel=4&wifiRssiLevel=-50&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=151733bd-6fa9-4a52-92d2-7af39fcd6894&appVersion=1.0&appCode=1&placement=INAPP_SPLASH&testMode=false&adsNumber=1&packageExclude=com.balleight.pool.guide&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=740&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644181252&afh=ipYY8wA35ZCa0LvzOXd21A&token=1779644180783-4-H4sIAAAAAAAAADMwGIzAaKAdMApoCCwG2gGjgBgwmgnRgOFAO2AUjIJRMLgA3lJy5NV0ADJL_jVQCgAA"
+    }
+  },
+  {
+    "ts": 1779644181265,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644181269,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=200302270&os=android&sdkVersion=3.5.1&packageId=com.balleight.pool.guide&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=DEVICE&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&ssid=XW9ta2N%2Fc3dLaXh%2BaTs%3D%0A&bssid=USg5MD0qNClRKjstPTUkI0Y%3D%0A&grid=WIFI&silev=4&cellSignalLevel=3&wifiSignalLevel=4&wifiRssiLevel=-50&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=151733bd-6fa9-4a52-92d2-7af39fcd6894&appVersion=1.0&appCode=1&placement=INAPP_SPLASH&testMode=false&adsNumber=1&packageExclude=com.balleight.pool.guide&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=740&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644181252&afh=ipYY8wA35ZCa0LvzOXd21A&token=1779644180783-4-H4sIAAAAAAAAADMwGIzAaKAdMApoCCwG2gGjgBgwmgnRgOFAO2AUjIJRMLgA3lJy5NV0ADJL_jVQCgAA"
+    }
+  },
+  {
+    "ts": 1779644182181,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779644182204,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644182206,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644182210,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644182213,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files"
+    }
+  },
+  {
+    "ts": 1779644182215,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644182248,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644182248,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644182249,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644182249,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644182249,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644182251,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644182252,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644182255,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644182256,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644182261,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644182263,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779644182264,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779644182265,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779644182302,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=200302270&os=android&sdkVersion=3.5.1&packageId=com.balleight.pool.guide&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=DEVICE&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&ssid=XW9ta2N%2Fc3dLaXh%2BaTs%3D%0A&bssid=USg5MD0qNClRKjstPTUkI0Y%3D%0A&grid=WIFI&silev=4&cellSignalLevel=3&wifiSignalLevel=4&wifiRssiLevel=-50&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=151733bd-6fa9-4a52-92d2-7af39fcd6894&appVersion=1.0&appCode=1&placement=INAPP_BANNER&testMode=false&adsNumber=4&packageExclude=com.balleight.pool.guide&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=1819&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644182302&afh=mGGTJ5EPRIZ5AzBD5R2HbA&token=1779644180783-4-H4sIAAAAAAAAADMwGIzAaKAdMApoCCwG2gGjgBgwmgnRgOFAO2AUjIJRMLgA3lJy5NV0ADJL_jVQCgAA"
+    }
+  },
+  {
+    "ts": 1779644182303,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644182304,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=200302270&os=android&sdkVersion=3.5.1&packageId=com.balleight.pool.guide&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=DEVICE&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&ssid=XW9ta2N%2Fc3dLaXh%2BaTs%3D%0A&bssid=USg5MD0qNClRKjstPTUkI0Y%3D%0A&grid=WIFI&silev=4&cellSignalLevel=3&wifiSignalLevel=4&wifiRssiLevel=-50&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=151733bd-6fa9-4a52-92d2-7af39fcd6894&appVersion=1.0&appCode=1&placement=INAPP_BANNER&testMode=false&adsNumber=4&packageExclude=com.balleight.pool.guide&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=1819&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644182302&afh=mGGTJ5EPRIZ5AzBD5R2HbA&token=1779644180783-4-H4sIAAAAAAAAADMwGIzAaKAdMApoCCwG2gGjgBgwmgnRgOFAO2AUjIJRMLgA3lJy5NV0ADJL_jVQCgAA"
+    }
+  },
+  {
+    "ts": 1779644182306,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=200302270&os=android&sdkVersion=3.5.1&packageId=com.balleight.pool.guide&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=DEVICE&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&ssid=XW9ta2N%2Fc3dLaXh%2BaTs%3D%0A&bssid=USg5MD0qNClRKjstPTUkI0Y%3D%0A&grid=WIFI&silev=4&cellSignalLevel=3&wifiSignalLevel=4&wifiRssiLevel=-50&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=151733bd-6fa9-4a52-92d2-7af39fcd6894&appVersion=1.0&appCode=1&placement=INAPP_OVERLAY&testMode=false&adsNumber=1&packageExclude=com.balleight.pool.guide&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=1815&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644182305&afh=Rw8NdJJxyAr7itizon0XSw&token=1779644180783-4-H4sIAAAAAAAAADMwGIzAaKAdMApoCCwG2gGjgBgwmgnRgOFAO2AUjIJRMLgA3lJy5NV0ADJL_jVQCgAA"
+    }
+  },
+  {
+    "ts": 1779644182311,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644182313,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=200302270&os=android&sdkVersion=3.5.1&packageId=com.balleight.pool.guide&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=DEVICE&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&ssid=XW9ta2N%2Fc3dLaXh%2BaTs%3D%0A&bssid=USg5MD0qNClRKjstPTUkI0Y%3D%0A&grid=WIFI&silev=4&cellSignalLevel=3&wifiSignalLevel=4&wifiRssiLevel=-50&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=151733bd-6fa9-4a52-92d2-7af39fcd6894&appVersion=1.0&appCode=1&placement=INAPP_OVERLAY&testMode=false&adsNumber=1&packageExclude=com.balleight.pool.guide&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=1815&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644182305&afh=Rw8NdJJxyAr7itizon0XSw&token=1779644180783-4-H4sIAAAAAAAAADMwGIzAaKAdMApoCCwG2gGjgBgwmgnRgOFAO2AUjIJRMLgA3lJy5NV0ADJL_jVQCgAA"
+    }
+  },
+  {
+    "ts": 1779644182318,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=200302270&os=android&sdkVersion=3.5.1&packageId=com.balleight.pool.guide&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=DEVICE&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&ssid=XW9ta2N%2Fc3dLaXh%2BaTs%3D%0A&bssid=USg5MD0qNClRKjstPTUkI0Y%3D%0A&grid=WIFI&silev=4&cellSignalLevel=3&wifiSignalLevel=4&wifiRssiLevel=-50&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=151733bd-6fa9-4a52-92d2-7af39fcd6894&appVersion=1.0&appCode=1&placement=INAPP_RETURN&testMode=false&adsNumber=1&packageExclude=com.balleight.pool.guide&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=1815&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644182317&afh=fPEg0P1f4NK6woblPX2RTw&token=1779644180783-4-H4sIAAAAAAAAADMwGIzAaKAdMApoCCwG2gGjgBgwmgnRgOFAO2AUjIJRMLgA3lJy5NV0ADJL_jVQCgAA"
+    }
+  },
+  {
+    "ts": 1779644182319,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644182321,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=200302270&os=android&sdkVersion=3.5.1&packageId=com.balleight.pool.guide&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=DEVICE&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&ssid=XW9ta2N%2Fc3dLaXh%2BaTs%3D%0A&bssid=USg5MD0qNClRKjstPTUkI0Y%3D%0A&grid=WIFI&silev=4&cellSignalLevel=3&wifiSignalLevel=4&wifiRssiLevel=-50&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=151733bd-6fa9-4a52-92d2-7af39fcd6894&appVersion=1.0&appCode=1&placement=INAPP_RETURN&testMode=false&adsNumber=1&packageExclude=com.balleight.pool.guide&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=1815&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644182317&afh=fPEg0P1f4NK6woblPX2RTw&token=1779644180783-4-H4sIAAAAAAAAADMwGIzAaKAdMApoCCwG2gGjgBgwmgnRgOFAO2AUjIJRMLgA3lJy5NV0ADJL_jVQCgAA"
+    }
+  },
+  {
+    "ts": 1779644183263,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644183264,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644183264,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644183264,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644183264,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/obb/com.balleight.pool.guide/"
+    }
+  },
+  {
+    "ts": 1779644183266,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~SutyJnb1VLc6m74tgCXR7g==/com.balleight.pool.guide-BMP9dh0sEqfZCfKPJi2KOg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779644183268,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/drawable-hdpi.zip"
+    }
+  },
+  {
+    "ts": 1779644183271,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/drawable-hdpi.zip"
+    }
+  },
+  {
+    "ts": 1779644183273,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/empty_star.png"
+    }
+  },
+  {
+    "ts": 1779644183275,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/filled_star.png"
+    }
+  },
+  {
+    "ts": 1779644183276,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/half_star.png"
+    }
+  },
+  {
+    "ts": 1779644183277,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/logo.png"
+    }
+  },
+  {
+    "ts": 1779644183278,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/tab_side.png"
+    }
+  },
+  {
+    "ts": 1779644183278,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/.DS_Store"
+    }
+  },
+  {
+    "ts": 1779644183278,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/back_.png"
+    }
+  },
+  {
+    "ts": 1779644183279,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/back_dark.png"
+    }
+  },
+  {
+    "ts": 1779644183279,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/browser_icon_dark.png"
+    }
+  },
+  {
+    "ts": 1779644183279,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/forward_.png"
+    }
+  },
+  {
+    "ts": 1779644183280,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/forward_dark.png"
+    }
+  },
+  {
+    "ts": 1779644183280,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/x_dark.png"
+    }
+  },
+  {
+    "ts": 1779644183281,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~SutyJnb1VLc6m74tgCXR7g==/com.balleight.pool.guide-BMP9dh0sEqfZCfKPJi2KOg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779644183282,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/drawable.zip"
+    }
+  },
+  {
+    "ts": 1779644183285,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/drawable.zip"
+    }
+  },
+  {
+    "ts": 1779644183285,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/info_s.png"
+    }
+  },
+  {
+    "ts": 1779644183286,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/info_l.png"
+    }
+  },
+  {
+    "ts": 1779644183287,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/close_button.png"
+    }
+  },
+  {
+    "ts": 1779644183289,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/back_.png"
+    }
+  },
+  {
+    "ts": 1779644183289,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/back_dark.png"
+    }
+  },
+  {
+    "ts": 1779644183291,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/browser_icon_dark.png"
+    }
+  },
+  {
+    "ts": 1779644183291,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/forward_.png"
+    }
+  },
+  {
+    "ts": 1779644183293,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/forward_dark.png"
+    }
+  },
+  {
+    "ts": 1779644183293,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/x_dark.png"
+    }
+  },
+  {
+    "ts": 1779644183295,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/StartAppSplash.html"
+    }
+  },
+  {
+    "ts": 1779644183297,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/filled_star.png"
+    }
+  },
+  {
+    "ts": 1779644183308,
+    "type": "url_access",
+    "data": {
+      "url": "https://images.startappservice.com/image/fetch/f_auto,q_auto,e_sharpen,w_100,h_100/https%3A%2F%2Fimages-origin.startappservice.com%2Fadvertisers%2F185727079%2F313927735%2F415328922%2F4f2bf9b6-e81f-4d6e-b2ca-d077d6fa476d.webp"
+    }
+  },
+  {
+    "ts": 1779644183326,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/info_s.png"
+    }
+  },
+  {
+    "ts": 1779644184385,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779644184388,
+    "type": "url_access",
+    "data": {
+      "url": "https://adimpression.startappservice.com/adimpression/api/v1.0/adimp?d=IAAAAAAgAAA6X1tPSEdDUFlaX1RBQEdWRVdQRUBYX1RFQEZAXV5WWVZJQVdVT09VTUheW15DSUtDVF5dUF1EQkJaS0lQSEtUXl5ASUtFWFJcWV5IQUlTRk9QQ01XWFhDTU1GUVRfXlhKQ09QSklSRktUV15BQUtGWVJaW15LQklVQ09TQk1RXVhASk1AXFRcXlhNSk9TRElUQUtXWV5HTUtGUVJbXl5LSklUSk9SQE1QV1hBSE1CW1RdWVhPQE9SQUlXRktWWl5ETktHXFJZW15KRUlWS09SR01SXVhBQU1MWVRdUlhORE9VQklZQEtRX15KSEtAW1JWWF5NQElZR09VRE1dWVhGTE1MUFRaXVhAQU9VRUlYREtRVl5LT0tBWVJfW1dCRkVcQ0RSS0VXU1JCTEtBWlJfW11CRkBcQ0VRS0VQU1JDS0tBX1JfWldCRkJcQ0VSS0VSU1JDTEtBUVJfWlJCRk1cQ0VYS0ZVU1JAS0tCWFJfWVFCRUdcQ0ZZS0ZRU1JAQEtCXFJfWF1CRUJcQ0dXS0ZSU1JBQEtCUFJfX1dCRERcQ0BUS0dUU1JGQUtDWlJfXlRCREBcQ0FVS0dQU1JHT0tDX1JfXlJCRExcQ0JUS0dcU1JHSUtMXVJfXFFCS0FcQ0NXS0hTU1JFTktMXlJfXFxCS0xcQ0xTS0lVU1JLSUtNWFJfUldCSkZcQ01VS0lWU1JLT0tNXVJfUl1CSkxcQERXS0FVX15AQlxGIAtCSxYLLBMTHQERLxkBVENGSUBARU8dGToeARsUAisIFEpFWlNCTVxUGh0xDBcWBgQ%2BGxBbUERVXldeWQMGNggcBBAJLB0FSFRVQEBRTVpFREFAR15dUktLR0VPQEVVU0FVU1JCSkdAXldcXkZIQklTQkRSQEJXWVNRSEJJWFdbXFdOQ0NYUUJQTRVXC1JDHEAXRFlcDwBURxEHE1lZSEhSQwVFQEJHXF1YWwEdS1dQQURcRFNUXV5BSENNW1hZWFBaQkBcRkVUQ0JdV1FAWkFNVAwBBksbEhgNFx0GGARLHgwdFV4THAYKDkZLRElRXERRQVNXVl4xNTk3IkxdWlgrOjcpLSAkKCRGXVFPMD41OT8xKSQ3PTEzUUdWTRoWAQ1RSklJJCAsIik8UEBXTyQsPTw6PSc5WkFGXlINGQAYBx0XFzcRHS8RHjwCFgcRG0xfWV1EQFdVRUkzNTcoISc3NVNAUVJeRVxORUJCR0RcMT4hPCw7PVNBX1JZXEtLQk1ZUUFWTUJdQFVBS0dXXFdTX0ZPQ0k2OzIoU0ZWU1JKSENHWExYXlgqNz9CRENcQF5VXlpHWkFFWFIICgkKFldWQkkDHwocQAAdFFNDUVJfW11JUENYT0ZRR0JGX1NGREBaWV5bWkZORElRXEJSQEBGX15FHEISCA5XWUhLQRZUX0AARkFIDwVAGF0WC1cMXlxAQE1YEUBCR0FYKxUXCwkbBwpNX1VEOx0GGlQMEQQQHAoGAFNBWlIvWlVaQkRZTxIAHAMATVJASU1ESl5cWlhJUEVTQElRU0FXW15CWkFGXVJcSFRKS0lQSkFWQkdVWVpRSERFVFxfWFxLRENSR1dQQ0ZYHQcZVBUMCgcPBQIcXkJWRkIHREVRCFZfDRwYGR1NWlZOTgJRXEJVXkBGXF5DV0RXXFJdWlVLRURCRUJcNj8wPEBDT00HAAEJBwBaQkNcQ1dTQE0WCggtHgAcBgELNB1BRStXRldQRUhYHQcZJhcEAQAADjoBS0I%2BREBCQkFYKQwdHhwRSl1cVlZJUEVVQklQQV5VTVBCRDk6SlxWVlZXRlpQUUBVTUNGWlZPSVNAUFJZDlcfEhVYQFlTQhJQQ1cTT0FZCAlcCkgbEUwDR01YQ0lcDVdRTERJLSNNXlxEBwYUF1dXSU1UQFNRTkJJDw4CGABaREdcFxpMBQNGWVdPTkBHX1ZYW1ZIREVQQEdTU0hTUyY8ODI4LCtNUl1EOjo%2BMDUvPjU3MTU7PTU7SldZVlVXQ0VUQ1dZSE1VQFNRQUlJWUFeWVVIUEVVQUlRU0FRWl5CV0BXWFtbVlRXQ1dQRkJcQV5VTVJHS01FWExfXlZEChsUHBESUBwEAwcdDB5XWF9YVgMYHwcEUUVQRk1UTQ%3D%3D&isPubImp=true&dp=true&clientSessionId=151733bd-6fa9-4a52-92d2-7af39fcd6894&ts=1779644184387&afh=AECc%2BysmsHqI%2BPouo7HXiQ"
+    }
+  },
+  {
+    "ts": 1779644184389,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644184396,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779644184402,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779644184405,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779644184405,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779644185126,
+    "type": "webview",
+    "data": {
+      "url": "javascript:splash_fadeout()"
+    }
+  },
+  {
+    "ts": 1779644187166,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644187166,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644187166,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644187166,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644187168,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779644187170,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { flg=0x14800000 cmp=com.balleight.pool.guide/com.startapp.android.publish.OverlayActivity (has extras) }"
+    }
+  },
+  {
+    "ts": 1779644187208,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=200302270&os=android&sdkVersion=3.5.1&packageId=com.balleight.pool.guide&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=DEVICE&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&ssid=XW9ta2N%2Fc3dLaXh%2BaTs%3D%0A&bssid=USg5MD0qNClRKjstPTUkI0Y%3D%0A&grid=WIFI&silev=4&cellSignalLevel=3&wifiSignalLevel=4&wifiRssiLevel=-50&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=151733bd-6fa9-4a52-92d2-7af39fcd6894&appVersion=1.0&appCode=1&placement=INAPP_SPLASH&testMode=false&adsNumber=1&packageExclude=com.balleight.pool.guide&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=6728&adsDisplayed=1&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644187207&afh=8grF5W12NnjzLjTTG4%2Bh%2BA&token=1779644180783-4-H4sIAAAAAAAAADMwGIzAaKAdMApoCCwG2gGjgBgwmgnRgOFAO2AUjIJRMLgA3lJy5NV0ADJL_jVQCgAA"
+    }
+  },
+  {
+    "ts": 1779644187210,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644187215,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=200302270&os=android&sdkVersion=3.5.1&packageId=com.balleight.pool.guide&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=DEVICE&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&ssid=XW9ta2N%2Fc3dLaXh%2BaTs%3D%0A&bssid=USg5MD0qNClRKjstPTUkI0Y%3D%0A&grid=WIFI&silev=4&cellSignalLevel=3&wifiSignalLevel=4&wifiRssiLevel=-50&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=151733bd-6fa9-4a52-92d2-7af39fcd6894&appVersion=1.0&appCode=1&placement=INAPP_SPLASH&testMode=false&adsNumber=1&packageExclude=com.balleight.pool.guide&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=6728&adsDisplayed=1&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644187207&afh=8grF5W12NnjzLjTTG4%2Bh%2BA&token=1779644180783-4-H4sIAAAAAAAAADMwGIzAaKAdMApoCCwG2gGjgBgwmgnRgOFAO2AUjIJRMLgA3lJy5NV0ADJL_jVQCgAA"
+    }
+  },
+  {
+    "ts": 1779644187243,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.startapp.android.publish.OverlayActivity"
+    }
+  },
+  {
+    "ts": 1779644187255,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.balleight.pool.guide/files/info_l.png"
+    }
+  },
+  {
+    "ts": 1779644187583,
+    "type": "webview",
+    "data": {
+      "url": "javascript:gClientInterface.setMode(\"interstitial\")"
+    }
+  },
+  {
+    "ts": 1779644187585,
+    "type": "webview",
+    "data": {
+      "url": "javascript:enableScheme(\"externalLinks\")"
+    }
+  },
+  {
+    "ts": 1779644188255,
+    "type": "url_access",
+    "data": {
+      "url": "https://adimpression.startappservice.com/adimpression/api/v1.0/adimp?d=IAAAAAAgAAA6X1tPSEdDUFlaX1RBQUxUQ1dQRUBYX1RFQEZAXV5WWldMQVdVT09VTUheW15DSUtDVF5dUF1EQkJaS0lQSEtUXl5ASUtFWFJcWV5IQUlTRk9QQ01XWFhDTU1GUVRfXlhKQ09QSklSRktUV15BQUtGWVJaW15LQklVQE9TQk1RXVhASk1AXFRcXlhNSk9TRElUQktXWV5HTUtGUVJbXV5LSklUSk9SQE1QV1hBSE1CW1RdWVhPQE9SQUlXRktWWl5ETktHXFJZW15KRUlWS09SR01SXVhBQU1MWVRdUlhORE9VQklZQEtRX15KSEtAW1JWWF5NQElZR09VRE1dWVhGTE1MUFRaXVhAQU9VRUlYREtRVl5LT0tBWVJfW1dCRkVcQ0RVS0VXU1JCTEtBWlJfW11CRkBcQ0VRS0VQU1JDS0tBX1JfWldCRkJcQ0VSS0VSU1JDTEtBUVJfWlJCRk1cQ0VYS0ZVU1JAS0tCWFJfWVFCRUdcQ0ZZS0ZRU1JAQEtCXFJfWF1CRUJcQ0dXS0ZSU1JBQEtCUFJfX1ZCRERcQ0BUS0dUU1JGQUtDWlJfXlRCREBcQ0FVS0dQU1JHTEtDX1JfXlJCRExcQ0JXS0dcU1JHSUtMXVJfXFFCS0FcQ0NXS0hTU1JFTktMXlJfXFxCS0xcQ0xTS0lVU1JLSEtNWFJfUldCSkZcQ01US0lWU1JLT0tNXVJfUl1CSkxcQERXS0FVX15AQkRJUVRbVlRJSENcQ0daSE1UWFhLREFMUl5eVldJSEVQT0ZTS0FXU1FGQkFHVF1YUFRNTkZZSUVUTUNVVVJKRENCUl5XVlZBSEZRT0BRS0JUU1dDQkJGVFtdUFdKTkBUSUZUTURcVVFEREVFUl1ZVlBNSEZZT0FUS0JcU1ZKQkNEVFpXUFZITkJTSUdTTUZWVVBBREZCUlxaVlNOSEdUT0NRS0NTU1RLQkNDVFhdUFZBTkxRSUdYTUdSVVdCREhEUltfVl1ISEBTT0xSS0RWU1tHQkRAVFdZUFFMTkxYSUBXTUlXVVdFRElAUltWVlxPSEFRT0VRQktQX15DSUNPXF1TWlVMSEFST0VRSEtQWl5DSEBPXFpTWlRLSEFXT0VQQktQWF5DSENPXFhTWlRMSEFZT0VQR0tQV15DSElPX19TWldLSEJQT0VTREtTXV5DS0hPX1tTWldASEJUT0VSSEtTWF5DSkZPX1hTWlZASEJYT0VVQktSXl5DTUVPXl5TWlFBSENST0VUQUtSWl5DTERPXlpTWlBPSENXT0VUR0tSVl5DT0VPXlZTWlBJSExVT0VWREtdW15DTkZPUVlTWlJOSExWT0VWSUtdVl5DQUJPUF9TWlxJSE1QT0VYQktcXF5DQEVPUFxTWlxPSE1VT0VYSEtcVl5ASUZPWF9fVldCX0YoFlhBAwI6CREdDAArAAtUS1FJQ0FCS0NcQUBWQFJLQF5FUVdAWVFKUEVRT0VRQ0dRWVtATFNFWFJcW1VKQ0ZTRURCQUJYX1tHTkJDWVhXSFNIThFTF0VQFUAGQ1VAHRVZXQoICkhBS0xWXxJWSUJWW1FESRQQUUxfWFVER1dQQUlSQUNcXFZKSkRXWFtTX1RMQEZRRkdSU0FcUwAdFF4WCAMCDgweGwBPAhsOHF4CGwoWHFNGXlJZRVY8XkBCQExcMzwsLShRSkFJOyYtIzotNiw1UUdTTTkrLzMiJiMkJS49I0ZKREkHBxgNABECCzwbFgMrCwYJNAwXFQYALRgIHhs6AAwUFh8ADB0xCgsQHhYVHCsIHhEVHjwBCRwVGgdNWFxEPjsjOzgkU0RTUzM%2FNDwrOislSFRLREkCABEABBkTCyACFC8AGTAeBBIcAVdQQExcQ1NRWV4gPDc5JisrJ0ZNS0lRXEdZRUVGW1NPOD4wOyAnL0ZMRUlWS1pYRUdGW1RPS0NaWFheWkZMS0lVUUJRTScsKCpRT0NJW1tfWFZIUEJUTyclO1NTWV5CV0BMX1ZNWlRIThIAHgcEU0dVUwEdAwlaCgADSFJBTkVRSkRCR0lYXFNFS1NFWVtTW0tIS0VRUUNWTUBLWltCSVNFVFlXUlYcEUIDX0YDFUFIWltFHV0VXFlWRgNIR0BZQRBZQBMBXEBFSE0xHwocEgoXFldVQkkpGRcNTg4TDQUGABsXSFBKTjVWUUVRSE0DDw8BHFNFW15TW0ZIQUZcQldQQkVYXkBDS0RJW0xfWF1EQkxURUZWQEdcTVJGSE1HWFxXWVBBQEBCQ0dXTQMBBU4XARMcCAEJDkhPREBXFEBURBZQQxceFQAGSl5dXFgPQ1pXRlpRU0JYX01GWkVJWl5eWVNJUENXTzIuJSJGX1VPChkaDgMLSFROTkVCQERcAxQOMQQCER8aDDAWU1MmRUBCQ0FZTQMBBTwVCRgbBwoxE11PLEJVUUZQTTcKAQQeHFNGW1JdW0ZIR0RcQ0VPQFNWXl47N1NHUVJdRVBXQldVRklSU0RQU1NRTUlJX1ZXWAAbRRZMQBYEQV1RVlQWVBFBX1dDDVRNR0xSFkxRExRXTVZGRD0kSlpXVhELBhFCRE1cQV5VTVRARBYVBRwLSFJKThEPXwESU0dRU1RCSkZNX19dWlJIQkZSQFdZRk0gICIwNTUwSlZWViw3JzEzISAoJDkkIkBKTk1ER15WWlVaS0xcQlpRU0hcU1NcS0RDUExfX1ZEQ1dQRkBcQF5VTVJGTE1FR19NWlFPTkVPQldQRUJYXkBDTENJEAAbBQAKUxgAHxAOBR5GX1NERBYVBRwLSFRIRUlQUQ%3D%3D&isPubImp=true&dp=true&position=interstitial&clientSessionId=151733bd-6fa9-4a52-92d2-7af39fcd6894&ts=1779644188254&afh=jSwnLGVyrT3dUEdWycT57w"
+    }
+  },
+  {
+    "ts": 1779644188256,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "ts": 1779635409386,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779635409534,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|800304046380|*"
+    }
+  },
+  {
+    "ts": 1779635409534,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|800304046380|*"
+    }
+  },
+  {
+    "ts": 1779635409534,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779635409534,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779635409602,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779635409602,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779635411082,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779635411085,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779635411088,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779635411089,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779635411089,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779635411766,
+    "type": "webview",
+    "data": {
+      "url": "https://accounts.google.com/ServiceLogin?passive=1209600&continue=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbxThzOR_BZDDgw_I93vXitciXkcQ40O8lTeJS-s6Th6rK9BDlxW%2Fexec&followup=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbxThzOR_BZDDgw_I93vXitciXkcQ40O8lTeJS-s6Th6rK9BDlxW%2Fexec"
+    }
+  },
+  {
+    "ts": 1779635413505,
+    "type": "webview",
+    "data": {
+      "url": "https://accounts.google.com/InteractiveLogin?continue=https://script.google.com/macros/s/AKfycbxThzOR_BZDDgw_I93vXitciXkcQ40O8lTeJS-s6Th6rK9BDlxW/exec&followup=https://script.google.com/macros/s/AKfycbxThzOR_BZDDgw_I93vXitciXkcQ40O8lTeJS-s6Th6rK9BDlxW/exec&passive=1209600&dsh=S-1372737923:1779635413977061"
+    }
+  },
+  {
+    "ts": 1779635413641,
+    "type": "webview",
+    "data": {
+      "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbxThzOR_BZDDgw_I93vXitciXkcQ40O8lTeJS-s6Th6rK9BDlxW%2Fexec&dsh=S-1372737923%3A1779635413977061&followup=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbxThzOR_BZDDgw_I93vXitciXkcQ40O8lTeJS-s6Th6rK9BDlxW%2Fexec&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWa2Pat9KxAaNB4QITijEIU1VW4zleno-ISZBehGneGeZMwO9W8baCEVR3ZU-WLSfyIQITptW4XO"
+    }
+  },
+  {
+    "ts": 1779635414469,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|800304046380|*"
+    }
+  },
+  {
+    "ts": 1779635414470,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  }
+]

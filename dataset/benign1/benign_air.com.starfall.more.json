@@ -1,0 +1,5574 @@
+[
+  {
+    "ts": 1779634050619,
+    "type": "activity_resume",
+    "data": {
+      "activity": "air.com.starfall.more.AppEntry"
+    }
+  },
+  {
+    "ts": 1779634050643,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634050644,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634050644,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634050644,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634050681,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634050681,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634050681,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634050681,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634050684,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~74um0vx6UBw0CSpGl6UFUQ==/air.com.starfall.more-gFT1SZK2u5KAiedDmr89Rg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779634050684,
+    "type": "file_access",
+    "data": {
+      "path": "assets/META-INF/AIR/application.xml"
+    }
+  },
+  {
+    "ts": 1779634050684,
+    "type": "file_access",
+    "data": {
+      "path": "assets/META-INF/AIR"
+    }
+  },
+  {
+    "ts": 1779634050684,
+    "type": "file_access",
+    "data": {
+      "path": "assets/META-INF"
+    }
+  },
+  {
+    "ts": 1779634050685,
+    "type": "file_access",
+    "data": {
+      "path": "assets"
+    }
+  },
+  {
+    "ts": 1779634050685,
+    "type": "file_access",
+    "data": {
+      "path": "assets/adobeair.vch"
+    }
+  },
+  {
+    "ts": 1779634050685,
+    "type": "file_access",
+    "data": {
+      "path": "assets/META-INF/AIR/extensions/com.starfall.ane.UserMail/META-INF/ANE/extension.xml"
+    }
+  },
+  {
+    "ts": 1779634050686,
+    "type": "file_access",
+    "data": {
+      "path": "assets/META-INF/AIR/extensions/com.starfall.ane.UserMail/META-INF/ANE"
+    }
+  },
+  {
+    "ts": 1779634050686,
+    "type": "file_access",
+    "data": {
+      "path": "assets/META-INF/AIR/extensions/com.starfall.ane.UserMail/META-INF"
+    }
+  },
+  {
+    "ts": 1779634050686,
+    "type": "file_access",
+    "data": {
+      "path": "assets/META-INF/AIR/extensions/com.starfall.ane.UserMail"
+    }
+  },
+  {
+    "ts": 1779634050686,
+    "type": "file_access",
+    "data": {
+      "path": "assets/META-INF/AIR/extensions"
+    }
+  },
+  {
+    "ts": 1779634050686,
+    "type": "file_access",
+    "data": {
+      "path": "assets/META-INF/AIR/extensions/com.starfall.ane.UserMail/catalog.xml"
+    }
+  },
+  {
+    "ts": 1779634050687,
+    "type": "file_access",
+    "data": {
+      "path": "assets/META-INF/AIR/extensions/com.starfall.ane.UserMail/library.swf"
+    }
+  },
+  {
+    "ts": 1779634050687,
+    "type": "file_access",
+    "data": {
+      "path": "assets/META-INF/AIR/extensions/com.starfall.ane.UserMail/META-INF/ANE/Android-ARM/library.swf"
+    }
+  },
+  {
+    "ts": 1779634050687,
+    "type": "file_access",
+    "data": {
+      "path": "assets/META-INF/AIR/extensions/com.starfall.ane.UserMail/META-INF/ANE/Android-ARM"
+    }
+  },
+  {
+    "ts": 1779634050688,
+    "type": "file_access",
+    "data": {
+      "path": "assets/content/geo-common_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050688,
+    "type": "file_access",
+    "data": {
+      "path": "assets/content"
+    }
+  },
+  {
+    "ts": 1779634050688,
+    "type": "file_access",
+    "data": {
+      "path": "assets/content/numbers-common_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050689,
+    "type": "file_access",
+    "data": {
+      "path": "assets/content/viewer-common_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050689,
+    "type": "file_access",
+    "data": {
+      "path": "assets/content/viewer-index_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050689,
+    "type": "file_access",
+    "data": {
+      "path": "assets/content/xter-app-numbers.swf"
+    }
+  },
+  {
+    "ts": 1779634050689,
+    "type": "file_access",
+    "data": {
+      "path": "assets/content/xter-numbers_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050689,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/abcs/graphemes_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050689,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/abcs"
+    }
+  },
+  {
+    "ts": 1779634050689,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi"
+    }
+  },
+  {
+    "ts": 1779634050690,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/abcs/letter-imgs_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050690,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/common/viewer-rebus_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050690,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/common"
+    }
+  },
+  {
+    "ts": 1779634050690,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/common/viewer-swfWords_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050690,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/abc-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050690,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo"
+    }
+  },
+  {
+    "ts": 1779634050690,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/add-subtract-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050690,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/art-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050690,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/birdriddles-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050690,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/chinese-fables-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050691,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/comics-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050691,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/folk-songs-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050691,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/folk-tales-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050691,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/fun-to-read-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050691,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/geometry-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050691,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/greek-myths-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050691,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/im-reading-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050691,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/index-1st-grade-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050691,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/index-bpbBooks-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050691,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/index-colors-k-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050691,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/index-motionNrymes-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050692,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/learn-to-read-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050692,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/magic-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050692,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/math-songs-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050692,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/me-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050692,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/more-phonics-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050692,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/mp-unit1-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050692,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/mp-unit2-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050692,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/mp-unit3-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050692,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/mp-unit4-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050693,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/mp-unit5-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050693,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/mp-unit6-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050693,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/mp-unit7-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050693,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/mp-unit8-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050693,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/music-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050693,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/numbers-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050693,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/pfn-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050693,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/poetry-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050693,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/rhymes-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050693,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/selected-2nd-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050694,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/talking-library-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050694,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/twisters-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050694,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/demo/word-problems-index-demo_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050694,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/holiday/gingerbread-book_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050694,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/holiday"
+    }
+  },
+  {
+    "ts": 1779634050694,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/holiday/gingerbread-fluency_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050694,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/holiday/pumpkin-book_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050694,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/holiday/snowman-book_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050694,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/holiday/snowman-fluency_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050694,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/holiday/turkey-book_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050695,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/math/calendar/calendar_F10.swf"
+    }
+  },
+  {
+    "ts": 1779634050695,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/math/calendar"
+    }
+  },
+  {
+    "ts": 1779634050695,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/math"
+    }
+  },
+  {
+    "ts": 1779634050695,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/math/calendar/holiday-icons_F10.swf"
+    }
+  },
+  {
+    "ts": 1779634050695,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/math/calendar/month10_F10.swf"
+    }
+  },
+  {
+    "ts": 1779634050695,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/math/calendar/month11_F10.swf"
+    }
+  },
+  {
+    "ts": 1779634050695,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/math/calendar/month12_F10.swf"
+    }
+  },
+  {
+    "ts": 1779634050695,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/math/calendar/month1_F10.swf"
+    }
+  },
+  {
+    "ts": 1779634050695,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/math/calendar/month2_F10.swf"
+    }
+  },
+  {
+    "ts": 1779634050695,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/math/calendar/month3_F10.swf"
+    }
+  },
+  {
+    "ts": 1779634050695,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/math/calendar/month4_F10.swf"
+    }
+  },
+  {
+    "ts": 1779634050697,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/math/calendar/month5_F10.swf"
+    }
+  },
+  {
+    "ts": 1779634050697,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/math/calendar/month6_F10.swf"
+    }
+  },
+  {
+    "ts": 1779634050697,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/math/calendar/month7_F10.swf"
+    }
+  },
+  {
+    "ts": 1779634050697,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/math/calendar/month8_F10.swf"
+    }
+  },
+  {
+    "ts": 1779634050697,
+    "type": "file_access",
+    "data": {
+      "path": "assets/mi/math/calendar/month9_F10.swf"
+    }
+  },
+  {
+    "ts": 1779634050697,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke10a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050697,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency"
+    }
+  },
+  {
+    "ts": 1779634050698,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms"
+    }
+  },
+  {
+    "ts": 1779634050698,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke10q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050698,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke11a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050698,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke11q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050698,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke12a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050698,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke12q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050698,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke13a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050699,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke13q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050699,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke14a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050699,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke14q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050699,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke15a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050699,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke15q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050699,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke16a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050700,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke16q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050700,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke17a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050700,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke17q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050700,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke18a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050701,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke18q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050701,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke19a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050701,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke19q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050701,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke1a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050701,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke1q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050701,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke20a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050702,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke20q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050702,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke2a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050702,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke2q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050702,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke3a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050703,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke3q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050703,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke4a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050703,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke4q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050704,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke5a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050704,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke5q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050705,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke6a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050705,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke6q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050705,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke7a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050705,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke7q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050705,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke8a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050705,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke8q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050706,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke9a.mp3"
+    }
+  },
+  {
+    "ts": 1779634050706,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/joke9q.mp3"
+    }
+  },
+  {
+    "ts": 1779634050706,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/pumpkin_sen_snd_0.mp3"
+    }
+  },
+  {
+    "ts": 1779634050706,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/pumpkin_sen_snd_1.mp3"
+    }
+  },
+  {
+    "ts": 1779634050706,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/pumpkin_sen_snd_2.mp3"
+    }
+  },
+  {
+    "ts": 1779634050706,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/pumpkin_sen_snd_3.mp3"
+    }
+  },
+  {
+    "ts": 1779634050707,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/pumpkin_sen_snd_4.mp3"
+    }
+  },
+  {
+    "ts": 1779634050707,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/turkey_sen_snd_0.mp3"
+    }
+  },
+  {
+    "ts": 1779634050707,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/turkey_sen_snd_1.mp3"
+    }
+  },
+  {
+    "ts": 1779634050707,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/turkey_sen_snd_2.mp3"
+    }
+  },
+  {
+    "ts": 1779634050707,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/fluency/turkey_sen_snd_5.mp3"
+    }
+  },
+  {
+    "ts": 1779634050707,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-00-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050708,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie"
+    }
+  },
+  {
+    "ts": 1779634050708,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math"
+    }
+  },
+  {
+    "ts": 1779634050708,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-00-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050708,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-00.mp3"
+    }
+  },
+  {
+    "ts": 1779634050708,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-01-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050708,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-01-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050709,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-01.mp3"
+    }
+  },
+  {
+    "ts": 1779634050709,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-02-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050709,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-02-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050709,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-02.mp3"
+    }
+  },
+  {
+    "ts": 1779634050709,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-03-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050709,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-03-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050710,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-03.mp3"
+    }
+  },
+  {
+    "ts": 1779634050710,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-04-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050710,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-04-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050710,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-04.mp3"
+    }
+  },
+  {
+    "ts": 1779634050710,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-05-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050710,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-05-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050710,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-05.mp3"
+    }
+  },
+  {
+    "ts": 1779634050711,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-06-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050711,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-06-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050711,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-06.mp3"
+    }
+  },
+  {
+    "ts": 1779634050711,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-07-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050711,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-07-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050711,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-07.mp3"
+    }
+  },
+  {
+    "ts": 1779634050712,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-08-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050716,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-08-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050717,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-08.mp3"
+    }
+  },
+  {
+    "ts": 1779634050717,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-09-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050717,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-09-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050717,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-09.mp3"
+    }
+  },
+  {
+    "ts": 1779634050717,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-10-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050717,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-10-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050717,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-10.mp3"
+    }
+  },
+  {
+    "ts": 1779634050717,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-100.mp3"
+    }
+  },
+  {
+    "ts": 1779634050717,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-11-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050717,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-11-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050718,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-11.mp3"
+    }
+  },
+  {
+    "ts": 1779634050718,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-12-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050718,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-12-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050718,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-12.mp3"
+    }
+  },
+  {
+    "ts": 1779634050718,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-13-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050718,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-13-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050718,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-13.mp3"
+    }
+  },
+  {
+    "ts": 1779634050718,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-14-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050718,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-14-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050719,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-14.mp3"
+    }
+  },
+  {
+    "ts": 1779634050719,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-15-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050719,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-15-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050719,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-15.mp3"
+    }
+  },
+  {
+    "ts": 1779634050719,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-16-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050719,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-16-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050719,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-16.mp3"
+    }
+  },
+  {
+    "ts": 1779634050719,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-17-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050719,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-17-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050719,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-17.mp3"
+    }
+  },
+  {
+    "ts": 1779634050720,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-18-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050720,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-18-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050720,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-18.mp3"
+    }
+  },
+  {
+    "ts": 1779634050720,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-19-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050720,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-19-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050720,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-19.mp3"
+    }
+  },
+  {
+    "ts": 1779634050720,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-20-e.mp3"
+    }
+  },
+  {
+    "ts": 1779634050720,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-20-n.mp3"
+    }
+  },
+  {
+    "ts": 1779634050720,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-20.mp3"
+    }
+  },
+  {
+    "ts": 1779634050720,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-200.mp3"
+    }
+  },
+  {
+    "ts": 1779634050720,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-21.mp3"
+    }
+  },
+  {
+    "ts": 1779634050721,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-22.mp3"
+    }
+  },
+  {
+    "ts": 1779634050721,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-23.mp3"
+    }
+  },
+  {
+    "ts": 1779634050721,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-24.mp3"
+    }
+  },
+  {
+    "ts": 1779634050721,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-25.mp3"
+    }
+  },
+  {
+    "ts": 1779634050721,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-26.mp3"
+    }
+  },
+  {
+    "ts": 1779634050721,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-27.mp3"
+    }
+  },
+  {
+    "ts": 1779634050721,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-28.mp3"
+    }
+  },
+  {
+    "ts": 1779634050721,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-29.mp3"
+    }
+  },
+  {
+    "ts": 1779634050722,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-30.mp3"
+    }
+  },
+  {
+    "ts": 1779634050722,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-300.mp3"
+    }
+  },
+  {
+    "ts": 1779634050723,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-31.mp3"
+    }
+  },
+  {
+    "ts": 1779634050723,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-32.mp3"
+    }
+  },
+  {
+    "ts": 1779634050723,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-33.mp3"
+    }
+  },
+  {
+    "ts": 1779634050723,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-34.mp3"
+    }
+  },
+  {
+    "ts": 1779634050723,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-35.mp3"
+    }
+  },
+  {
+    "ts": 1779634050723,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-36.mp3"
+    }
+  },
+  {
+    "ts": 1779634050723,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-37.mp3"
+    }
+  },
+  {
+    "ts": 1779634050723,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-38.mp3"
+    }
+  },
+  {
+    "ts": 1779634050723,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-39.mp3"
+    }
+  },
+  {
+    "ts": 1779634050724,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-40.mp3"
+    }
+  },
+  {
+    "ts": 1779634050725,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-400.mp3"
+    }
+  },
+  {
+    "ts": 1779634050725,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-41.mp3"
+    }
+  },
+  {
+    "ts": 1779634050725,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-42.mp3"
+    }
+  },
+  {
+    "ts": 1779634050725,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-43.mp3"
+    }
+  },
+  {
+    "ts": 1779634050725,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-44.mp3"
+    }
+  },
+  {
+    "ts": 1779634050725,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-45.mp3"
+    }
+  },
+  {
+    "ts": 1779634050725,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-46.mp3"
+    }
+  },
+  {
+    "ts": 1779634050725,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-47.mp3"
+    }
+  },
+  {
+    "ts": 1779634050725,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-48.mp3"
+    }
+  },
+  {
+    "ts": 1779634050726,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-49.mp3"
+    }
+  },
+  {
+    "ts": 1779634050726,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-50.mp3"
+    }
+  },
+  {
+    "ts": 1779634050726,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-500.mp3"
+    }
+  },
+  {
+    "ts": 1779634050726,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-51.mp3"
+    }
+  },
+  {
+    "ts": 1779634050726,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-52.mp3"
+    }
+  },
+  {
+    "ts": 1779634050726,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-53.mp3"
+    }
+  },
+  {
+    "ts": 1779634050727,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-54.mp3"
+    }
+  },
+  {
+    "ts": 1779634050727,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-55.mp3"
+    }
+  },
+  {
+    "ts": 1779634050729,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-56.mp3"
+    }
+  },
+  {
+    "ts": 1779634050730,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-57.mp3"
+    }
+  },
+  {
+    "ts": 1779634050730,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-58.mp3"
+    }
+  },
+  {
+    "ts": 1779634050730,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-59.mp3"
+    }
+  },
+  {
+    "ts": 1779634050730,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-60.mp3"
+    }
+  },
+  {
+    "ts": 1779634050730,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-600.mp3"
+    }
+  },
+  {
+    "ts": 1779634050730,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-61.mp3"
+    }
+  },
+  {
+    "ts": 1779634050730,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-62.mp3"
+    }
+  },
+  {
+    "ts": 1779634050730,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-63.mp3"
+    }
+  },
+  {
+    "ts": 1779634050730,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-64.mp3"
+    }
+  },
+  {
+    "ts": 1779634050730,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-65.mp3"
+    }
+  },
+  {
+    "ts": 1779634050731,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-66.mp3"
+    }
+  },
+  {
+    "ts": 1779634050731,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-67.mp3"
+    }
+  },
+  {
+    "ts": 1779634050731,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-68.mp3"
+    }
+  },
+  {
+    "ts": 1779634050731,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-69.mp3"
+    }
+  },
+  {
+    "ts": 1779634050731,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-70.mp3"
+    }
+  },
+  {
+    "ts": 1779634050731,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-700.mp3"
+    }
+  },
+  {
+    "ts": 1779634050731,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-71.mp3"
+    }
+  },
+  {
+    "ts": 1779634050731,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-72.mp3"
+    }
+  },
+  {
+    "ts": 1779634050731,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-73.mp3"
+    }
+  },
+  {
+    "ts": 1779634050731,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-74.mp3"
+    }
+  },
+  {
+    "ts": 1779634050732,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-75.mp3"
+    }
+  },
+  {
+    "ts": 1779634050732,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-76.mp3"
+    }
+  },
+  {
+    "ts": 1779634050732,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-77.mp3"
+    }
+  },
+  {
+    "ts": 1779634050732,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-78.mp3"
+    }
+  },
+  {
+    "ts": 1779634050732,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-79.mp3"
+    }
+  },
+  {
+    "ts": 1779634050732,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-80.mp3"
+    }
+  },
+  {
+    "ts": 1779634050732,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-800.mp3"
+    }
+  },
+  {
+    "ts": 1779634050734,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-81.mp3"
+    }
+  },
+  {
+    "ts": 1779634050734,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-82.mp3"
+    }
+  },
+  {
+    "ts": 1779634050734,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-83.mp3"
+    }
+  },
+  {
+    "ts": 1779634050735,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-84.mp3"
+    }
+  },
+  {
+    "ts": 1779634050735,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-85.mp3"
+    }
+  },
+  {
+    "ts": 1779634050735,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-86.mp3"
+    }
+  },
+  {
+    "ts": 1779634050735,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-87.mp3"
+    }
+  },
+  {
+    "ts": 1779634050735,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-88.mp3"
+    }
+  },
+  {
+    "ts": 1779634050735,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-89.mp3"
+    }
+  },
+  {
+    "ts": 1779634050735,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-90.mp3"
+    }
+  },
+  {
+    "ts": 1779634050735,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-900.mp3"
+    }
+  },
+  {
+    "ts": 1779634050736,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-91.mp3"
+    }
+  },
+  {
+    "ts": 1779634050736,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-92.mp3"
+    }
+  },
+  {
+    "ts": 1779634050736,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-93.mp3"
+    }
+  },
+  {
+    "ts": 1779634050736,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-94.mp3"
+    }
+  },
+  {
+    "ts": 1779634050736,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-95.mp3"
+    }
+  },
+  {
+    "ts": 1779634050736,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-96.mp3"
+    }
+  },
+  {
+    "ts": 1779634050736,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-97.mp3"
+    }
+  },
+  {
+    "ts": 1779634050736,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-98.mp3"
+    }
+  },
+  {
+    "ts": 1779634050736,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-99.mp3"
+    }
+  },
+  {
+    "ts": 1779634050736,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-and.mp3"
+    }
+  },
+  {
+    "ts": 1779634050736,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-and_a_half.mp3"
+    }
+  },
+  {
+    "ts": 1779634050737,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-and_one_half.mp3"
+    }
+  },
+  {
+    "ts": 1779634050737,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-and_one_half_soft.mp3"
+    }
+  },
+  {
+    "ts": 1779634050737,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-equals.mp3"
+    }
+  },
+  {
+    "ts": 1779634050737,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-is.mp3"
+    }
+  },
+  {
+    "ts": 1779634050737,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-kilogram.mp3"
+    }
+  },
+  {
+    "ts": 1779634050737,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-kilograms.mp3"
+    }
+  },
+  {
+    "ts": 1779634050737,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-minus.mp3"
+    }
+  },
+  {
+    "ts": 1779634050738,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-one_half.mp3"
+    }
+  },
+  {
+    "ts": 1779634050738,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-plus.mp3"
+    }
+  },
+  {
+    "ts": 1779634050738,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-pound.mp3"
+    }
+  },
+  {
+    "ts": 1779634050738,
+    "type": "file_access",
+    "data": {
+      "path": "assets/ms/math/julie/j-pounds.mp3"
+    }
+  },
+  {
+    "ts": 1779634050738,
+    "type": "file_access",
+    "data": {
+      "path": "assets/snds/number-snds_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050738,
+    "type": "file_access",
+    "data": {
+      "path": "assets/snds"
+    }
+  },
+  {
+    "ts": 1779634050739,
+    "type": "file_access",
+    "data": {
+      "path": "assets/snds/reward-snds_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050739,
+    "type": "file_access",
+    "data": {
+      "path": "assets/viewer_aos.swf"
+    }
+  },
+  {
+    "ts": 1779634050739,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/colors/xter-colors_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050739,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/colors"
+    }
+  },
+  {
+    "ts": 1779634050739,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter"
+    }
+  },
+  {
+    "ts": 1779634050739,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/costume/xter-costume_F10.swf"
+    }
+  },
+  {
+    "ts": 1779634050739,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/costume"
+    }
+  },
+  {
+    "ts": 1779634050739,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/decodable/xter_decodable_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050739,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/decodable"
+    }
+  },
+  {
+    "ts": 1779634050740,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/ladder/xter-ladder_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050740,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/ladder"
+    }
+  },
+  {
+    "ts": 1779634050740,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/mj1/xter-quest_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050740,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/mj1"
+    }
+  },
+  {
+    "ts": 1779634050740,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/mj2/xter-quest-rewards_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050740,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/mj2"
+    }
+  },
+  {
+    "ts": 1779634050740,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/more-phonics/xter-more-phonics_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050740,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/more-phonics"
+    }
+  },
+  {
+    "ts": 1779634050741,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/puzzles/xter-puzzles_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050741,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/puzzles"
+    }
+  },
+  {
+    "ts": 1779634050741,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/selected2nd/xter-2nd_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050741,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/selected2nd"
+    }
+  },
+  {
+    "ts": 1779634050741,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/songs/xter-songs_v.swf"
+    }
+  },
+  {
+    "ts": 1779634050741,
+    "type": "file_access",
+    "data": {
+      "path": "assets/xter/songs"
+    }
+  },
+  {
+    "ts": 1779634050791,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/shared_prefs/air.com.starfall.more.AIRSharedPref.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634050791,
+    "type": "shared_pref",
+    "data": {
+      "key": "AIRSharedPref.ConfigData"
+    }
+  },
+  {
+    "ts": 1779634050834,
+    "type": "shared_pref",
+    "data": {
+      "key": "AIRSharedPref.ConfigRequestTime"
+    }
+  },
+  {
+    "ts": 1779634050926,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779634050926,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/.AIR/certificates/curl-ca-bundle.crt"
+    }
+  },
+  {
+    "ts": 1779634050929,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779634050930,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/52b525c7.0"
+    }
+  },
+  {
+    "ts": 1779634050944,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1dcd6f4c.0"
+    }
+  },
+  {
+    "ts": 1779634050955,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/304d27c3.0"
+    }
+  },
+  {
+    "ts": 1779634050963,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/dfc0fe80.0"
+    }
+  },
+  {
+    "ts": 1779634050968,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b0ed035a.0"
+    }
+  },
+  {
+    "ts": 1779634050971,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c7e2a638.0"
+    }
+  },
+  {
+    "ts": 1779634050975,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/bf64f35b.0"
+    }
+  },
+  {
+    "ts": 1779634050978,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a7605362.0"
+    }
+  },
+  {
+    "ts": 1779634050981,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/88950faa.0"
+    }
+  },
+  {
+    "ts": 1779634050984,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7c302982.0"
+    }
+  },
+  {
+    "ts": 1779634050988,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/0d69c7e1.0"
+    }
+  },
+  {
+    "ts": 1779634050990,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/27af790d.0"
+    }
+  },
+  {
+    "ts": 1779634050992,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/e48193cf.0"
+    }
+  },
+  {
+    "ts": 1779634050995,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/89c02a45.0"
+    }
+  },
+  {
+    "ts": 1779634050997,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a81e292b.0"
+    }
+  },
+  {
+    "ts": 1779634051000,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/aeb67534.0"
+    }
+  },
+  {
+    "ts": 1779634051004,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1e1eab7c.0"
+    }
+  },
+  {
+    "ts": 1779634051007,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9576d26b.0"
+    }
+  },
+  {
+    "ts": 1779634051011,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d16a5865.0"
+    }
+  },
+  {
+    "ts": 1779634051015,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/dc99f41e.0"
+    }
+  },
+  {
+    "ts": 1779634051019,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b0f3e76e.0"
+    }
+  },
+  {
+    "ts": 1779634051023,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/455f1b52.0"
+    }
+  },
+  {
+    "ts": 1779634051026,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/75680d2e.0"
+    }
+  },
+  {
+    "ts": 1779634051030,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/343eb6cb.0"
+    }
+  },
+  {
+    "ts": 1779634051034,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5f47b495.0"
+    }
+  },
+  {
+    "ts": 1779634051039,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/dbc54cab.0"
+    }
+  },
+  {
+    "ts": 1779634051042,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d4c339cb.0"
+    }
+  },
+  {
+    "ts": 1779634051047,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/86212b19.0"
+    }
+  },
+  {
+    "ts": 1779634051050,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3a3b02ce.0"
+    }
+  },
+  {
+    "ts": 1779634051053,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/bc3f2570.0"
+    }
+  },
+  {
+    "ts": 1779634051056,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d18e9066.0"
+    }
+  },
+  {
+    "ts": 1779634051060,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b872f2b4.0"
+    }
+  },
+  {
+    "ts": 1779634051063,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1eb37bdf.0"
+    }
+  },
+  {
+    "ts": 1779634051069,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c58f906.0"
+    }
+  },
+  {
+    "ts": 1779634051072,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/cf701eeb.0"
+    }
+  },
+  {
+    "ts": 1779634051075,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/bd43e1dd.0"
+    }
+  },
+  {
+    "ts": 1779634051079,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c899c73.0"
+    }
+  },
+  {
+    "ts": 1779634051081,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9772ca32.0"
+    }
+  },
+  {
+    "ts": 1779634051084,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5cf9d536.0"
+    }
+  },
+  {
+    "ts": 1779634051089,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5a250ea7.0"
+    }
+  },
+  {
+    "ts": 1779634051093,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/31188b5e.0"
+    }
+  },
+  {
+    "ts": 1779634051096,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1f58a078.0"
+    }
+  },
+  {
+    "ts": 1779634051100,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/fd08c599.0"
+    }
+  },
+  {
+    "ts": 1779634051103,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/cb156124.0"
+    }
+  },
+  {
+    "ts": 1779634051107,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/76579174.0"
+    }
+  },
+  {
+    "ts": 1779634051110,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/cb1c3204.0"
+    }
+  },
+  {
+    "ts": 1779634051114,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c6676aa.0"
+    }
+  },
+  {
+    "ts": 1779634051118,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a2c66da8.0"
+    }
+  },
+  {
+    "ts": 1779634051122,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/ab59055e.0"
+    }
+  },
+  {
+    "ts": 1779634051127,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9685a493.0"
+    }
+  },
+  {
+    "ts": 1779634051129,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/ccc52f49.0"
+    }
+  },
+  {
+    "ts": 1779634051131,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/111e6273.0"
+    }
+  },
+  {
+    "ts": 1779634051134,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/23f4c490.0"
+    }
+  },
+  {
+    "ts": 1779634051137,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/6b03dec0.0"
+    }
+  },
+  {
+    "ts": 1779634051140,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c559d742.0"
+    }
+  },
+  {
+    "ts": 1779634051144,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d7746a63.0"
+    }
+  },
+  {
+    "ts": 1779634051147,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/399e7759.0"
+    }
+  },
+  {
+    "ts": 1779634051150,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c51c224c.0"
+    }
+  },
+  {
+    "ts": 1779634051153,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/985c1f52.0"
+    }
+  },
+  {
+    "ts": 1779634051157,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/67495436.0"
+    }
+  },
+  {
+    "ts": 1779634051160,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9282e51c.0"
+    }
+  },
+  {
+    "ts": 1779634051164,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/302904dd.0"
+    }
+  },
+  {
+    "ts": 1779634051168,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/219d9499.0"
+    }
+  },
+  {
+    "ts": 1779634051172,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/524d9b43.0"
+    }
+  },
+  {
+    "ts": 1779634051176,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/10531352.0"
+    }
+  },
+  {
+    "ts": 1779634051179,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/2d9dafe4.0"
+    }
+  },
+  {
+    "ts": 1779634051257,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c9a4d3b.0"
+    }
+  },
+  {
+    "ts": 1779634051262,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/fde84897.0"
+    }
+  },
+  {
+    "ts": 1779634051265,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/95aff9e3.0"
+    }
+  },
+  {
+    "ts": 1779634051268,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/2add47b6.0"
+    }
+  },
+  {
+    "ts": 1779634051271,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/85cde254.0"
+    }
+  },
+  {
+    "ts": 1779634051274,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/facacbc6.0"
+    }
+  },
+  {
+    "ts": 1779634051279,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/869fbf79.0"
+    }
+  },
+  {
+    "ts": 1779634051281,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7d453d8f.0"
+    }
+  },
+  {
+    "ts": 1779634051284,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/00673b5b.0"
+    }
+  },
+  {
+    "ts": 1779634051288,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d41b5e2a.0"
+    }
+  },
+  {
+    "ts": 1779634051290,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9339512a.0"
+    }
+  },
+  {
+    "ts": 1779634051295,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/e8651083.0"
+    }
+  },
+  {
+    "ts": 1779634051299,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/f0cd152c.0"
+    }
+  },
+  {
+    "ts": 1779634051303,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d59297b8.0"
+    }
+  },
+  {
+    "ts": 1779634051306,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/40dc992e.0"
+    }
+  },
+  {
+    "ts": 1779634051309,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/35105088.0"
+    }
+  },
+  {
+    "ts": 1779634051314,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3e7271e8.0"
+    }
+  },
+  {
+    "ts": 1779634051317,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d06393bb.0"
+    }
+  },
+  {
+    "ts": 1779634051320,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/91739615.0"
+    }
+  },
+  {
+    "ts": 1779634051323,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3d441de8.0"
+    }
+  },
+  {
+    "ts": 1779634051327,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5acf816d.0"
+    }
+  },
+  {
+    "ts": 1779634051329,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/63a2c897.0"
+    }
+  },
+  {
+    "ts": 1779634051333,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/bdacca6f.0"
+    }
+  },
+  {
+    "ts": 1779634051336,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/dbff3a01.0"
+    }
+  },
+  {
+    "ts": 1779634051339,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b7db1890.0"
+    }
+  },
+  {
+    "ts": 1779634051341,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/04f60c28.0"
+    }
+  },
+  {
+    "ts": 1779634051344,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9d6523ce.0"
+    }
+  },
+  {
+    "ts": 1779634051348,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1df5a75f.0"
+    }
+  },
+  {
+    "ts": 1779634051352,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/60afe812.0"
+    }
+  },
+  {
+    "ts": 1779634051355,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/12d55845.0"
+    }
+  },
+  {
+    "ts": 1779634051358,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/ed39abd0.0"
+    }
+  },
+  {
+    "ts": 1779634051360,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7a7c655d.0"
+    }
+  },
+  {
+    "ts": 1779634051362,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5046c355.0"
+    }
+  },
+  {
+    "ts": 1779634051367,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/ab5346f4.0"
+    }
+  },
+  {
+    "ts": 1779634051369,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c90bc37d.0"
+    }
+  },
+  {
+    "ts": 1779634051373,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9479c8c3.0"
+    }
+  },
+  {
+    "ts": 1779634051375,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5e4e69e7.0"
+    }
+  },
+  {
+    "ts": 1779634051378,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/2fa87019.0"
+    }
+  },
+  {
+    "ts": 1779634051382,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7999be0d.0"
+    }
+  },
+  {
+    "ts": 1779634051385,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b74d2bd5.0"
+    }
+  },
+  {
+    "ts": 1779634051387,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c860d51.0"
+    }
+  },
+  {
+    "ts": 1779634051391,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7a819ef2.0"
+    }
+  },
+  {
+    "ts": 1779634051395,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7892ad52.0"
+    }
+  },
+  {
+    "ts": 1779634051397,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/4be590e0.0"
+    }
+  },
+  {
+    "ts": 1779634051401,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/33ee480d.0"
+    }
+  },
+  {
+    "ts": 1779634051405,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/e442e424.0"
+    }
+  },
+  {
+    "ts": 1779634051409,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/583d0756.0"
+    }
+  },
+  {
+    "ts": 1779634051413,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9f533518.0"
+    }
+  },
+  {
+    "ts": 1779634051418,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c907e29b.0"
+    }
+  },
+  {
+    "ts": 1779634051422,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/87753b0d.0"
+    }
+  },
+  {
+    "ts": 1779634051426,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/6187b673.0"
+    }
+  },
+  {
+    "ts": 1779634051430,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/81b9768f.0"
+    }
+  },
+  {
+    "ts": 1779634051433,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b936d1c6.0"
+    }
+  },
+  {
+    "ts": 1779634051436,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1e8e7201.0"
+    }
+  },
+  {
+    "ts": 1779634051439,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a3896b44.0"
+    }
+  },
+  {
+    "ts": 1779634051442,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/f013ecaf.0"
+    }
+  },
+  {
+    "ts": 1779634051446,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/882de061.0"
+    }
+  },
+  {
+    "ts": 1779634051449,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5a3f0ff8.0"
+    }
+  },
+  {
+    "ts": 1779634051453,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c491639e.0"
+    }
+  },
+  {
+    "ts": 1779634051455,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b3fb433b.0"
+    }
+  },
+  {
+    "ts": 1779634051459,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/da7377f6.0"
+    }
+  },
+  {
+    "ts": 1779634051463,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/e775ed2d.0"
+    }
+  },
+  {
+    "ts": 1779634051467,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/69105f4f.0"
+    }
+  },
+  {
+    "ts": 1779634051470,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/82223c44.0"
+    }
+  },
+  {
+    "ts": 1779634051475,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/fb5fa911.0"
+    }
+  },
+  {
+    "ts": 1779634051479,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d0cddf45.0"
+    }
+  },
+  {
+    "ts": 1779634051484,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a7d2cf64.0"
+    }
+  },
+  {
+    "ts": 1779634051486,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/8d6437c3.0"
+    }
+  },
+  {
+    "ts": 1779634051490,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/48a195d8.0"
+    }
+  },
+  {
+    "ts": 1779634051494,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3ad48a91.0"
+    }
+  },
+  {
+    "ts": 1779634051498,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/f459871d.0"
+    }
+  },
+  {
+    "ts": 1779634051501,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c2c1704e.0"
+    }
+  },
+  {
+    "ts": 1779634051504,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/.AIR/certificates/javaTrustStore.tmp"
+    }
+  },
+  {
+    "ts": 1779634051506,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779634051509,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779634051509,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779634051510,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779634051575,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779634051576,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/52b525c7.0"
+    }
+  },
+  {
+    "ts": 1779634051577,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1dcd6f4c.0"
+    }
+  },
+  {
+    "ts": 1779634051577,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/304d27c3.0"
+    }
+  },
+  {
+    "ts": 1779634051577,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/dfc0fe80.0"
+    }
+  },
+  {
+    "ts": 1779634051577,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b0ed035a.0"
+    }
+  },
+  {
+    "ts": 1779634051577,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c7e2a638.0"
+    }
+  },
+  {
+    "ts": 1779634051578,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/bf64f35b.0"
+    }
+  },
+  {
+    "ts": 1779634051578,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a7605362.0"
+    }
+  },
+  {
+    "ts": 1779634051578,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/88950faa.0"
+    }
+  },
+  {
+    "ts": 1779634051578,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7c302982.0"
+    }
+  },
+  {
+    "ts": 1779634051578,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/0d69c7e1.0"
+    }
+  },
+  {
+    "ts": 1779634051578,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/27af790d.0"
+    }
+  },
+  {
+    "ts": 1779634051579,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/e48193cf.0"
+    }
+  },
+  {
+    "ts": 1779634051579,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/89c02a45.0"
+    }
+  },
+  {
+    "ts": 1779634051579,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a81e292b.0"
+    }
+  },
+  {
+    "ts": 1779634051579,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/aeb67534.0"
+    }
+  },
+  {
+    "ts": 1779634051580,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1e1eab7c.0"
+    }
+  },
+  {
+    "ts": 1779634051580,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9576d26b.0"
+    }
+  },
+  {
+    "ts": 1779634051580,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d16a5865.0"
+    }
+  },
+  {
+    "ts": 1779634051580,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/dc99f41e.0"
+    }
+  },
+  {
+    "ts": 1779634051580,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b0f3e76e.0"
+    }
+  },
+  {
+    "ts": 1779634051580,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/455f1b52.0"
+    }
+  },
+  {
+    "ts": 1779634051581,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/75680d2e.0"
+    }
+  },
+  {
+    "ts": 1779634051581,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/343eb6cb.0"
+    }
+  },
+  {
+    "ts": 1779634051581,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5f47b495.0"
+    }
+  },
+  {
+    "ts": 1779634051581,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/dbc54cab.0"
+    }
+  },
+  {
+    "ts": 1779634051581,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d4c339cb.0"
+    }
+  },
+  {
+    "ts": 1779634051582,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/86212b19.0"
+    }
+  },
+  {
+    "ts": 1779634051582,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3a3b02ce.0"
+    }
+  },
+  {
+    "ts": 1779634051582,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/bc3f2570.0"
+    }
+  },
+  {
+    "ts": 1779634051582,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d18e9066.0"
+    }
+  },
+  {
+    "ts": 1779634051582,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b872f2b4.0"
+    }
+  },
+  {
+    "ts": 1779634051583,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1eb37bdf.0"
+    }
+  },
+  {
+    "ts": 1779634051583,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c58f906.0"
+    }
+  },
+  {
+    "ts": 1779634051583,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/cf701eeb.0"
+    }
+  },
+  {
+    "ts": 1779634051583,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/bd43e1dd.0"
+    }
+  },
+  {
+    "ts": 1779634051584,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c899c73.0"
+    }
+  },
+  {
+    "ts": 1779634051584,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9772ca32.0"
+    }
+  },
+  {
+    "ts": 1779634051584,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5cf9d536.0"
+    }
+  },
+  {
+    "ts": 1779634051584,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5a250ea7.0"
+    }
+  },
+  {
+    "ts": 1779634051584,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/31188b5e.0"
+    }
+  },
+  {
+    "ts": 1779634051585,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1f58a078.0"
+    }
+  },
+  {
+    "ts": 1779634051585,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/fd08c599.0"
+    }
+  },
+  {
+    "ts": 1779634051585,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/cb156124.0"
+    }
+  },
+  {
+    "ts": 1779634051586,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/76579174.0"
+    }
+  },
+  {
+    "ts": 1779634051586,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/cb1c3204.0"
+    }
+  },
+  {
+    "ts": 1779634051586,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c6676aa.0"
+    }
+  },
+  {
+    "ts": 1779634051586,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a2c66da8.0"
+    }
+  },
+  {
+    "ts": 1779634051586,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/ab59055e.0"
+    }
+  },
+  {
+    "ts": 1779634051586,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9685a493.0"
+    }
+  },
+  {
+    "ts": 1779634051586,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/ccc52f49.0"
+    }
+  },
+  {
+    "ts": 1779634051587,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/111e6273.0"
+    }
+  },
+  {
+    "ts": 1779634051587,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/23f4c490.0"
+    }
+  },
+  {
+    "ts": 1779634051587,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/6b03dec0.0"
+    }
+  },
+  {
+    "ts": 1779634051587,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c559d742.0"
+    }
+  },
+  {
+    "ts": 1779634051588,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d7746a63.0"
+    }
+  },
+  {
+    "ts": 1779634051588,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/399e7759.0"
+    }
+  },
+  {
+    "ts": 1779634051588,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c51c224c.0"
+    }
+  },
+  {
+    "ts": 1779634051588,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/985c1f52.0"
+    }
+  },
+  {
+    "ts": 1779634051589,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/67495436.0"
+    }
+  },
+  {
+    "ts": 1779634051589,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9282e51c.0"
+    }
+  },
+  {
+    "ts": 1779634051589,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/302904dd.0"
+    }
+  },
+  {
+    "ts": 1779634051589,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/219d9499.0"
+    }
+  },
+  {
+    "ts": 1779634051590,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/524d9b43.0"
+    }
+  },
+  {
+    "ts": 1779634051590,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/10531352.0"
+    }
+  },
+  {
+    "ts": 1779634051590,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/2d9dafe4.0"
+    }
+  },
+  {
+    "ts": 1779634051590,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c9a4d3b.0"
+    }
+  },
+  {
+    "ts": 1779634051590,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/fde84897.0"
+    }
+  },
+  {
+    "ts": 1779634051590,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/95aff9e3.0"
+    }
+  },
+  {
+    "ts": 1779634051591,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/2add47b6.0"
+    }
+  },
+  {
+    "ts": 1779634051591,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/85cde254.0"
+    }
+  },
+  {
+    "ts": 1779634051591,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/facacbc6.0"
+    }
+  },
+  {
+    "ts": 1779634051591,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/869fbf79.0"
+    }
+  },
+  {
+    "ts": 1779634051591,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7d453d8f.0"
+    }
+  },
+  {
+    "ts": 1779634051591,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/00673b5b.0"
+    }
+  },
+  {
+    "ts": 1779634051592,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d41b5e2a.0"
+    }
+  },
+  {
+    "ts": 1779634051592,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9339512a.0"
+    }
+  },
+  {
+    "ts": 1779634051592,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/e8651083.0"
+    }
+  },
+  {
+    "ts": 1779634051592,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/f0cd152c.0"
+    }
+  },
+  {
+    "ts": 1779634051593,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d59297b8.0"
+    }
+  },
+  {
+    "ts": 1779634051593,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/40dc992e.0"
+    }
+  },
+  {
+    "ts": 1779634051593,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/35105088.0"
+    }
+  },
+  {
+    "ts": 1779634051593,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3e7271e8.0"
+    }
+  },
+  {
+    "ts": 1779634051593,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d06393bb.0"
+    }
+  },
+  {
+    "ts": 1779634051594,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/91739615.0"
+    }
+  },
+  {
+    "ts": 1779634051594,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3d441de8.0"
+    }
+  },
+  {
+    "ts": 1779634051594,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5acf816d.0"
+    }
+  },
+  {
+    "ts": 1779634051594,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/63a2c897.0"
+    }
+  },
+  {
+    "ts": 1779634051595,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/bdacca6f.0"
+    }
+  },
+  {
+    "ts": 1779634051595,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/dbff3a01.0"
+    }
+  },
+  {
+    "ts": 1779634051595,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b7db1890.0"
+    }
+  },
+  {
+    "ts": 1779634051595,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/04f60c28.0"
+    }
+  },
+  {
+    "ts": 1779634051595,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9d6523ce.0"
+    }
+  },
+  {
+    "ts": 1779634051595,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1df5a75f.0"
+    }
+  },
+  {
+    "ts": 1779634051595,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/60afe812.0"
+    }
+  },
+  {
+    "ts": 1779634051595,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/12d55845.0"
+    }
+  },
+  {
+    "ts": 1779634051596,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/ed39abd0.0"
+    }
+  },
+  {
+    "ts": 1779634051596,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7a7c655d.0"
+    }
+  },
+  {
+    "ts": 1779634051596,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5046c355.0"
+    }
+  },
+  {
+    "ts": 1779634051596,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/ab5346f4.0"
+    }
+  },
+  {
+    "ts": 1779634051597,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c90bc37d.0"
+    }
+  },
+  {
+    "ts": 1779634051597,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9479c8c3.0"
+    }
+  },
+  {
+    "ts": 1779634051597,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5e4e69e7.0"
+    }
+  },
+  {
+    "ts": 1779634051597,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/2fa87019.0"
+    }
+  },
+  {
+    "ts": 1779634051598,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7999be0d.0"
+    }
+  },
+  {
+    "ts": 1779634051598,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b74d2bd5.0"
+    }
+  },
+  {
+    "ts": 1779634051598,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c860d51.0"
+    }
+  },
+  {
+    "ts": 1779634051598,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7a819ef2.0"
+    }
+  },
+  {
+    "ts": 1779634051598,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7892ad52.0"
+    }
+  },
+  {
+    "ts": 1779634051599,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/4be590e0.0"
+    }
+  },
+  {
+    "ts": 1779634051599,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/33ee480d.0"
+    }
+  },
+  {
+    "ts": 1779634051599,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/e442e424.0"
+    }
+  },
+  {
+    "ts": 1779634051599,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/583d0756.0"
+    }
+  },
+  {
+    "ts": 1779634051599,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9f533518.0"
+    }
+  },
+  {
+    "ts": 1779634051599,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c907e29b.0"
+    }
+  },
+  {
+    "ts": 1779634051599,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/87753b0d.0"
+    }
+  },
+  {
+    "ts": 1779634051600,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/6187b673.0"
+    }
+  },
+  {
+    "ts": 1779634051600,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/81b9768f.0"
+    }
+  },
+  {
+    "ts": 1779634051600,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b936d1c6.0"
+    }
+  },
+  {
+    "ts": 1779634051600,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1e8e7201.0"
+    }
+  },
+  {
+    "ts": 1779634051600,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a3896b44.0"
+    }
+  },
+  {
+    "ts": 1779634051601,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/f013ecaf.0"
+    }
+  },
+  {
+    "ts": 1779634051601,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/882de061.0"
+    }
+  },
+  {
+    "ts": 1779634051601,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5a3f0ff8.0"
+    }
+  },
+  {
+    "ts": 1779634051601,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c491639e.0"
+    }
+  },
+  {
+    "ts": 1779634051602,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b3fb433b.0"
+    }
+  },
+  {
+    "ts": 1779634051602,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/da7377f6.0"
+    }
+  },
+  {
+    "ts": 1779634051602,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/e775ed2d.0"
+    }
+  },
+  {
+    "ts": 1779634051602,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/69105f4f.0"
+    }
+  },
+  {
+    "ts": 1779634051602,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/82223c44.0"
+    }
+  },
+  {
+    "ts": 1779634051602,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/fb5fa911.0"
+    }
+  },
+  {
+    "ts": 1779634051602,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d0cddf45.0"
+    }
+  },
+  {
+    "ts": 1779634051603,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a7d2cf64.0"
+    }
+  },
+  {
+    "ts": 1779634051603,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/8d6437c3.0"
+    }
+  },
+  {
+    "ts": 1779634051603,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/48a195d8.0"
+    }
+  },
+  {
+    "ts": 1779634051603,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3ad48a91.0"
+    }
+  },
+  {
+    "ts": 1779634051603,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/f459871d.0"
+    }
+  },
+  {
+    "ts": 1779634051604,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c2c1704e.0"
+    }
+  },
+  {
+    "ts": 1779634051915,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/.AIR/certificates/javaTrustStore.tmp"
+    }
+  },
+  {
+    "ts": 1779634051915,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/.AIR/certificates/curl-ca-bundle.crt"
+    }
+  },
+  {
+    "ts": 1779634052255,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/app/9c8d0c0d-a0b4-4ef7-ae8f-b4f0094b52f1/assets/META-INF/AIR/application.xml"
+    }
+  },
+  {
+    "ts": 1779634052255,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~74um0vx6UBw0CSpGl6UFUQ==/air.com.starfall.more-gFT1SZK2u5KAiedDmr89Rg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779634052256,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/app/9c8d0c0d-a0b4-4ef7-ae8f-b4f0094b52f1/assets/META-INF/AIR"
+    }
+  },
+  {
+    "ts": 1779634052390,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/app/9c8d0c0d-a0b4-4ef7-ae8f-b4f0094b52f1/assets/viewer_aos.swf"
+    }
+  },
+  {
+    "ts": 1779634052390,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~74um0vx6UBw0CSpGl6UFUQ==/air.com.starfall.more-gFT1SZK2u5KAiedDmr89Rg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779634052397,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/app/9c8d0c0d-a0b4-4ef7-ae8f-b4f0094b52f1/assets"
+    }
+  },
+  {
+    "ts": 1779634052435,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/app/9c8d0c0d-a0b4-4ef7-ae8f-b4f0094b52f1/assets/META-INF/AIR/extensions/com.starfall.ane.UserMail/META-INF/ANE/extension.xml"
+    }
+  },
+  {
+    "ts": 1779634052435,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~74um0vx6UBw0CSpGl6UFUQ==/air.com.starfall.more-gFT1SZK2u5KAiedDmr89Rg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779634052437,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/app/9c8d0c0d-a0b4-4ef7-ae8f-b4f0094b52f1/assets/META-INF/AIR/extensions/com.starfall.ane.UserMail/META-INF/ANE"
+    }
+  },
+  {
+    "ts": 1779634052439,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/app/9c8d0c0d-a0b4-4ef7-ae8f-b4f0094b52f1/assets/META-INF/AIR/extensions/com.starfall.ane.UserMail/META-INF/ANE/extension.xml"
+    }
+  },
+  {
+    "ts": 1779634052473,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/app/9c8d0c0d-a0b4-4ef7-ae8f-b4f0094b52f1/assets/META-INF/AIR/extensions/com.starfall.ane.UserMail/META-INF/ANE/Android-ARM/library.swf"
+    }
+  },
+  {
+    "ts": 1779634052473,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~74um0vx6UBw0CSpGl6UFUQ==/air.com.starfall.more-gFT1SZK2u5KAiedDmr89Rg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779634052474,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/app/9c8d0c0d-a0b4-4ef7-ae8f-b4f0094b52f1/assets/META-INF/AIR/extensions/com.starfall.ane.UserMail/META-INF/ANE/Android-ARM"
+    }
+  },
+  {
+    "ts": 1779634052476,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/app/9c8d0c0d-a0b4-4ef7-ae8f-b4f0094b52f1/assets/META-INF/AIR/extensions/com.starfall.ane.UserMail/META-INF/ANE/Android-ARM/library.swf"
+    }
+  },
+  {
+    "ts": 1779634052518,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/app/9c8d0c0d-a0b4-4ef7-ae8f-b4f0094b52f1/assets/viewer_aos.swf"
+    }
+  },
+  {
+    "ts": 1779634053179,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/.AIR/certificates/curl-ca-bundle.crt"
+    }
+  },
+  {
+    "ts": 1779634053179,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779634053180,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/52b525c7.0"
+    }
+  },
+  {
+    "ts": 1779634053180,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1dcd6f4c.0"
+    }
+  },
+  {
+    "ts": 1779634053180,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/304d27c3.0"
+    }
+  },
+  {
+    "ts": 1779634053181,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/dfc0fe80.0"
+    }
+  },
+  {
+    "ts": 1779634053181,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b0ed035a.0"
+    }
+  },
+  {
+    "ts": 1779634053181,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c7e2a638.0"
+    }
+  },
+  {
+    "ts": 1779634053181,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/bf64f35b.0"
+    }
+  },
+  {
+    "ts": 1779634053181,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a7605362.0"
+    }
+  },
+  {
+    "ts": 1779634053181,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/88950faa.0"
+    }
+  },
+  {
+    "ts": 1779634053182,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7c302982.0"
+    }
+  },
+  {
+    "ts": 1779634053182,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/0d69c7e1.0"
+    }
+  },
+  {
+    "ts": 1779634053182,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/27af790d.0"
+    }
+  },
+  {
+    "ts": 1779634053182,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/e48193cf.0"
+    }
+  },
+  {
+    "ts": 1779634053182,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/89c02a45.0"
+    }
+  },
+  {
+    "ts": 1779634053183,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a81e292b.0"
+    }
+  },
+  {
+    "ts": 1779634053183,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/aeb67534.0"
+    }
+  },
+  {
+    "ts": 1779634053183,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1e1eab7c.0"
+    }
+  },
+  {
+    "ts": 1779634053183,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9576d26b.0"
+    }
+  },
+  {
+    "ts": 1779634053183,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d16a5865.0"
+    }
+  },
+  {
+    "ts": 1779634053183,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/dc99f41e.0"
+    }
+  },
+  {
+    "ts": 1779634053184,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b0f3e76e.0"
+    }
+  },
+  {
+    "ts": 1779634053184,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/455f1b52.0"
+    }
+  },
+  {
+    "ts": 1779634053184,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/75680d2e.0"
+    }
+  },
+  {
+    "ts": 1779634053184,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/343eb6cb.0"
+    }
+  },
+  {
+    "ts": 1779634053185,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5f47b495.0"
+    }
+  },
+  {
+    "ts": 1779634053185,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/dbc54cab.0"
+    }
+  },
+  {
+    "ts": 1779634053185,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d4c339cb.0"
+    }
+  },
+  {
+    "ts": 1779634053185,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/86212b19.0"
+    }
+  },
+  {
+    "ts": 1779634053185,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3a3b02ce.0"
+    }
+  },
+  {
+    "ts": 1779634053185,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/bc3f2570.0"
+    }
+  },
+  {
+    "ts": 1779634053185,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d18e9066.0"
+    }
+  },
+  {
+    "ts": 1779634053186,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b872f2b4.0"
+    }
+  },
+  {
+    "ts": 1779634053186,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1eb37bdf.0"
+    }
+  },
+  {
+    "ts": 1779634053186,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c58f906.0"
+    }
+  },
+  {
+    "ts": 1779634053186,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/cf701eeb.0"
+    }
+  },
+  {
+    "ts": 1779634053186,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/bd43e1dd.0"
+    }
+  },
+  {
+    "ts": 1779634053186,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c899c73.0"
+    }
+  },
+  {
+    "ts": 1779634053186,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9772ca32.0"
+    }
+  },
+  {
+    "ts": 1779634053187,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5cf9d536.0"
+    }
+  },
+  {
+    "ts": 1779634053187,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5a250ea7.0"
+    }
+  },
+  {
+    "ts": 1779634053187,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/31188b5e.0"
+    }
+  },
+  {
+    "ts": 1779634053187,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1f58a078.0"
+    }
+  },
+  {
+    "ts": 1779634053187,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/fd08c599.0"
+    }
+  },
+  {
+    "ts": 1779634053188,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/cb156124.0"
+    }
+  },
+  {
+    "ts": 1779634053188,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/76579174.0"
+    }
+  },
+  {
+    "ts": 1779634053188,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/cb1c3204.0"
+    }
+  },
+  {
+    "ts": 1779634053188,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c6676aa.0"
+    }
+  },
+  {
+    "ts": 1779634053189,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a2c66da8.0"
+    }
+  },
+  {
+    "ts": 1779634053189,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/ab59055e.0"
+    }
+  },
+  {
+    "ts": 1779634053189,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9685a493.0"
+    }
+  },
+  {
+    "ts": 1779634053189,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/ccc52f49.0"
+    }
+  },
+  {
+    "ts": 1779634053189,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/111e6273.0"
+    }
+  },
+  {
+    "ts": 1779634053190,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/23f4c490.0"
+    }
+  },
+  {
+    "ts": 1779634053190,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/6b03dec0.0"
+    }
+  },
+  {
+    "ts": 1779634053190,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c559d742.0"
+    }
+  },
+  {
+    "ts": 1779634053190,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d7746a63.0"
+    }
+  },
+  {
+    "ts": 1779634053191,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/399e7759.0"
+    }
+  },
+  {
+    "ts": 1779634053191,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c51c224c.0"
+    }
+  },
+  {
+    "ts": 1779634053191,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/985c1f52.0"
+    }
+  },
+  {
+    "ts": 1779634053191,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/67495436.0"
+    }
+  },
+  {
+    "ts": 1779634053192,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9282e51c.0"
+    }
+  },
+  {
+    "ts": 1779634053192,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/302904dd.0"
+    }
+  },
+  {
+    "ts": 1779634053192,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/219d9499.0"
+    }
+  },
+  {
+    "ts": 1779634053192,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/524d9b43.0"
+    }
+  },
+  {
+    "ts": 1779634053193,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/10531352.0"
+    }
+  },
+  {
+    "ts": 1779634053193,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/2d9dafe4.0"
+    }
+  },
+  {
+    "ts": 1779634053193,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c9a4d3b.0"
+    }
+  },
+  {
+    "ts": 1779634053193,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/fde84897.0"
+    }
+  },
+  {
+    "ts": 1779634053193,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/95aff9e3.0"
+    }
+  },
+  {
+    "ts": 1779634053193,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/2add47b6.0"
+    }
+  },
+  {
+    "ts": 1779634053193,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/85cde254.0"
+    }
+  },
+  {
+    "ts": 1779634053193,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/facacbc6.0"
+    }
+  },
+  {
+    "ts": 1779634053194,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/869fbf79.0"
+    }
+  },
+  {
+    "ts": 1779634053194,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7d453d8f.0"
+    }
+  },
+  {
+    "ts": 1779634053194,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/00673b5b.0"
+    }
+  },
+  {
+    "ts": 1779634053194,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d41b5e2a.0"
+    }
+  },
+  {
+    "ts": 1779634053194,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9339512a.0"
+    }
+  },
+  {
+    "ts": 1779634053195,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/e8651083.0"
+    }
+  },
+  {
+    "ts": 1779634053195,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/f0cd152c.0"
+    }
+  },
+  {
+    "ts": 1779634053195,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d59297b8.0"
+    }
+  },
+  {
+    "ts": 1779634053195,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/40dc992e.0"
+    }
+  },
+  {
+    "ts": 1779634053196,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/35105088.0"
+    }
+  },
+  {
+    "ts": 1779634053196,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3e7271e8.0"
+    }
+  },
+  {
+    "ts": 1779634053196,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d06393bb.0"
+    }
+  },
+  {
+    "ts": 1779634053196,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/91739615.0"
+    }
+  },
+  {
+    "ts": 1779634053196,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3d441de8.0"
+    }
+  },
+  {
+    "ts": 1779634053197,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5acf816d.0"
+    }
+  },
+  {
+    "ts": 1779634053197,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/63a2c897.0"
+    }
+  },
+  {
+    "ts": 1779634053197,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/bdacca6f.0"
+    }
+  },
+  {
+    "ts": 1779634053197,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/dbff3a01.0"
+    }
+  },
+  {
+    "ts": 1779634053197,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b7db1890.0"
+    }
+  },
+  {
+    "ts": 1779634053197,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/04f60c28.0"
+    }
+  },
+  {
+    "ts": 1779634053197,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9d6523ce.0"
+    }
+  },
+  {
+    "ts": 1779634053197,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1df5a75f.0"
+    }
+  },
+  {
+    "ts": 1779634053197,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/60afe812.0"
+    }
+  },
+  {
+    "ts": 1779634053198,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/12d55845.0"
+    }
+  },
+  {
+    "ts": 1779634053198,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/ed39abd0.0"
+    }
+  },
+  {
+    "ts": 1779634053198,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7a7c655d.0"
+    }
+  },
+  {
+    "ts": 1779634053198,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5046c355.0"
+    }
+  },
+  {
+    "ts": 1779634053198,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/ab5346f4.0"
+    }
+  },
+  {
+    "ts": 1779634053198,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c90bc37d.0"
+    }
+  },
+  {
+    "ts": 1779634053199,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9479c8c3.0"
+    }
+  },
+  {
+    "ts": 1779634053199,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5e4e69e7.0"
+    }
+  },
+  {
+    "ts": 1779634053199,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/2fa87019.0"
+    }
+  },
+  {
+    "ts": 1779634053199,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7999be0d.0"
+    }
+  },
+  {
+    "ts": 1779634053199,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b74d2bd5.0"
+    }
+  },
+  {
+    "ts": 1779634053199,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c860d51.0"
+    }
+  },
+  {
+    "ts": 1779634053199,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7a819ef2.0"
+    }
+  },
+  {
+    "ts": 1779634053200,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7892ad52.0"
+    }
+  },
+  {
+    "ts": 1779634053200,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/4be590e0.0"
+    }
+  },
+  {
+    "ts": 1779634053200,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/33ee480d.0"
+    }
+  },
+  {
+    "ts": 1779634053200,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/e442e424.0"
+    }
+  },
+  {
+    "ts": 1779634053201,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/583d0756.0"
+    }
+  },
+  {
+    "ts": 1779634053201,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9f533518.0"
+    }
+  },
+  {
+    "ts": 1779634053201,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c907e29b.0"
+    }
+  },
+  {
+    "ts": 1779634053201,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/87753b0d.0"
+    }
+  },
+  {
+    "ts": 1779634053201,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/6187b673.0"
+    }
+  },
+  {
+    "ts": 1779634053201,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/81b9768f.0"
+    }
+  },
+  {
+    "ts": 1779634053202,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b936d1c6.0"
+    }
+  },
+  {
+    "ts": 1779634053202,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1e8e7201.0"
+    }
+  },
+  {
+    "ts": 1779634053202,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a3896b44.0"
+    }
+  },
+  {
+    "ts": 1779634053202,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/f013ecaf.0"
+    }
+  },
+  {
+    "ts": 1779634053202,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/882de061.0"
+    }
+  },
+  {
+    "ts": 1779634053202,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5a3f0ff8.0"
+    }
+  },
+  {
+    "ts": 1779634053202,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c491639e.0"
+    }
+  },
+  {
+    "ts": 1779634053202,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b3fb433b.0"
+    }
+  },
+  {
+    "ts": 1779634053202,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/da7377f6.0"
+    }
+  },
+  {
+    "ts": 1779634053203,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/e775ed2d.0"
+    }
+  },
+  {
+    "ts": 1779634053203,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/69105f4f.0"
+    }
+  },
+  {
+    "ts": 1779634053203,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/82223c44.0"
+    }
+  },
+  {
+    "ts": 1779634053203,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/fb5fa911.0"
+    }
+  },
+  {
+    "ts": 1779634053203,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d0cddf45.0"
+    }
+  },
+  {
+    "ts": 1779634053204,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a7d2cf64.0"
+    }
+  },
+  {
+    "ts": 1779634053204,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/8d6437c3.0"
+    }
+  },
+  {
+    "ts": 1779634053204,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/48a195d8.0"
+    }
+  },
+  {
+    "ts": 1779634053204,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3ad48a91.0"
+    }
+  },
+  {
+    "ts": 1779634053205,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/f459871d.0"
+    }
+  },
+  {
+    "ts": 1779634053205,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c2c1704e.0"
+    }
+  },
+  {
+    "ts": 1779634053366,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/app/9c8d0c0d-a0b4-4ef7-ae8f-b4f0094b52f1/assets/content/viewer-common_v.swf"
+    }
+  },
+  {
+    "ts": 1779634053366,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~74um0vx6UBw0CSpGl6UFUQ==/air.com.starfall.more-gFT1SZK2u5KAiedDmr89Rg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779634053368,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/app/9c8d0c0d-a0b4-4ef7-ae8f-b4f0094b52f1/assets/content"
+    }
+  },
+  {
+    "ts": 1779634053396,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/app/9c8d0c0d-a0b4-4ef7-ae8f-b4f0094b52f1/assets/content/viewer-common_v.swf"
+    }
+  },
+  {
+    "ts": 1779634053399,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/app/9c8d0c0d-a0b4-4ef7-ae8f-b4f0094b52f1/assets/content/viewer-index_v.swf"
+    }
+  },
+  {
+    "ts": 1779634053399,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~74um0vx6UBw0CSpGl6UFUQ==/air.com.starfall.more-gFT1SZK2u5KAiedDmr89Rg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779634053403,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/app/9c8d0c0d-a0b4-4ef7-ae8f-b4f0094b52f1/assets/content"
+    }
+  },
+  {
+    "ts": 1779634053408,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/air.com.starfall.more/cache/app/9c8d0c0d-a0b4-4ef7-ae8f-b4f0094b52f1/assets/content/viewer-index_v.swf"
+    }
+  },
+  {
+    "ts": 1779634053961,
+    "type": "activity_resume",
+    "data": {
+      "activity": "air.com.starfall.more.AppEntry"
+    }
+  }
+]

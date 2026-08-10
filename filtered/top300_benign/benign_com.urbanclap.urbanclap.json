@@ -1,0 +1,2193 @@
+[
+  {
+    "ts": 1779139249002,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.urbanclap.urbanclap/files//com.crittercism/pending/app_loads_2_b517c2ff-4398-49ca-a0be-b16d8ba1e242"
+    }
+  },
+  {
+    "ts": 1779139249004,
+    "type": "url_access",
+    "data": {
+      "url": "https://appload.ingest.crittercism.com/v0/appload"
+    }
+  },
+  {
+    "ts": 1779139249012,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.urbanclap.urbanclap/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779139249070,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.urbanclap.urbanclap/shared_prefs/uc_constant.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139249071,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.urbanclap.urbanclap/shared_prefs/appsflyer-data.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139249072,
+    "type": "shared_pref",
+    "data": {
+      "key": "savedPropertoes"
+    }
+  },
+  {
+    "ts": 1779139249074,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139249074,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139249075,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.urbanclap.urbanclap/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139249077,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779139249079,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779139249083,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779139249083,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139249085,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.urbanclap.urbanclap/shared_prefs/com.mixpanel.android.mpmetrics.ReferralInfo.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139249111,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.urbanclap.urbanclap/shared_prefs/com.mixpanel.android.mpmetrics.MixpanelAPI_e298d7171d203d11d7f0a9270645e1f1.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139249112,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779139249113,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779139249113,
+    "type": "shared_pref",
+    "data": {
+      "key": "events_distinct_id"
+    }
+  },
+  {
+    "ts": 1779139249113,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779139249113,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779139249117,
+    "type": "shared_pref",
+    "data": {
+      "key": "super_properties"
+    }
+  },
+  {
+    "ts": 1779139249118,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.urbanclap.urbanclap/shared_prefs/mixpanel.viewcrawler.changese298d7171d203d11d7f0a9270645e1f1.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139249120,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779139249120,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.urbanclap.urbanclap/shared_prefs/HomeActivity.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139249125,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139249127,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779139249130,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779139249131,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139249132,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779139249132,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779139249132,
+    "type": "shared_pref",
+    "data": {
+      "key": "events_distinct_id"
+    }
+  },
+  {
+    "ts": 1779139249132,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779139249132,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779139249136,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_id"
+    }
+  },
+  {
+    "ts": 1779139249137,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.urbanclap.urbanclap/shared_prefs/NOTIPHI_SHARED_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139249142,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139249143,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139249146,
+    "type": "url_access",
+    "data": {
+      "url": "https://decide.mixpanel.com/decide?version=1&lib=android&token=e298d7171d203d11d7f0a9270645e1f1&distinct_id=967af3ceadc38366"
+    }
+  },
+  {
+    "ts": 1779139249147,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139249150,
+    "type": "shared_pref",
+    "data": {
+      "key": "domain"
+    }
+  },
+  {
+    "ts": 1779139249150,
+    "type": "shared_pref",
+    "data": {
+      "key": "appId"
+    }
+  },
+  {
+    "ts": 1779139249150,
+    "type": "shared_pref",
+    "data": {
+      "key": "apiKey"
+    }
+  },
+  {
+    "ts": 1779139249151,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.urbanclap.com/api/v1/app_config/info/android"
+    }
+  },
+  {
+    "ts": 1779139249153,
+    "type": "shared_pref",
+    "data": {
+      "key": "config"
+    }
+  },
+  {
+    "ts": 1779139249158,
+    "type": "shared_pref",
+    "data": {
+      "key": "config"
+    }
+  },
+  {
+    "ts": 1779139249160,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceToken"
+    }
+  },
+  {
+    "ts": 1779139249160,
+    "type": "shared_pref",
+    "data": {
+      "key": "appConfig"
+    }
+  },
+  {
+    "ts": 1779139249160,
+    "type": "url_access",
+    "data": {
+      "url": "https://urbanclap.helpshift.com/api/lib/2/config/?signature=4efce39eba9c97cb581d51bdd57b6567346522372a47e075ed95269886055c1e&platform-id=urbanclap_platform_20151001083429134-1d4e8276bd972b1&timestamp=1779139249.159"
+    }
+  },
+  {
+    "ts": 1779139249161,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779139249161,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779139249161,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779139249161,
+    "type": "shared_pref",
+    "data": {
+      "key": "sdkLanguage"
+    }
+  },
+  {
+    "ts": 1779139249161,
+    "type": "shared_pref",
+    "data": {
+      "key": "etags"
+    }
+  },
+  {
+    "ts": 1779139249162,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779139249162,
+    "type": "shared_pref",
+    "data": {
+      "key": "activeConversation"
+    }
+  },
+  {
+    "ts": 1779139249163,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779139249163,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779139249163,
+    "type": "shared_pref",
+    "data": {
+      "key": "uuid"
+    }
+  },
+  {
+    "ts": 1779139249164,
+    "type": "shared_pref",
+    "data": {
+      "key": "uuid"
+    }
+  },
+  {
+    "ts": 1779139249166,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779139249167,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779139249167,
+    "type": "shared_pref",
+    "data": {
+      "key": "sdkType"
+    }
+  },
+  {
+    "ts": 1779139249167,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779139249167,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceId"
+    }
+  },
+  {
+    "ts": 1779139249168,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779139249168,
+    "type": "shared_pref",
+    "data": {
+      "key": "uuid"
+    }
+  },
+  {
+    "ts": 1779139249168,
+    "type": "shared_pref",
+    "data": {
+      "key": "uuid"
+    }
+  },
+  {
+    "ts": 1779139249170,
+    "type": "url_access",
+    "data": {
+      "url": "https://urbanclap.helpshift.com/api/lib/2/events/"
+    }
+  },
+  {
+    "ts": 1779139249172,
+    "type": "shared_pref",
+    "data": {
+      "key": "sdkLanguage"
+    }
+  },
+  {
+    "ts": 1779139249192,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.urbanclap.urbanclap/shared_prefs/branch_referral_shared_pref.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139249192,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.urbanclap.urbanclap/shared_prefs/BNC_Server_Request_Queue.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139249193,
+    "type": "shared_pref",
+    "data": {
+      "key": "BNCServerRequestQueue"
+    }
+  },
+  {
+    "ts": 1779139249194,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_branch_key"
+    }
+  },
+  {
+    "ts": 1779139249194,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_id"
+    }
+  },
+  {
+    "ts": 1779139249195,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_identifier"
+    }
+  },
+  {
+    "ts": 1779139249195,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_link"
+    }
+  },
+  {
+    "ts": 1779139249195,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_push_identifier"
+    }
+  },
+  {
+    "ts": 1779139249205,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779139249208,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779139249210,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_identifier"
+    }
+  },
+  {
+    "ts": 1779139249210,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_link"
+    }
+  },
+  {
+    "ts": 1779139249210,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_push_identifier"
+    }
+  },
+  {
+    "ts": 1779139249211,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_uri"
+    }
+  },
+  {
+    "ts": 1779139249211,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_extra"
+    }
+  },
+  {
+    "ts": 1779139249215,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_version"
+    }
+  },
+  {
+    "ts": 1779139249218,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139249237,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.urbanclap.urbanclap.Splash"
+    }
+  },
+  {
+    "ts": 1779139249241,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779139249253,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779139249254,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779139249271,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779139249273,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.urbanclap.urbanclap/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139249274,
+    "type": "shared_pref",
+    "data": {
+      "key": "1566066270342195json"
+    }
+  },
+  {
+    "ts": 1779139249276,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779139249281,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139249282,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139249284,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139249284,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139249286,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139249286,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139249287,
+    "type": "shared_pref",
+    "data": {
+      "key": "domain"
+    }
+  },
+  {
+    "ts": 1779139249287,
+    "type": "shared_pref",
+    "data": {
+      "key": "appId"
+    }
+  },
+  {
+    "ts": 1779139249287,
+    "type": "shared_pref",
+    "data": {
+      "key": "apiKey"
+    }
+  },
+  {
+    "ts": 1779139249287,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779139249288,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779139249288,
+    "type": "shared_pref",
+    "data": {
+      "key": "failedMessages"
+    }
+  },
+  {
+    "ts": 1779139249288,
+    "type": "shared_pref",
+    "data": {
+      "key": "failedApiCalls"
+    }
+  },
+  {
+    "ts": 1779139249288,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139249288,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139249291,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139249291,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139249295,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139249295,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139249297,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779139249299,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779139249306,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/1566066270342195/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779139249400,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139249401,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139249407,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779139249408,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779139249408,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779139249408,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779139249409,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139249410,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139249410,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UNIQUE_ID_MOE"
+    }
+  },
+  {
+    "ts": 1779139249410,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UUID"
+    }
+  },
+  {
+    "ts": 1779139249410,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_KEY_MOE_GAID"
+    }
+  },
+  {
+    "ts": 1779139249412,
+    "type": "url_access",
+    "data": {
+      "url": "https://smarttriggerapi.moengage.com/v2/autotriggerinapps?unique_id=d449099f-93f2-42c9-aa7a-abb14e79e624&os_ver=30&os=ANDROID&device_tz_offset=19800000&device_ts=1779139249411&device_tz=Asia%2FCalcutta&app_ver=52&model=sdk_gphone_x86_64&android_id=967af3ceadc38366&sdk_ver=6012&networkType=wifi&app_version_name=3.1.9&event=INSTALL&app_id=U1QDLUKKJWPIJKHWSX45MM1D"
+    }
+  },
+  {
+    "ts": 1779139249418,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v4/androidevent?buildnumber=3.2&app_id=com.urbanclap.urbanclap"
+    }
+  },
+  {
+    "ts": 1779139249423,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779139249424,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/install"
+    }
+  },
+  {
+    "ts": 1779139249446,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_geoinfo"
+    }
+  },
+  {
+    "ts": 1779139249448,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139249449,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UNIQUE_ID_MOE"
+    }
+  },
+  {
+    "ts": 1779139249450,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139249451,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UNIQUE_ID_MOE"
+    }
+  },
+  {
+    "ts": 1779139249451,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UUID"
+    }
+  },
+  {
+    "ts": 1779139249451,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_KEY_MOE_GAID"
+    }
+  },
+  {
+    "ts": 1779139249454,
+    "type": "url_access",
+    "data": {
+      "url": "https://inappapi.moengage.com/campaigns/inappcampaigns/fetch?last_updated=0&unique_id=d449099f-93f2-42c9-aa7a-abb14e79e624&os_ver=30&os=ANDROID&device_tz_offset=19800000&device_ts=1779139249452&device_tz=Asia%2FCalcutta&app_ver=52&model=sdk_gphone_x86_64&android_id=967af3ceadc38366&sdk_ver=6012&networkType=wifi&app_version_name=3.1.9&app_id=U1QDLUKKJWPIJKHWSX45MM1D"
+    }
+  },
+  {
+    "ts": 1779139249458,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UUID"
+    }
+  },
+  {
+    "ts": 1779139249459,
+    "type": "url_access",
+    "data": {
+      "url": "https://geoapi.moengage.com/v1/geoFences?unique_id=d449099f-93f2-42c9-aa7a-abb14e79e624&lng=0.0&appId=U1QDLUKKJWPIJKHWSX45MM1D&networkType=wifi&version=52&libVersion=6012&os_value=ANDROID&lat=0.0"
+    }
+  },
+  {
+    "ts": 1779139249481,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_MOE"
+    }
+  },
+  {
+    "ts": 1779139249484,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139249485,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UNIQUE_ID_MOE"
+    }
+  },
+  {
+    "ts": 1779139249485,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UUID"
+    }
+  },
+  {
+    "ts": 1779139249486,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_KEY_MOE_GAID"
+    }
+  },
+  {
+    "ts": 1779139249486,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_KEY_MOE_GAID"
+    }
+  },
+  {
+    "ts": 1779139249494,
+    "type": "url_access",
+    "data": {
+      "url": "https://apiv2.moengage.com/v2/report/add?unique_id=d449099f-93f2-42c9-aa7a-abb14e79e624&os_ver=30&os=ANDROID&device_tz_offset=19800000&device_ts=1779139249488&device_tz=Asia%2FCalcutta&app_ver=52&model=sdk_gphone_x86_64&android_id=967af3ceadc38366&sdk_ver=6012&networkType=wifi&app_version_name=3.1.9&app_id=U1QDLUKKJWPIJKHWSX45MM1D"
+    }
+  },
+  {
+    "ts": 1779139249495,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_geoinfo_sent"
+    }
+  },
+  {
+    "ts": 1779139249495,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_geoinfo"
+    }
+  },
+  {
+    "ts": 1779139249534,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_MOE"
+    }
+  },
+  {
+    "ts": 1779139249543,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779139249546,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779139249547,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779139249548,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779139249840,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779139249850,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_params"
+    }
+  },
+  {
+    "ts": 1779139249851,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_params"
+    }
+  },
+  {
+    "ts": 1779139249851,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.urbanclap.urbanclap/shared_prefs/REF.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139249852,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139249852,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139250041,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779139250053,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.appsflyer.com/install_data/v3/com.urbanclap.urbanclap?devkey=MbHK6Y2drppR5QUyyfmePQ&device_id=1779139245301-2612807400527671926"
+    }
+  },
+  {
+    "ts": 1779139250111,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779139250112,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779139250401,
+    "type": "shared_pref",
+    "data": {
+      "key": "hashedDeviceID"
+    }
+  },
+  {
+    "ts": 1779139250401,
+    "type": "shared_pref",
+    "data": {
+      "key": "data"
+    }
+  },
+  {
+    "ts": 1779139250402,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.crittercism.com/android_v2/update_user_metadata"
+    }
+  },
+  {
+    "ts": 1779139250839,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.urbanclap.urbanclap.Splash"
+    }
+  },
+  {
+    "ts": 1779139250849,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_geoinfo"
+    }
+  },
+  {
+    "ts": 1779139250851,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139250851,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UNIQUE_ID_MOE"
+    }
+  },
+  {
+    "ts": 1779139250851,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UUID"
+    }
+  },
+  {
+    "ts": 1779139250854,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.urbanclap.urbanclap.Splash"
+    }
+  },
+  {
+    "ts": 1779139250858,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139250858,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UNIQUE_ID_MOE"
+    }
+  },
+  {
+    "ts": 1779139250858,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UUID"
+    }
+  },
+  {
+    "ts": 1779139250858,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_KEY_MOE_GAID"
+    }
+  },
+  {
+    "ts": 1779139250859,
+    "type": "url_access",
+    "data": {
+      "url": "https://geoapi.moengage.com/v1/geoFences?unique_id=d449099f-93f2-42c9-aa7a-abb14e79e624&lng=-122.084&appId=U1QDLUKKJWPIJKHWSX45MM1D&networkType=wifi&version=52&libVersion=6012&os_value=ANDROID&lat=37.4219983"
+    }
+  },
+  {
+    "ts": 1779139250860,
+    "type": "url_access",
+    "data": {
+      "url": "https://inappapi.moengage.com/campaigns/inappcampaigns/fetch?last_updated=0&unique_id=d449099f-93f2-42c9-aa7a-abb14e79e624&os_ver=30&os=ANDROID&device_tz_offset=19800000&device_ts=1779139250858&moe_gaid=29471ce5-214d-4137-ac6b-0e0e9fd03b28&device_tz=Asia%2FCalcutta&app_ver=52&model=sdk_gphone_x86_64&android_id=967af3ceadc38366&sdk_ver=6012&networkType=wifi&app_version_name=3.1.9&app_id=U1QDLUKKJWPIJKHWSX45MM1D"
+    }
+  },
+  {
+    "ts": 1779139250866,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_geoinfo"
+    }
+  },
+  {
+    "ts": 1779139250868,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139250869,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UNIQUE_ID_MOE"
+    }
+  },
+  {
+    "ts": 1779139250869,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UUID"
+    }
+  },
+  {
+    "ts": 1779139250870,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139250870,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UNIQUE_ID_MOE"
+    }
+  },
+  {
+    "ts": 1779139250870,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UUID"
+    }
+  },
+  {
+    "ts": 1779139250874,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_KEY_MOE_GAID"
+    }
+  },
+  {
+    "ts": 1779139250875,
+    "type": "url_access",
+    "data": {
+      "url": "https://inappapi.moengage.com/campaigns/inappcampaigns/fetch?last_updated=0&unique_id=d449099f-93f2-42c9-aa7a-abb14e79e624&os_ver=30&os=ANDROID&device_tz_offset=19800000&device_ts=1779139250874&moe_gaid=29471ce5-214d-4137-ac6b-0e0e9fd03b28&device_tz=Asia%2FCalcutta&app_ver=52&model=sdk_gphone_x86_64&android_id=967af3ceadc38366&sdk_ver=6012&networkType=wifi&app_version_name=3.1.9&app_id=U1QDLUKKJWPIJKHWSX45MM1D"
+    }
+  },
+  {
+    "ts": 1779139250876,
+    "type": "url_access",
+    "data": {
+      "url": "https://geoapi.moengage.com/v1/geoFences?unique_id=d449099f-93f2-42c9-aa7a-abb14e79e624&lng=-122.084&appId=U1QDLUKKJWPIJKHWSX45MM1D&networkType=wifi&version=52&libVersion=6012&os_value=ANDROID&lat=37.4219983"
+    }
+  },
+  {
+    "ts": 1779139250883,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_geoinfo_sent"
+    }
+  },
+  {
+    "ts": 1779139250894,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_geoinfo_sent"
+    }
+  },
+  {
+    "ts": 1779139252231,
+    "type": "shared_pref",
+    "data": {
+      "key": "utm_medium"
+    }
+  },
+  {
+    "ts": 1779139252232,
+    "type": "shared_pref",
+    "data": {
+      "key": "utm_campaign"
+    }
+  },
+  {
+    "ts": 1779139252232,
+    "type": "shared_pref",
+    "data": {
+      "key": "utm_content"
+    }
+  },
+  {
+    "ts": 1779139252232,
+    "type": "shared_pref",
+    "data": {
+      "key": "utm_term"
+    }
+  },
+  {
+    "ts": 1779139252232,
+    "type": "shared_pref",
+    "data": {
+      "key": "citykey"
+    }
+  },
+  {
+    "ts": 1779139252233,
+    "type": "shared_pref",
+    "data": {
+      "key": "utm_source_notifications"
+    }
+  },
+  {
+    "ts": 1779139252240,
+    "type": "url_access",
+    "data": {
+      "url": "https://event-api.urbanclap.com/event"
+    }
+  },
+  {
+    "ts": 1779139252258,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139252258,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139252280,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139252280,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139252296,
+    "type": "shared_pref",
+    "data": {
+      "key": "cityname"
+    }
+  },
+  {
+    "ts": 1779139252296,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779139252299,
+    "type": "shared_pref",
+    "data": {
+      "key": "citykey"
+    }
+  },
+  {
+    "ts": 1779139252300,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139252300,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139252301,
+    "type": "shared_pref",
+    "data": {
+      "key": "smart_actions"
+    }
+  },
+  {
+    "ts": 1779139252302,
+    "type": "shared_pref",
+    "data": {
+      "key": "pid"
+    }
+  },
+  {
+    "ts": 1779139252303,
+    "type": "shared_pref",
+    "data": {
+      "key": "citykey"
+    }
+  },
+  {
+    "ts": 1779139252304,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.urbanclap.com/api/v1/appVersionControl/customerAndroid?versionNumber=52"
+    }
+  },
+  {
+    "ts": 1779139252315,
+    "type": "shared_pref",
+    "data": {
+      "key": "cityname"
+    }
+  },
+  {
+    "ts": 1779139252320,
+    "type": "shared_pref",
+    "data": {
+      "key": "cityname"
+    }
+  },
+  {
+    "ts": 1779139252321,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779139252322,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779139252354,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.urbanclap.urbanclap.homescreen.HomeActivity"
+    }
+  },
+  {
+    "ts": 1779139252362,
+    "type": "shared_pref",
+    "data": {
+      "key": "citykey"
+    }
+  },
+  {
+    "ts": 1779139252362,
+    "type": "shared_pref",
+    "data": {
+      "key": "citykey"
+    }
+  },
+  {
+    "ts": 1779139252363,
+    "type": "shared_pref",
+    "data": {
+      "key": "citykey"
+    }
+  },
+  {
+    "ts": 1779139252363,
+    "type": "shared_pref",
+    "data": {
+      "key": "utm_source_notifications"
+    }
+  },
+  {
+    "ts": 1779139252367,
+    "type": "shared_pref",
+    "data": {
+      "key": "pending_booking_notifications"
+    }
+  },
+  {
+    "ts": 1779139252367,
+    "type": "shared_pref",
+    "data": {
+      "key": "pending_non_booking_notifications"
+    }
+  },
+  {
+    "ts": 1779139252375,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779139252375,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779139252375,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779139252376,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779139252382,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_MOE"
+    }
+  },
+  {
+    "ts": 1779139252386,
+    "type": "url_access",
+    "data": {
+      "url": "https://events.appsflyer.com/api/v4/androidevent?buildnumber=3.2&app_id=com.urbanclap.urbanclap"
+    }
+  },
+  {
+    "ts": 1779139252399,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139252400,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UNIQUE_ID_MOE"
+    }
+  },
+  {
+    "ts": 1779139252401,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UUID"
+    }
+  },
+  {
+    "ts": 1779139252401,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_KEY_MOE_GAID"
+    }
+  },
+  {
+    "ts": 1779139252403,
+    "type": "url_access",
+    "data": {
+      "url": "https://apiv2.moengage.com/v2/report/add?unique_id=d449099f-93f2-42c9-aa7a-abb14e79e624&os_ver=30&os=ANDROID&device_tz_offset=19800000&device_ts=1779139252401&moe_gaid=29471ce5-214d-4137-ac6b-0e0e9fd03b28&device_tz=Asia%2FCalcutta&app_ver=52&model=sdk_gphone_x86_64&android_id=967af3ceadc38366&sdk_ver=6012&networkType=wifi&app_version_name=3.1.9&app_id=U1QDLUKKJWPIJKHWSX45MM1D"
+    }
+  },
+  {
+    "ts": 1779139252643,
+    "type": "url_access",
+    "data": {
+      "url": "https://event-api.urbanclap.com/event"
+    }
+  },
+  {
+    "ts": 1779139252646,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779139252969,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_MOE"
+    }
+  },
+  {
+    "ts": 1779139253378,
+    "type": "url_access",
+    "data": {
+      "url": "https://register.appsflyer.com/api/v4/androidevent?buildnumber=3.2&app_id=com.urbanclap.urbanclap"
+    }
+  },
+  {
+    "ts": 1779139254308,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139254309,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139254309,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139254310,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UNIQUE_ID_MOE"
+    }
+  },
+  {
+    "ts": 1779139254311,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UUID"
+    }
+  },
+  {
+    "ts": 1779139254311,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_KEY_MOE_GAID"
+    }
+  },
+  {
+    "ts": 1779139254329,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779139254333,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139254334,
+    "type": "url_access",
+    "data": {
+      "url": "https://apiv2.moengage.com/v2/device/add?unique_id=d449099f-93f2-42c9-aa7a-abb14e79e624&os_ver=30&os=ANDROID&push_id=cIIvkM2DMV0%3AAPA91bEat4SqWdnJcB7mD8nKfAH0yfsO1X4T6igxZkjfwF7olIFQFw3BtKGuUra-8zm5o-WOgT_s7NcFTSEITVFE5np2iYN9LijPKjR82_KDIe5MmW-rg8g&device_tz_offset=19800000&device_ts=1779139254311&moe_gaid=29471ce5-214d-4137-ac6b-0e0e9fd03b28&device_tz=Asia%2FCalcutta&app_ver=52&model=sdk_gphone_x86_64&android_id=967af3ceadc38366&sdk_ver=6012&networkType=wifi&app_version_name=3.1.9&app_id=U1QDLUKKJWPIJKHWSX45MM1D"
+    }
+  },
+  {
+    "ts": 1779139255935,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139255936,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139255939,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139255939,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779139255939,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779139255940,
+    "type": "shared_pref",
+    "data": {
+      "key": "events_distinct_id"
+    }
+  },
+  {
+    "ts": 1779139255940,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779139255940,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779139255943,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_id"
+    }
+  },
+  {
+    "ts": 1779139255943,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.urbanclap.urbanclap/shared_prefs/details.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139255944,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139255945,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139255945,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139255947,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.urbanclap.com/api/v1/guest/user/details"
+    }
+  },
+  {
+    "ts": 1779139255947,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779139255948,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779139256221,
+    "type": "shared_pref",
+    "data": {
+      "key": "citykey"
+    }
+  },
+  {
+    "ts": 1779139256228,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139256228,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139256229,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.urbanclap.com/api/v1/customercategories/city_delhi_v2/newMobileV2?new_image_format=true"
+    }
+  },
+  {
+    "ts": 1779139256230,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139256231,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139256231,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139256231,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779139256231,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779139256232,
+    "type": "shared_pref",
+    "data": {
+      "key": "events_distinct_id"
+    }
+  },
+  {
+    "ts": 1779139256232,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779139256232,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779139256234,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_id"
+    }
+  },
+  {
+    "ts": 1779139256247,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139256257,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.urbanclap.com/api/v1/guest/user/details"
+    }
+  },
+  {
+    "ts": 1779139256259,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139256260,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UNIQUE_ID_MOE"
+    }
+  },
+  {
+    "ts": 1779139256260,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UUID"
+    }
+  },
+  {
+    "ts": 1779139256260,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_KEY_MOE_GAID"
+    }
+  },
+  {
+    "ts": 1779139256265,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_MOE"
+    }
+  },
+  {
+    "ts": 1779139256270,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139256270,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UNIQUE_ID_MOE"
+    }
+  },
+  {
+    "ts": 1779139256271,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UUID"
+    }
+  },
+  {
+    "ts": 1779139256271,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_KEY_MOE_GAID"
+    }
+  },
+  {
+    "ts": 1779139256274,
+    "type": "url_access",
+    "data": {
+      "url": "https://apiv2.moengage.com/v2/report/add?unique_id=d449099f-93f2-42c9-aa7a-abb14e79e624&os_ver=30&os=ANDROID&push_id=cIIvkM2DMV0%3AAPA91bEat4SqWdnJcB7mD8nKfAH0yfsO1X4T6igxZkjfwF7olIFQFw3BtKGuUra-8zm5o-WOgT_s7NcFTSEITVFE5np2iYN9LijPKjR82_KDIe5MmW-rg8g&device_tz_offset=19800000&device_ts=1779139256271&moe_gaid=29471ce5-214d-4137-ac6b-0e0e9fd03b28&device_tz=Asia%2FCalcutta&app_ver=52&model=sdk_gphone_x86_64&android_id=967af3ceadc38366&sdk_ver=6012&networkType=wifi&app_version_name=3.1.9&app_id=U1QDLUKKJWPIJKHWSX45MM1D"
+    }
+  },
+  {
+    "ts": 1779139256278,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779139256281,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139256282,
+    "type": "url_access",
+    "data": {
+      "url": "https://apiv2.moengage.com/v2/device/add?unique_id=d449099f-93f2-42c9-aa7a-abb14e79e624&os_ver=30&os=ANDROID&push_id=cIIvkM2DMV0%3AAPA91bEat4SqWdnJcB7mD8nKfAH0yfsO1X4T6igxZkjfwF7olIFQFw3BtKGuUra-8zm5o-WOgT_s7NcFTSEITVFE5np2iYN9LijPKjR82_KDIe5MmW-rg8g&device_tz_offset=19800000&device_ts=1779139256260&moe_gaid=29471ce5-214d-4137-ac6b-0e0e9fd03b28&device_tz=Asia%2FCalcutta&app_ver=52&model=sdk_gphone_x86_64&android_id=967af3ceadc38366&sdk_ver=6012&networkType=wifi&app_version_name=3.1.9&app_id=U1QDLUKKJWPIJKHWSX45MM1D"
+    }
+  },
+  {
+    "ts": 1779139256439,
+    "type": "shared_pref",
+    "data": {
+      "key": "citykey"
+    }
+  },
+  {
+    "ts": 1779139263373,
+    "type": "shared_pref",
+    "data": {
+      "key": "citykey"
+    }
+  },
+  {
+    "ts": 1779139263375,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139263376,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139263376,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.urbanclap.com/api/v1/customercategories/city_ahmedabad_v2/newMobileV2?new_image_format=true"
+    }
+  },
+  {
+    "ts": 1779139263377,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139263377,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139263377,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139263378,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779139263378,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779139263378,
+    "type": "shared_pref",
+    "data": {
+      "key": "events_distinct_id"
+    }
+  },
+  {
+    "ts": 1779139263378,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779139263379,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779139263381,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_id"
+    }
+  },
+  {
+    "ts": 1779139263400,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_MOE"
+    }
+  },
+  {
+    "ts": 1779139263410,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779139263410,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UNIQUE_ID_MOE"
+    }
+  },
+  {
+    "ts": 1779139263410,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UUID"
+    }
+  },
+  {
+    "ts": 1779139263411,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_KEY_MOE_GAID"
+    }
+  },
+  {
+    "ts": 1779139263411,
+    "type": "url_access",
+    "data": {
+      "url": "https://apiv2.moengage.com/v2/report/add?unique_id=d449099f-93f2-42c9-aa7a-abb14e79e624&os_ver=30&os=ANDROID&push_id=cIIvkM2DMV0%3AAPA91bEat4SqWdnJcB7mD8nKfAH0yfsO1X4T6igxZkjfwF7olIFQFw3BtKGuUra-8zm5o-WOgT_s7NcFTSEITVFE5np2iYN9LijPKjR82_KDIe5MmW-rg8g&device_tz_offset=19800000&device_ts=1779139263411&moe_gaid=29471ce5-214d-4137-ac6b-0e0e9fd03b28&device_tz=Asia%2FCalcutta&app_ver=52&model=sdk_gphone_x86_64&android_id=967af3ceadc38366&sdk_ver=6012&networkType=wifi&app_version_name=3.1.9&app_id=U1QDLUKKJWPIJKHWSX45MM1D"
+    }
+  },
+  {
+    "ts": 1779139263973,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/1566066270342195/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779139264205,
+    "type": "shared_pref",
+    "data": {
+      "key": "citykey"
+    }
+  }
+]

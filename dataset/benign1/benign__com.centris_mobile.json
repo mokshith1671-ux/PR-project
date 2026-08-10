@@ -1,0 +1,58 @@
+[
+  {
+    "ts": 1778226496974,
+    "type": "device",
+    "data": {
+      "api": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1778226496989,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778226496993,
+    "type": "device",
+    "data": {
+      "api": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1778226497005,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778226497005,
+    "type": "device",
+    "data": {
+      "api": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1778226497015,
+    "type": "network",
+    "data": {
+      "url": "http://apps.centris.ca/prospects/services/PMobile"
+    }
+  },
+  {
+    "ts": 1778226497022,
+    "type": "network",
+    "data": {
+      "url": "http://apps.centris.ca/prospects/services/PMobile"
+    }
+  },
+  {
+    "ts": 1778226497026,
+    "type": "activity",
+    "data": {
+      "activity": "com.prospects_libs.login.ProspectsSplash"
+    }
+  }
+]

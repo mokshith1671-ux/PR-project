@@ -1,0 +1,541 @@
+[
+  {
+    "ts": 1779646044366,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779646044375,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779646044376,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_identifier"
+    }
+  },
+  {
+    "ts": 1779646044377,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_link"
+    }
+  },
+  {
+    "ts": 1779646044377,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_push_identifier"
+    }
+  },
+  {
+    "ts": 1779646044377,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_uri"
+    }
+  },
+  {
+    "ts": 1779646044377,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_extra"
+    }
+  },
+  {
+    "ts": 1779646044379,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_version"
+    }
+  },
+  {
+    "ts": 1779646044392,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646044399,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.buymeapie.android.bmp.activities.Splash"
+    }
+  },
+  {
+    "ts": 1779646044553,
+    "type": "shared_pref",
+    "data": {
+      "key": "login"
+    }
+  },
+  {
+    "ts": 1779646044572,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_version"
+    }
+  },
+  {
+    "ts": 1779646044646,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buymeapie.bmap/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646044677,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.buymeapie.android.bmp.activities.ProductsListActivity"
+    }
+  },
+  {
+    "ts": 1779646044713,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buymeapie.bmap/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779646044794,
+    "type": "shared_pref",
+    "data": {
+      "key": "account_email"
+    }
+  },
+  {
+    "ts": 1779646044795,
+    "type": "shared_pref",
+    "data": {
+      "key": "account_email"
+    }
+  },
+  {
+    "ts": 1779646044890,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646044891,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buymeapie.bmap/shared_prefs/FLURRY_SHARED_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646044894,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646044894,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646044895,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646044895,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646044895,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779646044895,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779646044895,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buymeapie.bmap/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A133E5C00EC-0001-2810-69FEC7A4C361SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779646044898,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buymeapie.bmap/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646044899,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779646044899,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646044899,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646044900,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646044900,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646044900,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.buymeapie.bmap/settings?instance=9fd8bee941914def6136e192036574f6c183b1cf&build_version=64&display_version=2.0.14&source=1&icon_hash=c8ed83b8508ea08837255ea518e31340a11176a3"
+    }
+  },
+  {
+    "ts": 1779646044901,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.buymeapie.bmap/settings?instance=9fd8bee941914def6136e192036574f6c183b1cf&build_version=64&display_version=2.0.14&source=1&icon_hash=c8ed83b8508ea08837255ea518e31340a11176a3"
+    }
+  },
+  {
+    "ts": 1779646044903,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646044909,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779646044914,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/install"
+    }
+  },
+  {
+    "ts": 1779646044925,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buymeapie.bmap/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779646044950,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.buymeapie.android.bmp.activities.HelpsActivity"
+    }
+  },
+  {
+    "ts": 1779646044958,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779646044979,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buymeapie.bmap/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779646045090,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779646045104,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779646045124,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779646045129,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779646045158,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779646045491,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779646045521,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_params"
+    }
+  },
+  {
+    "ts": 1779646045528,
+    "type": "url_access",
+    "data": {
+      "url": "https://ads.adadapted.com/v/0.9.3/android/session/init"
+    }
+  },
+  {
+    "ts": 1779646046122,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buymeapie.bmap/shared_prefs/com.google.android.gcm.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646046125,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779646046131,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779646046138,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779646046147,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779646046149,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779646046582,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779646046582,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefDictionaryLanguage"
+    }
+  },
+  {
+    "ts": 1779646046583,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefDictionaryLanguage"
+    }
+  },
+  {
+    "ts": 1779646046616,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779646046618,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779646046619,
+    "type": "shared_pref",
+    "data": {
+      "key": "current_version"
+    }
+  },
+  {
+    "ts": 1779646046628,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779646046629,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779646046633,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779646046639,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779646046641,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779646047126,
+    "type": "shared_pref",
+    "data": {
+      "key": "login"
+    }
+  },
+  {
+    "ts": 1779646047126,
+    "type": "shared_pref",
+    "data": {
+      "key": "pin"
+    }
+  },
+  {
+    "ts": 1779646047126,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779646047128,
+    "type": "url_access",
+    "data": {
+      "url": "http://phpd.buymeapie.com/banners?os_name=Android+Google&os_version=11&app_id=com.buymeapie.bmap_free&app_version=2.0.14"
+    }
+  },
+  {
+    "ts": 1779646047130,
+    "type": "url_access",
+    "data": {
+      "url": "http://phpd.buymeapie.com/banners?os_name=Android+Google&os_version=11&app_id=com.buymeapie.bmap_free&app_version=2.0.14"
+    }
+  },
+  {
+    "ts": 1779646056651,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779646056654,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779646056654,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779646066666,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779646066668,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779646066669,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  }
+]

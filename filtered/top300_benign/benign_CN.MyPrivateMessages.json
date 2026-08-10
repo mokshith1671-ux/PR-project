@@ -1,0 +1,534 @@
+[
+  {
+    "ts": 1779133160121,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133160123,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133160124,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133160124,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133160126,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133160126,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133160126,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133160126,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133160136,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133160136,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133160136,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133160136,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133160137,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/com.amazon.device.ads.debug"
+    }
+  },
+  {
+    "ts": 1779133160139,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/CN.MyPrivateMessages/shared_prefs/CN.MyPrivateMessages_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133160170,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779133160186,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779133160191,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/CN.MyPrivateMessages/shared_prefs/AmazonMobileAds.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133160197,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779133160197,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779133160197,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779133160205,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779133160205,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779133160208,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779133160208,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779133160208,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779133160209,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779133160209,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779133160210,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779133160210,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779133160217,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779133160217,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779133160222,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779133160222,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779133160222,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779133160222,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779133160222,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779133160223,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779133160223,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779133160224,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779133160224,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779133160224,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779133160224,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779133160224,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779133160272,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779133160275,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779133160276,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779133160284,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779133160284,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779133160285,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/CN.MyPrivateMessages/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133160288,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779133160336,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779133160446,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/CN.MyPrivateMessages/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133160458,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~LM-eL2uf3WLcGqcmZYHEPQ==/CN.MyPrivateMessages-u75j_tM8RCoKD4C-xzfg6Q==/base.apk"
+    }
+  },
+  {
+    "ts": 1779133160504,
+    "type": "url_access",
+    "data": {
+      "url": "https://mads.amazon-adsystem.com/msdk/getConfig?dinfo=%7B%22make%22%3A%22Google%22%2C%22model%22%3A%22sdk_gphone_x86_64%22%2C%22os%22%3A%22Android%22%2C%22osVersion%22%3A%2211%22%2C%22scalingFactor%22%3A%222.75%22%2C%22language%22%3A%22en%22%2C%22country%22%3A%22US%22%2C%22carrier%22%3A%22Android%22%7D&appId=2b7b28d144c44019ab0004927f5f4388&sdkVer=amznAdSDK-android-5.6.20&fp=false"
+    }
+  },
+  {
+    "ts": 1779133160507,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133160509,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133160509,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133160509,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133160513,
+    "type": "activity_resume",
+    "data": {
+      "activity": "CN.MyPrivateMessages.Calculator"
+    }
+  },
+  {
+    "ts": 1779133160514,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~LM-eL2uf3WLcGqcmZYHEPQ==/CN.MyPrivateMessages-u75j_tM8RCoKD4C-xzfg6Q==/base.apk"
+    }
+  },
+  {
+    "ts": 1779133160614,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779133161738,
+    "type": "activity_resume",
+    "data": {
+      "activity": "CN.MyPrivateMessages.Calculator"
+    }
+  },
+  {
+    "ts": 1779133161738,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~LM-eL2uf3WLcGqcmZYHEPQ==/CN.MyPrivateMessages-u75j_tM8RCoKD4C-xzfg6Q==/base.apk"
+    }
+  },
+  {
+    "ts": 1779133166780,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779133166785,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779133166786,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779133166786,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779133167161,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133167164,
+    "type": "url_access",
+    "data": {
+      "url": "http://aax-eu.amazon-adsystem.com/s/api3/generate_did?dt=android&app=app&dinfo=%7B%22make%22%3A%22Google%22%2C%22model%22%3A%22sdk_gphone_x86_64%22%2C%22os%22%3A%22Android%22%2C%22osVersion%22%3A%2211%22%7D&aud=amazon.in&badSerial=true&sha1_udid=b903bb3c2a03619e242a5f95a8bb4e6b5ad0ca0a&appId=2b7b28d144c44019ab0004927f5f4388&sdkVer=amznAdSDK-android-5.6.20&pkg=%7B%22lbl%22%3A%22Calculator%22%2C%22pn%22%3A%22CN.MyPrivateMessages%22%2C%22v%22%3A%22144%22%2C%22vn%22%3A%222.7.6.15%22%7D"
+    }
+  },
+  {
+    "ts": 1779133167167,
+    "type": "url_access",
+    "data": {
+      "url": "http://aax-eu.amazon-adsystem.com/s/api3/generate_did?dt=android&app=app&dinfo=%7B%22make%22%3A%22Google%22%2C%22model%22%3A%22sdk_gphone_x86_64%22%2C%22os%22%3A%22Android%22%2C%22osVersion%22%3A%2211%22%7D&aud=amazon.in&badSerial=true&sha1_udid=b903bb3c2a03619e242a5f95a8bb4e6b5ad0ca0a&appId=2b7b28d144c44019ab0004927f5f4388&sdkVer=amznAdSDK-android-5.6.20&pkg=%7B%22lbl%22%3A%22Calculator%22%2C%22pn%22%3A%22CN.MyPrivateMessages%22%2C%22v%22%3A%22144%22%2C%22vn%22%3A%222.7.6.15%22%7D"
+    }
+  },
+  {
+    "ts": 1779133168264,
+    "type": "url_access",
+    "data": {
+      "url": "http://aax-eu.amazon-adsystem.com/s/api3/generate_did?dt=android&app=app&dinfo=%7B%22make%22%3A%22Google%22%2C%22model%22%3A%22sdk_gphone_x86_64%22%2C%22os%22%3A%22Android%22%2C%22osVersion%22%3A%2211%22%7D&aud=amazon.in&badSerial=true&sha1_udid=b903bb3c2a03619e242a5f95a8bb4e6b5ad0ca0a&appId=2b7b28d144c44019ab0004927f5f4388&sdkVer=amznAdSDK-android-5.6.20&pkg=%7B%22lbl%22%3A%22Calculator%22%2C%22pn%22%3A%22CN.MyPrivateMessages%22%2C%22v%22%3A%22144%22%2C%22vn%22%3A%222.7.6.15%22%7D"
+    }
+  },
+  {
+    "ts": 1779133168266,
+    "type": "url_access",
+    "data": {
+      "url": "http://aax-eu.amazon-adsystem.com/s/api3/generate_did?dt=android&app=app&dinfo=%7B%22make%22%3A%22Google%22%2C%22model%22%3A%22sdk_gphone_x86_64%22%2C%22os%22%3A%22Android%22%2C%22osVersion%22%3A%2211%22%7D&aud=amazon.in&badSerial=true&sha1_udid=b903bb3c2a03619e242a5f95a8bb4e6b5ad0ca0a&appId=2b7b28d144c44019ab0004927f5f4388&sdkVer=amznAdSDK-android-5.6.20&pkg=%7B%22lbl%22%3A%22Calculator%22%2C%22pn%22%3A%22CN.MyPrivateMessages%22%2C%22v%22%3A%22144%22%2C%22vn%22%3A%222.7.6.15%22%7D"
+    }
+  },
+  {
+    "ts": 1779133168466,
+    "type": "url_access",
+    "data": {
+      "url": "http://aax-eu.amazon-adsystem.com/s/api3/generate_did?dt=android&app=app&dinfo=%7B%22make%22%3A%22Google%22%2C%22model%22%3A%22sdk_gphone_x86_64%22%2C%22os%22%3A%22Android%22%2C%22osVersion%22%3A%2211%22%7D&aud=amazon.in&badSerial=true&sha1_udid=b903bb3c2a03619e242a5f95a8bb4e6b5ad0ca0a&appId=2b7b28d144c44019ab0004927f5f4388&sdkVer=amznAdSDK-android-5.6.20&pkg=%7B%22lbl%22%3A%22Calculator%22%2C%22pn%22%3A%22CN.MyPrivateMessages%22%2C%22v%22%3A%22144%22%2C%22vn%22%3A%222.7.6.15%22%7D"
+    }
+  },
+  {
+    "ts": 1779133168468,
+    "type": "url_access",
+    "data": {
+      "url": "http://aax-eu.amazon-adsystem.com/s/api3/generate_did?dt=android&app=app&dinfo=%7B%22make%22%3A%22Google%22%2C%22model%22%3A%22sdk_gphone_x86_64%22%2C%22os%22%3A%22Android%22%2C%22osVersion%22%3A%2211%22%7D&aud=amazon.in&badSerial=true&sha1_udid=b903bb3c2a03619e242a5f95a8bb4e6b5ad0ca0a&appId=2b7b28d144c44019ab0004927f5f4388&sdkVer=amznAdSDK-android-5.6.20&pkg=%7B%22lbl%22%3A%22Calculator%22%2C%22pn%22%3A%22CN.MyPrivateMessages%22%2C%22v%22%3A%22144%22%2C%22vn%22%3A%222.7.6.15%22%7D"
+    }
+  },
+  {
+    "ts": 1779133172684,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779133172687,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  }
+]

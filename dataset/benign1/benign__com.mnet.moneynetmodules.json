@@ -1,0 +1,37 @@
+[
+  {
+    "ts": 1778237662967,
+    "type": "sp",
+    "data": {
+      "key": "user_name_prefs"
+    }
+  },
+  {
+    "ts": 1778237662969,
+    "type": "sp",
+    "data": {
+      "key": "password_prefs"
+    }
+  },
+  {
+    "ts": 1778237662969,
+    "type": "sp",
+    "data": {
+      "key": "news_prefs"
+    }
+  },
+  {
+    "ts": 1778237662970,
+    "type": "sp",
+    "data": {
+      "key": "tutorial_prefs"
+    }
+  },
+  {
+    "ts": 1778237663008,
+    "type": "activity",
+    "data": {
+      "activity": "com.mnet.moneynetmodules.tutorial"
+    }
+  }
+]

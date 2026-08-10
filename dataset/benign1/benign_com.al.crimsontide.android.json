@@ -1,0 +1,2256 @@
+[
+  {
+    "ts": 1779135325828,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B735D0322-0001-6506-CD56B41654BBBeginSession.cls_temp"
+    }
+  },
+  {
+    "ts": 1779135325830,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B735D0322-0001-6506-CD56B41654BBBeginSession.cls"
+    }
+  },
+  {
+    "ts": 1779135325830,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B735D0322-0001-6506-CD56B41654BBSessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1779135325832,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779135325837,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B735D0322-0001-6506-CD56B41654BBSessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779135325839,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B735D0322-0001-6506-CD56B41654BBSessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779135325839,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779135325839,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779135325844,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B735D0322-0001-6506-CD56B41654BBSessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779135325847,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B735D0322-0001-6506-CD56B41654BBSessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779135325849,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779135325855,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135325856,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135325907,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/shared_prefs/splash_shared_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135325912,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135325922,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/shared_prefs/app_parse_upgraded.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135325936,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.advance.news.activities.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779135325944,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779135325945,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/shared_prefs/rate_application.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135325947,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/shared_prefs/com.al.crimsontide.android_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135325949,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.al.com/static/aff/data/config-app-team-alcom-alabamafootball.json"
+    }
+  },
+  {
+    "ts": 1779135325956,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779135325956,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.al.com/static/aff/data/config-app-team-alcom-alabamafootball.json"
+    }
+  },
+  {
+    "ts": 1779135325976,
+    "type": "url_access",
+    "data": {
+      "url": "http://b.scorecardresearch.com/p2?c1=19&c2=6034988&ns_ap_an=AL.com%3A%20Alabama%20Crimson%20Tide%20Football%20News&ns_ap_pn=android&ns_ap_pv=11&c12=8e06761128eb6186ce97f905cf6ca488-cs72&name=start&ns_ak=0YAu%2F8ireWVkmXvm7t7luzSCdfuMDjR6e5S4m7ZhIp8yLImXnat9bKiNp92tVhPJOpXTH0yZQnBe5oCyp5Nv1C3oW5s5HOdF7kCE%2FlL9D9akYef5j62nrXWEkFGGCT4VxKBbEh3bZkEdTBq3H2W2Pkbzg86%2FOW4QZizSlfqUApg%3D&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1779135325942&ns_ap_csf=1&ns_ap_bi=com.al.crimsontide.android&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=v3.6.2edda1d3&ns_ap_sv=3.1502.26&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1779135325736&ns_ap_jb=0&ns_ap_res=1080x2009&ns_ap_install=1779135325736&ns_ap_lastrun=0&ns_ap_cs=1&ns_ap_runs=1&ns_ap_usage=206&ns_ap_fg=1&ns_ap_ft=3&ns_ap_dft=3&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=197&ns_ap_as=1&ns_ap_das=200&ns_ap_it=197&ns_ap_lang=en&ns_ap_ar=x86_64&ns_ts=1779135325942"
+    }
+  },
+  {
+    "ts": 1779135325983,
+    "type": "url_access",
+    "data": {
+      "url": "http://b.scorecardresearch.com/p2?c1=19&c2=6034988&ns_ap_an=AL.com%3A%20Alabama%20Crimson%20Tide%20Football%20News&ns_ap_pn=android&ns_ap_pv=11&c12=8e06761128eb6186ce97f905cf6ca488-cs72&name=start&ns_ak=0YAu%2F8ireWVkmXvm7t7luzSCdfuMDjR6e5S4m7ZhIp8yLImXnat9bKiNp92tVhPJOpXTH0yZQnBe5oCyp5Nv1C3oW5s5HOdF7kCE%2FlL9D9akYef5j62nrXWEkFGGCT4VxKBbEh3bZkEdTBq3H2W2Pkbzg86%2FOW4QZizSlfqUApg%3D&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1779135325942&ns_ap_csf=1&ns_ap_bi=com.al.crimsontide.android&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=v3.6.2edda1d3&ns_ap_sv=3.1502.26&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1779135325736&ns_ap_jb=0&ns_ap_res=1080x2009&ns_ap_install=1779135325736&ns_ap_lastrun=0&ns_ap_cs=1&ns_ap_runs=1&ns_ap_usage=206&ns_ap_fg=1&ns_ap_ft=3&ns_ap_dft=3&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=197&ns_ap_as=1&ns_ap_das=200&ns_ap_it=197&ns_ap_lang=en&ns_ap_ar=x86_64&ns_ts=1779135325942"
+    }
+  },
+  {
+    "ts": 1779135326116,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135326120,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135326121,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779135326124,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135326131,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779135326136,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779135326137,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779135326140,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779135326141,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B735D0322-0001-6506-CD56B41654BBSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779135326145,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.al.crimsontide.android/settings?instance=504502ccc3c9f2b124690e3a740869d5f2d3d8b9&build_version=1008&display_version=v3.6.2edda1d3&source=1&icon_hash=8f792553e578a3bfd5ebb93fc5ee10f8474a6282"
+    }
+  },
+  {
+    "ts": 1779135326150,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.al.crimsontide.android/settings?instance=504502ccc3c9f2b124690e3a740869d5f2d3d8b9&build_version=1008&display_version=v3.6.2edda1d3&source=1&icon_hash=8f792553e578a3bfd5ebb93fc5ee10f8474a6282"
+    }
+  },
+  {
+    "ts": 1779135326161,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779135327943,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.al.com/static/aff/data/config-app-team-alcom-alabamafootball.json"
+    }
+  },
+  {
+    "ts": 1779135327943,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.al.com/static/aff/data/config-app-team-alcom-alabamafootball.json"
+    }
+  },
+  {
+    "ts": 1779135328040,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_location_event_data_key"
+    }
+  },
+  {
+    "ts": 1779135328045,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135328046,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135328101,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/shared_prefs/push_notification.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135328130,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/shared_prefs/parsely-prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135328130,
+    "type": "shared_pref",
+    "data": {
+      "key": "parsely-uuid"
+    }
+  },
+  {
+    "ts": 1779135328140,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.advance.news.activities.IndexActivity"
+    }
+  },
+  {
+    "ts": 1779135331136,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779135331138,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779135331139,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779135331139,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779135338102,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B735D0322-0001-6506-CD56B41654BBSessionCrash.cls_temp"
+    }
+  },
+  {
+    "ts": 1779135338104,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135338126,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B735D0322-0001-6506-CD56B41654BBSessionCrash.cls"
+    }
+  },
+  {
+    "ts": 1779135338128,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B735D0322-0001-6506-CD56B41654BBSessionUser.cls_temp"
+    }
+  },
+  {
+    "ts": 1779135338128,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B735D0322-0001-6506-CD56B41654BBSessionUser.cls"
+    }
+  },
+  {
+    "ts": 1779135338129,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779135338130,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B736A0081-0002-6506-CD56B41654BBBeginSession.cls_temp"
+    }
+  },
+  {
+    "ts": 1779135338131,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B736A0081-0002-6506-CD56B41654BBBeginSession.cls"
+    }
+  },
+  {
+    "ts": 1779135338132,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B736A0081-0002-6506-CD56B41654BBSessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1779135338132,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779135338133,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B736A0081-0002-6506-CD56B41654BBSessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779135338134,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B736A0081-0002-6506-CD56B41654BBSessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779135338134,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135338135,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779135338136,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779135338136,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B736A0081-0002-6506-CD56B41654BBSessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779135338137,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B736A0081-0002-6506-CD56B41654BBSessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779135338137,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135338139,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135338139,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135338140,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135338140,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135338141,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779135338141,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779135338142,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.al.crimsontide.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B736A0081-0002-6506-CD56B41654BBSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779135338174,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/25862/fd"
+    }
+  },
+  {
+    "ts": 1779135338176,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/self/limits"
+    }
+  },
+  {
+    "ts": 1779135338261,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779135338262,
+    "type": "file_access",
+    "data": {
+      "path": "/product/bin/su"
+    }
+  },
+  {
+    "ts": 1779135338262,
+    "type": "file_access",
+    "data": {
+      "path": "/apex/com.android.runtime/bin/su"
+    }
+  },
+  {
+    "ts": 1779135338262,
+    "type": "file_access",
+    "data": {
+      "path": "/apex/com.android.art/bin/su"
+    }
+  },
+  {
+    "ts": 1779135338262,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/bin/su"
+    }
+  },
+  {
+    "ts": 1779135338262,
+    "type": "file_access",
+    "data": {
+      "path": "/system/bin/su"
+    }
+  },
+  {
+    "ts": 1779135338262,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779135338267,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338267,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338268,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338268,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338268,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338268,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338269,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338269,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338270,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338270,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338270,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338270,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338274,
+    "type": "file_access",
+    "data": {
+      "path": "/sdcard"
+    }
+  },
+  {
+    "ts": 1779135338274,
+    "type": "file_access",
+    "data": {
+      "path": "/sdcard"
+    }
+  },
+  {
+    "ts": 1779135338274,
+    "type": "file_access",
+    "data": {
+      "path": "/product_services"
+    }
+  },
+  {
+    "ts": 1779135338275,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338276,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338277,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338277,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338278,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338278,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338278,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338278,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338279,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338279,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338280,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338280,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338282,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338282,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338283,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338283,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338284,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338284,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338284,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338284,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338285,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338285,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135338285,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338285,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135338308,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_autoclick_delay"
+    }
+  },
+  {
+    "ts": 1779135338308,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_autoclick_enabled"
+    }
+  },
+  {
+    "ts": 1779135338309,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_button_target_component"
+    }
+  },
+  {
+    "ts": 1779135338311,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_background_color"
+    }
+  },
+  {
+    "ts": 1779135338311,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_edge_color"
+    }
+  },
+  {
+    "ts": 1779135338312,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_edge_type"
+    }
+  },
+  {
+    "ts": 1779135338313,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_enabled"
+    }
+  },
+  {
+    "ts": 1779135338313,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_font_scale"
+    }
+  },
+  {
+    "ts": 1779135338314,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_foreground_color"
+    }
+  },
+  {
+    "ts": 1779135338315,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779135338315,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_preset"
+    }
+  },
+  {
+    "ts": 1779135338316,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_typeface"
+    }
+  },
+  {
+    "ts": 1779135338317,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_window_color"
+    }
+  },
+  {
+    "ts": 1779135338317,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_display_daltonizer"
+    }
+  },
+  {
+    "ts": 1779135338318,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_display_daltonizer_enabled"
+    }
+  },
+  {
+    "ts": 1779135338319,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_display_inversion_enabled"
+    }
+  },
+  {
+    "ts": 1779135338320,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_display_magnification_enabled"
+    }
+  },
+  {
+    "ts": 1779135338320,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_display_magnification_navbar_enabled"
+    }
+  },
+  {
+    "ts": 1779135338321,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_display_magnification_scale"
+    }
+  },
+  {
+    "ts": 1779135338322,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_enabled"
+    }
+  },
+  {
+    "ts": 1779135338322,
+    "type": "settings_access",
+    "data": {
+      "setting": "high_text_contrast_enabled"
+    }
+  },
+  {
+    "ts": 1779135338323,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_large_pointer_icon"
+    }
+  },
+  {
+    "ts": 1779135338323,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_shortcut_dialog_shown"
+    }
+  },
+  {
+    "ts": 1779135338324,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_shortcut_on_lock_screen"
+    }
+  },
+  {
+    "ts": 1779135338325,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_shortcut_target_service"
+    }
+  },
+  {
+    "ts": 1779135338326,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_soft_keyboard_mode"
+    }
+  },
+  {
+    "ts": 1779135338327,
+    "type": "settings_access",
+    "data": {
+      "setting": "allowed_geolocation_origins"
+    }
+  },
+  {
+    "ts": 1779135338327,
+    "type": "settings_access",
+    "data": {
+      "setting": "always_on_vpn_app"
+    }
+  },
+  {
+    "ts": 1779135338327,
+    "type": "settings_access",
+    "data": {
+      "setting": "always_on_vpn_lockdown"
+    }
+  },
+  {
+    "ts": 1779135338328,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135338328,
+    "type": "settings_access",
+    "data": {
+      "setting": "anr_show_background"
+    }
+  },
+  {
+    "ts": 1779135338329,
+    "type": "settings_access",
+    "data": {
+      "setting": "assistant"
+    }
+  },
+  {
+    "ts": 1779135338329,
+    "type": "settings_access",
+    "data": {
+      "setting": "assist_disclosure_enabled"
+    }
+  },
+  {
+    "ts": 1779135338330,
+    "type": "settings_access",
+    "data": {
+      "setting": "assist_gesture_enabled"
+    }
+  },
+  {
+    "ts": 1779135338331,
+    "type": "settings_access",
+    "data": {
+      "setting": "assist_gesture_sensitivity"
+    }
+  },
+  {
+    "ts": 1779135338332,
+    "type": "settings_access",
+    "data": {
+      "setting": "assist_gesture_setup_complete"
+    }
+  },
+  {
+    "ts": 1779135338333,
+    "type": "settings_access",
+    "data": {
+      "setting": "assist_gesture_silence_alerts_enabled"
+    }
+  },
+  {
+    "ts": 1779135338336,
+    "type": "settings_access",
+    "data": {
+      "setting": "assist_gesture_wake_enabled"
+    }
+  },
+  {
+    "ts": 1779135338337,
+    "type": "settings_access",
+    "data": {
+      "setting": "assist_screenshot_enabled"
+    }
+  },
+  {
+    "ts": 1779135338338,
+    "type": "settings_access",
+    "data": {
+      "setting": "assist_structure_enabled"
+    }
+  },
+  {
+    "ts": 1779135338338,
+    "type": "settings_access",
+    "data": {
+      "setting": "autofill_field_classification"
+    }
+  },
+  {
+    "ts": 1779135338339,
+    "type": "settings_access",
+    "data": {
+      "setting": "autofill_service_search_uri"
+    }
+  },
+  {
+    "ts": 1779135338339,
+    "type": "settings_access",
+    "data": {
+      "setting": "autofill_user_data_max_category_count"
+    }
+  },
+  {
+    "ts": 1779135338340,
+    "type": "settings_access",
+    "data": {
+      "setting": "autofill_user_data_max_field_classification_size"
+    }
+  },
+  {
+    "ts": 1779135338340,
+    "type": "settings_access",
+    "data": {
+      "setting": "autofill_user_data_max_user_data_size"
+    }
+  },
+  {
+    "ts": 1779135338341,
+    "type": "settings_access",
+    "data": {
+      "setting": "autofill_user_data_max_value_length"
+    }
+  },
+  {
+    "ts": 1779135338342,
+    "type": "settings_access",
+    "data": {
+      "setting": "autofill_user_data_min_value_length"
+    }
+  },
+  {
+    "ts": 1779135338342,
+    "type": "settings_access",
+    "data": {
+      "setting": "automatic_storage_manager_bytes_cleared"
+    }
+  },
+  {
+    "ts": 1779135338343,
+    "type": "settings_access",
+    "data": {
+      "setting": "automatic_storage_manager_days_to_retain"
+    }
+  },
+  {
+    "ts": 1779135338344,
+    "type": "settings_access",
+    "data": {
+      "setting": "automatic_storage_manager_enabled"
+    }
+  },
+  {
+    "ts": 1779135338344,
+    "type": "settings_access",
+    "data": {
+      "setting": "automatic_storage_manager_last_run"
+    }
+  },
+  {
+    "ts": 1779135338344,
+    "type": "settings_access",
+    "data": {
+      "setting": "automatic_storage_manager_turned_off_by_policy"
+    }
+  },
+  {
+    "ts": 1779135338345,
+    "type": "settings_access",
+    "data": {
+      "setting": "auto_revoke_disabled"
+    }
+  },
+  {
+    "ts": 1779135338345,
+    "type": "settings_access",
+    "data": {
+      "setting": "backup_auto_restore"
+    }
+  },
+  {
+    "ts": 1779135338346,
+    "type": "settings_access",
+    "data": {
+      "setting": "backup_enabled"
+    }
+  },
+  {
+    "ts": 1779135338347,
+    "type": "settings_access",
+    "data": {
+      "setting": "backup_local_transport_parameters"
+    }
+  },
+  {
+    "ts": 1779135338348,
+    "type": "settings_access",
+    "data": {
+      "setting": "backup_manager_constants"
+    }
+  },
+  {
+    "ts": 1779135338348,
+    "type": "settings_access",
+    "data": {
+      "setting": "backup_provisioned"
+    }
+  },
+  {
+    "ts": 1779135338349,
+    "type": "settings_access",
+    "data": {
+      "setting": "backup_transport"
+    }
+  },
+  {
+    "ts": 1779135338350,
+    "type": "settings_access",
+    "data": {
+      "setting": "bluetooth_on_while_driving"
+    }
+  },
+  {
+    "ts": 1779135338350,
+    "type": "settings_access",
+    "data": {
+      "setting": "camera_double_tap_power_gesture_disabled"
+    }
+  },
+  {
+    "ts": 1779135338351,
+    "type": "settings_access",
+    "data": {
+      "setting": "camera_double_twist_to_flip_enabled"
+    }
+  },
+  {
+    "ts": 1779135338352,
+    "type": "settings_access",
+    "data": {
+      "setting": "camera_gesture_disabled"
+    }
+  },
+  {
+    "ts": 1779135338353,
+    "type": "settings_access",
+    "data": {
+      "setting": "camera_lift_trigger_enabled"
+    }
+  },
+  {
+    "ts": 1779135338354,
+    "type": "settings_access",
+    "data": {
+      "setting": "carrier_apps_handled"
+    }
+  },
+  {
+    "ts": 1779135338354,
+    "type": "settings_access",
+    "data": {
+      "setting": "cmas_additional_broadcast_pkg"
+    }
+  },
+  {
+    "ts": 1779135338355,
+    "type": "settings_access",
+    "data": {
+      "setting": "suggested.completed_category."
+    }
+  },
+  {
+    "ts": 1779135338356,
+    "type": "settings_access",
+    "data": {
+      "setting": "connectivity_release_pending_intent_delay_ms"
+    }
+  },
+  {
+    "ts": 1779135338356,
+    "type": "settings_access",
+    "data": {
+      "setting": "default_input_method"
+    }
+  },
+  {
+    "ts": 1779135338357,
+    "type": "settings_access",
+    "data": {
+      "setting": "device_paired"
+    }
+  },
+  {
+    "ts": 1779135338358,
+    "type": "settings_access",
+    "data": {
+      "setting": "dialer_default_application"
+    }
+  },
+  {
+    "ts": 1779135338360,
+    "type": "settings_access",
+    "data": {
+      "setting": "disabled_system_input_methods"
+    }
+  },
+  {
+    "ts": 1779135338360,
+    "type": "settings_access",
+    "data": {
+      "setting": "display_density_forced"
+    }
+  },
+  {
+    "ts": 1779135338360,
+    "type": "settings_access",
+    "data": {
+      "setting": "double_tap_to_wake"
+    }
+  },
+  {
+    "ts": 1779135338361,
+    "type": "settings_access",
+    "data": {
+      "setting": "doze_always_on"
+    }
+  },
+  {
+    "ts": 1779135338362,
+    "type": "settings_access",
+    "data": {
+      "setting": "doze_enabled"
+    }
+  },
+  {
+    "ts": 1779135338362,
+    "type": "settings_access",
+    "data": {
+      "setting": "doze_pulse_on_long_press"
+    }
+  },
+  {
+    "ts": 1779135338363,
+    "type": "settings_access",
+    "data": {
+      "setting": "emergency_assistance_application"
+    }
+  },
+  {
+    "ts": 1779135338363,
+    "type": "settings_access",
+    "data": {
+      "setting": "enabled_accessibility_services"
+    }
+  },
+  {
+    "ts": 1779135338364,
+    "type": "settings_access",
+    "data": {
+      "setting": "enabled_input_methods"
+    }
+  },
+  {
+    "ts": 1779135338364,
+    "type": "settings_access",
+    "data": {
+      "setting": "enabled_print_services"
+    }
+  },
+  {
+    "ts": 1779135338365,
+    "type": "settings_access",
+    "data": {
+      "setting": "enabled_vr_listeners"
+    }
+  },
+  {
+    "ts": 1779135338365,
+    "type": "settings_access",
+    "data": {
+      "setting": "enhanced_voice_privacy_enabled"
+    }
+  },
+  {
+    "ts": 1779135338366,
+    "type": "settings_access",
+    "data": {
+      "setting": "hush_gesture_used"
+    }
+  },
+  {
+    "ts": 1779135338366,
+    "type": "settings_access",
+    "data": {
+      "setting": "immersive_mode_confirmations"
+    }
+  },
+  {
+    "ts": 1779135338367,
+    "type": "settings_access",
+    "data": {
+      "setting": "incall_back_button_behavior"
+    }
+  },
+  {
+    "ts": 1779135338367,
+    "type": "settings_access",
+    "data": {
+      "setting": "incall_power_button_behavior"
+    }
+  },
+  {
+    "ts": 1779135338368,
+    "type": "settings_access",
+    "data": {
+      "setting": "input_methods_subtype_history"
+    }
+  },
+  {
+    "ts": 1779135338369,
+    "type": "settings_access",
+    "data": {
+      "setting": "input_method_selector_visibility"
+    }
+  },
+  {
+    "ts": 1779135338370,
+    "type": "settings_access",
+    "data": {
+      "setting": "install_non_market_apps"
+    }
+  },
+  {
+    "ts": 1779135338370,
+    "type": "settings_access",
+    "data": {
+      "setting": "instant_apps_enabled"
+    }
+  },
+  {
+    "ts": 1779135338370,
+    "type": "settings_access",
+    "data": {
+      "setting": "keyguard_slice_uri"
+    }
+  },
+  {
+    "ts": 1779135338371,
+    "type": "settings_access",
+    "data": {
+      "setting": "last_setup_shown"
+    }
+  },
+  {
+    "ts": 1779135338371,
+    "type": "settings_access",
+    "data": {
+      "setting": "location_access_check_delay_millis"
+    }
+  },
+  {
+    "ts": 1779135338372,
+    "type": "settings_access",
+    "data": {
+      "setting": "location_access_check_interval_millis"
+    }
+  },
+  {
+    "ts": 1779135338373,
+    "type": "settings_access",
+    "data": {
+      "setting": "location_changer"
+    }
+  },
+  {
+    "ts": 1779135338373,
+    "type": "settings_access",
+    "data": {
+      "setting": "lockdown_in_power_menu"
+    }
+  },
+  {
+    "ts": 1779135338374,
+    "type": "settings_access",
+    "data": {
+      "setting": "lock_screen_allow_private_notifications"
+    }
+  },
+  {
+    "ts": 1779135338376,
+    "type": "settings_access",
+    "data": {
+      "setting": "lock_screen_allow_remote_input"
+    }
+  },
+  {
+    "ts": 1779135338376,
+    "type": "settings_access",
+    "data": {
+      "setting": "lock_screen_lock_after_timeout"
+    }
+  },
+  {
+    "ts": 1779135338378,
+    "type": "settings_access",
+    "data": {
+      "setting": "lock_screen_show_notifications"
+    }
+  },
+  {
+    "ts": 1779135338378,
+    "type": "settings_access",
+    "data": {
+      "setting": "lock_to_app_exit_locked"
+    }
+  },
+  {
+    "ts": 1779135338380,
+    "type": "settings_access",
+    "data": {
+      "setting": "long_press_timeout"
+    }
+  },
+  {
+    "ts": 1779135338380,
+    "type": "settings_access",
+    "data": {
+      "setting": "low_power_manual_activation_count"
+    }
+  },
+  {
+    "ts": 1779135338381,
+    "type": "settings_access",
+    "data": {
+      "setting": "low_power_warning_acknowledged"
+    }
+  },
+  {
+    "ts": 1779135338382,
+    "type": "settings_access",
+    "data": {
+      "setting": "managed_profile_contact_remote_search"
+    }
+  },
+  {
+    "ts": 1779135338382,
+    "type": "settings_access",
+    "data": {
+      "setting": "manual_ringer_toggle_count"
+    }
+  },
+  {
+    "ts": 1779135338382,
+    "type": "settings_access",
+    "data": {
+      "setting": "mount_play_not_snd"
+    }
+  },
+  {
+    "ts": 1779135338384,
+    "type": "settings_access",
+    "data": {
+      "setting": "mount_ums_autostart"
+    }
+  },
+  {
+    "ts": 1779135338384,
+    "type": "settings_access",
+    "data": {
+      "setting": "mount_ums_notify_enabled"
+    }
+  },
+  {
+    "ts": 1779135338385,
+    "type": "settings_access",
+    "data": {
+      "setting": "mount_ums_prompt"
+    }
+  },
+  {
+    "ts": 1779135338385,
+    "type": "settings_access",
+    "data": {
+      "setting": "multi_press_timeout"
+    }
+  },
+  {
+    "ts": 1779135338386,
+    "type": "settings_access",
+    "data": {
+      "setting": "nfc_payment_default_component"
+    }
+  },
+  {
+    "ts": 1779135338386,
+    "type": "settings_access",
+    "data": {
+      "setting": "nfc_payment_foreground"
+    }
+  },
+  {
+    "ts": 1779135338386,
+    "type": "settings_access",
+    "data": {
+      "setting": "night_display_activated"
+    }
+  },
+  {
+    "ts": 1779135338387,
+    "type": "settings_access",
+    "data": {
+      "setting": "night_display_auto_mode"
+    }
+  },
+  {
+    "ts": 1779135338387,
+    "type": "settings_access",
+    "data": {
+      "setting": "night_display_color_temperature"
+    }
+  },
+  {
+    "ts": 1779135338388,
+    "type": "settings_access",
+    "data": {
+      "setting": "night_display_custom_end_time"
+    }
+  },
+  {
+    "ts": 1779135338389,
+    "type": "settings_access",
+    "data": {
+      "setting": "night_display_custom_start_time"
+    }
+  },
+  {
+    "ts": 1779135338390,
+    "type": "settings_access",
+    "data": {
+      "setting": "night_display_last_activated_time"
+    }
+  },
+  {
+    "ts": 1779135338390,
+    "type": "settings_access",
+    "data": {
+      "setting": "notification_badging"
+    }
+  },
+  {
+    "ts": 1779135338392,
+    "type": "settings_access",
+    "data": {
+      "setting": "num_rotation_suggestions_accepted"
+    }
+  },
+  {
+    "ts": 1779135338393,
+    "type": "settings_access",
+    "data": {
+      "setting": "odi_captions_enabled"
+    }
+  },
+  {
+    "ts": 1779135338395,
+    "type": "settings_access",
+    "data": {
+      "setting": "packages_to_clear_data_before_full_restore"
+    }
+  },
+  {
+    "ts": 1779135338395,
+    "type": "settings_access",
+    "data": {
+      "setting": "parental_control_enabled"
+    }
+  },
+  {
+    "ts": 1779135338396,
+    "type": "settings_access",
+    "data": {
+      "setting": "parental_control_last_update"
+    }
+  },
+  {
+    "ts": 1779135338397,
+    "type": "settings_access",
+    "data": {
+      "setting": "parental_control_redirect_url"
+    }
+  },
+  {
+    "ts": 1779135338398,
+    "type": "settings_access",
+    "data": {
+      "setting": "payment_service_search_uri"
+    }
+  },
+  {
+    "ts": 1779135338398,
+    "type": "settings_access",
+    "data": {
+      "setting": "preferred_tty_mode"
+    }
+  },
+  {
+    "ts": 1779135338399,
+    "type": "settings_access",
+    "data": {
+      "setting": "print_service_search_uri"
+    }
+  },
+  {
+    "ts": 1779135338399,
+    "type": "settings_access",
+    "data": {
+      "setting": "qs_auto_tiles"
+    }
+  },
+  {
+    "ts": 1779135338400,
+    "type": "settings_access",
+    "data": {
+      "setting": "sysui_qs_tiles"
+    }
+  },
+  {
+    "ts": 1779135338401,
+    "type": "settings_access",
+    "data": {
+      "setting": "rtt_calling_mode"
+    }
+  },
+  {
+    "ts": 1779135338401,
+    "type": "settings_access",
+    "data": {
+      "setting": "screensaver_activate_on_dock"
+    }
+  },
+  {
+    "ts": 1779135338402,
+    "type": "settings_access",
+    "data": {
+      "setting": "screensaver_activate_on_sleep"
+    }
+  },
+  {
+    "ts": 1779135338403,
+    "type": "settings_access",
+    "data": {
+      "setting": "screensaver_components"
+    }
+  },
+  {
+    "ts": 1779135338405,
+    "type": "settings_access",
+    "data": {
+      "setting": "screensaver_default_component"
+    }
+  },
+  {
+    "ts": 1779135338405,
+    "type": "settings_access",
+    "data": {
+      "setting": "screensaver_enabled"
+    }
+  },
+  {
+    "ts": 1779135338406,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_global_search_activity"
+    }
+  },
+  {
+    "ts": 1779135338407,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_max_results_per_source"
+    }
+  },
+  {
+    "ts": 1779135338407,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_max_results_to_display"
+    }
+  },
+  {
+    "ts": 1779135338408,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_max_shortcuts_returned"
+    }
+  },
+  {
+    "ts": 1779135338408,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_max_source_event_age_millis"
+    }
+  },
+  {
+    "ts": 1779135338410,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_max_stat_age_millis"
+    }
+  },
+  {
+    "ts": 1779135338411,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_min_clicks_for_source_ranking"
+    }
+  },
+  {
+    "ts": 1779135338411,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_min_impressions_for_source_ranking"
+    }
+  },
+  {
+    "ts": 1779135338412,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_num_promoted_sources"
+    }
+  },
+  {
+    "ts": 1779135338413,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_per_source_concurrent_query_limit"
+    }
+  },
+  {
+    "ts": 1779135338414,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_prefill_millis"
+    }
+  },
+  {
+    "ts": 1779135338414,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_promoted_source_deadline_millis"
+    }
+  },
+  {
+    "ts": 1779135338415,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_query_thread_core_pool_size"
+    }
+  },
+  {
+    "ts": 1779135338416,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_query_thread_max_pool_size"
+    }
+  },
+  {
+    "ts": 1779135338416,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_shortcut_refresh_core_pool_size"
+    }
+  },
+  {
+    "ts": 1779135338417,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_shortcut_refresh_max_pool_size"
+    }
+  },
+  {
+    "ts": 1779135338417,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_source_timeout_millis"
+    }
+  },
+  {
+    "ts": 1779135338417,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_thread_keepalive_seconds"
+    }
+  },
+  {
+    "ts": 1779135338418,
+    "type": "settings_access",
+    "data": {
+      "setting": "search_web_results_override_limit"
+    }
+  },
+  {
+    "ts": 1779135338419,
+    "type": "settings_access",
+    "data": {
+      "setting": "secure_frp_mode"
+    }
+  },
+  {
+    "ts": 1779135338420,
+    "type": "settings_access",
+    "data": {
+      "setting": "selected_input_method_subtype"
+    }
+  },
+  {
+    "ts": 1779135338421,
+    "type": "settings_access",
+    "data": {
+      "setting": "selected_spell_checker"
+    }
+  },
+  {
+    "ts": 1779135338421,
+    "type": "settings_access",
+    "data": {
+      "setting": "selected_spell_checker_subtype"
+    }
+  },
+  {
+    "ts": 1779135338422,
+    "type": "settings_access",
+    "data": {
+      "setting": "settings_classname"
+    }
+  },
+  {
+    "ts": 1779135338423,
+    "type": "settings_access",
+    "data": {
+      "setting": "show_first_crash_dialog_dev_option"
+    }
+  },
+  {
+    "ts": 1779135338423,
+    "type": "settings_access",
+    "data": {
+      "setting": "show_ime_with_hard_keyboard"
+    }
+  },
+  {
+    "ts": 1779135338424,
+    "type": "settings_access",
+    "data": {
+      "setting": "show_note_about_notification_hiding"
+    }
+  },
+  {
+    "ts": 1779135338424,
+    "type": "settings_access",
+    "data": {
+      "setting": "show_rotation_suggestions"
+    }
+  },
+  {
+    "ts": 1779135338425,
+    "type": "settings_access",
+    "data": {
+      "setting": "skip_first_use_hints"
+    }
+  },
+  {
+    "ts": 1779135338427,
+    "type": "settings_access",
+    "data": {
+      "setting": "sleep_timeout"
+    }
+  },
+  {
+    "ts": 1779135338428,
+    "type": "settings_access",
+    "data": {
+      "setting": "sms_default_application"
+    }
+  },
+  {
+    "ts": 1779135338429,
+    "type": "settings_access",
+    "data": {
+      "setting": "spell_checker_enabled"
+    }
+  },
+  {
+    "ts": 1779135338430,
+    "type": "settings_access",
+    "data": {
+      "setting": "suppress_auto_battery_saver_suggestion"
+    }
+  },
+  {
+    "ts": 1779135338431,
+    "type": "settings_access",
+    "data": {
+      "setting": "system_navigation_keys_enabled"
+    }
+  },
+  {
+    "ts": 1779135338431,
+    "type": "settings_access",
+    "data": {
+      "setting": "theme_customization_overlay_packages"
+    }
+  },
+  {
+    "ts": 1779135338432,
+    "type": "settings_access",
+    "data": {
+      "setting": "touch_exploration_enabled"
+    }
+  },
+  {
+    "ts": 1779135338433,
+    "type": "settings_access",
+    "data": {
+      "setting": "touch_exploration_granted_accessibility_services"
+    }
+  },
+  {
+    "ts": 1779135338433,
+    "type": "settings_access",
+    "data": {
+      "setting": "trust_agents_initialized"
+    }
+  },
+  {
+    "ts": 1779135338434,
+    "type": "settings_access",
+    "data": {
+      "setting": "tts_default_locale"
+    }
+  },
+  {
+    "ts": 1779135338435,
+    "type": "settings_access",
+    "data": {
+      "setting": "tts_default_pitch"
+    }
+  },
+  {
+    "ts": 1779135338436,
+    "type": "settings_access",
+    "data": {
+      "setting": "tts_default_rate"
+    }
+  },
+  {
+    "ts": 1779135338436,
+    "type": "settings_access",
+    "data": {
+      "setting": "tts_default_synth"
+    }
+  },
+  {
+    "ts": 1779135338437,
+    "type": "settings_access",
+    "data": {
+      "setting": "tts_enabled_plugins"
+    }
+  },
+  {
+    "ts": 1779135338438,
+    "type": "settings_access",
+    "data": {
+      "setting": "tty_mode_enabled"
+    }
+  },
+  {
+    "ts": 1779135338438,
+    "type": "settings_access",
+    "data": {
+      "setting": "tv_input_custom_labels"
+    }
+  },
+  {
+    "ts": 1779135338439,
+    "type": "settings_access",
+    "data": {
+      "setting": "tv_input_hidden_inputs"
+    }
+  },
+  {
+    "ts": 1779135338439,
+    "type": "settings_access",
+    "data": {
+      "setting": "tv_user_setup_complete"
+    }
+  },
+  {
+    "ts": 1779135338440,
+    "type": "settings_access",
+    "data": {
+      "setting": "ui_night_mode"
+    }
+  },
+  {
+    "ts": 1779135338441,
+    "type": "settings_access",
+    "data": {
+      "setting": "unknown_sources_default_reversed"
+    }
+  },
+  {
+    "ts": 1779135338442,
+    "type": "settings_access",
+    "data": {
+      "setting": "unsafe_volume_music_active_ms"
+    }
+  },
+  {
+    "ts": 1779135338443,
+    "type": "settings_access",
+    "data": {
+      "setting": "usb_audio_automatic_routing_disabled"
+    }
+  },
+  {
+    "ts": 1779135338444,
+    "type": "settings_access",
+    "data": {
+      "setting": "user_setup_complete"
+    }
+  },
+  {
+    "ts": 1779135338445,
+    "type": "settings_access",
+    "data": {
+      "setting": "user_setup_personalization_state"
+    }
+  },
+  {
+    "ts": 1779135338446,
+    "type": "settings_access",
+    "data": {
+      "setting": "voice_recognition_service"
+    }
+  },
+  {
+    "ts": 1779135338447,
+    "type": "settings_access",
+    "data": {
+      "setting": "volume_hush_gesture"
+    }
+  },
+  {
+    "ts": 1779135338450,
+    "type": "settings_access",
+    "data": {
+      "setting": "vr_display_mode"
+    }
+  },
+  {
+    "ts": 1779135338451,
+    "type": "settings_access",
+    "data": {
+      "setting": "wake_gesture_enabled"
+    }
+  },
+  {
+    "ts": 1779135338452,
+    "type": "settings_access",
+    "data": {
+      "setting": "name"
+    }
+  },
+  {
+    "ts": 1779135338453,
+    "type": "settings_access",
+    "data": {
+      "setting": "value"
+    }
+  },
+  {
+    "ts": 1779135338453,
+    "type": "settings_access",
+    "data": {
+      "setting": "_count"
+    }
+  },
+  {
+    "ts": 1779135338454,
+    "type": "settings_access",
+    "data": {
+      "setting": "_id"
+    }
+  }
+]

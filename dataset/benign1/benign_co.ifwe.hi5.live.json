@@ -1,0 +1,534 @@
+[
+  {
+    "ts": 1779637394048,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779637394051,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637394058,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|797695020457|*"
+    }
+  },
+  {
+    "ts": 1779637394061,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637394063,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/31016/cmdline"
+    }
+  },
+  {
+    "ts": 1779637394076,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637394080,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.1791789891037641"
+    }
+  },
+  {
+    "ts": 1779637394081,
+    "type": "shared_pref",
+    "data": {
+      "key": "gmp_app_id"
+    }
+  },
+  {
+    "ts": 1779637394082,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637394091,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/shared_prefs/TwitterAdvertisingInfoPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637394092,
+    "type": "shared_pref",
+    "data": {
+      "key": "previous_os_version"
+    }
+  },
+  {
+    "ts": 1779637394092,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~ia0ZVWU7ekddrgQtOV2h3Q==/co.ifwe.hi5.live-TEsR4UKAKbpsfgmw5TdgfA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779637394098,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779637394100,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/shared_prefs/com.crashlytics.sdk.android:answers:settings.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637394102,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.8/1791789891037641?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout%2Capp_events_feature_bitmask&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779637394111,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779637394120,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637394121,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637394122,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/shared_prefs/branch_referral_shared_pref.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637394128,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/shared_prefs/com.crashlytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637394131,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779637394134,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779637394138,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/shared_prefs/BNC_Server_Request_Queue.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637394144,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131C920076-0001-7928-10BA7F1F6112BeginSession.cls_temp"
+    }
+  },
+  {
+    "ts": 1779637394145,
+    "type": "shared_pref",
+    "data": {
+      "key": "BNCServerRequestQueue"
+    }
+  },
+  {
+    "ts": 1779637394145,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131C920076-0001-7928-10BA7F1F6112BeginSession.cls"
+    }
+  },
+  {
+    "ts": 1779637394147,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131C920076-0001-7928-10BA7F1F6112SessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1779637394147,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_branch_key"
+    }
+  },
+  {
+    "ts": 1779637394147,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_id"
+    }
+  },
+  {
+    "ts": 1779637394147,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_identifier"
+    }
+  },
+  {
+    "ts": 1779637394147,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_link"
+    }
+  },
+  {
+    "ts": 1779637394148,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_push_identifier"
+    }
+  },
+  {
+    "ts": 1779637394148,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779637394148,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131C920076-0001-7928-10BA7F1F6112SessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779637394150,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637394150,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637394150,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637394150,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637394152,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637394153,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637394154,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637394155,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637394157,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637394157,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637394157,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637394157,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637394164,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637394164,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637394165,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637394165,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637394165,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/WeChill"
+    }
+  },
+  {
+    "ts": 1779637394166,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131C920076-0001-7928-10BA7F1F6112SessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779637394166,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637394170,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779637394170,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779637394173,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131C920076-0001-7928-10BA7F1F6112SessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779637394173,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/WeChill/caches"
+    }
+  },
+  {
+    "ts": 1779637394179,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131C920076-0001-7928-10BA7F1F6112SessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779637394179,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637394181,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637394185,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637394185,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637394185,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637394185,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637394191,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637394192,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637394212,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/shared_prefs/disk_entries_list_image_cache_759066486.xml"
+    }
+  },
+  {
+    "ts": 1779637394216,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637394217,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779637394219,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.ifwe.hi5.live/shared_prefs/disk_entries_list_image_cache_759066486.xml"
+    }
+  },
+  {
+    "ts": 1779637394220,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637394221,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637394244,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779637394254,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779637394255,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779637394255,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  }
+]

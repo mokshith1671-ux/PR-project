@@ -1,0 +1,828 @@
+[
+  {
+    "ts": 1779135252915,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.akosha.directtalk/shared_prefs/appvirality_userdetails.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135252920,
+    "type": "shared_pref",
+    "data": {
+      "key": "apikey"
+    }
+  },
+  {
+    "ts": 1779135252922,
+    "type": "shared_pref",
+    "data": {
+      "key": "userkey"
+    }
+  },
+  {
+    "ts": 1779135252922,
+    "type": "shared_pref",
+    "data": {
+      "key": "apikey"
+    }
+  },
+  {
+    "ts": 1779135252923,
+    "type": "shared_pref",
+    "data": {
+      "key": "statsid"
+    }
+  },
+  {
+    "ts": 1779135252923,
+    "type": "shared_pref",
+    "data": {
+      "key": "listofcampaigns"
+    }
+  },
+  {
+    "ts": 1779135252923,
+    "type": "shared_pref",
+    "data": {
+      "key": "userkey"
+    }
+  },
+  {
+    "ts": 1779135252923,
+    "type": "shared_pref",
+    "data": {
+      "key": "apikey"
+    }
+  },
+  {
+    "ts": 1779135252923,
+    "type": "shared_pref",
+    "data": {
+      "key": "statsid"
+    }
+  },
+  {
+    "ts": 1779135252924,
+    "type": "shared_pref",
+    "data": {
+      "key": "listofcampaigns"
+    }
+  },
+  {
+    "ts": 1779135252924,
+    "type": "shared_pref",
+    "data": {
+      "key": "userkey"
+    }
+  },
+  {
+    "ts": 1779135252924,
+    "type": "shared_pref",
+    "data": {
+      "key": "apikey"
+    }
+  },
+  {
+    "ts": 1779135252924,
+    "type": "shared_pref",
+    "data": {
+      "key": "statsid"
+    }
+  },
+  {
+    "ts": 1779135252924,
+    "type": "shared_pref",
+    "data": {
+      "key": "listofcampaigns"
+    }
+  },
+  {
+    "ts": 1779135252927,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135252927,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135252928,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135252928,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135252929,
+    "type": "shared_pref",
+    "data": {
+      "key": "firstlaunchdate"
+    }
+  },
+  {
+    "ts": 1779135252953,
+    "type": "shared_pref",
+    "data": {
+      "key": "av_user_key"
+    }
+  },
+  {
+    "ts": 1779135252954,
+    "type": "shared_pref",
+    "data": {
+      "key": "userkey"
+    }
+  },
+  {
+    "ts": 1779135252954,
+    "type": "shared_pref",
+    "data": {
+      "key": "apikey"
+    }
+  },
+  {
+    "ts": 1779135252954,
+    "type": "shared_pref",
+    "data": {
+      "key": "statsid"
+    }
+  },
+  {
+    "ts": 1779135252955,
+    "type": "shared_pref",
+    "data": {
+      "key": "listofcampaigns"
+    }
+  },
+  {
+    "ts": 1779135252955,
+    "type": "shared_pref",
+    "data": {
+      "key": "userkey"
+    }
+  },
+  {
+    "ts": 1779135252955,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779135252956,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.akosha.directtalk/shared_prefs/appsflyer-data.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135252957,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779135252959,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.akosha.directtalk/shared_prefs/localytics_preference.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135252963,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_update_type5.0.1"
+    }
+  },
+  {
+    "ts": 1779135252964,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_update_type5.0.1"
+    }
+  },
+  {
+    "ts": 1779135252977,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779135252981,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779135253006,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779135253009,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135253021,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.akosha.ui.onboarding.OnBoardingActivity"
+    }
+  },
+  {
+    "ts": 1779135253022,
+    "type": "shared_pref",
+    "data": {
+      "key": "pubnubUUID"
+    }
+  },
+  {
+    "ts": 1779135253052,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779135253055,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779135253055,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779135253058,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135253064,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779135253067,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.akosha.directtalk/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135253068,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1388365158135758/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779135253076,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779135253079,
+    "type": "shared_pref",
+    "data": {
+      "key": "1388365158135758json"
+    }
+  },
+  {
+    "ts": 1779135253083,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135253083,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135253084,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135253084,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135253085,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135253086,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135253086,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135253086,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135253087,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779135253088,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135253088,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135253088,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135253089,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135253091,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779135253091,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779135253091,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.helpchat.in/mobileapp/v4/pingconfig.json?device_id=d02ce3a0e78827a3"
+    }
+  },
+  {
+    "ts": 1779135253092,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135253098,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135253098,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135253099,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135253101,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135253101,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135253101,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135253102,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135253112,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135253112,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135253113,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135253113,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135253117,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779135253120,
+    "type": "url_access",
+    "data": {
+      "url": "https://track.appsflyer.com/api/v2.3/androidevent?buildnumber=1.17&app_id=com.akosha.directtalk"
+    }
+  },
+  {
+    "ts": 1779135253121,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1388365158135758/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779135253208,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779135253222,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779135253225,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135253227,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135253230,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779135253230,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779135253231,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.akosha.directtalk/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B7314015E-0001-62DF-04109A9CF67FSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779135253232,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.akosha.directtalk/shared_prefs/io.fabric.sdk.android:fabric:io.a.a.a.n.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135253236,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.akosha.directtalk/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779135253236,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779135253236,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135253237,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779135253237,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UNIQUE_ID_MOE"
+    }
+  },
+  {
+    "ts": 1779135253237,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_UUID"
+    }
+  },
+  {
+    "ts": 1779135253237,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_KEY_MOE_GAID"
+    }
+  },
+  {
+    "ts": 1779135253238,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.akosha.directtalk/settings?instance=c1eeefdfef62a009dc46bfcfcd7897be84012c26&build_version=278&display_version=5.0.1&source=1&icon_hash=306d38b6339651c502e508806811006e39d04c72"
+    }
+  },
+  {
+    "ts": 1779135253238,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.akosha.directtalk/settings?instance=c1eeefdfef62a009dc46bfcfcd7897be84012c26&build_version=278&display_version=5.0.1&source=1&icon_hash=306d38b6339651c502e508806811006e39d04c72"
+    }
+  },
+  {
+    "ts": 1779135253240,
+    "type": "url_access",
+    "data": {
+      "url": "https://smarttriggerapi.moengage.com/v2/autotriggerinapps?unique_id=b8f1a3e4-097d-410f-8763-e41df98b993b&os_ver=30&os=ANDROID&device_tz_offset=19800000&device_ts=1779135253237&device_tz=Asia%2FCalcutta&app_ver=278&model=sdk_gphone_x86_64&android_id=d02ce3a0e78827a3&sdk_ver=6013&networkType=wifi&app_version_name=5.0.1&event=INSTALL&app_id=2GUOJTNFB75HT73ZMHNTFOO3"
+    }
+  },
+  {
+    "ts": 1779135253361,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779135253371,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135253372,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779135253373,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779135253381,
+    "type": "shared_pref",
+    "data": {
+      "key": "referral"
+    }
+  },
+  {
+    "ts": 1779135253401,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.helpchat.in/mobileapp/v4/device_status.json"
+    }
+  },
+  {
+    "ts": 1779135253818,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779135253824,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779135253826,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779135253826,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779135254161,
+    "type": "shared_pref",
+    "data": {
+      "key": "listofcampaigns"
+    }
+  },
+  {
+    "ts": 1779135254182,
+    "type": "shared_pref",
+    "data": {
+      "key": "listofcampaigns"
+    }
+  },
+  {
+    "ts": 1779135254183,
+    "type": "shared_pref",
+    "data": {
+      "key": "userkey"
+    }
+  },
+  {
+    "ts": 1779135254183,
+    "type": "shared_pref",
+    "data": {
+      "key": "apikey"
+    }
+  },
+  {
+    "ts": 1779135254184,
+    "type": "shared_pref",
+    "data": {
+      "key": "statsid"
+    }
+  },
+  {
+    "ts": 1779135254184,
+    "type": "shared_pref",
+    "data": {
+      "key": "listofcampaigns"
+    }
+  },
+  {
+    "ts": 1779135254185,
+    "type": "shared_pref",
+    "data": {
+      "key": "userkey"
+    }
+  },
+  {
+    "ts": 1779135254185,
+    "type": "shared_pref",
+    "data": {
+      "key": "referralcode"
+    }
+  },
+  {
+    "ts": 1779135254426,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779135254437,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.appsflyer.com/install_data/v3/com.akosha.directtalk?devkey=Lj5envtbNnBCv4R4aDrxQm&device_id=1779135242334-7400162519203374271"
+    }
+  },
+  {
+    "ts": 1779135254817,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.akosha.directtalk/app_segment-disk-queue/LkyKAo2WhWO6nD1KiIgM5tZJy1zZeVgY.tmp"
+    }
+  },
+  {
+    "ts": 1779135260413,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779135268072,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1388365158135758/activities?access_token=&format=json&sdk=android"
+    }
+  }
+]

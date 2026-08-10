@@ -1,0 +1,1430 @@
+[
+  {
+    "ts": 1779138892736,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779138892746,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779138892748,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779138892749,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779138892750,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779138892750,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779138892752,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138892755,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779138892792,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779138892827,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138892840,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/shared_prefs/impref.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138892843,
+    "type": "shared_pref",
+    "data": {
+      "key": "AID"
+    }
+  },
+  {
+    "ts": 1779138892848,
+    "type": "shared_pref",
+    "data": {
+      "key": "gpid"
+    }
+  },
+  {
+    "ts": 1779138892851,
+    "type": "shared_pref",
+    "data": {
+      "key": "IMID"
+    }
+  },
+  {
+    "ts": 1779138892860,
+    "type": "shared_pref",
+    "data": {
+      "key": "AIDL"
+    }
+  },
+  {
+    "ts": 1779138892863,
+    "type": "shared_pref",
+    "data": {
+      "key": "version"
+    }
+  },
+  {
+    "ts": 1779138892866,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/cache/inmobi.cache"
+    }
+  },
+  {
+    "ts": 1779138892868,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/cache/inmobi.cache"
+    }
+  },
+  {
+    "ts": 1779138892872,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138892875,
+    "type": "shared_pref",
+    "data": {
+      "key": "IMID"
+    }
+  },
+  {
+    "ts": 1779138892876,
+    "type": "shared_pref",
+    "data": {
+      "key": "AID"
+    }
+  },
+  {
+    "ts": 1779138892876,
+    "type": "shared_pref",
+    "data": {
+      "key": "AIDL"
+    }
+  },
+  {
+    "ts": 1779138892878,
+    "type": "crypto",
+    "data": {
+      "algorithm": "RSA/ECB/nopadding"
+    }
+  },
+  {
+    "ts": 1779138892881,
+    "type": "shared_pref",
+    "data": {
+      "key": "IMID"
+    }
+  },
+  {
+    "ts": 1779138892881,
+    "type": "shared_pref",
+    "data": {
+      "key": "AID"
+    }
+  },
+  {
+    "ts": 1779138892882,
+    "type": "shared_pref",
+    "data": {
+      "key": "AIDL"
+    }
+  },
+  {
+    "ts": 1779138892882,
+    "type": "crypto",
+    "data": {
+      "algorithm": "RSA/ECB/nopadding"
+    }
+  },
+  {
+    "ts": 1779138892885,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/shared_prefs/IMAdTrackerStatusUpload.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138892887,
+    "type": "shared_pref",
+    "data": {
+      "key": "IMID"
+    }
+  },
+  {
+    "ts": 1779138892887,
+    "type": "shared_pref",
+    "data": {
+      "key": "AID"
+    }
+  },
+  {
+    "ts": 1779138892887,
+    "type": "shared_pref",
+    "data": {
+      "key": "AIDL"
+    }
+  },
+  {
+    "ts": 1779138892888,
+    "type": "crypto",
+    "data": {
+      "algorithm": "RSA/ECB/nopadding"
+    }
+  },
+  {
+    "ts": 1779138892891,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/shared_prefs/inmobiAppAnalyticsSession.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138892891,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_SESSION_ID"
+    }
+  },
+  {
+    "ts": 1779138892896,
+    "type": "shared_pref",
+    "data": {
+      "key": "IMID"
+    }
+  },
+  {
+    "ts": 1779138892896,
+    "type": "url_access",
+    "data": {
+      "url": "https://inmobisdk-a.akamaihd.net/sdk/configs/400/rootConfig.json?mk-version=pr-SAND-ETFTF-20150522&u-id-key=640283325&u-id-map=Nfi1L3bWKLUWxAeAqwSEjFnpFFkKA6GZYziGOUrNxzlDLx0VpV9SIOkS6u%2Fs%2F9fPlEXFENedclAc%0AG5lMywzz8KpY3eF4ymN4qM9no3Y%2B8KeMys9N%2BZrz895yzkl%2F1CLa6kiKyRlyVmwqBMY2MYHJv%2Bhv%0Avz92obmiSVf1lR94UJEfv5JXM1STba%2F7tB9GYxSeLbOJeXLNWZ2t2ct8jj0Jwebl3mJtDNOqXMCg%0AL8Jd8ZL%2BbDkxA7lR2Ty9Ngi9rWA0%0A&mk-siteid=e8bc24d2f489485795aca2219e00d1fd&tz=19800000&u-id-adt=0&u-key-ver=1&u-appbid=com.twoo&mk-rel-version=pr-SAND-ETFTF-20150522&h-user-agent=Mozilla%2F5.0+%28Linux%3B+Android+11%3B+sdk_gphone_x86_64+Build%2FRSR1.240422.006%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F83.0.4103.106+Mobile+Safari%2F537.36&u-appDNM=Twoo&u-appver=6.6.7&ts=1779138892891"
+    }
+  },
+  {
+    "ts": 1779138892897,
+    "type": "shared_pref",
+    "data": {
+      "key": "AID"
+    }
+  },
+  {
+    "ts": 1779138892897,
+    "type": "shared_pref",
+    "data": {
+      "key": "mk-siteid"
+    }
+  },
+  {
+    "ts": 1779138892898,
+    "type": "shared_pref",
+    "data": {
+      "key": "AIDL"
+    }
+  },
+  {
+    "ts": 1779138892899,
+    "type": "crypto",
+    "data": {
+      "algorithm": "RSA/ECB/nopadding"
+    }
+  },
+  {
+    "ts": 1779138892902,
+    "type": "shared_pref",
+    "data": {
+      "key": "IMID"
+    }
+  },
+  {
+    "ts": 1779138892902,
+    "type": "shared_pref",
+    "data": {
+      "key": "AID"
+    }
+  },
+  {
+    "ts": 1779138892902,
+    "type": "shared_pref",
+    "data": {
+      "key": "AIDL"
+    }
+  },
+  {
+    "ts": 1779138892903,
+    "type": "crypto",
+    "data": {
+      "algorithm": "RSA/ECB/nopadding"
+    }
+  },
+  {
+    "ts": 1779138892908,
+    "type": "shared_pref",
+    "data": {
+      "key": "IMID"
+    }
+  },
+  {
+    "ts": 1779138892909,
+    "type": "shared_pref",
+    "data": {
+      "key": "AID"
+    }
+  },
+  {
+    "ts": 1779138892909,
+    "type": "shared_pref",
+    "data": {
+      "key": "AIDL"
+    }
+  },
+  {
+    "ts": 1779138892910,
+    "type": "crypto",
+    "data": {
+      "algorithm": "RSA/ECB/nopadding"
+    }
+  },
+  {
+    "ts": 1779138892914,
+    "type": "shared_pref",
+    "data": {
+      "key": "SESSION_ID"
+    }
+  },
+  {
+    "ts": 1779138892915,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/shared_prefs/inmobiAppAnalyticsAppId.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138892917,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/shared_prefs/initPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138892917,
+    "type": "shared_pref",
+    "data": {
+      "key": "eventnameblacklist"
+    }
+  },
+  {
+    "ts": 1779138892918,
+    "type": "shared_pref",
+    "data": {
+      "key": "eventnameblacklist"
+    }
+  },
+  {
+    "ts": 1779138892938,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/shared_prefs/attributionPref.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138892939,
+    "type": "shared_pref",
+    "data": {
+      "key": "kochavaappdata"
+    }
+  },
+  {
+    "ts": 1779138892944,
+    "type": "shared_pref",
+    "data": {
+      "key": "currency"
+    }
+  },
+  {
+    "ts": 1779138892945,
+    "type": "shared_pref",
+    "data": {
+      "key": "currency"
+    }
+  },
+  {
+    "ts": 1779138892945,
+    "type": "shared_pref",
+    "data": {
+      "key": "currency"
+    }
+  },
+  {
+    "ts": 1779138892946,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779138892947,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779138892953,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138892956,
+    "type": "shared_pref",
+    "data": {
+      "key": "kochava_app_id_generated"
+    }
+  },
+  {
+    "ts": 1779138892957,
+    "type": "shared_pref",
+    "data": {
+      "key": "kochava_app_id_generated"
+    }
+  },
+  {
+    "ts": 1779138892957,
+    "type": "shared_pref",
+    "data": {
+      "key": "initBool"
+    }
+  },
+  {
+    "ts": 1779138892963,
+    "type": "shared_pref",
+    "data": {
+      "key": "IMID"
+    }
+  },
+  {
+    "ts": 1779138892964,
+    "type": "shared_pref",
+    "data": {
+      "key": "AID"
+    }
+  },
+  {
+    "ts": 1779138892964,
+    "type": "shared_pref",
+    "data": {
+      "key": "AIDL"
+    }
+  },
+  {
+    "ts": 1779138892965,
+    "type": "crypto",
+    "data": {
+      "algorithm": "RSA/ECB/nopadding"
+    }
+  },
+  {
+    "ts": 1779138892973,
+    "type": "shared_pref",
+    "data": {
+      "key": "IMID"
+    }
+  },
+  {
+    "ts": 1779138892973,
+    "type": "shared_pref",
+    "data": {
+      "key": "AID"
+    }
+  },
+  {
+    "ts": 1779138892974,
+    "type": "shared_pref",
+    "data": {
+      "key": "AIDL"
+    }
+  },
+  {
+    "ts": 1779138892974,
+    "type": "crypto",
+    "data": {
+      "algorithm": "RSA/ECB/nopadding"
+    }
+  },
+  {
+    "ts": 1779138892979,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779138892981,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779138892982,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779138892983,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~1M44YpEWPdYTcXr8wLaitQ==/com.twoo-KN3_hWF7tLkxK0VhX2CKNA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779138892983,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~1M44YpEWPdYTcXr8wLaitQ==/com.twoo-KN3_hWF7tLkxK0VhX2CKNA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779138893008,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/shared_prefs/app.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138893009,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893009,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893011,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893011,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893012,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893012,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893013,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.twoo/cache/install.bin"
+    }
+  },
+  {
+    "ts": 1779138893014,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893014,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893014,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893015,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893016,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893016,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893016,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.twoo/cache/install.bin"
+    }
+  },
+  {
+    "ts": 1779138893017,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.twoo/cache"
+    }
+  },
+  {
+    "ts": 1779138893019,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/files/"
+    }
+  },
+  {
+    "ts": 1779138893026,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.twoo.ui.activities.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779138893029,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779138893030,
+    "type": "shared_pref",
+    "data": {
+      "key": "gpid"
+    }
+  },
+  {
+    "ts": 1779138893031,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/shared_prefs/com.twoo_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138893034,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138893036,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.175694939152556"
+    }
+  },
+  {
+    "ts": 1779138893036,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138893038,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/175694939152556?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138893040,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779138893042,
+    "type": "url_access",
+    "data": {
+      "url": "http://b.scorecardresearch.com/p2?c1=19&c2=6034675&ns_ap_an=Twoo&ns_ap_pn=android&ns_ap_pv=11&c12=b117e5ede8d582807f129932d80d5dba-cs72&name=start&ns_ak=2mvWfy3wMmoJw1%2BM6prJ1%2ByQtfytBSnvUaThKKG0q7eJxG1cLKMtcjkQT0W0DJn11D7GsMzH7HfIIZ2MajOq%2BHF53GtanKXq9STcomsMcZQgnTTbKbwYmEZB1l7zJSAF202SZEsKqDSSBwTfW6%2BJR3JjBa189GytKwd9vl5tmtw%3D&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1779138893028&ns_ap_csf=1&ns_ap_bi=com.twoo&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=6.6.7&ns_ap_sv=3.1502.26&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1779138892687&ns_ap_jb=0&ns_ap_res=1080x2009&ns_ap_install=1779138892687&ns_ap_lastrun=0&ns_ap_cs=1&ns_ap_runs=1&ns_ap_usage=341&ns_ap_fg=1&ns_ap_ft=1&ns_ap_dft=1&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=339&ns_ap_as=1&ns_ap_das=340&ns_ap_it=339&ns_ap_lang=en&ns_ap_ar=i686&ns_ts=1779138893028"
+    }
+  },
+  {
+    "ts": 1779138893048,
+    "type": "url_access",
+    "data": {
+      "url": "http://b.scorecardresearch.com/p2?c1=19&c2=6034675&ns_ap_an=Twoo&ns_ap_pn=android&ns_ap_pv=11&c12=b117e5ede8d582807f129932d80d5dba-cs72&name=start&ns_ak=2mvWfy3wMmoJw1%2BM6prJ1%2ByQtfytBSnvUaThKKG0q7eJxG1cLKMtcjkQT0W0DJn11D7GsMzH7HfIIZ2MajOq%2BHF53GtanKXq9STcomsMcZQgnTTbKbwYmEZB1l7zJSAF202SZEsKqDSSBwTfW6%2BJR3JjBa189GytKwd9vl5tmtw%3D&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1779138893028&ns_ap_csf=1&ns_ap_bi=com.twoo&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=6.6.7&ns_ap_sv=3.1502.26&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1779138892687&ns_ap_jb=0&ns_ap_res=1080x2009&ns_ap_install=1779138892687&ns_ap_lastrun=0&ns_ap_cs=1&ns_ap_runs=1&ns_ap_usage=341&ns_ap_fg=1&ns_ap_ft=1&ns_ap_dft=1&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=339&ns_ap_as=1&ns_ap_das=340&ns_ap_it=339&ns_ap_lang=en&ns_ap_ar=i686&ns_ts=1779138893028"
+    }
+  },
+  {
+    "ts": 1779138893052,
+    "type": "shared_pref",
+    "data": {
+      "key": "mk-siteid"
+    }
+  },
+  {
+    "ts": 1779138893059,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893060,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893060,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893061,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893062,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893062,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893063,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.twoo/cache/locationcache.bin"
+    }
+  },
+  {
+    "ts": 1779138893228,
+    "type": "shared_pref",
+    "data": {
+      "key": "kochava_app_id_generated"
+    }
+  },
+  {
+    "ts": 1779138893231,
+    "type": "shared_pref",
+    "data": {
+      "key": "kochava_app_id_generated"
+    }
+  },
+  {
+    "ts": 1779138893231,
+    "type": "shared_pref",
+    "data": {
+      "key": "mylat"
+    }
+  },
+  {
+    "ts": 1779138893781,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.twoo.preferences.AUTH_TOKEN"
+    }
+  },
+  {
+    "ts": 1779138893797,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779138893824,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/files/8b18cee9-cf8e-4b36-8061-101a24cbbdf7.stacktrace"
+    }
+  },
+  {
+    "ts": 1779138893829,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/files/8b18cee9-cf8e-4b36-8061-101a24cbbdf7.user"
+    }
+  },
+  {
+    "ts": 1779138893831,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893832,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893834,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893834,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893841,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893841,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893841,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.twoo/cache/log.bin"
+    }
+  },
+  {
+    "ts": 1779138893846,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893846,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893847,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893847,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893847,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893847,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893853,
+    "type": "file_access",
+    "data": {
+      "path": "/sdcard"
+    }
+  },
+  {
+    "ts": 1779138893854,
+    "type": "file_access",
+    "data": {
+      "path": "/sdcard"
+    }
+  },
+  {
+    "ts": 1779138893854,
+    "type": "file_access",
+    "data": {
+      "path": "/product_services"
+    }
+  },
+  {
+    "ts": 1779138893860,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893860,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893861,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893862,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893864,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893865,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893872,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893872,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893873,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893881,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893881,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893882,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893889,
+    "type": "url_access",
+    "data": {
+      "url": "https://jsonapi.twoo.com/"
+    }
+  },
+  {
+    "ts": 1779138893896,
+    "type": "url_access",
+    "data": {
+      "url": "https://jsonapi.twoo.com/"
+    }
+  },
+  {
+    "ts": 1779138893899,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/files/98e7ddc7-c2b4-48ee-adc5-edfc01485e98.stacktrace"
+    }
+  },
+  {
+    "ts": 1779138893900,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twoo/files/98e7ddc7-c2b4-48ee-adc5-edfc01485e98.user"
+    }
+  },
+  {
+    "ts": 1779138893902,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893902,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893903,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893903,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893904,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893904,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893905,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.twoo/cache/log.bin"
+    }
+  },
+  {
+    "ts": 1779138893908,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893910,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893913,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893913,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893913,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893914,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893916,
+    "type": "file_access",
+    "data": {
+      "path": "/sdcard"
+    }
+  },
+  {
+    "ts": 1779138893917,
+    "type": "file_access",
+    "data": {
+      "path": "/sdcard"
+    }
+  },
+  {
+    "ts": 1779138893917,
+    "type": "file_access",
+    "data": {
+      "path": "/product_services"
+    }
+  },
+  {
+    "ts": 1779138893919,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893919,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893920,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893920,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893922,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893922,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893924,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893924,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893925,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893925,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893926,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893927,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893936,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893937,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893938,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893938,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893940,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893944,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138893945,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.twoo/cache/state.bin"
+    }
+  },
+  {
+    "ts": 1779138893945,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.twoo/cache"
+    }
+  },
+  {
+    "ts": 1779138895094,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138895094,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138895097,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138895098,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138895100,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138895100,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138895101,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.twoo/cache/locationcache.bin"
+    }
+  },
+  {
+    "ts": 1779138896229,
+    "type": "shared_pref",
+    "data": {
+      "key": "IMID"
+    }
+  },
+  {
+    "ts": 1779138896229,
+    "type": "shared_pref",
+    "data": {
+      "key": "AID"
+    }
+  },
+  {
+    "ts": 1779138896229,
+    "type": "shared_pref",
+    "data": {
+      "key": "AIDL"
+    }
+  },
+  {
+    "ts": 1779138896230,
+    "type": "crypto",
+    "data": {
+      "algorithm": "RSA/ECB/nopadding"
+    }
+  },
+  {
+    "ts": 1779138896235,
+    "type": "shared_pref",
+    "data": {
+      "key": "IMID"
+    }
+  },
+  {
+    "ts": 1779138896236,
+    "type": "shared_pref",
+    "data": {
+      "key": "AID"
+    }
+  },
+  {
+    "ts": 1779138896236,
+    "type": "shared_pref",
+    "data": {
+      "key": "AIDL"
+    }
+  },
+  {
+    "ts": 1779138896237,
+    "type": "crypto",
+    "data": {
+      "algorithm": "RSA/ECB/nopadding"
+    }
+  },
+  {
+    "ts": 1779138897967,
+    "type": "url_access",
+    "data": {
+      "url": "https://control.kochava.com/track/kvinit"
+    }
+  }
+]

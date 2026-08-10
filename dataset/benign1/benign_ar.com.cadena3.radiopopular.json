@@ -1,0 +1,65 @@
+[
+  {
+    "ts": 1779130803266,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779130803272,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ar.com.cadena3.radiopopular/shared_prefs/PREF_INSTANCE_IID.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130803272,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_INSTANCE_IID"
+    }
+  },
+  {
+    "ts": 1779130803278,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ar.com.cadena3.radiopopular/files"
+    }
+  },
+  {
+    "ts": 1779130803305,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779130803332,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ar.com.cadena3.radiopopular/shared_prefs/ar.com.cadena3.radiopopular_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130803367,
+    "type": "shared_pref",
+    "data": {
+      "key": "MOCA_PROXIMITY_CACHE_DATA_JSON"
+    }
+  },
+  {
+    "ts": 1779130813375,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779130813376,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  }
+]

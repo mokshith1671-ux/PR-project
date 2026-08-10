@@ -1,0 +1,639 @@
+[
+  {
+    "ts": 1779637312967,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.bitx.android.wallet/shared_prefs/MobihelpPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637313006,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOv7eiuwL5EDNekpb0KX2j4ZEfwH+F4X0mF/NhsbhBk"
+    }
+  },
+  {
+    "ts": 1779637313017,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.bitx.android.wallet/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637313044,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.bitx.android.wallet/shared_prefs/BitxPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637313045,
+    "type": "shared_pref",
+    "data": {
+      "key": "api_key"
+    }
+  },
+  {
+    "ts": 1779637313047,
+    "type": "shared_pref",
+    "data": {
+      "key": "api_secret"
+    }
+  },
+  {
+    "ts": 1779637313069,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.bitx.android.wallet/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779637313108,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.bitx.android.wallet/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637313113,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.301460756645004"
+    }
+  },
+  {
+    "ts": 1779637313119,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.bitx.android.wallet/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637313120,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779637313122,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.8/301460756645004?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout%2Capp_events_feature_bitmask%2Cseamless_login%2Csmart_login_bookmark_icon_url%2Csmart_login_menu_icon_url&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779637313125,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.bitx.android.wallet/shared_prefs/co.bitx.android.wallet_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637313125,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.appevents.AnalyticsUserIDStore.userID"
+    }
+  },
+  {
+    "ts": 1779637313133,
+    "type": "activity_resume",
+    "data": {
+      "activity": "co.bitx.android.wallet.app.MainActivity"
+    }
+  },
+  {
+    "ts": 1779637313138,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.bitx.android.wallet/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637313147,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|1078313900011|*"
+    }
+  },
+  {
+    "ts": 1779637313148,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|1078313900011|*"
+    }
+  },
+  {
+    "ts": 1779637313148,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779637313148,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779637313157,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.bitx.android.wallet/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637313163,
+    "type": "shared_pref",
+    "data": {
+      "key": "301460756645004json"
+    }
+  },
+  {
+    "ts": 1779637313163,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779637313192,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779637313198,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637313198,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637313198,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637313198,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637313199,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637313199,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637313199,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637313199,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637313203,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637313203,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637313203,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637313204,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637313205,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637313205,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637313205,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637313205,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637313206,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637313206,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637313206,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637313207,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637313208,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637313209,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637313209,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637313210,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637313211,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779637313214,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.8/301460756645004/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779637313235,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779637313239,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779637313240,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779637313240,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779637313350,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.8/301460756645004?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout%2Capp_events_feature_bitmask%2Cseamless_login%2Csmart_login_bookmark_icon_url%2Csmart_login_menu_icon_url&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779637313374,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637313376,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779637313377,
+    "type": "url_access",
+    "data": {
+      "url": "https://bitx.freshdesk.com/mobihelp/devices/register?format=json&pt=android&sv=1.5.4"
+    }
+  },
+  {
+    "ts": 1779637313400,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637313401,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.bitx.android.wallet/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779637313402,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779637313415,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637313415,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779637313417,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779637313418,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637313427,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.bitx.android.wallet/shared_prefs/io.fabric.sdk.android:fabric:b.a.a.a.m.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637313427,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779637313428,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.bitx.android.wallet/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131C400361-0001-7712-28CFF3CFBCD9SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779637313429,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.bitx.android.wallet/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779637313436,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.bitx.android.wallet/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-6A131C400361-0001-7712-28CFF3CFBCD9.temp.tmp"
+    }
+  },
+  {
+    "ts": 1779637313438,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/co.bitx.android.wallet/settings?instance=7948b5ab93e03fc2699f85b71134237a53e8f183&build_version=382&display_version=3.1.0&source=1&icon_hash=840f36f18b2a0ef00d14f0c79e1ce37cd331bf2e"
+    }
+  },
+  {
+    "ts": 1779637313439,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/co.bitx.android.wallet/settings?instance=7948b5ab93e03fc2699f85b71134237a53e8f183&build_version=382&display_version=3.1.0&source=1&icon_hash=840f36f18b2a0ef00d14f0c79e1ce37cd331bf2e"
+    }
+  },
+  {
+    "ts": 1779637313669,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779637313670,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779637313686,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.8/301460756645004/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779637313864,
+    "type": "url_access",
+    "data": {
+      "url": "https://bitx.freshdesk.com/mobihelp/solutions/articles?format=json&pt=android&sv=1.5.4"
+    }
+  },
+  {
+    "ts": 1779637316345,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|1078313900011|*"
+    }
+  },
+  {
+    "ts": 1779637316345,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779637316374,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779637316374,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779637316374,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779637316424,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.bitx.android.wallet/databases/google_app_measurement_local.db"
+    }
+  },
+  {
+    "ts": 1779637316493,
+    "type": "shared_pref",
+    "data": {
+      "key": "api_endpoint"
+    }
+  },
+  {
+    "ts": 1779637316495,
+    "type": "shared_pref",
+    "data": {
+      "key": "api_key"
+    }
+  },
+  {
+    "ts": 1779637316496,
+    "type": "shared_pref",
+    "data": {
+      "key": "api_secret"
+    }
+  },
+  {
+    "ts": 1779637316500,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.bitx.android.wallet/shared_prefs/device_names.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637316501,
+    "type": "shared_pref",
+    "data": {
+      "key": "generic_x86_64_arm64:sdk_gphone_x86_64"
+    }
+  },
+  {
+    "ts": 1779637316510,
+    "type": "activity_resume",
+    "data": {
+      "activity": "co.bitx.android.wallet.app.modules.onboarding.OnboardActivity"
+    }
+  },
+  {
+    "ts": 1779637316516,
+    "type": "url_access",
+    "data": {
+      "url": "https://raw.githubusercontent.com/jaredrummler/AndroidDeviceNames/master/json/devices/generic_x86_64_arm64.json"
+    }
+  },
+  {
+    "ts": 1779637316734,
+    "type": "activity_resume",
+    "data": {
+      "activity": "co.bitx.android.wallet.app.modules.onboarding.OnboardActivity"
+    }
+  },
+  {
+    "ts": 1779637328350,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.8/301460756645004/activities?access_token=&format=json&sdk=android"
+    }
+  }
+]

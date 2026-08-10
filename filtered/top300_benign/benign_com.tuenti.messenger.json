@@ -1,0 +1,786 @@
+[
+  {
+    "ts": 1779138772303,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779138772305,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779138772306,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779138772307,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779138772307,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779138772309,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tuenti.messenger/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138772340,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779138772343,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138772382,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138772382,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tuenti.messenger/files/"
+    }
+  },
+  {
+    "ts": 1779138772383,
+    "type": "url_access",
+    "data": {
+      "url": "http://fmetrics.tuenti.com/?uri=MobileAppStats/logMixpanel&mpa=engage&"
+    }
+  },
+  {
+    "ts": 1779138772383,
+    "type": "url_access",
+    "data": {
+      "url": "http://fmetrics.tuenti.com/?uri=MobileAppStats/logMixpanel&mpa=track&"
+    }
+  },
+  {
+    "ts": 1779138772384,
+    "type": "url_access",
+    "data": {
+      "url": "http://fmetrics.tuenti.com/?uri=MobileAppStats/logMixpanel&mpa=decide&"
+    }
+  },
+  {
+    "ts": 1779138772386,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tuenti.messenger/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138772386,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.783859284998327"
+    }
+  },
+  {
+    "ts": 1779138772387,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/783859284998327?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138772390,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_max_photo_size"
+    }
+  },
+  {
+    "ts": 1779138772390,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_user_endpoint_url"
+    }
+  },
+  {
+    "ts": 1779138772390,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_user_endpoint_url_keytext"
+    }
+  },
+  {
+    "ts": 1779138772391,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_pim_sync_info"
+    }
+  },
+  {
+    "ts": 1779138772391,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.phones.formatting.code"
+    }
+  },
+  {
+    "ts": 1779138772391,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.verify_phone_info_url"
+    }
+  },
+  {
+    "ts": 1779138772392,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.pim_sync_config_url"
+    }
+  },
+  {
+    "ts": 1779138772392,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.user.mvno_phone"
+    }
+  },
+  {
+    "ts": 1779138772392,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.user.phone_verification_type"
+    }
+  },
+  {
+    "ts": 1779138772392,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.help_url"
+    }
+  },
+  {
+    "ts": 1779138772392,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.server.public_photos"
+    }
+  },
+  {
+    "ts": 1779138772392,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_cover"
+    }
+  },
+  {
+    "ts": 1779138772392,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_new_status_text"
+    }
+  },
+  {
+    "ts": 1779138772392,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_new_status_photo_uri"
+    }
+  },
+  {
+    "ts": 1779138772393,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.customer_care_chat_status"
+    }
+  },
+  {
+    "ts": 1779138772393,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.customer_care_ticket_status"
+    }
+  },
+  {
+    "ts": 1779138772393,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.mvno.entry_point_url"
+    }
+  },
+  {
+    "ts": 1779138772393,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.mvno.entry_point_label"
+    }
+  },
+  {
+    "ts": 1779138772394,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.mvno.entry_point_webview_placement"
+    }
+  },
+  {
+    "ts": 1779138772394,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.mvno.entry_point_digital_voice_url"
+    }
+  },
+  {
+    "ts": 1779138772395,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.mvno.entry_point_mgm_page_url"
+    }
+  },
+  {
+    "ts": 1779138772395,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.mvno_entry_point_nue_promo_url"
+    }
+  },
+  {
+    "ts": 1779138772395,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.mvno.call_price"
+    }
+  },
+  {
+    "ts": 1779138772395,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.mvno.call_establishment_price"
+    }
+  },
+  {
+    "ts": 1779138772395,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tuenti.messenger/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138772396,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.mvno.call_description_gsm"
+    }
+  },
+  {
+    "ts": 1779138772396,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.mvno.call_description_digital_voice"
+    }
+  },
+  {
+    "ts": 1779138772396,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.mvno.carrier_codes"
+    }
+  },
+  {
+    "ts": 1779138772397,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefs.ptt.app_install_url"
+    }
+  },
+  {
+    "ts": 1779138772397,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779138772398,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~pfjynEttSJNx3xhpZBOyJw==/com.tuenti.messenger-Vz921j4kAxa6gw52wYA5JQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779138772399,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~pfjynEttSJNx3xhpZBOyJw==/com.tuenti.messenger-Vz921j4kAxa6gw52wYA5JQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779138772400,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779138772400,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779138772400,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779138772401,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779138772410,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~pfjynEttSJNx3xhpZBOyJw==/com.tuenti.messenger-Vz921j4kAxa6gw52wYA5JQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779138772429,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tuenti.messenger/databases/messenger.db-wal"
+    }
+  },
+  {
+    "ts": 1779138772431,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tuenti.messenger/databases/messenger.db-wal"
+    }
+  },
+  {
+    "ts": 1779138772499,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tuenti.messenger/databases/messenger.db-wal"
+    }
+  },
+  {
+    "ts": 1779138772500,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tuenti.messenger/databases/messenger.db-wal"
+    }
+  },
+  {
+    "ts": 1779138772503,
+    "type": "shared_pref",
+    "data": {
+      "key": "lastActivityFetchedXmppTimestamp"
+    }
+  },
+  {
+    "ts": 1779138772507,
+    "type": "shared_pref",
+    "data": {
+      "key": "super_properties"
+    }
+  },
+  {
+    "ts": 1779138772588,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138772610,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tuenti.messenger/shared_prefs/appsflyer-data.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138772610,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779138772612,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tuenti.messenger/shared_prefs/ReferralParamsFile.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138772615,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138772617,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.tuenti.messenger.ui.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138772621,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779138772621,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779138772629,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tuenti.messenger/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138772632,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779138772633,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138772651,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tuenti.messenger/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138772652,
+    "type": "shared_pref",
+    "data": {
+      "key": "783859284998327json"
+    }
+  },
+  {
+    "ts": 1779138772653,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779138772656,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138772657,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138772672,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138772672,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138772689,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138772689,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138772690,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138772690,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138772691,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138772692,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138772693,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138772693,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138772696,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779138772698,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/783859284998327/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138772776,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779138772776,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779138772777,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779138772778,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779138772784,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138772791,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v3/androidevent?buildnumber=3.0&app_id=com.tuenti.messenger"
+    }
+  },
+  {
+    "ts": 1779138772803,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.tuenti.messenger.login.ui.StartActivity"
+    }
+  },
+  {
+    "ts": 1779138772882,
+    "type": "shared_pref",
+    "data": {
+      "key": "783859284998327json"
+    }
+  },
+  {
+    "ts": 1779138772885,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/783859284998327/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138773115,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779138773117,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779138773118,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779138773118,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779138773210,
+    "type": "url_access",
+    "data": {
+      "url": "http://fmetrics.tuenti.com/?uri=MobileAppStats/logMixpanel&mpa=track&"
+    }
+  },
+  {
+    "ts": 1779138773616,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779138775551,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138775571,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138775573,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.tuenti.messenger.ui.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138775649,
+    "type": "shared_pref",
+    "data": {
+      "key": "783859284998327json"
+    }
+  },
+  {
+    "ts": 1779138775671,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138775687,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.tuenti.messenger.login.ui.StartActivity"
+    }
+  },
+  {
+    "ts": 1779138775776,
+    "type": "shared_pref",
+    "data": {
+      "key": "783859284998327json"
+    }
+  },
+  {
+    "ts": 1779138776002,
+    "type": "url_access",
+    "data": {
+      "url": "http://fmetrics.tuenti.com/?uri=MobileAppStats/logMixpanel&mpa=track&"
+    }
+  },
+  {
+    "ts": 1779138778165,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.tuenti.messenger.login.ui.LoginActivity"
+    }
+  },
+  {
+    "ts": 1779138787630,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/783859284998327/activities?access_token=&format=json&sdk=android"
+    }
+  }
+]

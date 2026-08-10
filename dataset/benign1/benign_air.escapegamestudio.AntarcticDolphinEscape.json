@@ -1,0 +1,37 @@
+[
+  {
+    "ts": 1779137199546,
+    "type": "activity_resume",
+    "data": {
+      "activity": "air.escapegamestudio.AntarcticDolphinEscape.AppEntry"
+    }
+  },
+  {
+    "ts": 1779137199565,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779137199566,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779137199566,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779137199566,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  }
+]

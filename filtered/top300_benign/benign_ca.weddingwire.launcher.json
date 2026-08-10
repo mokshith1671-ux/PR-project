@@ -1,0 +1,1367 @@
+[
+  {
+    "ts": 1779636693879,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636693880,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.weddingwire.launcher/shared_prefs/ca.weddingwire.launcher_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636693881,
+    "type": "shared_pref",
+    "data": {
+      "key": "sharedPreferencesToken"
+    }
+  },
+  {
+    "ts": 1779636693894,
+    "type": "shared_pref",
+    "data": {
+      "key": "App$DomainWeb"
+    }
+  },
+  {
+    "ts": 1779636693895,
+    "type": "shared_pref",
+    "data": {
+      "key": "App$DomainApi"
+    }
+  },
+  {
+    "ts": 1779636693895,
+    "type": "shared_pref",
+    "data": {
+      "key": "App$DomainRedirect"
+    }
+  },
+  {
+    "ts": 1779636693895,
+    "type": "shared_pref",
+    "data": {
+      "key": "App$DomainWeb"
+    }
+  },
+  {
+    "ts": 1779636693959,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779636693959,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779636693959,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779636693962,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779636693963,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779636693966,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636693966,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636693966,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636693966,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779636693966,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779636693966,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779636693967,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779636693968,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779636693968,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779636693972,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636693972,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636693972,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636693972,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779636693972,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779636693972,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779636693972,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779636693973,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636693973,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636693974,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636693974,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779636693974,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779636694019,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779636694022,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779636694023,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779636694028,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779636694028,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779636694029,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.weddingwire.launcher/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636694036,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779636694077,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779636694186,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.weddingwire.launcher/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636694257,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636694320,
+    "type": "activity_resume",
+    "data": {
+      "activity": "net.bodas.launcher.views.activities.MainActivity"
+    }
+  },
+  {
+    "ts": 1779636694327,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779636694331,
+    "type": "shared_pref",
+    "data": {
+      "key": "sharedPreferencesToken"
+    }
+  },
+  {
+    "ts": 1779636694354,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779636694373,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779636694381,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636694383,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636694384,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779636694384,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779636694401,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636694401,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779636694402,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779636694402,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.weddingwire.launcher/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1319D502A0-0001-690F-9E2A530C07BASessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779636694403,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.weddingwire.launcher/shared_prefs/io.fabric.sdk.android:fabric:a.a.a.a.m.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636694411,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.weddingwire.launcher/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779636694414,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779636694433,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/ca.weddingwire.launcher/settings?instance=398db8cff648c0837028df7ebfc97096d10d8ae6&build_version=53&display_version=2.2.24&source=1&icon_hash=99e6750fb529d0dfa1aa0dc982c55cacd881e6ea"
+    }
+  },
+  {
+    "ts": 1779636694435,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/ca.weddingwire.launcher/settings?instance=398db8cff648c0837028df7ebfc97096d10d8ae6&build_version=53&display_version=2.2.24&source=1&icon_hash=99e6750fb529d0dfa1aa0dc982c55cacd881e6ea"
+    }
+  },
+  {
+    "ts": 1779636694461,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779636694470,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.weddingwire.launcher/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779636694648,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779636694681,
+    "type": "shared_pref",
+    "data": {
+      "key": "AF_INSTALLATION"
+    }
+  },
+  {
+    "ts": 1779636694710,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636694710,
+    "type": "shared_pref",
+    "data": {
+      "key": "sharedPreferencesToken"
+    }
+  },
+  {
+    "ts": 1779636694731,
+    "type": "activity_resume",
+    "data": {
+      "activity": "net.bodas.launcher.views.activities.TutorialActivity"
+    }
+  },
+  {
+    "ts": 1779636694732,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_tutorial.php"
+    }
+  },
+  {
+    "ts": 1779636694741,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636694753,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.weddingwire.launcher/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636694756,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779636694761,
+    "type": "shared_pref",
+    "data": {
+      "key": "913923858728658json"
+    }
+  },
+  {
+    "ts": 1779636694761,
+    "type": "shared_pref",
+    "data": {
+      "key": "913923858728658json"
+    }
+  },
+  {
+    "ts": 1779636694763,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/913923858728658/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779636694766,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779636694770,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/913923858728658/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779636694819,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636694819,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636694819,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636694819,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636694834,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636694835,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636694835,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636694835,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636694841,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636694841,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636694842,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636694842,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636694847,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636694847,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636694847,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636694847,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636694855,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636694856,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636694856,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636694856,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636694860,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636694862,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636694862,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636694862,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636694868,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/913923858728658/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779636694875,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636694894,
+    "type": "file_access",
+    "data": {
+      "path": ""
+    }
+  },
+  {
+    "ts": 1779636694894,
+    "type": "file_access",
+    "data": {
+      "path": "/etc/pre_install.appsflyer"
+    }
+  },
+  {
+    "ts": 1779636694899,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779636694901,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779636694903,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779636694904,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779636694905,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779636694906,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779636694909,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v4/androidevent?buildnumber=6.0&app_id=ca.weddingwire.launcher"
+    }
+  },
+  {
+    "ts": 1779636695495,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636695526,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636695528,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636695592,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_tutorial.php"
+    }
+  },
+  {
+    "ts": 1779636695592,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_tutorial.php"
+    }
+  },
+  {
+    "ts": 1779636696028,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636696270,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779636697948,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779636697949,
+    "type": "shared_pref",
+    "data": {
+      "key": "lastToken"
+    }
+  },
+  {
+    "ts": 1779636697953,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|1011528484567|GCM"
+    }
+  },
+  {
+    "ts": 1779636697954,
+    "type": "url_access",
+    "data": {
+      "url": "https://register.appsflyer.com/api/v4/androidevent?buildnumber=6.0&app_id=ca.weddingwire.launcher"
+    }
+  },
+  {
+    "ts": 1779636698452,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_tutorial.php"
+    }
+  },
+  {
+    "ts": 1779636698453,
+    "type": "webview",
+    "data": {
+      "url": "javascript:androidAppUsersProxy.isLogged('false');"
+    }
+  },
+  {
+    "ts": 1779636698454,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_tutorial.php"
+    }
+  },
+  {
+    "ts": 1779636698456,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779636698462,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/913923858728658/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779636698475,
+    "type": "shared_pref",
+    "data": {
+      "key": "prev_event_name"
+    }
+  },
+  {
+    "ts": 1779636698478,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779636698479,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779636698481,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779636698481,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779636698482,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779636698482,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779636698485,
+    "type": "url_access",
+    "data": {
+      "url": "https://events.appsflyer.com/api/v4/androidevent?buildnumber=6.0&app_id=ca.weddingwire.launcher"
+    }
+  },
+  {
+    "ts": 1779636698728,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779636698728,
+    "type": "shared_pref",
+    "data": {
+      "key": "lastToken"
+    }
+  },
+  {
+    "ts": 1779636698729,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|eHf5VdQDP8Q:APA91bHcL_FOGGnaI4dHFosO1k-JC4WlvruIRawu3aakOt5OPpnQE1_h5BR0IsvXea97Zf_6bi4CEheSz3amkkI5l6MhT6CxRm5YwzomTCOU1lTnKIMacoM|/topics/global"
+    }
+  },
+  {
+    "ts": 1779636698781,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779636699839,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636699841,
+    "type": "webview",
+    "data": {
+      "url": "javascript:androidAppUsersProxy.isLogged('false');"
+    }
+  },
+  {
+    "ts": 1779636699841,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php"
+    }
+  },
+  {
+    "ts": 1779636699841,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779636699843,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/913923858728658/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779636699854,
+    "type": "shared_pref",
+    "data": {
+      "key": "prev_event_name"
+    }
+  },
+  {
+    "ts": 1779636699855,
+    "type": "shared_pref",
+    "data": {
+      "key": "prev_event_value"
+    }
+  },
+  {
+    "ts": 1779636699858,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779636699858,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779636699860,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779636699861,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779636699861,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779636699862,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779636699864,
+    "type": "url_access",
+    "data": {
+      "url": "https://events.appsflyer.com/api/v4/androidevent?buildnumber=6.0&app_id=ca.weddingwire.launcher"
+    }
+  },
+  {
+    "ts": 1779636700017,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779636700345,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636700345,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636700678,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_tutorial.php"
+    }
+  },
+  {
+    "ts": 1779636700679,
+    "type": "webview",
+    "data": {
+      "url": "javascript:androidAppUsersProxy.isLogged('false');"
+    }
+  },
+  {
+    "ts": 1779636700679,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_tutorial.php"
+    }
+  },
+  {
+    "ts": 1779636700679,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779636700682,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/913923858728658/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779636700682,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636700683,
+    "type": "webview",
+    "data": {
+      "url": "javascript:androidAppUsersProxy.isLogged('false');"
+    }
+  },
+  {
+    "ts": 1779636700683,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php"
+    }
+  },
+  {
+    "ts": 1779636700683,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779636700690,
+    "type": "shared_pref",
+    "data": {
+      "key": "prev_event_name"
+    }
+  },
+  {
+    "ts": 1779636700690,
+    "type": "shared_pref",
+    "data": {
+      "key": "prev_event_value"
+    }
+  },
+  {
+    "ts": 1779636700695,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779636700695,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779636700696,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779636700697,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779636700697,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779636700697,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779636700699,
+    "type": "url_access",
+    "data": {
+      "url": "https://events.appsflyer.com/api/v4/androidevent?buildnumber=6.0&app_id=ca.weddingwire.launcher"
+    }
+  },
+  {
+    "ts": 1779636700706,
+    "type": "shared_pref",
+    "data": {
+      "key": "prev_event_name"
+    }
+  },
+  {
+    "ts": 1779636700707,
+    "type": "shared_pref",
+    "data": {
+      "key": "prev_event_value"
+    }
+  },
+  {
+    "ts": 1779636700708,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779636700709,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779636700710,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779636700711,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779636700711,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779636700711,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779636700713,
+    "type": "url_access",
+    "data": {
+      "url": "https://events.appsflyer.com/api/v4/androidevent?buildnumber=6.0&app_id=ca.weddingwire.launcher"
+    }
+  },
+  {
+    "ts": 1779636700851,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779636700855,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636700969,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779636701006,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636701007,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636701186,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636701186,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636701690,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636701857,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636701858,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.weddingwire.ca/app_menu.php?forceNoChat=1"
+    }
+  },
+  {
+    "ts": 1779636708713,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/913923858728658/activities?access_token=&format=json&sdk=android"
+    }
+  }
+]

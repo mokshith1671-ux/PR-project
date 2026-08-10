@@ -1,0 +1,289 @@
+[
+  {
+    "ts": 1779134760249,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779134760272,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.affinity.dodgers/shared_prefs/HSJsonData.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134760272,
+    "type": "shared_pref",
+    "data": {
+      "key": "domain"
+    }
+  },
+  {
+    "ts": 1779134760273,
+    "type": "shared_pref",
+    "data": {
+      "key": "appId"
+    }
+  },
+  {
+    "ts": 1779134760273,
+    "type": "shared_pref",
+    "data": {
+      "key": "apiKey"
+    }
+  },
+  {
+    "ts": 1779134760274,
+    "type": "shared_pref",
+    "data": {
+      "key": "domain"
+    }
+  },
+  {
+    "ts": 1779134760274,
+    "type": "shared_pref",
+    "data": {
+      "key": "appId"
+    }
+  },
+  {
+    "ts": 1779134760274,
+    "type": "shared_pref",
+    "data": {
+      "key": "apiKey"
+    }
+  },
+  {
+    "ts": 1779134760275,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779134760275,
+    "type": "shared_pref",
+    "data": {
+      "key": "uuid"
+    }
+  },
+  {
+    "ts": 1779134760275,
+    "type": "shared_pref",
+    "data": {
+      "key": "customMetaData"
+    }
+  },
+  {
+    "ts": 1779134760276,
+    "type": "shared_pref",
+    "data": {
+      "key": "libraryVersion"
+    }
+  },
+  {
+    "ts": 1779134760314,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134760314,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134760315,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134760315,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134760320,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779134760320,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779134760323,
+    "type": "shared_pref",
+    "data": {
+      "key": "appConfig"
+    }
+  },
+  {
+    "ts": 1779134760328,
+    "type": "shared_pref",
+    "data": {
+      "key": "applicationVersion"
+    }
+  },
+  {
+    "ts": 1779134760328,
+    "type": "shared_pref",
+    "data": {
+      "key": "config"
+    }
+  },
+  {
+    "ts": 1779134760342,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.affinity.dodgers/shared_prefs/com.kahuna.sdk.android.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134760343,
+    "type": "shared_pref",
+    "data": {
+      "key": "prev_sdk_version"
+    }
+  },
+  {
+    "ts": 1779134760359,
+    "type": "shared_pref",
+    "data": {
+      "key": "sdk_configuration"
+    }
+  },
+  {
+    "ts": 1779134760370,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_credentials"
+    }
+  },
+  {
+    "ts": 1779134760370,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_attributes"
+    }
+  },
+  {
+    "ts": 1779134760380,
+    "type": "shared_pref",
+    "data": {
+      "key": "events"
+    }
+  },
+  {
+    "ts": 1779134760396,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_credentials"
+    }
+  },
+  {
+    "ts": 1779134760396,
+    "type": "shared_pref",
+    "data": {
+      "key": "events"
+    }
+  },
+  {
+    "ts": 1779134760396,
+    "type": "shared_pref",
+    "data": {
+      "key": "dirty_user_attributes"
+    }
+  },
+  {
+    "ts": 1779134760397,
+    "type": "shared_pref",
+    "data": {
+      "key": "events"
+    }
+  },
+  {
+    "ts": 1779134760397,
+    "type": "shared_pref",
+    "data": {
+      "key": "sdk_configuration"
+    }
+  },
+  {
+    "ts": 1779134760407,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_id"
+    }
+  },
+  {
+    "ts": 1779134760426,
+    "type": "shared_pref",
+    "data": {
+      "key": "sdk_configuration"
+    }
+  },
+  {
+    "ts": 1779134760428,
+    "type": "shared_pref",
+    "data": {
+      "key": "debug_manager_storage_object"
+    }
+  },
+  {
+    "ts": 1779134760437,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.affinity.dodgers/shared_prefs/com.google.android.gcm.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134760439,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779134760444,
+    "type": "shared_pref",
+    "data": {
+      "key": "received_push_message_ids"
+    }
+  },
+  {
+    "ts": 1779134760450,
+    "type": "shared_pref",
+    "data": {
+      "key": "geofencing_regions"
+    }
+  },
+  {
+    "ts": 1779134760453,
+    "type": "shared_pref",
+    "data": {
+      "key": "geofencing_objects_list"
+    }
+  },
+  {
+    "ts": 1779134760454,
+    "type": "shared_pref",
+    "data": {
+      "key": "events"
+    }
+  }
+]

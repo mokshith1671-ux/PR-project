@@ -1,0 +1,632 @@
+[
+  {
+    "ts": 1779637714626,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779637714633,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637714634,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637714634,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637714634,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637714635,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ace.securityplus/shared_prefs/d_permit.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637714640,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/1380/cmdline"
+    }
+  },
+  {
+    "ts": 1779637714644,
+    "type": "runtime_exec",
+    "data": {
+      "command": "chmod 755 /data/user/0/com.ace.securityplus/app_daemon/godaemon"
+    }
+  },
+  {
+    "ts": 1779637714649,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637714650,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637714650,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637714651,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637714657,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779637714664,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ace.securityplus/shared_prefs/ctrl_sp_com.ace.securityplus.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637714666,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637714669,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779637714669,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637714669,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637714669,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637714669,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637714671,
+    "type": "runtime_exec",
+    "data": {
+      "command": "/data/user/0/com.ace.securityplus/app_daemon/godaemon -p com.ace.securityplus -s com.ace.securityplus.service.GuardService -t 60"
+    }
+  },
+  {
+    "ts": 1779637714683,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637714684,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ace.securityplus/shared_prefs/appsflyer-data.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637714684,
+    "type": "shared_pref",
+    "data": {
+      "key": "savedProperties"
+    }
+  },
+  {
+    "ts": 1779637714686,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ace.securityplus/shared_prefs/default_cfg.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637714727,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637714727,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637714727,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637714727,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637714757,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_remote_setting_v2"
+    }
+  },
+  {
+    "ts": 1779637714761,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637714761,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637714762,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637714762,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637714762,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.ace.securityplus/databases/cache_6.db"
+    }
+  },
+  {
+    "ts": 1779637714763,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.ace.securityplus/databases/"
+    }
+  },
+  {
+    "ts": 1779637714764,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.ace.securityplus/databases/cache_6.db"
+    }
+  },
+  {
+    "ts": 1779637714767,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.ace.securityplus/databases/cache_2.db"
+    }
+  },
+  {
+    "ts": 1779637714767,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_ab_test_user"
+    }
+  },
+  {
+    "ts": 1779637714767,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.ace.securityplus/databases/cache_2.db-journal"
+    }
+  },
+  {
+    "ts": 1779637714768,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.ace.securityplus/databases/cache_3.db"
+    }
+  },
+  {
+    "ts": 1779637714768,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.ace.securityplus/databases/cache_3.db-journal"
+    }
+  },
+  {
+    "ts": 1779637714768,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.ace.securityplus/databases/cache_4.db"
+    }
+  },
+  {
+    "ts": 1779637714769,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.ace.securityplus/databases/cache_4.db-journal"
+    }
+  },
+  {
+    "ts": 1779637714769,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.ace.securityplus/databases/cache_5.db"
+    }
+  },
+  {
+    "ts": 1779637714769,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.ace.securityplus/databases/cache_5.db-journal"
+    }
+  },
+  {
+    "ts": 1779637714777,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779637714788,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ace.securityplus/shared_prefs/ctrl_sp.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637714808,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp"
+    }
+  },
+  {
+    "ts": 1779637714809,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ace.securityplus/shared_prefs/wecloud.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637714818,
+    "type": "shared_pref",
+    "data": {
+      "key": "pushIP"
+    }
+  },
+  {
+    "ts": 1779637714825,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ace.securityplus/shared_prefs/share_sp_name.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637714833,
+    "type": "runtime_exec",
+    "data": {
+      "command": "sh"
+    }
+  },
+  {
+    "ts": 1779637714843,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_buy_user_channel"
+    }
+  },
+  {
+    "ts": 1779637714846,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ace.securityplus/shared_prefs/notification_sdk_product_info.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637714854,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ace.securityplus/shared_prefs/NotificationSDK.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637714856,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637714857,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ace.securityplus/shared_prefs/go_static_idcom.ace.securityplus.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637714858,
+    "type": "shared_pref",
+    "data": {
+      "key": "go_static_id"
+    }
+  },
+  {
+    "ts": 1779637714858,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/.goproduct/goid"
+    }
+  },
+  {
+    "ts": 1779637714860,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637714863,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637714863,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637714863,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637714863,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637714864,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.jiubang.commerce.notification/evasion"
+    }
+  },
+  {
+    "ts": 1779637714864,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.jiubang.commerce.notification/evasion"
+    }
+  },
+  {
+    "ts": 1779637714864,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/.goproduct/goid"
+    }
+  },
+  {
+    "ts": 1779637714864,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/.goproduct/goid"
+    }
+  },
+  {
+    "ts": 1779637714865,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/.goproduct"
+    }
+  },
+  {
+    "ts": 1779637714868,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637714868,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637714868,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637714868,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637714869,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/init.rc"
+    }
+  },
+  {
+    "ts": 1779637714869,
+    "type": "file_access",
+    "data": {
+      "path": "/sbin/su"
+    }
+  },
+  {
+    "ts": 1779637714869,
+    "type": "file_access",
+    "data": {
+      "path": "/system/bin/su"
+    }
+  },
+  {
+    "ts": 1779637714872,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779637714872,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637714873,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637714873,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637714873,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637714873,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/devhelper/common.debug"
+    }
+  },
+  {
+    "ts": 1779637714876,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.jiubang.commerce.notification/evasion"
+    }
+  },
+  {
+    "ts": 1779637714876,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/xbin/su"
+    }
+  },
+  {
+    "ts": 1779637714878,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/bin/su"
+    }
+  },
+  {
+    "ts": 1779637714878,
+    "type": "file_access",
+    "data": {
+      "path": "/system/sd/xbin/su"
+    }
+  },
+  {
+    "ts": 1779637714879,
+    "type": "file_access",
+    "data": {
+      "path": "/system/bin/failsafe/su"
+    }
+  },
+  {
+    "ts": 1779637714880,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/su"
+    }
+  },
+  {
+    "ts": 1779637714884,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ace.securityplus/shared_prefs/NotificationSDKConfig.xml.bak"
+    }
+  }
+]

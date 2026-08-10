@@ -1,0 +1,261 @@
+[
+  {
+    "ts": 1779646637679,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cerego.iknow/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779646637742,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_orientation_mode"
+    }
+  },
+  {
+    "ts": 1779646637746,
+    "type": "shared_pref",
+    "data": {
+      "key": "super_properties"
+    }
+  },
+  {
+    "ts": 1779646637766,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.cerego.iknow.activity.LaunchActivity"
+    }
+  },
+  {
+    "ts": 1779646637774,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779646637811,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779646637825,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779646637828,
+    "type": "shared_pref",
+    "data": {
+      "key": "AF_INSTALLATION"
+    }
+  },
+  {
+    "ts": 1779646638018,
+    "type": "shared_pref",
+    "data": {
+      "key": "current_user"
+    }
+  },
+  {
+    "ts": 1779646638030,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779646638031,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779646638031,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779646638031,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779646638039,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v4/androidevent?buildnumber=3.7&app_id=com.cerego.iknow"
+    }
+  },
+  {
+    "ts": 1779646638118,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_orientation_mode"
+    }
+  },
+  {
+    "ts": 1779646638127,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cerego.iknow/shared_prefs/com.google.android.gcm.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646638140,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_content_language"
+    }
+  },
+  {
+    "ts": 1779646638143,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_study_mode"
+    }
+  },
+  {
+    "ts": 1779646638144,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_focus_sort"
+    }
+  },
+  {
+    "ts": 1779646638144,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_library_sort"
+    }
+  },
+  {
+    "ts": 1779646638144,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_completed_sort"
+    }
+  },
+  {
+    "ts": 1779646638145,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_course_item_sort_mode"
+    }
+  },
+  {
+    "ts": 1779646638145,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_course_item_sort_direction"
+    }
+  },
+  {
+    "ts": 1779646638146,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_orientation_mode"
+    }
+  },
+  {
+    "ts": 1779646638146,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_keyboard_type"
+    }
+  },
+  {
+    "ts": 1779646638158,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.cerego.iknow.activity.StartActivity"
+    }
+  },
+  {
+    "ts": 1779646638178,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779646644485,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779646644491,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779646644491,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779646644491,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779646644831,
+    "type": "shared_pref",
+    "data": {
+      "key": "hashedDeviceID"
+    }
+  },
+  {
+    "ts": 1779646644832,
+    "type": "shared_pref",
+    "data": {
+      "key": "data"
+    }
+  },
+  {
+    "ts": 1779646644832,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.crittercism.com/android_v2/update_user_metadata"
+    }
+  },
+  {
+    "ts": 1779646644956,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779646645114,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779646645114,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  }
+]

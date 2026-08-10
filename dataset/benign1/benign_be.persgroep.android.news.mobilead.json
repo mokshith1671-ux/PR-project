@@ -1,0 +1,422 @@
+[
+  {
+    "ts": 1779131584024,
+    "type": "shared_pref",
+    "data": {
+      "key": "updateRequired"
+    }
+  },
+  {
+    "ts": 1779131584036,
+    "type": "url_access",
+    "data": {
+      "url": "https://cdn.krxd.net/controltag/config/KMkyxFVU?mobile=1"
+    }
+  },
+  {
+    "ts": 1779131584049,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779131584051,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131584051,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131584052,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.persgroep.android.news.mobilead/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779131584052,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779131584053,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779131584053,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.persgroep.android.news.mobilead/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B64BF03BC-0001-72F8-2462DE1F88BCSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779131584054,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779131584055,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131584058,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.persgroep.android.news.mobilead/shared_prefs/io.fabric.sdk.android:fabric:b.a.a.a.t.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131584063,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779131584064,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/be.persgroep.android.news.mobilead/settings?instance=8e0f2c6eee026cbf2345c394821a3855eed19b5f&build_version=4000000&display_version=4.0.0.185&source=1&icon_hash=79916323d0ac59a26da445d76eac64e8ebff33ca"
+    }
+  },
+  {
+    "ts": 1779131584066,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/be.persgroep.android.news.mobilead/settings?instance=8e0f2c6eee026cbf2345c394821a3855eed19b5f&build_version=4000000&display_version=4.0.0.185&source=1&icon_hash=79916323d0ac59a26da445d76eac64e8ebff33ca"
+    }
+  },
+  {
+    "ts": 1779131584069,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.persgroep.android.news.mobilead/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779131584131,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131584145,
+    "type": "activity_resume",
+    "data": {
+      "activity": "mobi.inthepocket.android.persgroep.adw.activities.OnboardingActivity"
+    }
+  },
+  {
+    "ts": 1779131584145,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.persgroep.android.news.mobilead/shared_prefs/HARALD.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131584360,
+    "type": "url_access",
+    "data": {
+      "url": "https://cdn.krxd.net/controltag/config/KMkyxFVU?mobile=1"
+    }
+  },
+  {
+    "ts": 1779131584361,
+    "type": "url_access",
+    "data": {
+      "url": "https://cdn.krxd.net/controltag/config/KMkyxFVU?mobile=1"
+    }
+  },
+  {
+    "ts": 1779131584362,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_twittersession"
+    }
+  },
+  {
+    "ts": 1779131584365,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_appsession"
+    }
+  },
+  {
+    "ts": 1779131584455,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_session"
+    }
+  },
+  {
+    "ts": 1779131584457,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.persgroep.android.news.mobilead/shared_prefs/com.digits.sdk.android:digits:com.digits.sdk.android.al.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131585324,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131585326,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131585327,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779131585327,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779131586317,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779131587714,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131590434,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131591595,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131593739,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131601420,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131602379,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131603082,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131603548,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131603796,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131604075,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131604314,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131606890,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131607108,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131607299,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131607508,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131607732,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131607956,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131608195,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131608658,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131608938,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131609450,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131609699,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131609979,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131610212,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131610452,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131610764,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131611002,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131611260,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131611882,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  },
+  {
+    "ts": 1779131612155,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscribedChannels"
+    }
+  }
+]

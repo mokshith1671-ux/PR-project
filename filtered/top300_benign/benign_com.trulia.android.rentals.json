@@ -1,0 +1,3033 @@
+[
+  {
+    "ts": 1779138694009,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.LoadingActivity"
+    }
+  },
+  {
+    "ts": 1779138694011,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/shared_prefs/APP_MEASUREMENT_CACHE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138694013,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/shared_prefs/AppRater.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138694013,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779138694015,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/shared_prefs/com.trulia.android.rentals_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138694015,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-548b38413031300018700500.json"
+    }
+  },
+  {
+    "ts": 1779138694018,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-548b38413031300018700500.json"
+    }
+  },
+  {
+    "ts": 1779138694021,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/shared_prefs/FEATURE_SWITCH_PREF.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138694023,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-548b384134363300158d0500.json"
+    }
+  },
+  {
+    "ts": 1779138694028,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-548b384134363300158d0500.json"
+    }
+  },
+  {
+    "ts": 1779138694029,
+    "type": "url_access",
+    "data": {
+      "url": "http://b.scorecardresearch.com/p2?c1=19&c2=6036206&ns_ap_an=Trulia%20Rentals&ns_ap_pn=android&ns_ap_pv=11&c12=74a1a6ebef989b4ea3b31a11c317d53d-cs72&name=start&ns_ak=tg%2FOfBVagzwp0RZT%2FoHkW%2FoRMqzRpJVMWM40Cw1KZsBc77FNJCfR4MDXFT%2FoJD3ujwV7QgaWnebucjRU39qBGC%2BLMC3%2FCI39AW%2FScVC2TU0WVMEfqKwFE12uFRU3oaW1p9l9i00cMu3QOxegMNargiUYfNZeHva%2FDH6ZlNoL2MQ%3D&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1779138694012&ns_ap_csf=1&ns_ap_bi=com.trulia.android.rentals&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=4.8.1&ns_ap_sv=3.1502.26&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1779138693742&ns_ap_jb=0&ns_ap_res=1080x2009&ns_ap_install=1779138693742&ns_ap_lastrun=0&ns_ap_cs=1&ns_ap_runs=1&ns_ap_usage=270&ns_ap_fg=1&ns_ap_ft=0&ns_ap_dft=0&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=270&ns_ap_as=1&ns_ap_das=270&ns_ap_it=270&ns_ap_lang=en&ns_ap_ar=x86_64&ns_ts=1779138694012"
+    }
+  },
+  {
+    "ts": 1779138694033,
+    "type": "url_access",
+    "data": {
+      "url": "http://b.scorecardresearch.com/p2?c1=19&c2=6036206&ns_ap_an=Trulia%20Rentals&ns_ap_pn=android&ns_ap_pv=11&c12=74a1a6ebef989b4ea3b31a11c317d53d-cs72&name=start&ns_ak=tg%2FOfBVagzwp0RZT%2FoHkW%2FoRMqzRpJVMWM40Cw1KZsBc77FNJCfR4MDXFT%2FoJD3ujwV7QgaWnebucjRU39qBGC%2BLMC3%2FCI39AW%2FScVC2TU0WVMEfqKwFE12uFRU3oaW1p9l9i00cMu3QOxegMNargiUYfNZeHva%2FDH6ZlNoL2MQ%3D&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1779138694012&ns_ap_csf=1&ns_ap_bi=com.trulia.android.rentals&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=4.8.1&ns_ap_sv=3.1502.26&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1779138693742&ns_ap_jb=0&ns_ap_res=1080x2009&ns_ap_install=1779138693742&ns_ap_lastrun=0&ns_ap_cs=1&ns_ap_runs=1&ns_ap_usage=270&ns_ap_fg=1&ns_ap_ft=0&ns_ap_dft=0&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=270&ns_ap_as=1&ns_ap_das=270&ns_ap_it=270&ns_ap_lang=en&ns_ap_ar=x86_64&ns_ts=1779138694012"
+    }
+  },
+  {
+    "ts": 1779138694037,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADB_LIFETIME_VALUE"
+    }
+  },
+  {
+    "ts": 1779138694051,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138694053,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADOBEMOBILE_STOREDDEFAULTS_AID"
+    }
+  },
+  {
+    "ts": 1779138694054,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138694054,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779138694055,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779138694055,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/shared_prefs/io.fabric.sdk.android:fabric:b.a.a.a.u.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138694057,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779138694057,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B8085033D-0001-3868-C36050D6ED8ESessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779138694059,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.trulia.android.rentals/settings?instance=2c741adebdf84e2c9068ba55f1b8f6d652ef8a6e&build_version=129&display_version=4.8.1&source=1&icon_hash=7b77f3eb03e77b2433cf32722e2e71a5432820f2"
+    }
+  },
+  {
+    "ts": 1779138694059,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.trulia.android.rentals/settings?instance=2c741adebdf84e2c9068ba55f1b8f6d652ef8a6e&build_version=129&display_version=4.8.1&source=1&icon_hash=7b77f3eb03e77b2433cf32722e2e71a5432820f2"
+    }
+  },
+  {
+    "ts": 1779138694060,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_VISITORID_IDS"
+    }
+  },
+  {
+    "ts": 1779138694060,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID"
+    }
+  },
+  {
+    "ts": 1779138694060,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID_HINT"
+    }
+  },
+  {
+    "ts": 1779138694060,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID_BLOB"
+    }
+  },
+  {
+    "ts": 1779138694064,
+    "type": "url_access",
+    "data": {
+      "url": "http://dpm.demdex.net/id?d_ver=2&d_orgid=94641C8B532957EC0A490D4D@AdobeOrg"
+    }
+  },
+  {
+    "ts": 1779138694066,
+    "type": "url_access",
+    "data": {
+      "url": "http://dpm.demdex.net/id?d_ver=2&d_orgid=94641C8B532957EC0A490D4D@AdobeOrg"
+    }
+  },
+  {
+    "ts": 1779138694078,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/cacheADBMobileDataCache.sqlite"
+    }
+  },
+  {
+    "ts": 1779138694116,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/shared_prefs/CollaborationPref.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138694132,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138694135,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779138694137,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138694138,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779138694138,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779138694139,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779138694140,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779138694141,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779138694149,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138694151,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138694154,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138694186,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138694187,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/shared_prefs/LOCATION.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138694187,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138694196,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138694196,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138694198,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138694199,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/shared_prefs/TruliaReferralPrefrences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138694200,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138694209,
+    "type": "url_access",
+    "data": {
+      "url": "http://metric.trulia.com/id?mid=77747560442205944191169158277915450835&mcorgid=94641C8B532957EC0A490D4D@AdobeOrg"
+    }
+  },
+  {
+    "ts": 1779138694210,
+    "type": "url_access",
+    "data": {
+      "url": "http://metric.trulia.com/id?mid=77747560442205944191169158277915450835&mcorgid=94641C8B532957EC0A490D4D@AdobeOrg"
+    }
+  },
+  {
+    "ts": 1779138694237,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/cache/adbdownloadcache/13f33671459db8b5a0e056dfe6967ba9.1445895136000_2232303739393930353761663031353536613831363831373030646132643661363A3134343538393531333622"
+    }
+  },
+  {
+    "ts": 1779138694269,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/cache/adbdownloadcache/e5d006c3d0edd07ae08fe06cfbad4f92.1445895136000_2235356138396336376366373031373933323736396565306532666464633061303A3134343538393531333622"
+    }
+  },
+  {
+    "ts": 1779138694306,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779138694318,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/cacheADBMobileDataCache.sqliteADBMobileTimedActionsCache.sqlite"
+    }
+  },
+  {
+    "ts": 1779138694322,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138694322,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138694323,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138694323,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138694337,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138694349,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779138694367,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138694368,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779138694381,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138694382,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138694384,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138694385,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138694390,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138694390,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138694392,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138694392,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138694393,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138694393,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138694395,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138694395,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138694397,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779138694399,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/410970538982032/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138694618,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/cache"
+    }
+  },
+  {
+    "ts": 1779138694618,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/files"
+    }
+  },
+  {
+    "ts": 1779138694618,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/databases"
+    }
+  },
+  {
+    "ts": 1779138694618,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/shared_prefs"
+    }
+  },
+  {
+    "ts": 1779138694836,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/shared_prefs/USER_INFO.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138694837,
+    "type": "shared_pref",
+    "data": {
+      "key": "ANDROID_MPID_PLATFORM_ID"
+    }
+  },
+  {
+    "ts": 1779138694837,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/shared_prefs/com.trulia.android.TruliaCoreApplication.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138694839,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/shared_prefs/SYNC_SETTING_PREF.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138694840,
+    "type": "url_access",
+    "data": {
+      "url": "https://origin-api.trulia.com/app/v1/query?platformId=rp75q7dmtqqhm3cjrvduoh8f9&os=30&model=sdk_gphone_x86_64&lang=en"
+    }
+  },
+  {
+    "ts": 1779138697326,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697329,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779138697332,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697335,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697335,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697337,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697337,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697342,
+    "type": "url_access",
+    "data": {
+      "url": "https://origin-api.trulia.com/discovery/v1/summary?idt=For+Rent&limit=3&offset=0&lat=40.7127&lon=-74.0059"
+    }
+  },
+  {
+    "ts": 1779138697425,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697425,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697428,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697428,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697440,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697443,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697444,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697445,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697448,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697448,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697456,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697457,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697459,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697460,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697466,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697468,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697470,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697470,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697472,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697472,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697480,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697481,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697482,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697482,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697486,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697488,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697492,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697492,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697495,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697496,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697502,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697502,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697503,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697503,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697507,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697511,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697511,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697512,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697514,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697515,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697518,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697519,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697520,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697520,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697523,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697524,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697529,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697530,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697531,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138697533,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697534,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697540,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697541,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697542,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697542,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697545,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697549,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697549,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697550,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697553,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697553,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697560,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697560,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697561,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697562,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697564,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697567,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697567,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697567,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697570,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697570,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697575,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697576,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697576,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697577,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697580,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697582,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697583,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697584,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697586,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697587,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697588,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697589,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697590,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697591,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697593,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697596,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697596,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697597,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697598,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697599,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697603,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697603,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697604,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697604,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697609,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697611,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697612,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697612,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697615,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697616,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697618,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697618,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697619,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697619,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697621,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697626,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697626,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697628,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697629,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697629,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697631,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697631,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697632,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697633,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697635,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697636,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697639,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138697640,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697640,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697642,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697642,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697648,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697648,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697650,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697650,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697656,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697660,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697660,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697663,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697663,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697664,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697667,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697668,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697669,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697669,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697673,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697676,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697677,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697679,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697680,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697687,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697691,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697691,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697692,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697693,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697695,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697698,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697698,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697703,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697707,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697707,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697724,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697724,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697725,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697725,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697727,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697728,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697729,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697729,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697732,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697732,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697736,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697737,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697737,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697738,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697742,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697744,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697745,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697746,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697748,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697749,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697751,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697752,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697753,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697754,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697757,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697759,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697759,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697761,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697762,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697762,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697767,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697767,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697768,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697769,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697774,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697775,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697778,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138697779,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697779,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697782,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697783,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697793,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697794,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697795,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697795,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697798,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697800,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697800,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697801,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697803,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697803,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697810,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697810,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697811,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697811,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697819,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697820,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697823,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697823,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697826,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697826,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697854,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697854,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697856,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697856,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697860,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697861,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697863,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697863,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697866,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697867,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697902,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697902,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697903,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697903,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697907,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697910,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697912,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697912,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697915,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697915,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697931,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697932,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697933,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697934,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697937,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697937,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697940,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697940,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697945,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697945,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697951,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697951,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697952,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697952,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697955,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697957,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697960,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697960,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697962,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697963,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697967,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697967,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697968,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697968,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697970,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697977,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697977,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697979,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697979,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138697981,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697982,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697989,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697989,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138697991,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697991,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697995,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138697996,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138697998,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138697998,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138698000,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698001,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698006,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698007,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138698008,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698008,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698011,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138698014,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138698015,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698015,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138698017,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698018,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698025,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698025,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138698025,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698025,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698028,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138698029,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138698030,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698030,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138698032,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698032,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698041,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698042,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138698045,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698046,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698049,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138698050,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138698051,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698051,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138698054,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698054,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698061,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698061,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138698062,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698062,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138698330,
+    "type": "url_access",
+    "data": {
+      "url": "https://origin-api.trulia.com/app/v1/query?platformId=rp75q7dmtqqhm3cjrvduoh8f9&os=30&model=sdk_gphone_x86_64&lang=en"
+    }
+  },
+  {
+    "ts": 1779138698945,
+    "type": "url_access",
+    "data": {
+      "url": "https://origin-api.trulia.com/app/v1/query?platformId=rp75q7dmtqqhm3cjrvduoh8f9&os=30&model=sdk_gphone_x86_64&lang=en"
+    }
+  },
+  {
+    "ts": 1779138699088,
+    "type": "url_access",
+    "data": {
+      "url": "http://metric.trulia.com/b/ss/truliaexternalapps/0/JAVA-4.8.2-AN/s75130648"
+    }
+  },
+  {
+    "ts": 1779138699089,
+    "type": "url_access",
+    "data": {
+      "url": "http://metric.trulia.com/b/ss/truliaexternalapps/0/JAVA-4.8.2-AN/s75130648"
+    }
+  },
+  {
+    "ts": 1779138699182,
+    "type": "url_access",
+    "data": {
+      "url": "http://metric.trulia.com/b/ss/truliaexternalapps/0/JAVA-4.8.2-AN/s5765641"
+    }
+  },
+  {
+    "ts": 1779138699183,
+    "type": "url_access",
+    "data": {
+      "url": "http://metric.trulia.com/b/ss/truliaexternalapps/0/JAVA-4.8.2-AN/s5765641"
+    }
+  },
+  {
+    "ts": 1779138702875,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138702876,
+    "type": "url_access",
+    "data": {
+      "url": "https://origin-api.trulia.com/discovery/v1/summary?idt=For+Rent&limit=3&offset=0&lat=40.7127&lon=-74.0059"
+    }
+  },
+  {
+    "ts": 1779138702884,
+    "type": "shared_pref",
+    "data": {
+      "key": "410970538982032json"
+    }
+  },
+  {
+    "ts": 1779138702885,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138702885,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138702887,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138702887,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138702901,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138702901,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138702903,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138702903,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138703480,
+    "type": "url_access",
+    "data": {
+      "url": "https://origin-api.trulia.com/discovery/v1/summary?idt=For+Rent&limit=3&offset=0&lat=40.7127&lon=-74.0059"
+    }
+  },
+  {
+    "ts": 1779138703880,
+    "type": "url_access",
+    "data": {
+      "url": "https://origin-api.trulia.com/app/v1/query?platformId=rp75q7dmtqqhm3cjrvduoh8f9&os=30&model=sdk_gphone_x86_64&lang=en"
+    }
+  },
+  {
+    "ts": 1779138705902,
+    "type": "url_access",
+    "data": {
+      "url": "http://b.scorecardresearch.com/p2?c1=19&c2=6036206&ns_ap_an=Trulia%20Rentals&ns_ap_pn=android&ns_ap_pv=11&c12=74a1a6ebef989b4ea3b31a11c317d53d-cs72&name=foreground&ns_ak=tg%2FOfBVagzwp0RZT%2FoHkW%2FoRMqzRpJVMWM40Cw1KZsBc77FNJCfR4MDXFT%2FoJD3ujwV7QgaWnebucjRU39qBGC%2BLMC3%2FCI39AW%2FScVC2TU0WVMEfqKwFE12uFRU3oaW1p9l9i00cMu3QOxegMNargiUYfNZeHva%2FDH6ZlNoL2MQ%3D&ns_ap_ec=2&ns_ap_ev=keep-alive&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1779138694012&ns_ap_bi=com.trulia.android.rentals&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=4.8.1&ns_ap_sv=3.1502.26&ns_type=hidden&ns_radio=wifi&ns_nc=1&ns_ap_res=1080x2009&ns_ap_cs=1&ns_ap_usage=12159&ns_ap_fg=2&ns_ap_ft=4682&ns_ap_dft=4682&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=7207&ns_ap_as=0&ns_ap_das=11889&ns_ap_it=7207&ns_ap_oc=0&ns_ap_lang=en&ns_ap_ar=x86_64&ns_ts=1779138705901"
+    }
+  },
+  {
+    "ts": 1779138705905,
+    "type": "url_access",
+    "data": {
+      "url": "http://b.scorecardresearch.com/p2?c1=19&c2=6036206&ns_ap_an=Trulia%20Rentals&ns_ap_pn=android&ns_ap_pv=11&c12=74a1a6ebef989b4ea3b31a11c317d53d-cs72&name=foreground&ns_ak=tg%2FOfBVagzwp0RZT%2FoHkW%2FoRMqzRpJVMWM40Cw1KZsBc77FNJCfR4MDXFT%2FoJD3ujwV7QgaWnebucjRU39qBGC%2BLMC3%2FCI39AW%2FScVC2TU0WVMEfqKwFE12uFRU3oaW1p9l9i00cMu3QOxegMNargiUYfNZeHva%2FDH6ZlNoL2MQ%3D&ns_ap_ec=2&ns_ap_ev=keep-alive&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1779138694012&ns_ap_bi=com.trulia.android.rentals&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=4.8.1&ns_ap_sv=3.1502.26&ns_type=hidden&ns_radio=wifi&ns_nc=1&ns_ap_res=1080x2009&ns_ap_cs=1&ns_ap_usage=12159&ns_ap_fg=2&ns_ap_ft=4682&ns_ap_dft=4682&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=7207&ns_ap_as=0&ns_ap_das=11889&ns_ap_it=7207&ns_ap_oc=0&ns_ap_lang=en&ns_ap_ar=x86_64&ns_ts=1779138705901"
+    }
+  },
+  {
+    "ts": 1779138707311,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.preference.SettingsActivity"
+    }
+  },
+  {
+    "ts": 1779138707314,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779138707315,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android.rentals/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138707323,
+    "type": "url_access",
+    "data": {
+      "url": "http://metric.trulia.com/b/ss/truliaexternalapps/0/JAVA-4.8.2-AN/s64279219"
+    }
+  },
+  {
+    "ts": 1779138707325,
+    "type": "url_access",
+    "data": {
+      "url": "http://metric.trulia.com/b/ss/truliaexternalapps/0/JAVA-4.8.2-AN/s64279219"
+    }
+  },
+  {
+    "ts": 1779138708878,
+    "type": "url_access",
+    "data": {
+      "url": null
+    }
+  },
+  {
+    "ts": 1779138709101,
+    "type": "url_access",
+    "data": {
+      "url": null
+    }
+  },
+  {
+    "ts": 1779138709155,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/410970538982032/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138709394,
+    "type": "url_access",
+    "data": {
+      "url": "https://origin-api.trulia.com/app/v1/query?platformId=rp75q7dmtqqhm3cjrvduoh8f9&os=30&model=sdk_gphone_x86_64&lang=en"
+    }
+  }
+]

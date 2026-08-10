@@ -1,0 +1,303 @@
+[
+  {
+    "ts": 1779640261786,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779640261794,
+    "type": "file_access",
+    "data": {
+      "path": "/"
+    }
+  },
+  {
+    "ts": 1779640261798,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anghami/shared_prefs/AnghamiPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640261801,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anghami/shared_prefs/DevicePrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640261825,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anghami/shared_prefs/com.a.a.com.anghami.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640261828,
+    "type": "shared_pref",
+    "data": {
+      "key": "key"
+    }
+  },
+  {
+    "ts": 1779640261830,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anghami/no_backup/com.urbanairship.databases"
+    }
+  },
+  {
+    "ts": 1779640261942,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anghami/shared_prefs/com.amplitude.api.com.anghami.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640261961,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.amplitude.api.deviceId"
+    }
+  },
+  {
+    "ts": 1779640261977,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anghami/no_backup/com.urbanairship.databases"
+    }
+  },
+  {
+    "ts": 1779640262057,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.amplitude.api.userId"
+    }
+  },
+  {
+    "ts": 1779640262106,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779640262106,
+    "type": "shared_pref",
+    "data": {
+      "key": "pushAlias"
+    }
+  },
+  {
+    "ts": 1779640262124,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779640262135,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779640262137,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779640262145,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anghami/shared_prefs/zendesk-token.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640262146,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779640262146,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anghami/shared_prefs/zendesk-authorization.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640262151,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anghami/shared_prefs/ZendeskConfigStorage.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640262657,
+    "type": "shared_pref",
+    "data": {
+      "key": "reportedEvents"
+    }
+  },
+  {
+    "ts": 1779640262657,
+    "type": "shared_pref",
+    "data": {
+      "key": "reportOnce"
+    }
+  },
+  {
+    "ts": 1779640262684,
+    "type": "shared_pref",
+    "data": {
+      "key": "zendesk-identity"
+    }
+  },
+  {
+    "ts": 1779640262685,
+    "type": "shared_pref",
+    "data": {
+      "key": "zendesk-identity-type"
+    }
+  },
+  {
+    "ts": 1779640262686,
+    "type": "shared_pref",
+    "data": {
+      "key": "zendesk-identity"
+    }
+  },
+  {
+    "ts": 1779640262686,
+    "type": "shared_pref",
+    "data": {
+      "key": "zendesk-identity-type"
+    }
+  },
+  {
+    "ts": 1779640262696,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anghami/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640262697,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.299953330100883"
+    }
+  },
+  {
+    "ts": 1779640262700,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anghami/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640262710,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.7/299953330100883?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779640262730,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779640262731,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anghami/shared_prefs/TwitterAdvertisingInfoPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640262732,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~NsrE7DW1pznbggqrK83iYg==/com.anghami-k4oPtjbVkXR3XVLSiiy3xw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779640262768,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anghami/shared_prefs/com.twitter.sdk.android:twitter-core:session_store.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640262792,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anghami/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640262796,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/ECB/PKCS7Padding"
+    }
+  },
+  {
+    "ts": 1779640262800,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anghami/shared_prefs/com.digits.sdk.android:digits:session_store.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640262808,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779640262818,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anghami/shared_prefs/com.crashlytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640262820,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779640262826,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779640262832,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640262839,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  }
+]

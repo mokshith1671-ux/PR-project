@@ -1,0 +1,604 @@
+[
+  {
+    "ts": 1779636616615,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779636616688,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779636616691,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779636616692,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779636616693,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779636616717,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616731,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616736,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616748,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616756,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616759,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616760,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616765,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.save.m/shared_prefs/SaveAppSecuredProperties.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636616781,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616782,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616793,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616796,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616797,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616799,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616801,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616802,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616810,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616812,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616813,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616815,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616816,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616818,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616819,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616821,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616822,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616823,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616827,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.save.m/app_appdata"
+    }
+  },
+  {
+    "ts": 1779636616829,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.save.m/shared_prefs/appsflyer-data.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636616830,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779636616832,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616834,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616851,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779636616851,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779636616860,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779636616861,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636616864,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616865,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616867,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616874,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616878,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616881,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616885,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616892,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.save.ca/api/app/checkVersion/en/36/1779636616836/SaveCaAnonymousUser36/e58645f6bbcbc3e35d675e1acdf8e1614817021ac04ae78d0e7e57f5b792e4c3"
+    }
+  },
+  {
+    "ts": 1779636616893,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616903,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616915,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616951,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616956,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616959,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616962,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616967,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636616976,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636617189,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636617246,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636617248,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636617250,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636617253,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636617262,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636617290,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636617294,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636617314,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636617319,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636617325,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636617331,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636617339,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.save.ca/api/app/lcard/getTemplates/en/36/1779636617311/SaveCaAnonymousUser36/237ef40e7b466fabc07bc5bda47ec9f3322e4ef47baad9edf42ca740f5df13ac"
+    }
+  },
+  {
+    "ts": 1779636617341,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636617585,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.save.m/app_appdata/mylist_updatelist.json"
+    }
+  },
+  {
+    "ts": 1779636617586,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636617660,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ca.save.m.SaveCaActivity"
+    }
+  },
+  {
+    "ts": 1779636617660,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779636617729,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779636617733,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779636617734,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779636617734,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779636617750,
+    "type": "url_access",
+    "data": {
+      "url": "https://track.appsflyer.com/api/v2.3/androidevent?buildnumber=1.17&app_id=ca.save.m"
+    }
+  },
+  {
+    "ts": 1779636617945,
+    "type": "url_access",
+    "data": {
+      "url": "https://parse-save.wagjag.com/parse/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779636617976,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.google.ca"
+    }
+  },
+  {
+    "ts": 1779636617986,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.google.ca/"
+    }
+  },
+  {
+    "ts": 1779636617991,
+    "type": "activity_resume",
+    "data": {
+      "activity": "org.appcelerator.titanium.TiActivity"
+    }
+  },
+  {
+    "ts": 1779636617992,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779636617997,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.save.ca/api/app/coupon/M5E1E5/Toronto/43.64339829/-79.37439728/all/0/mostRecent/36/en/1779636617939/SaveCaAnonymousUser36/841ff2d2a902ae55fc603dd8214d463ef0c5b575da015e8140fa9305af13ef12"
+    }
+  }
+]

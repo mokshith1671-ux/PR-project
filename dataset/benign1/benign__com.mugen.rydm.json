@@ -1,0 +1,79 @@
+[
+  {
+    "ts": 1778246744521,
+    "type": "activity",
+    "data": {
+      "activity": "com.mugen.rydm.LoginActivity"
+    }
+  },
+  {
+    "ts": 1778246751779,
+    "type": "sp",
+    "data": {
+      "key": "active_appsession"
+    }
+  },
+  {
+    "ts": 1778246751790,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mugen.rydm/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1778246752053,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778246752059,
+    "type": "sp",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1778246752315,
+    "type": "sp",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1778246752504,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mugen.rydm/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1778246754190,
+    "type": "sp",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1778246754282,
+    "type": "sp",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1778246754356,
+    "type": "sp",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1778246754422,
+    "type": "sp",
+    "data": {
+      "key": "advertising_id"
+    }
+  }
+]

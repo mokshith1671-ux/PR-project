@@ -1,0 +1,667 @@
+[
+  {
+    "ts": 1779641299753,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.appcom.lecampeur.feature.MainMenuActivity"
+    }
+  },
+  {
+    "ts": 1779641299781,
+    "type": "shared_pref",
+    "data": {
+      "key": "applicationInstallationId"
+    }
+  },
+  {
+    "ts": 1779641299994,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779641299995,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779641299998,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779641299998,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779641299998,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779641299999,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779641299999,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779641299999,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.appcom.lecampeur/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A132BD30084-0001-30D3-833199BC7344SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779641300000,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.appcom.lecampeur/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641300000,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779641300001,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.appcom.lecampeur/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779641300003,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.appcom.lecampeur/settings?instance=63ef4fb801d9cf3f31e2d406b1c6787e0b9f63a9&build_version=10&display_version=2.2.1&source=1&icon_hash=e1c9106b35e3e1d8b6a47db5e0d6111964d7807c"
+    }
+  },
+  {
+    "ts": 1779641300006,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.appcom.lecampeur/settings?instance=63ef4fb801d9cf3f31e2d406b1c6787e0b9f63a9&build_version=10&display_version=2.2.1&source=1&icon_hash=e1c9106b35e3e1d8b6a47db5e0d6111964d7807c"
+    }
+  },
+  {
+    "ts": 1779641300030,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.appcom.lecampeur/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779641302547,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.appcom.lecampeur.feature.MainMenuActivity"
+    }
+  },
+  {
+    "ts": 1779641302624,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.appcom.lecampeur.feature.MainMenuActivity"
+    }
+  },
+  {
+    "ts": 1779641302717,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.appcom.lecampeur.feature.MainMenuActivity"
+    }
+  },
+  {
+    "ts": 1779641302885,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.appcom.lecampeur.feature.poi.POIContainerActivity"
+    }
+  },
+  {
+    "ts": 1779641303172,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779641303173,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779641303173,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779641303180,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779641303181,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779641303185,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641303185,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641303185,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779641303186,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779641303186,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779641303191,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779641303192,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779641303194,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641303194,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641303194,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779641303195,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779641303195,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779641303197,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779641303197,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779641303201,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641303202,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641303202,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779641303202,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779641303203,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779641303205,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641303205,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641303206,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779641303221,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779641303222,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779641303222,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779641303228,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779641303231,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779641303233,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779641303233,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779641303234,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779641303246,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/n/x86_64"
+    }
+  },
+  {
+    "ts": 1779641303246,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/n/arm64-v8a"
+    }
+  },
+  {
+    "ts": 1779641303246,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779641303246,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779641303251,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779641303316,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.appcom.lecampeur/shared_prefs/com.google.maps.api.android.lib6.drd.PREFERENCES_FILE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641303320,
+    "type": "settings_access",
+    "data": {
+      "setting": "logging_id2"
+    }
+  },
+  {
+    "ts": 1779641303407,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641303408,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641303408,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641303408,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641303418,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641303419,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641303419,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641303419,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641303420,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641303421,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641303421,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641303421,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641303444,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.appcom.lecampeur/shared_prefs/MapviewInitializerPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641303495,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.appcom.lecampeur.feature.map.MapActivity"
+    }
+  },
+  {
+    "ts": 1779641303886,
+    "type": "shared_pref",
+    "data": {
+      "key": "Cohort"
+    }
+  },
+  {
+    "ts": 1779641303900,
+    "type": "shared_pref",
+    "data": {
+      "key": "LegalCountry"
+    }
+  },
+  {
+    "ts": 1779641303946,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779641304210,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.appcom.lecampeur.feature.map.MapActivity"
+    }
+  },
+  {
+    "ts": 1779641304238,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.appcom.lecampeur/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779641304250,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779641304264,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779641304267,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779641304268,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779641305481,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000005/GoogleCertificates.apk"
+    }
+  },
+  {
+    "ts": 1779641305482,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000005/GoogleCertificates.apk"
+    }
+  },
+  {
+    "ts": 1779641305482,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000005/GoogleCertificates.apk"
+    }
+  },
+  {
+    "ts": 1779641305483,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000005/GoogleCertificates.apk"
+    }
+  },
+  {
+    "ts": 1779641305484,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000005/n/x86_64"
+    }
+  },
+  {
+    "ts": 1779641305485,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000005/n/arm64-v8a"
+    }
+  },
+  {
+    "ts": 1779641305485,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779641305485,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779641305488,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000005/GoogleCertificates.apk"
+    }
+  },
+  {
+    "ts": 1779641309241,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.appcom.lecampeur/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  }
+]

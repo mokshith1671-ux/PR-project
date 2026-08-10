@@ -1,0 +1,212 @@
+[
+  {
+    "ts": 1779134713411,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779134713421,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aff.index.main/shared_prefs/TwitterAdvertisingInfoPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134713422,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~krQxnB1291tQ-jBoAYNAVQ==/com.aff.index.main-PgFk7t0tr1uXqN5auIzrxA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779134713426,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aff.index.main/shared_prefs/com.crashlytics.sdk.android:answers:settings.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134713431,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134713438,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779134713452,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aff.index.main/shared_prefs/com.crashlytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134713455,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779134713476,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779134713485,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aff.index.main/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B70F901C0-0001-5234-991A0B396ACEBeginSession.cls_temp"
+    }
+  },
+  {
+    "ts": 1779134713488,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aff.index.main/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B70F901C0-0001-5234-991A0B396ACEBeginSession.cls"
+    }
+  },
+  {
+    "ts": 1779134713492,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aff.index.main/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B70F901C0-0001-5234-991A0B396ACESessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1779134713492,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779134713493,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aff.index.main/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B70F901C0-0001-5234-991A0B396ACESessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779134713494,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aff.index.main/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B70F901C0-0001-5234-991A0B396ACESessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779134713494,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134713494,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779134713495,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779134713498,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aff.index.main/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B70F901C0-0001-5234-991A0B396ACESessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779134713499,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aff.index.main/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B70F901C0-0001-5234-991A0B396ACESessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779134713499,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134713501,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779134713503,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134713503,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134713505,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aff.index.main/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134713506,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.242540805798267"
+    }
+  },
+  {
+    "ts": 1779134713508,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/242540805798267?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779134713509,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aff.index.main/shared_prefs/optionPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134713511,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aff.index.main/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134713523,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  }
+]

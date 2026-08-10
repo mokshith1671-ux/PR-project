@@ -1,0 +1,1332 @@
+[
+  {
+    "ts": 1779134879409,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779134879412,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779134879415,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_identifier"
+    }
+  },
+  {
+    "ts": 1779134879415,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_link"
+    }
+  },
+  {
+    "ts": 1779134879416,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_push_identifier"
+    }
+  },
+  {
+    "ts": 1779134879416,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_uri"
+    }
+  },
+  {
+    "ts": 1779134879416,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_extra"
+    }
+  },
+  {
+    "ts": 1779134879417,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_version"
+    }
+  },
+  {
+    "ts": 1779134879420,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134879421,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779134879425,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aggrego.loop.ui.activity.SplashScreenActivity"
+    }
+  },
+  {
+    "ts": 1779134879592,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779134879594,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134879603,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779134879603,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134879641,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/databases/com.localytics.android.bd525191fc61b9189d49e1f119b21269752a768e0eb0b255aff43484481e846c.analytics.sqlite"
+    }
+  },
+  {
+    "ts": 1779134879651,
+    "type": "url_access",
+    "data": {
+      "url": "https://analytics.localytics.com/api/v2/applications/145aa92e4e7046b39447cf0-d7cf71b8-41f2-11e5-a640-00d0fea82624/amp"
+    }
+  },
+  {
+    "ts": 1779134879662,
+    "type": "url_access",
+    "data": {
+      "url": "https://analytics.localytics.com/api/v2/uploads"
+    }
+  },
+  {
+    "ts": 1779134879921,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779134879921,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134879924,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779134879925,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134879970,
+    "type": "shared_pref",
+    "data": {
+      "key": "domain_display_name"
+    }
+  },
+  {
+    "ts": 1779134879970,
+    "type": "shared_pref",
+    "data": {
+      "key": "current_domain"
+    }
+  },
+  {
+    "ts": 1779134879970,
+    "type": "shared_pref",
+    "data": {
+      "key": "current_domain_name"
+    }
+  },
+  {
+    "ts": 1779134879998,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/shared_prefs/com.adtech.mobilesdk.publisher.persistence.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134880000,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134880000,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134880001,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134880001,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134880005,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134880005,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134880005,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134880007,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134880008,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779134880008,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779134880009,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779134880010,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/com.aggrego.loop/adtech"
+    }
+  },
+  {
+    "ts": 1779134880020,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134880024,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134880031,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134880032,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134880032,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134880033,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779134880033,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779134880034,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134880034,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134880045,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134880045,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134880049,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134880050,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134880050,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134880050,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779134880050,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779134880050,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134880050,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134880053,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134880053,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134880053,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779134880053,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134880054,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134880059,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134880060,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134880060,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134880060,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134880062,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.aggrego.loop/cache"
+    }
+  },
+  {
+    "ts": 1779134880066,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/cache"
+    }
+  },
+  {
+    "ts": 1779134880101,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779134880105,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134880106,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134880111,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134880112,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134880113,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134880120,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779134880173,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134880277,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134880357,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134880365,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134880365,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134880365,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134880365,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134880366,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134880366,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134880367,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134880367,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134880370,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134880373,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779134880374,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779134880389,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134880390,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134880390,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134880390,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134880390,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134880391,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134880391,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134880391,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134880433,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/shared_prefs/LoopPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134880441,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aggrego.loop.MainActivity"
+    }
+  },
+  {
+    "ts": 1779134880460,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134880472,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134880474,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134880512,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134880514,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134880803,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134880806,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779134880808,
+    "type": "shared_pref",
+    "data": {
+      "key": "1672851156328335json"
+    }
+  },
+  {
+    "ts": 1779134880810,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.3/1672851156328335/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779134880854,
+    "type": "shared_pref",
+    "data": {
+      "key": "current_domain"
+    }
+  },
+  {
+    "ts": 1779134880860,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/flags"
+    }
+  },
+  {
+    "ts": 1779134880861,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/flags"
+    }
+  },
+  {
+    "ts": 1779134880894,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/flags"
+    }
+  },
+  {
+    "ts": 1779134880898,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/flags"
+    }
+  },
+  {
+    "ts": 1779134880900,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779134880903,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134880907,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779134880909,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134880918,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/flags"
+    }
+  },
+  {
+    "ts": 1779134880920,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/flags"
+    }
+  },
+  {
+    "ts": 1779134880935,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/flags"
+    }
+  },
+  {
+    "ts": 1779134880939,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/flags"
+    }
+  },
+  {
+    "ts": 1779134880952,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/databases/com.localytics.android.bd525191fc61b9189d49e1f119b21269752a768e0eb0b255aff43484481e846c.analytics.sqlite"
+    }
+  },
+  {
+    "ts": 1779134880953,
+    "type": "url_access",
+    "data": {
+      "url": "http://dualstack.loopv2apicallbalancer-1327505514.us-east-1.elb.amazonaws.com/api/domains/"
+    }
+  },
+  {
+    "ts": 1779134880962,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779134880967,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/install"
+    }
+  },
+  {
+    "ts": 1779134880971,
+    "type": "url_access",
+    "data": {
+      "url": "http://dualstack.loopv2apicallbalancer-1327505514.us-east-1.elb.amazonaws.com/api/domains/"
+    }
+  },
+  {
+    "ts": 1779134881002,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/databases/com.localytics.android.bd525191fc61b9189d49e1f119b21269752a768e0eb0b255aff43484481e846c.analytics.sqlite"
+    }
+  },
+  {
+    "ts": 1779134881458,
+    "type": "url_access",
+    "data": {
+      "url": "https://analytics.localytics.com/api/v2/uploads"
+    }
+  },
+  {
+    "ts": 1779134881728,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779134881736,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/databases/com.localytics.android.bd525191fc61b9189d49e1f119b21269752a768e0eb0b255aff43484481e846c.analytics.sqlite"
+    }
+  },
+  {
+    "ts": 1779134881805,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779134881821,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_params"
+    }
+  },
+  {
+    "ts": 1779134883411,
+    "type": "shared_pref",
+    "data": {
+      "key": "current_domain"
+    }
+  },
+  {
+    "ts": 1779134883754,
+    "type": "url_access",
+    "data": {
+      "url": "http://dualstack.loopv2apicallbalancer-1327505514.us-east-1.elb.amazonaws.com/api/domains/"
+    }
+  },
+  {
+    "ts": 1779134883760,
+    "type": "url_access",
+    "data": {
+      "url": "http://dualstack.loopv2apicallbalancer-1327505514.us-east-1.elb.amazonaws.com/api/domains/"
+    }
+  },
+  {
+    "ts": 1779134883900,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779134886308,
+    "type": "url_access",
+    "data": {
+      "url": "http://dualstack.loopv2apicallbalancer-1327505514.us-east-1.elb.amazonaws.com/api/domains/"
+    }
+  },
+  {
+    "ts": 1779134886310,
+    "type": "url_access",
+    "data": {
+      "url": "http://dualstack.loopv2apicallbalancer-1327505514.us-east-1.elb.amazonaws.com/api/domains/"
+    }
+  },
+  {
+    "ts": 1779134886686,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779134886686,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134886699,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779134886699,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134886737,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/databases/com.localytics.android.bd525191fc61b9189d49e1f119b21269752a768e0eb0b255aff43484481e846c.analytics.sqlite"
+    }
+  },
+  {
+    "ts": 1779134886754,
+    "type": "url_access",
+    "data": {
+      "url": "http://dualstack.loopv2apicallbalancer-1327505514.us-east-1.elb.amazonaws.com/api/adtech/?os=android&cat=home&position=home_bottom"
+    }
+  },
+  {
+    "ts": 1779134886755,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779134886764,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134886768,
+    "type": "url_access",
+    "data": {
+      "url": "http://dualstack.loopv2apicallbalancer-1327505514.us-east-1.elb.amazonaws.com/api/adtech/?os=android&cat=home&position=home_bottom"
+    }
+  },
+  {
+    "ts": 1779134886770,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779134886771,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134886804,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134886804,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134886804,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134886804,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134886809,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134886810,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134886810,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134886810,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134886830,
+    "type": "url_access",
+    "data": {
+      "url": "https://analytics.localytics.com/api/v2/uploads"
+    }
+  },
+  {
+    "ts": 1779134886845,
+    "type": "url_access",
+    "data": {
+      "url": "http://dualstack.loopv2apicallbalancer-1327505514.us-east-1.elb.amazonaws.com/api/articles/?page=1"
+    }
+  },
+  {
+    "ts": 1779134886846,
+    "type": "url_access",
+    "data": {
+      "url": "http://dualstack.loopv2apicallbalancer-1327505514.us-east-1.elb.amazonaws.com/api/articles/?page=1"
+    }
+  },
+  {
+    "ts": 1779134886856,
+    "type": "url_access",
+    "data": {
+      "url": "http://dualstack.loopv2apicallbalancer-1327505514.us-east-1.elb.amazonaws.com/api/adtech/?os=android&cat=home&position=home_prestitial"
+    }
+  },
+  {
+    "ts": 1779134886857,
+    "type": "url_access",
+    "data": {
+      "url": "http://dualstack.loopv2apicallbalancer-1327505514.us-east-1.elb.amazonaws.com/api/adtech/?os=android&cat=home&position=home_prestitial"
+    }
+  },
+  {
+    "ts": 1779134886886,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134886887,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134886888,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134886888,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134886890,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134886890,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134886890,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134886891,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134887113,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aggrego.loop/databases/com.localytics.android.bd525191fc61b9189d49e1f119b21269752a768e0eb0b255aff43484481e846c.analytics.sqlite"
+    }
+  },
+  {
+    "ts": 1779134888215,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_device_fingerprint_id"
+    }
+  },
+  {
+    "ts": 1779134888216,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779134888216,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_id"
+    }
+  },
+  {
+    "ts": 1779134888216,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_id"
+    }
+  },
+  {
+    "ts": 1779134888217,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779134888217,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_id"
+    }
+  },
+  {
+    "ts": 1779134888217,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_device_fingerprint_id"
+    }
+  },
+  {
+    "ts": 1779134888219,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779134888224,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/close"
+    }
+  },
+  {
+    "ts": 1779134888909,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779134889367,
+    "type": "url_access",
+    "data": {
+      "url": "http://dualstack.loopv2apicallbalancer-1327505514.us-east-1.elb.amazonaws.com/api/articles/?page=1"
+    }
+  },
+  {
+    "ts": 1779134889368,
+    "type": "url_access",
+    "data": {
+      "url": "http://dualstack.loopv2apicallbalancer-1327505514.us-east-1.elb.amazonaws.com/api/articles/?page=1"
+    }
+  },
+  {
+    "ts": 1779134891920,
+    "type": "url_access",
+    "data": {
+      "url": "http://dualstack.loopv2apicallbalancer-1327505514.us-east-1.elb.amazonaws.com/api/articles/?page=1"
+    }
+  },
+  {
+    "ts": 1779134891922,
+    "type": "url_access",
+    "data": {
+      "url": "http://dualstack.loopv2apicallbalancer-1327505514.us-east-1.elb.amazonaws.com/api/articles/?page=1"
+    }
+  },
+  {
+    "ts": 1779134895448,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.3/1672851156328335/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779134897600,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779134897707,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779134899211,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779134902675,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779134908609,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  }
+]

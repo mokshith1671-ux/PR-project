@@ -1,0 +1,2347 @@
+[
+  {
+    "ts": 1779138850492,
+    "type": "shared_pref",
+    "data": {
+      "key": "brand"
+    }
+  },
+  {
+    "ts": 1779138850497,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779138850499,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/files/appsee"
+    }
+  },
+  {
+    "ts": 1779138850501,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/no_backup/appsee"
+    }
+  },
+  {
+    "ts": 1779138850502,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/no_backup/appsee"
+    }
+  },
+  {
+    "ts": 1779138850503,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/no_backup/appsee"
+    }
+  },
+  {
+    "ts": 1779138850507,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/Appsee.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850521,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/appsflyer-data.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850521,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779138850523,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779138850527,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/com.appboy.offline.storagemap.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850529,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138850529,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138850530,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138850530,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138850532,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138850532,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138850532,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138850532,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138850535,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779138850535,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779138850536,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/com.appboy.push_registration.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850541,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779138850542,
+    "type": "shared_pref",
+    "data": {
+      "key": "last_user"
+    }
+  },
+  {
+    "ts": 1779138850543,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/com_appboy_override_configuration_cache.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850543,
+    "type": "shared_pref",
+    "data": {
+      "key": "com_appboy_api_key"
+    }
+  },
+  {
+    "ts": 1779138850544,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/com.appboy.storage.serverconfigstorageprovider.db3b2920-3b7a-47ad-b350-70ed15f2bee7.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850544,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779138850545,
+    "type": "shared_pref",
+    "data": {
+      "key": "last_configured_appboy_sdk_version"
+    }
+  },
+  {
+    "ts": 1779138850545,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/com.appboy.storage.usercache.37a6259cc0c1dae299a7866489dff0bd.null.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850546,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138850546,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/com.appboy.storage.device_cache.37a6259cc0c1dae299a7866489dff0bd.null.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850548,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/com.appboy.managers.connected_device_storage.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850549,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/com.appboy.storage.device_ad_info.d41d8cd98f00b204e9800998ecf8427e.db3b2920-3b7a-47ad-b350-70ed15f2bee7.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850552,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/com.appboy.storage.feedstorageprovider..xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850555,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/com.appboy.stored.push.clicks.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850558,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/com.appboy.storage.piqqueue.db3b2920-3b7a-47ad-b350-70ed15f2bee7.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850559,
+    "type": "shared_pref",
+    "data": {
+      "key": "last_user"
+    }
+  },
+  {
+    "ts": 1779138850579,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/google_auto_usage.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850581,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779138850583,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/com.newrelic.android.agent.v1_com.twenty_four_option_app.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850584,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/com.appboy.device.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850585,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_id"
+    }
+  },
+  {
+    "ts": 1779138850586,
+    "type": "shared_pref",
+    "data": {
+      "key": "cached_device"
+    }
+  },
+  {
+    "ts": 1779138850587,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/NRAnalyticAttributeStore.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850587,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_id"
+    }
+  },
+  {
+    "ts": 1779138850591,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779138850592,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779138850592,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779138850596,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138850596,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138850612,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/NRCrashStore.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850614,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/appright_pref.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850616,
+    "type": "shared_pref",
+    "data": {
+      "key": "brand"
+    }
+  },
+  {
+    "ts": 1779138850618,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/stat"
+    }
+  },
+  {
+    "ts": 1779138850620,
+    "type": "dex_load",
+    "data": {
+      "dex": "/data/user/0/com.twenty_four_option_app/app_dex/AppRight.zip"
+    }
+  },
+  {
+    "ts": 1779138850621,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/app_dex/AppRight.zip"
+    }
+  },
+  {
+    "ts": 1779138850621,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/app_dex/AppRight.zip"
+    }
+  },
+  {
+    "ts": 1779138850627,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779138850628,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779138850629,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/app_dex/AppRight.zip"
+    }
+  },
+  {
+    "ts": 1779138850633,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/checkAppVersion"
+    }
+  },
+  {
+    "ts": 1779138850634,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/checkAppVersion"
+    }
+  },
+  {
+    "ts": 1779138850634,
+    "type": "shared_pref",
+    "data": {
+      "key": "openPositionsOpenPriceMap"
+    }
+  },
+  {
+    "ts": 1779138850634,
+    "type": "shared_pref",
+    "data": {
+      "key": "openPositionsOpenPriceMap"
+    }
+  },
+  {
+    "ts": 1779138850635,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/settings/public/system"
+    }
+  },
+  {
+    "ts": 1779138850636,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/checkAppVersion"
+    }
+  },
+  {
+    "ts": 1779138850636,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/settings/public/system"
+    }
+  },
+  {
+    "ts": 1779138850637,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/checkAppVersion"
+    }
+  },
+  {
+    "ts": 1779138850639,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/settings/public/system"
+    }
+  },
+  {
+    "ts": 1779138850651,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/no_backup/appsee"
+    }
+  },
+  {
+    "ts": 1779138850652,
+    "type": "shared_pref",
+    "data": {
+      "key": "Appsee_ClientId"
+    }
+  },
+  {
+    "ts": 1779138850661,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/refreshService.json"
+    }
+  },
+  {
+    "ts": 1779138850662,
+    "type": "shared_pref",
+    "data": {
+      "key": "Appsee_OfflineSessions"
+    }
+  },
+  {
+    "ts": 1779138850662,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/settings/public/system"
+    }
+  },
+  {
+    "ts": 1779138850663,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138850664,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138850677,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/checkAppVersion"
+    }
+  },
+  {
+    "ts": 1779138850680,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/settings/public/system"
+    }
+  },
+  {
+    "ts": 1779138850701,
+    "type": "shared_pref",
+    "data": {
+      "key": "appName"
+    }
+  },
+  {
+    "ts": 1779138850702,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779138850702,
+    "type": "shared_pref",
+    "data": {
+      "key": "appBuild"
+    }
+  },
+  {
+    "ts": 1779138850703,
+    "type": "shared_pref",
+    "data": {
+      "key": "packageId"
+    }
+  },
+  {
+    "ts": 1779138850703,
+    "type": "shared_pref",
+    "data": {
+      "key": "agentName"
+    }
+  },
+  {
+    "ts": 1779138850703,
+    "type": "shared_pref",
+    "data": {
+      "key": "agentVersion"
+    }
+  },
+  {
+    "ts": 1779138850704,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceArchitecture"
+    }
+  },
+  {
+    "ts": 1779138850704,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceId"
+    }
+  },
+  {
+    "ts": 1779138850704,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceModel"
+    }
+  },
+  {
+    "ts": 1779138850705,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceManufacturer"
+    }
+  },
+  {
+    "ts": 1779138850705,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceRunTime"
+    }
+  },
+  {
+    "ts": 1779138850706,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceSize"
+    }
+  },
+  {
+    "ts": 1779138850708,
+    "type": "shared_pref",
+    "data": {
+      "key": "osName"
+    }
+  },
+  {
+    "ts": 1779138850709,
+    "type": "shared_pref",
+    "data": {
+      "key": "osBuild"
+    }
+  },
+  {
+    "ts": 1779138850709,
+    "type": "shared_pref",
+    "data": {
+      "key": "osVersion"
+    }
+  },
+  {
+    "ts": 1779138850713,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138850715,
+    "type": "url_access",
+    "data": {
+      "url": "https://0be82ad45d7a45d66c3d637983f8dba2.api.appsee.com/config"
+    }
+  },
+  {
+    "ts": 1779138850724,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779138850725,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779138850728,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/FLURRY_SHARED_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850730,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779138850730,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779138850731,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/google_conversion.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138850732,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/no_backup/appsee"
+    }
+  },
+  {
+    "ts": 1779138850732,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/no_backup/appsee"
+    }
+  },
+  {
+    "ts": 1779138850735,
+    "type": "url_access",
+    "data": {
+      "url": "https://0be82ad45d7a45d66c3d637983f8dba2.api.appsee.com/config"
+    }
+  },
+  {
+    "ts": 1779138850735,
+    "type": "url_access",
+    "data": {
+      "url": "https://0be82ad45d7a45d66c3d637983f8dba2.api.appsee.com/config"
+    }
+  },
+  {
+    "ts": 1779138850744,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138850744,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138850744,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/AppRight/logs/com.twenty_four_option_app"
+    }
+  },
+  {
+    "ts": 1779138850745,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/files/last_received_settings"
+    }
+  },
+  {
+    "ts": 1779138850748,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.twenty_four_option_app/databases"
+    }
+  },
+  {
+    "ts": 1779138850749,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.twenty_four_option_app/databases/dwevents.db"
+    }
+  },
+  {
+    "ts": 1779138850750,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138850752,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138850754,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v3/androidevent?buildnumber=3.0&app_id=com.twenty_four_option_app"
+    }
+  },
+  {
+    "ts": 1779138850759,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v3/androidevent?buildnumber=3.0&app_id=com.twenty_four_option_app"
+    }
+  },
+  {
+    "ts": 1779138850762,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v3/androidevent"
+    }
+  },
+  {
+    "ts": 1779138850769,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.twenty_four_option_app/databases/dwkeyval.db"
+    }
+  },
+  {
+    "ts": 1779138850786,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googleadservices.com/pagead/conversion/986721251/?bundleid=com.twenty_four_option_app&appversion=2.861&osversion=11&sdkversion=ct-sdk-a-v2.2.1&gms=1&lat=0&timestamp=1779142.450&auto=1&usage_tracking_enabled=1&rdid=29471ce5-214d-4137-ac6b-0e0e9fd03b28"
+    }
+  },
+  {
+    "ts": 1779138850786,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googleadservices.com/pagead/conversion/986721251/"
+    }
+  },
+  {
+    "ts": 1779138850791,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/files/rand_no_file"
+    }
+  },
+  {
+    "ts": 1779138850792,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/files/last_received_settings"
+    }
+  },
+  {
+    "ts": 1779138850792,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/files"
+    }
+  },
+  {
+    "ts": 1779138850793,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/files/last_received_settings"
+    }
+  },
+  {
+    "ts": 1779138850794,
+    "type": "url_access",
+    "data": {
+      "url": "https://prod-incoming.gryphonet.com/agent_settings/settings_for_account_and_app"
+    }
+  },
+  {
+    "ts": 1779138850797,
+    "type": "shared_pref",
+    "data": {
+      "key": "appright_db_key"
+    }
+  },
+  {
+    "ts": 1779138850830,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779138850845,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib/arm"
+    }
+  },
+  {
+    "ts": 1779138850845,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib/libhoudini.so"
+    }
+  },
+  {
+    "ts": 1779138850849,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779138850851,
+    "type": "url_access",
+    "data": {
+      "url": "https://prod-incoming.gryphonet.com/account_api/add_app"
+    }
+  },
+  {
+    "ts": 1779138850857,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib/arm"
+    }
+  },
+  {
+    "ts": 1779138850858,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib/libhoudini.so"
+    }
+  },
+  {
+    "ts": 1779138850868,
+    "type": "runtime_exec",
+    "data": {
+      "command": "getprop ro.modversion"
+    }
+  },
+  {
+    "ts": 1779138850877,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779138850882,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779138850887,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/files/libinterception.so"
+    }
+  },
+  {
+    "ts": 1779138850894,
+    "type": "runtime_exec",
+    "data": {
+      "command": "getprop ro.build.version.release"
+    }
+  },
+  {
+    "ts": 1779138850900,
+    "type": "shared_pref",
+    "data": {
+      "key": "blacklisted_attributes"
+    }
+  },
+  {
+    "ts": 1779138850902,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v3/androidevent"
+    }
+  },
+  {
+    "ts": 1779138850903,
+    "type": "shared_pref",
+    "data": {
+      "key": "blacklisted_events"
+    }
+  },
+  {
+    "ts": 1779138850903,
+    "type": "shared_pref",
+    "data": {
+      "key": "blacklisted_purchases"
+    }
+  },
+  {
+    "ts": 1779138850906,
+    "type": "runtime_exec",
+    "data": {
+      "command": "getprop ro.build.version.incremental"
+    }
+  },
+  {
+    "ts": 1779138850910,
+    "type": "file_access",
+    "data": {
+      "path": "/sbin/su"
+    }
+  },
+  {
+    "ts": 1779138850910,
+    "type": "file_access",
+    "data": {
+      "path": "/system/bin/su"
+    }
+  },
+  {
+    "ts": 1779138850911,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779138850911,
+    "type": "runtime_exec",
+    "data": {
+      "command": "getprop gsm.version.baseband"
+    }
+  },
+  {
+    "ts": 1779138850913,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779138850917,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779138851012,
+    "type": "shared_pref",
+    "data": {
+      "key": "brand"
+    }
+  },
+  {
+    "ts": 1779138851012,
+    "type": "shared_pref",
+    "data": {
+      "key": "brand"
+    }
+  },
+  {
+    "ts": 1779138851012,
+    "type": "shared_pref",
+    "data": {
+      "key": "techInitDto"
+    }
+  },
+  {
+    "ts": 1779138851026,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779138851030,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/324339337716324"
+    }
+  },
+  {
+    "ts": 1779138851032,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/324339337716324"
+    }
+  },
+  {
+    "ts": 1779138851033,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googleadservices.com/pagead/conversion/986721251/"
+    }
+  },
+  {
+    "ts": 1779138851071,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/refreshService.json"
+    }
+  },
+  {
+    "ts": 1779138851071,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/refreshService.json"
+    }
+  },
+  {
+    "ts": 1779138851071,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/refreshService.json"
+    }
+  },
+  {
+    "ts": 1779138851074,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json?lang=en"
+    }
+  },
+  {
+    "ts": 1779138851075,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json?lang=en"
+    }
+  },
+  {
+    "ts": 1779138851075,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138851075,
+    "type": "shared_pref",
+    "data": {
+      "key": "brand"
+    }
+  },
+  {
+    "ts": 1779138851076,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779138851076,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779138851079,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138851080,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/refreshService.json"
+    }
+  },
+  {
+    "ts": 1779138851095,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779138851099,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.twenty_four_option_app.activities.NotLoggedInActivity"
+    }
+  },
+  {
+    "ts": 1779138851104,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779138851104,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779138851121,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779138851124,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138851125,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/public/ABToken"
+    }
+  },
+  {
+    "ts": 1779138851126,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/public/ABToken"
+    }
+  },
+  {
+    "ts": 1779138851127,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/public/ABToken"
+    }
+  },
+  {
+    "ts": 1779138851128,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/public/ABToken"
+    }
+  },
+  {
+    "ts": 1779138851130,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/public/ABToken"
+    }
+  },
+  {
+    "ts": 1779138851132,
+    "type": "url_access",
+    "data": {
+      "url": "https://0be82ad45d7a45d66c3d637983f8dba2.api.appsee.com/config"
+    }
+  },
+  {
+    "ts": 1779138851134,
+    "type": "shared_pref",
+    "data": {
+      "key": "Appsee_OfflineSessions"
+    }
+  },
+  {
+    "ts": 1779138851150,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779138851150,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779138851151,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779138851155,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779138851265,
+    "type": "shared_pref",
+    "data": {
+      "key": "wizardSegment"
+    }
+  },
+  {
+    "ts": 1779138851266,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrerModel"
+    }
+  },
+  {
+    "ts": 1779138851266,
+    "type": "shared_pref",
+    "data": {
+      "key": "DeviceId"
+    }
+  },
+  {
+    "ts": 1779138851266,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138851267,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/abTests/public/abTest/android/Wizard/en/A/5dce8dc65780785b/"
+    }
+  },
+  {
+    "ts": 1779138851268,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/abTests/public/abTest/android/Wizard/en/A/5dce8dc65780785b/"
+    }
+  },
+  {
+    "ts": 1779138851269,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/abTests/public/abTest/android/Wizard/en/A/5dce8dc65780785b/"
+    }
+  },
+  {
+    "ts": 1779138851269,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138851272,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/abTests/public/abTest/android/Wizard/en/A/5dce8dc65780785b/"
+    }
+  },
+  {
+    "ts": 1779138851273,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/abTests/public/abTest/android/Wizard/en/A/5dce8dc65780785b/"
+    }
+  },
+  {
+    "ts": 1779138851274,
+    "type": "shared_pref",
+    "data": {
+      "key": "1003387266355042json"
+    }
+  },
+  {
+    "ts": 1779138851275,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779138851280,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779138851280,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779138851280,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779138851280,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779138851284,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138851284,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138851287,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v3/androidevent?buildnumber=3.0&app_id=com.twenty_four_option_app"
+    }
+  },
+  {
+    "ts": 1779138851287,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138851288,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138851292,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v3/androidevent?buildnumber=3.0&app_id=com.twenty_four_option_app"
+    }
+  },
+  {
+    "ts": 1779138851293,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v3/androidevent"
+    }
+  },
+  {
+    "ts": 1779138851293,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138851293,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138851294,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779138851295,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138851295,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138851296,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138851297,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138851298,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138851298,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138851300,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779138851303,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/1003387266355042/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138851303,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/1003387266355042/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138851304,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/1003387266355042/activities"
+    }
+  },
+  {
+    "ts": 1779138851313,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/1003387266355042/activities"
+    }
+  },
+  {
+    "ts": 1779138851356,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138851356,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138851358,
+    "type": "shared_pref",
+    "data": {
+      "key": "requestCode"
+    }
+  },
+  {
+    "ts": 1779138851358,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779138851493,
+    "type": "shared_pref",
+    "data": {
+      "key": "Username"
+    }
+  },
+  {
+    "ts": 1779138851613,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/refreshService.json"
+    }
+  },
+  {
+    "ts": 1779138851613,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138851613,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/checkAppVersion"
+    }
+  },
+  {
+    "ts": 1779138851613,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/settings/public/system"
+    }
+  },
+  {
+    "ts": 1779138851614,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779138851614,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v3/androidevent"
+    }
+  },
+  {
+    "ts": 1779138851624,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/324339337716324"
+    }
+  },
+  {
+    "ts": 1779138851625,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googleadservices.com/pagead/conversion/986721251/"
+    }
+  },
+  {
+    "ts": 1779138851625,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138851626,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/refreshService.json"
+    }
+  },
+  {
+    "ts": 1779138851627,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/public/ABToken"
+    }
+  },
+  {
+    "ts": 1779138851627,
+    "type": "url_access",
+    "data": {
+      "url": "https://0be82ad45d7a45d66c3d637983f8dba2.api.appsee.com/config"
+    }
+  },
+  {
+    "ts": 1779138851627,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779138851628,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/abTests/public/abTest/android/Wizard/en/A/5dce8dc65780785b/"
+    }
+  },
+  {
+    "ts": 1779138851628,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/1003387266355042/activities"
+    }
+  },
+  {
+    "ts": 1779138852128,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v3/androidevent"
+    }
+  },
+  {
+    "ts": 1779138852542,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779138852556,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.appsflyer.com/install_data/v3/com.twenty_four_option_app?devkey=BoMPMFGTcrmmwXHxLQWbGT&device_id=1779138847867-5127694717132199515"
+    }
+  },
+  {
+    "ts": 1779138852558,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.appsflyer.com/install_data/v3/com.twenty_four_option_app?devkey=BoMPMFGTcrmmwXHxLQWbGT&device_id=1779138847867-5127694717132199515"
+    }
+  },
+  {
+    "ts": 1779138852558,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.appsflyer.com/install_data/v3/com.twenty_four_option_app"
+    }
+  },
+  {
+    "ts": 1779138852613,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v3/androidevent"
+    }
+  },
+  {
+    "ts": 1779138854012,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138854013,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrerModel"
+    }
+  },
+  {
+    "ts": 1779138854016,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138854017,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/logs/public/clientLog"
+    }
+  },
+  {
+    "ts": 1779138854018,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/getCookie?oftc=296163&param3=1779138847867-5127694717132199515&uuid=5dce8dc65780785b&param4=Android&af_status=Undefined&"
+    }
+  },
+  {
+    "ts": 1779138854018,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138854018,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/logs/public/clientLog"
+    }
+  },
+  {
+    "ts": 1779138854019,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/logs/public/clientLog"
+    }
+  },
+  {
+    "ts": 1779138854019,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/getCookie?oftc=296163&param3=1779138847867-5127694717132199515&uuid=5dce8dc65780785b&param4=Android&af_status=Undefined&"
+    }
+  },
+  {
+    "ts": 1779138854020,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.appsflyer.com/install_data/v3/com.twenty_four_option_app"
+    }
+  },
+  {
+    "ts": 1779138854021,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/logs/public/clientLog"
+    }
+  },
+  {
+    "ts": 1779138854021,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/getCookie"
+    }
+  },
+  {
+    "ts": 1779138854024,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/logs/public/clientLog"
+    }
+  },
+  {
+    "ts": 1779138854028,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/logs/public/clientLog"
+    }
+  },
+  {
+    "ts": 1779138854028,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/logs/public/clientLog"
+    }
+  },
+  {
+    "ts": 1779138854029,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/logs/public/clientLog"
+    }
+  },
+  {
+    "ts": 1779138854029,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.appsflyer.com/install_data/v3/com.twenty_four_option_app"
+    }
+  },
+  {
+    "ts": 1779138854031,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/getCookie"
+    }
+  },
+  {
+    "ts": 1779138854035,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/logs/public/clientLog"
+    }
+  },
+  {
+    "ts": 1779138854041,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/logs/public/clientLog"
+    }
+  },
+  {
+    "ts": 1779138854613,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.appsflyer.com/install_data/v3/com.twenty_four_option_app"
+    }
+  },
+  {
+    "ts": 1779138854614,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/logs/public/clientLog"
+    }
+  },
+  {
+    "ts": 1779138854615,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/getCookie"
+    }
+  },
+  {
+    "ts": 1779138854615,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/logs/public/clientLog"
+    }
+  },
+  {
+    "ts": 1779138856272,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json?lang=en"
+    }
+  },
+  {
+    "ts": 1779138856273,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json?lang=en"
+    }
+  },
+  {
+    "ts": 1779138856274,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138856276,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138856613,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138859286,
+    "type": "shared_pref",
+    "data": {
+      "key": "brand"
+    }
+  },
+  {
+    "ts": 1779138859290,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138859290,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138859290,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138859293,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138859294,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138859612,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138860876,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.twenty_four_option_app/files"
+    }
+  },
+  {
+    "ts": 1779138861281,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json?lang=en"
+    }
+  },
+  {
+    "ts": 1779138861283,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json?lang=en"
+    }
+  },
+  {
+    "ts": 1779138861284,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138861286,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138861613,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138864293,
+    "type": "shared_pref",
+    "data": {
+      "key": "brand"
+    }
+  },
+  {
+    "ts": 1779138864300,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138864301,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138864301,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138864302,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138864304,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138864612,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138865185,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/1003387266355042?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138865187,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/1003387266355042?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138865188,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/1003387266355042"
+    }
+  },
+  {
+    "ts": 1779138865452,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/1003387266355042"
+    }
+  },
+  {
+    "ts": 1779138865455,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/1003387266355042/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138865456,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/1003387266355042/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138865456,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/1003387266355042/activities"
+    }
+  },
+  {
+    "ts": 1779138865463,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/1003387266355042/activities"
+    }
+  },
+  {
+    "ts": 1779138865613,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/1003387266355042"
+    }
+  },
+  {
+    "ts": 1779138865614,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/1003387266355042/activities"
+    }
+  },
+  {
+    "ts": 1779138866291,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json?lang=en"
+    }
+  },
+  {
+    "ts": 1779138866293,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json?lang=en"
+    }
+  },
+  {
+    "ts": 1779138866293,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138866297,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138866613,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138869303,
+    "type": "shared_pref",
+    "data": {
+      "key": "brand"
+    }
+  },
+  {
+    "ts": 1779138869307,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138869308,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138869309,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138869311,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138869314,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138869614,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138871305,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json?lang=en"
+    }
+  },
+  {
+    "ts": 1779138871306,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json?lang=en"
+    }
+  },
+  {
+    "ts": 1779138871307,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138871309,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138871612,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138874315,
+    "type": "shared_pref",
+    "data": {
+      "key": "brand"
+    }
+  },
+  {
+    "ts": 1779138874317,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138874318,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138874319,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138874320,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138874322,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138874612,
+    "type": "url_access",
+    "data": {
+      "url": "http://prod.24optionmobile.com/users/getUserStatus"
+    }
+  },
+  {
+    "ts": 1779138876313,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json?lang=en"
+    }
+  },
+  {
+    "ts": 1779138876314,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json?lang=en"
+    }
+  },
+  {
+    "ts": 1779138876315,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138876320,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  },
+  {
+    "ts": 1779138876612,
+    "type": "url_access",
+    "data": {
+      "url": "https://trade.24option.com/24option/pages/lutService.json"
+    }
+  }
+]

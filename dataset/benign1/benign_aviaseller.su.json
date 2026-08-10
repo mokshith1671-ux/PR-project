@@ -1,0 +1,569 @@
+[
+  {
+    "ts": 1779131395028,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_INFO"
+    }
+  },
+  {
+    "ts": 1779131395039,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aviaseller.su/shared_prefs/aviaseller.su_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131395044,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aviaseller.su/shared_prefs/aviaseller.su.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131395046,
+    "type": "shared_pref",
+    "data": {
+      "key": "TAG_MARKER"
+    }
+  },
+  {
+    "ts": 1779131395047,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~ugvEnFIF3XivT6nbHHNp0w==/aviaseller.su-hNYJsMT6Owp4WU049qBpwA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779131395055,
+    "type": "url_access",
+    "data": {
+      "url": "http://nano.aviasales.ru/mobile_app_installations.json"
+    }
+  },
+  {
+    "ts": 1779131395060,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aviaseller.su/shared_prefs/com.crashlytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131395061,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779131395063,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aviaseller.su/files/.TwitterSdk/v/com.crashlytics.sdk.android/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779131395065,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779131395068,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779131395068,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/ECB/PKCS7Padding"
+    }
+  },
+  {
+    "ts": 1779131395071,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131395071,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aviaseller.su/files/.TwitterSdk/v/com.crashlytics.sdk.android/6A0B6403003C-0001-6DE1-341E3C8863FDBeginSession.cls_temp"
+    }
+  },
+  {
+    "ts": 1779131395072,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aviaseller.su/files/.TwitterSdk/v/com.crashlytics.sdk.android/6A0B6403003C-0001-6DE1-341E3C8863FDBeginSession.cls"
+    }
+  },
+  {
+    "ts": 1779131395073,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779131395073,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aviaseller.su/files/.TwitterSdk/v/com.crashlytics.sdk.android/6A0B6403003C-0001-6DE1-341E3C8863FDSessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1779131395074,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779131395074,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131395076,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aviaseller.su/files/.TwitterSdk/v/com.crashlytics.sdk.android/6A0B6403003C-0001-6DE1-341E3C8863FDSessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779131395077,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/aviaseller.su/settings?instance=801ecf545165459ed57104f7836ea5b1266117a5&build_version=21&display_version=2.1&source=1&icon_hash=3f2069c3f2bacbf95f28f3750e4987d441134fc2"
+    }
+  },
+  {
+    "ts": 1779131395078,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aviaseller.su/shared_prefs/com.crashlytics.android.internal.D.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131395079,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aviaseller.su/files/.TwitterSdk/v/com.crashlytics.sdk.android/6A0B6403003C-0001-6DE1-341E3C8863FDSessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779131395080,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131395081,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/aviaseller.su/settings?instance=801ecf545165459ed57104f7836ea5b1266117a5&build_version=21&display_version=2.1&source=1&icon_hash=3f2069c3f2bacbf95f28f3750e4987d441134fc2"
+    }
+  },
+  {
+    "ts": 1779131395082,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779131395082,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779131395083,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aviaseller.su/files/.TwitterSdk/v/com.crashlytics.sdk.android/6A0B6403003C-0001-6DE1-341E3C8863FDSessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779131395084,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aviaseller.su/files/.TwitterSdk/v/com.crashlytics.sdk.android/6A0B6403003C-0001-6DE1-341E3C8863FDSessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779131395086,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779131395088,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aviaseller.su/shared_prefs/ru.aviasales.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131395091,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131395092,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131395093,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131395094,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131395096,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131395096,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779131395097,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779131395097,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aviaseller.su/files/.TwitterSdk/v/com.crashlytics.sdk.android/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779131395098,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aviaseller.su/files/.TwitterSdk/v/com.crashlytics.sdk.android/6A0B6403003C-0001-6DE1-341E3C8863FDSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779131395101,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131395101,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131395101,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131395101,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131395102,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131395102,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131395102,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131395102,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131395104,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131395104,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131395104,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131395104,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131395105,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131395105,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131395105,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131395105,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131395165,
+    "type": "activity_resume",
+    "data": {
+      "activity": "aviaseller.su.MainActivity"
+    }
+  },
+  {
+    "ts": 1779131395165,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICEID"
+    }
+  },
+  {
+    "ts": 1779131395165,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICEID_2"
+    }
+  },
+  {
+    "ts": 1779131395166,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICEID"
+    }
+  },
+  {
+    "ts": 1779131395166,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICEID_2"
+    }
+  },
+  {
+    "ts": 1779131395172,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_INFO"
+    }
+  },
+  {
+    "ts": 1779131395176,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_INFO"
+    }
+  },
+  {
+    "ts": 1779131395493,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/aviaseller.su/settings?instance=801ecf545165459ed57104f7836ea5b1266117a5&build_version=21&display_version=2.1&source=1&icon_hash=3f2069c3f2bacbf95f28f3750e4987d441134fc2"
+    }
+  },
+  {
+    "ts": 1779131395494,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/aviaseller.su/settings?instance=801ecf545165459ed57104f7836ea5b1266117a5&build_version=21&display_version=2.1&source=1&icon_hash=3f2069c3f2bacbf95f28f3750e4987d441134fc2"
+    }
+  },
+  {
+    "ts": 1779131396523,
+    "type": "shared_pref",
+    "data": {
+      "key": "TAG_MARKER"
+    }
+  },
+  {
+    "ts": 1779131396523,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779131396524,
+    "type": "shared_pref",
+    "data": {
+      "key": "TAG_MARKER"
+    }
+  },
+  {
+    "ts": 1779131396526,
+    "type": "shared_pref",
+    "data": {
+      "key": "TAG_MARKER"
+    }
+  },
+  {
+    "ts": 1779131400169,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICEID"
+    }
+  },
+  {
+    "ts": 1779131400169,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICEID_2"
+    }
+  },
+  {
+    "ts": 1779131400174,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_INFO"
+    }
+  },
+  {
+    "ts": 1779131405171,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICEID"
+    }
+  },
+  {
+    "ts": 1779131405172,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICEID_2"
+    }
+  },
+  {
+    "ts": 1779131405178,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_INFO"
+    }
+  },
+  {
+    "ts": 1779131410175,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICEID"
+    }
+  },
+  {
+    "ts": 1779131410175,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICEID_2"
+    }
+  },
+  {
+    "ts": 1779131410181,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_INFO"
+    }
+  },
+  {
+    "ts": 1779131415178,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICEID"
+    }
+  },
+  {
+    "ts": 1779131415178,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICEID_2"
+    }
+  },
+  {
+    "ts": 1779131415183,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_INFO"
+    }
+  }
+]

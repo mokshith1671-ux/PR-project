@@ -1,0 +1,310 @@
+[
+  {
+    "ts": 1779637867821,
+    "type": "url_access",
+    "data": {
+      "url": "https://awmobile.active.com/iap?action=getSubscriptionProducts&appName=MEETMOBILE&market=GOOGLE"
+    }
+  },
+  {
+    "ts": 1779637867858,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.active.aps.meetmobile/shared_prefs/PREFERENCE_SUBSCRIPTION.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637867866,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.active.aps.meetmobile/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637867917,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.active.aps.meetmobile/shared_prefs/gcm_pref.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637867917,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779637867930,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.active.aps.meetmobile.activities.MainActivity"
+    }
+  },
+  {
+    "ts": 1779637867995,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637868000,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779637868002,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.active.aps.meetmobile/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637868003,
+    "type": "shared_pref",
+    "data": {
+      "key": "757205071038346json"
+    }
+  },
+  {
+    "ts": 1779637868037,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637868038,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637868040,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637868040,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637868042,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637868042,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637868042,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637868042,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637868044,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637868044,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637868044,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637868045,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637868046,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637868046,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637868046,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637868046,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637868047,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637868047,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637868047,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637868047,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637868049,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637868049,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637868050,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637868050,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637868052,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779637868054,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/757205071038346/activities?format=json&locale=en_US&sdk=android&debug=info"
+    }
+  },
+  {
+    "ts": 1779637868061,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_last_visited_meets"
+    }
+  },
+  {
+    "ts": 1779637870946,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637870951,
+    "type": "url_access",
+    "data": {
+      "url": "https://awmobile.active.com/meet?apiVersion=201&action=getMeetsNearby&latitude=37.421998333333335&longitude=-122.084"
+    }
+  },
+  {
+    "ts": 1779637874243,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637874245,
+    "type": "url_access",
+    "data": {
+      "url": "https://awmobile.active.com/meet?apiVersion=201&action=getMeetsBySwimmerIds&swimmerIds="
+    }
+  },
+  {
+    "ts": 1779637876217,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_last_visited_meets"
+    }
+  },
+  {
+    "ts": 1779637878102,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.active.aps.meetmobile/shared_prefs/activities.MainActivity.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637882866,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/757205071038346?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories&format=json&locale=en_US&sdk=android&debug=info"
+    }
+  }
+]

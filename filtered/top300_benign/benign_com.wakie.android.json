@@ -1,0 +1,695 @@
+[
+  {
+    "ts": 1779139907082,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wakie.android/shared_prefs/mat_id.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139907101,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/NoPadding"
+    }
+  },
+  {
+    "ts": 1779139907107,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wakie.android/shared_prefs/mat_queue.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139907124,
+    "type": "shared_pref",
+    "data": {
+      "key": "status"
+    }
+  },
+  {
+    "ts": 1779139907198,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth-token-key"
+    }
+  },
+  {
+    "ts": 1779139907199,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779139907202,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_uri"
+    }
+  },
+  {
+    "ts": 1779139907203,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779139907205,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_identifier"
+    }
+  },
+  {
+    "ts": 1779139907205,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_link"
+    }
+  },
+  {
+    "ts": 1779139907207,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_push_identifier"
+    }
+  },
+  {
+    "ts": 1779139907207,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_uri"
+    }
+  },
+  {
+    "ts": 1779139907207,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_extra"
+    }
+  },
+  {
+    "ts": 1779139907209,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_version"
+    }
+  },
+  {
+    "ts": 1779139907212,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139907216,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wakie.android/shared_prefs/mat_log_id_install.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139907217,
+    "type": "shared_pref",
+    "data": {
+      "key": "logId"
+    }
+  },
+  {
+    "ts": 1779139907218,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wakie.android/shared_prefs/mat_referrer.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139907219,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779139907220,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wakie.android/shared_prefs/mat_is_paying_user.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139907220,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_is_paying_user"
+    }
+  },
+  {
+    "ts": 1779139907221,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wakie.android/shared_prefs/mat_log_id_last_open.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139907222,
+    "type": "shared_pref",
+    "data": {
+      "key": "logId"
+    }
+  },
+  {
+    "ts": 1779139907224,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_id"
+    }
+  },
+  {
+    "ts": 1779139907224,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wakie.android/shared_prefs/mat_log_id_open.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139907226,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.wakie.android.legacy.ui.StartActivity"
+    }
+  },
+  {
+    "ts": 1779139907226,
+    "type": "shared_pref",
+    "data": {
+      "key": "logId"
+    }
+  },
+  {
+    "ts": 1779139907227,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wakie.android/shared_prefs/mat_log_id_update.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139907228,
+    "type": "shared_pref",
+    "data": {
+      "key": "logId"
+    }
+  },
+  {
+    "ts": 1779139907229,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wakie.android/shared_prefs/mat_user_ids.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139907230,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_email"
+    }
+  },
+  {
+    "ts": 1779139907231,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_id"
+    }
+  },
+  {
+    "ts": 1779139907231,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_name"
+    }
+  },
+  {
+    "ts": 1779139907239,
+    "type": "shared_pref",
+    "data": {
+      "key": "1"
+    }
+  },
+  {
+    "ts": 1779139907244,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779139907244,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779139907245,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779139907249,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779139907249,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779139907251,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779139907251,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779139907251,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779139907252,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779139907252,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779139907252,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779139907255,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779139907255,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779139907257,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779139907257,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779139907257,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779139907258,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779139907258,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779139907258,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779139907259,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779139907259,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779139907260,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779139907260,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779139907260,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779139907275,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779139907278,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779139907279,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779139907279,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779139907279,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779139907282,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wakie.android/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139907290,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779139907332,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779139907371,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wakie.android/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139907436,
+    "type": "shared_pref",
+    "data": {
+      "key": "device-id"
+    }
+  },
+  {
+    "ts": 1779139907437,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139907441,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth-token-key"
+    }
+  },
+  {
+    "ts": 1779139907489,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779139907492,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139907493,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139907493,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779139907494,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779139907494,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779139907498,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139907501,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wakie.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B85430000-0001-5972-5BBD60477421SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779139907501,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wakie.android/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139907506,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.604956889593122"
+    }
+  },
+  {
+    "ts": 1779139907507,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wakie.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779139907508,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wakie.android/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139907508,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779139907509,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wakie.android/shared_prefs/com.facebook.SharedPreferencesTokenCachingStrategy.DEFAULT_KEY.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139907510,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.wakie.android/settings?instance=623b4ed529a93274785208da9d4cfa94c6df37f2&build_version=62&display_version=3.5.9&source=1&icon_hash=83b36ea5288b65121d8a77e237d1d50859e2764d"
+    }
+  },
+  {
+    "ts": 1779139907512,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.wakie.android/settings?instance=623b4ed529a93274785208da9d4cfa94c6df37f2&build_version=62&display_version=3.5.9&source=1&icon_hash=83b36ea5288b65121d8a77e237d1d50859e2764d"
+    }
+  },
+  {
+    "ts": 1779139907528,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.wakie.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779139907578,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.wakie.android.legacy.ui.invite.FirstStartActivity"
+    }
+  },
+  {
+    "ts": 1779139907586,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth-token-key"
+    }
+  },
+  {
+    "ts": 1779139907592,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779139907592,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/install"
+    }
+  },
+  {
+    "ts": 1779139908529,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779139908532,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779139908534,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779139908535,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779139908883,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779139909149,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.2/604956889593122?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779139909161,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779139909175,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_params"
+    }
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "ts": 1779646123620,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buzzfeed.android/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779646123783,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779646123787,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779646123787,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779646123799,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779646123799,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779646123801,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buzzfeed.android/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646123825,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779646123954,
+    "type": "shared_pref",
+    "data": {
+      "key": "country_select"
+    }
+  },
+  {
+    "ts": 1779646123956,
+    "type": "shared_pref",
+    "data": {
+      "key": "country_select"
+    }
+  },
+  {
+    "ts": 1779646123980,
+    "type": "url_access",
+    "data": {
+      "url": "https://webappstatic.buzzfeed.com/static/mobile/js/feed.js?country=us"
+    }
+  },
+  {
+    "ts": 1779646124015,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646124015,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646124015,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646124015,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646124017,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646124018,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646124018,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646124018,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646124021,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646124021,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646124022,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646124022,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646124022,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/buzzfeed/.files/"
+    }
+  },
+  {
+    "ts": 1779646124024,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/buzzfeed/.files/"
+    }
+  },
+  {
+    "ts": 1779646124054,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/buzzfeed/.files/bfCache"
+    }
+  },
+  {
+    "ts": 1779646124056,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646124056,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646124056,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646124056,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646124057,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646124057,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646124057,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646124057,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646124061,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646124061,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646124061,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646124061,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646124061,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/buzzfeed/.files/"
+    }
+  },
+  {
+    "ts": 1779646124061,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/buzzfeed/.files/"
+    }
+  },
+  {
+    "ts": 1779646124069,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/buzzfeed/.files/bfBuzz"
+    }
+  },
+  {
+    "ts": 1779646124095,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.buzzfeed.android.activity.BuffetActivity"
+    }
+  },
+  {
+    "ts": 1779646124119,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buzzfeed.android/shared_prefs/com.quantcast.measurement.service.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646124126,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.3/45075597673?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779646124203,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779646124203,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779646124257,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779646124266,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779646124269,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779646124269,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779646124379,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646124383,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646124383,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646124384,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646124387,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buzzfeed.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779646124393,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buzzfeed.android/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646124394,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646124394,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779646124394,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779646124410,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buzzfeed.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A133EAB01C5-0001-299D-7EFE25E851C0SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779646124415,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buzzfeed.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-6A133EAB01C5-0001-299D-7EFE25E851C0.temp.tmp"
+    }
+  },
+  {
+    "ts": 1779646124427,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779646124437,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.buzzfeed.android/settings?instance=6817cb85c41ba17f2ee3967f92102da703717266&build_version=430008&display_version=4.30.0&source=1&icon_hash=e8c0891282261d960fd7ef585f3688af1b635106"
+    }
+  },
+  {
+    "ts": 1779646124440,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.buzzfeed.android/settings?instance=6817cb85c41ba17f2ee3967f92102da703717266&build_version=430008&display_version=4.30.0&source=1&icon_hash=e8c0891282261d960fd7ef585f3688af1b635106"
+    }
+  },
+  {
+    "ts": 1779646124453,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buzzfeed.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779646124532,
+    "type": "shared_pref",
+    "data": {
+      "key": "applicationId"
+    }
+  },
+  {
+    "ts": 1779646124534,
+    "type": "shared_pref",
+    "data": {
+      "key": "applicationId"
+    }
+  },
+  {
+    "ts": 1779646124589,
+    "type": "url_access",
+    "data": {
+      "url": "https://webappstatic.buzzfeed.com/static/mobile/js/bf-android-ab-experiments.json"
+    }
+  },
+  {
+    "ts": 1779646125247,
+    "type": "shared_pref",
+    "data": {
+      "key": "applicationId"
+    }
+  },
+  {
+    "ts": 1779646125247,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buzzfeed.android/shared_prefs/com.buzzfeed.doorbell.user.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646125249,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buzzfeed.android/shared_prefs/com.buzzfeed.doorbell.pound.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646125250,
+    "type": "shared_pref",
+    "data": {
+      "key": "id_key"
+    }
+  },
+  {
+    "ts": 1779646125265,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buzzfeed.android/shared_prefs/com.buzzfeed.dusbuster.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646125267,
+    "type": "shared_pref",
+    "data": {
+      "key": "country_select"
+    }
+  },
+  {
+    "ts": 1779646125268,
+    "type": "shared_pref",
+    "data": {
+      "key": "id_key"
+    }
+  },
+  {
+    "ts": 1779646125279,
+    "type": "shared_pref",
+    "data": {
+      "key": "id_key"
+    }
+  },
+  {
+    "ts": 1779646125287,
+    "type": "shared_pref",
+    "data": {
+      "key": "country_select"
+    }
+  },
+  {
+    "ts": 1779646125290,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.buzzfeed.com/index.mobile3.js?country=us"
+    }
+  },
+  {
+    "ts": 1779646125385,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buzzfeed.android/shared_prefs/com.buzzfeed.dustbuster.savedevents.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646125402,
+    "type": "url_access",
+    "data": {
+      "url": "https://s3-ak.buzzfeed.com/static/badge_images/app_LOL@2x.png"
+    }
+  },
+  {
+    "ts": 1779646125428,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779646125819,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buzzfeed.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A133EAB01C5-0001-299D-7EFE25E851C0SessionEvent0000000000.cls_temp"
+    }
+  },
+  {
+    "ts": 1779646125820,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646125870,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buzzfeed.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A133EAB01C5-0001-299D-7EFE25E851C0SessionEvent0000000000.cls"
+    }
+  },
+  {
+    "ts": 1779646125876,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buzzfeed.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-6A133EAB01C5-0001-299D-7EFE25E851C0.temp.tmp"
+    }
+  },
+  {
+    "ts": 1779646127035,
+    "type": "shared_pref",
+    "data": {
+      "key": "f879471d-7ab3-4923-85ad-11441d8d76c0"
+    }
+  },
+  {
+    "ts": 1779646127036,
+    "type": "shared_pref",
+    "data": {
+      "key": "f207bfb7-bad5-4940-8c3a-47da4e073f21"
+    }
+  },
+  {
+    "ts": 1779646127039,
+    "type": "url_access",
+    "data": {
+      "url": "https://pixiedust.buzzfeed.com/events"
+    }
+  },
+  {
+    "ts": 1779646127398,
+    "type": "shared_pref",
+    "data": {
+      "key": "applicationId"
+    }
+  },
+  {
+    "ts": 1779646132025,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.buzzfeed.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  }
+]

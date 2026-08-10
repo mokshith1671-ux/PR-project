@@ -1,0 +1,975 @@
+[
+  {
+    "ts": 1779138383647,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779138383649,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~tV1deyx97p67pBhSuqzIHg==/com.kayak.android-I-bKUY9waThEpRQNGy-tGw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779138383652,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779138383653,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B7F4F0180-0001-2EDB-B5DB2E90627ASessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779138383665,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/shared_prefs/io.fabric.sdk.android:fabric:io.a.a.a.q.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138383666,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779138383669,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.kayak.android/settings?instance=e0839da6143be378950e87cc3ba866ccd158474d&build_version=1139&display_version=21.2&source=1&icon_hash=b3c1e8cbb4796500dd442c7a93a9842cf68b423b"
+    }
+  },
+  {
+    "ts": 1779138383670,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.kayak.android/settings?instance=e0839da6143be378950e87cc3ba866ccd158474d&build_version=1139&display_version=21.2&source=1&icon_hash=b3c1e8cbb4796500dd442c7a93a9842cf68b423b"
+    }
+  },
+  {
+    "ts": 1779138383677,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~tV1deyx97p67pBhSuqzIHg==/com.kayak.android-I-bKUY9waThEpRQNGy-tGw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779138383785,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=POST, url=https://www.kayak.com/h/mobileanalytics/, tag=null}"
+    }
+  },
+  {
+    "ts": 1779138383785,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/shared_prefs/com.kayak.android.login.NAME_LOGIN.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138383790,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779138383790,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779138383790,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779138383793,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779138383794,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779138383798,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.kayak.android.Splash"
+    }
+  },
+  {
+    "ts": 1779138383800,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779138383800,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779138383801,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779138383801,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779138383801,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779138383801,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779138383803,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779138383803,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779138383803,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/shared_prefs/AppVersionStorage.NAME_APP_VERSION_STORAGE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138383806,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779138383807,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779138383809,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779138383811,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779138383811,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779138383812,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779138383812,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779138383812,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779138383812,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779138383812,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779138383814,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779138383814,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779138383814,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779138383814,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779138383814,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779138383817,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138383820,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779138383822,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138383822,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779138383823,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779138383824,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779138383845,
+    "type": "shared_pref",
+    "data": {
+      "key": "163003079204json"
+    }
+  },
+  {
+    "ts": 1779138383870,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138383871,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138383872,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138383872,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138383873,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138383874,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138383876,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138383876,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138383877,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138383877,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138383878,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138383879,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138383880,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779138383882,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/163003079204/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138383893,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779138383895,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779138383895,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779138383899,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779138383900,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779138383902,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138383919,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779138383998,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.kayak.android.login.KEY_TOKEN"
+    }
+  },
+  {
+    "ts": 1779138383999,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138384002,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/shared_prefs/com.kayak.android.preferences.GCM_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138384003,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.kayak.android.preferences.KEY_GCM_REGISTRATION_TOKEN"
+    }
+  },
+  {
+    "ts": 1779138384015,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=https://www.kayak.com/k/authajax?action=registerandroid&as=0&msgApiVersion=1&platform=Android&udid=658ad5ad30f460cf&shash=1B17884212992123FF83C434849DDA4A396EE7D57A08F840D9ACD12D2A49CAA5&model=sdk_gphone_x86_64&appid=kayakFree&appdist=store&pushtoken=&locale=en_US&tz=Asia%252FCalcutta, tag=null}"
+    }
+  },
+  {
+    "ts": 1779138384457,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138384463,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138384463,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779138384468,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779138384473,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138385756,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.kayak.android.login.KEY_TOKEN"
+    }
+  },
+  {
+    "ts": 1779138385757,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.kayak.android.preferences.KEY_GCM_REGISTRATION_TOKEN"
+    }
+  },
+  {
+    "ts": 1779138385758,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B7F4F0180-0001-2EDB-B5DB2E90627ASessionEvent0000000000.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138385761,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138385763,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=https://www.kayak.com/k/authajax?action=registerandroid&as=0&msgApiVersion=1&platform=Android&udid=658ad5ad30f460cf&shash=1B17884212992123FF83C434849DDA4A396EE7D57A08F840D9ACD12D2A49CAA5&model=sdk_gphone_x86_64&appid=kayakFree&appdist=store&pushtoken=&locale=en_US&tz=Asia%252FCalcutta, tag=null}"
+    }
+  },
+  {
+    "ts": 1779138385768,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B7F4F0180-0001-2EDB-B5DB2E90627ASessionEvent0000000000.cls"
+    }
+  },
+  {
+    "ts": 1779138385791,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B7F4F0180-0001-2EDB-B5DB2E90627ASessionEvent0000000001.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138385794,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=https://www.kayak.com/a/api/mobilefeatures/androidfeatures?modelNumber=sdk-gphone-x86-64, tag=null}"
+    }
+  },
+  {
+    "ts": 1779138385796,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138385799,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B7F4F0180-0001-2EDB-B5DB2E90627ASessionEvent0000000001.cls"
+    }
+  },
+  {
+    "ts": 1779138386207,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~tV1deyx97p67pBhSuqzIHg==/com.kayak.android-I-bKUY9waThEpRQNGy-tGw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779138386259,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/localytics/05f00bdb07331f0d41ea7c5-6627028e-a06f-11df-0453-0038f276d275/u_s_0206d0c6-b084-40fb-a3a8-f5fba8156989"
+    }
+  },
+  {
+    "ts": 1779138386747,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.kayak.android.login.KEY_TOKEN"
+    }
+  },
+  {
+    "ts": 1779138386748,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B7F4F0180-0001-2EDB-B5DB2E90627ASessionEvent0000000002.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138386748,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.kayak.android.preferences.KEY_GCM_REGISTRATION_TOKEN"
+    }
+  },
+  {
+    "ts": 1779138386750,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138386752,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=https://www.kayak.com/k/authajax?action=registerandroid&as=0&msgApiVersion=1&platform=Android&udid=658ad5ad30f460cf&shash=1B17884212992123FF83C434849DDA4A396EE7D57A08F840D9ACD12D2A49CAA5&model=sdk_gphone_x86_64&appid=kayakFree&appdist=store&pushtoken=&locale=en_US&tz=Asia%252FCalcutta, tag=null}"
+    }
+  },
+  {
+    "ts": 1779138386757,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B7F4F0180-0001-2EDB-B5DB2E90627ASessionEvent0000000002.cls"
+    }
+  },
+  {
+    "ts": 1779138386781,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.kayak.android.login.KEY_TOKEN"
+    }
+  },
+  {
+    "ts": 1779138386782,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B7F4F0180-0001-2EDB-B5DB2E90627ASessionEvent0000000003.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138386783,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.kayak.android.preferences.KEY_GCM_REGISTRATION_TOKEN"
+    }
+  },
+  {
+    "ts": 1779138386783,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138386785,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B7F4F0180-0001-2EDB-B5DB2E90627ASessionEvent0000000003.cls"
+    }
+  },
+  {
+    "ts": 1779138386786,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=https://www.kayak.com/k/authajax?action=registerandroid&as=0&msgApiVersion=1&platform=Android&udid=658ad5ad30f460cf&shash=1B17884212992123FF83C434849DDA4A396EE7D57A08F840D9ACD12D2A49CAA5&model=sdk_gphone_x86_64&appid=kayakFree&appdist=store&pushtoken=&locale=en_US&tz=Asia%252FCalcutta, tag=null}"
+    }
+  },
+  {
+    "ts": 1779138386813,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.kayakimages"
+    }
+  },
+  {
+    "ts": 1779138386813,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B7F4F0180-0001-2EDB-B5DB2E90627ASessionEvent0000000004.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138386814,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138386815,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138386816,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138386816,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138386816,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138386817,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B7F4F0180-0001-2EDB-B5DB2E90627ASessionEvent0000000004.cls"
+    }
+  },
+  {
+    "ts": 1779138386817,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.kayakimages/trips-jsonv2-home.txt.enc"
+    }
+  },
+  {
+    "ts": 1779138386818,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.kayakimages/trips-jsonv2-home.txt"
+    }
+  },
+  {
+    "ts": 1779138386953,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779138387130,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/localytics/05f00bdb07331f0d41ea7c5-6627028e-a06f-11df-0453-0038f276d275/c_0206d0c6-b084-40fb-a3a8-f5fba8156989"
+    }
+  },
+  {
+    "ts": 1779138387131,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/localytics/05f00bdb07331f0d41ea7c5-6627028e-a06f-11df-0453-0038f276d275/"
+    }
+  },
+  {
+    "ts": 1779138387131,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/localytics/05f00bdb07331f0d41ea7c5-6627028e-a06f-11df-0453-0038f276d275/last_session_id"
+    }
+  },
+  {
+    "ts": 1779138387131,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/localytics/05f00bdb07331f0d41ea7c5-6627028e-a06f-11df-0453-0038f276d275/"
+    }
+  },
+  {
+    "ts": 1779138387132,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/localytics/05f00bdb07331f0d41ea7c5-6627028e-a06f-11df-0453-0038f276d275/"
+    }
+  },
+  {
+    "ts": 1779138387146,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/localytics/05f00bdb07331f0d41ea7c5-6627028e-a06f-11df-0453-0038f276d275/c_0206d0c6-b084-40fb-a3a8-f5fba8156989"
+    }
+  },
+  {
+    "ts": 1779138387146,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/localytics/05f00bdb07331f0d41ea7c5-6627028e-a06f-11df-0453-0038f276d275/u_s_0206d0c6-b084-40fb-a3a8-f5fba8156989"
+    }
+  },
+  {
+    "ts": 1779138387146,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/localytics/05f00bdb07331f0d41ea7c5-6627028e-a06f-11df-0453-0038f276d275/u_s_0206d0c6-b084-40fb-a3a8-f5fba8156989"
+    }
+  },
+  {
+    "ts": 1779138387147,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.kayak.com/h/mobileanalytics/"
+    }
+  },
+  {
+    "ts": 1779138387148,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=POST, url=https://www.kayak.com/h/mobileanalytics/, tag=null}"
+    }
+  },
+  {
+    "ts": 1779138387815,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/localytics/05f00bdb07331f0d41ea7c5-6627028e-a06f-11df-0453-0038f276d275/u_s_0206d0c6-b084-40fb-a3a8-f5fba8156989"
+    }
+  },
+  {
+    "ts": 1779138388937,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.kayak.android.login.KEY_TOKEN"
+    }
+  },
+  {
+    "ts": 1779138388938,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.kayak.android.preferences.KEY_GCM_REGISTRATION_TOKEN"
+    }
+  },
+  {
+    "ts": 1779138388940,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=https://www.kayak.com/k/authajax?action=registerandroid&as=0&msgApiVersion=1&platform=Android&udid=658ad5ad30f460cf&shash=1B17884212992123FF83C434849DDA4A396EE7D57A08F840D9ACD12D2A49CAA5&model=sdk_gphone_x86_64&appid=kayakFree&appdist=store&pushtoken=&locale=en_US&tz=Asia%252FCalcutta, tag=null}"
+    }
+  },
+  {
+    "ts": 1779138388967,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.kayak.android.login.KEY_TOKEN"
+    }
+  },
+  {
+    "ts": 1779138388968,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.kayak.android.preferences.KEY_GCM_REGISTRATION_TOKEN"
+    }
+  },
+  {
+    "ts": 1779138388969,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B7F4F0180-0001-2EDB-B5DB2E90627ASessionEvent0000000005.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138388970,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138388972,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B7F4F0180-0001-2EDB-B5DB2E90627ASessionEvent0000000005.cls"
+    }
+  },
+  {
+    "ts": 1779138388972,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=https://www.kayak.com/k/authajax?action=registerandroid&as=0&msgApiVersion=1&platform=Android&udid=658ad5ad30f460cf&shash=1B17884212992123FF83C434849DDA4A396EE7D57A08F840D9ACD12D2A49CAA5&model=sdk_gphone_x86_64&appid=kayakFree&appdist=store&pushtoken=&locale=en_US&tz=Asia%252FCalcutta, tag=null}"
+    }
+  },
+  {
+    "ts": 1779138388999,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B7F4F0180-0001-2EDB-B5DB2E90627ASessionEvent0000000006.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138389000,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138389001,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=https://www.kayak.com/k/authajax?action=updatemobilereg&platform=Android&msgApiVersion=1&model=sdk_gphone_x86_64&os=11&pushtoken=fiJtdtNWUH8%3AAPA91bHIPq6iKvhxJ_Og5_A3o6KLJBNsjudmto4r_TW_MLm_fh0G_eLkTXrDfdx0rOtSV4mR-OJ_JoQ0d5y4JSN_35dd2kL3-rIgfkTdeDNO8xqec2UoTIQ&udid=658ad5ad30f460cf&appid=kayakFree&appdist=store&locale=en_US&tz=Asia%2FCalcutta, tag=null}"
+    }
+  },
+  {
+    "ts": 1779138389002,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.kayak.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B7F4F0180-0001-2EDB-B5DB2E90627ASessionEvent0000000006.cls"
+    }
+  },
+  {
+    "ts": 1779138398578,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/163003079204/activities?access_token=&format=json&sdk=android"
+    }
+  }
+]

@@ -1,0 +1,2893 @@
+[
+  {
+    "ts": 1779644853655,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779644853656,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779644853656,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779644853660,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779644853660,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779644853664,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779644853664,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779644853664,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779644853664,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779644853665,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779644853668,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779644853669,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779644853676,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779644853676,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779644853677,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779644853677,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779644853678,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779644853679,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779644853679,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779644853686,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779644853686,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779644853686,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779644853687,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779644853687,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779644853690,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779644853690,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779644853690,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779644853702,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/google_ads_flags.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644853702,
+    "type": "shared_pref",
+    "data": {
+      "key": "flag_configuration"
+    }
+  },
+  {
+    "ts": 1779644853753,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000002/DynamiteLoader.apk"
+    }
+  },
+  {
+    "ts": 1779644853753,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000002/DynamiteLoader.apk"
+    }
+  },
+  {
+    "ts": 1779644853759,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779644853759,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779644853771,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779644853771,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779644853771,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779644853777,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779644853780,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779644853781,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779644853782,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779644853782,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779644853806,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/x86_64"
+    }
+  },
+  {
+    "ts": 1779644853806,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/arm64-v8a"
+    }
+  },
+  {
+    "ts": 1779644853807,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779644853807,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779644853813,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779644853831,
+    "type": "shared_pref",
+    "data": {
+      "key": "flag_configuration"
+    }
+  },
+  {
+    "ts": 1779644853863,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/shared_prefs/admob.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644853866,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/admob_user_agent.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644853866,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_url_hashes"
+    }
+  },
+  {
+    "ts": 1779644853866,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_vertical_hashes"
+    }
+  },
+  {
+    "ts": 1779644853866,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_settings_json"
+    }
+  },
+  {
+    "ts": 1779644853867,
+    "type": "shared_pref",
+    "data": {
+      "key": "display_cutout"
+    }
+  },
+  {
+    "ts": 1779644853867,
+    "type": "shared_pref",
+    "data": {
+      "key": "native_advanced_settings"
+    }
+  },
+  {
+    "ts": 1779644853871,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_agent"
+    }
+  },
+  {
+    "ts": 1779644853880,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_csi_server"
+    }
+  },
+  {
+    "ts": 1779644853880,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853880,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853880,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853880,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853880,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853881,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853881,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853881,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779644853881,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779644853881,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779644853881,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779644853881,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779644853881,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_for_coarse_permission:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853881,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_timeout:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853882,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_interval:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853882,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:pan:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853890,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:interstitial:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779644853894,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779644853922,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853923,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853924,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853924,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853924,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853924,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853924,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853924,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779644853924,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779644853924,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779644853924,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779644853924,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779644853937,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779644853939,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853939,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853939,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853939,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853939,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853939,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853941,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779644853944,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779644853947,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779644853948,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779644853948,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779644853948,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779644853948,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779644853967,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779644853970,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1779644853971,
+    "type": "dex_load",
+    "data": {
+      "dex": "/data/user/0/com.bitmisrow.legobatman/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779644853974,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779644853978,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779644853980,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/shared_prefs/mobileads_consent.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644853981,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779644853983,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779644853984,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/shared_prefs/com.bitmisrow.legobatman_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644853991,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779644853991,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779644853992,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779644853997,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1779644854000,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1779644854000,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1779644854017,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779644854024,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779644854024,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779644854027,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/shared_prefs/com.facebook.ads.FEATURE_CONFIG.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644854045,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779644854046,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779644854054,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779644854054,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779644854054,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779644854054,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779644854054,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779644854055,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779644854055,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779644854060,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779644854062,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~zLCw5tQaWycM7m1m5Bizcg==/com.bitmisrow.legobatman-5e2gkqOykf3PnuoYtRA0-g==/base.apk"
+    }
+  },
+  {
+    "ts": 1779644854072,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779644854072,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779644854091,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779644854091,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779644854092,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779644854093,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779644854093,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779644854094,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779644854094,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779644854099,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779644854099,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779644854099,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779644854100,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779644854100,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779644854197,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779644854201,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779644854201,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779644854208,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779644854208,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779644854209,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644854245,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779644854258,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779644854258,
+    "type": "file_access",
+    "data": {
+      "path": "/product/bin"
+    }
+  },
+  {
+    "ts": 1779644854259,
+    "type": "file_access",
+    "data": {
+      "path": "/apex/com.android.runtime/bin"
+    }
+  },
+  {
+    "ts": 1779644854259,
+    "type": "file_access",
+    "data": {
+      "path": "/apex/com.android.art/bin"
+    }
+  },
+  {
+    "ts": 1779644854259,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/bin"
+    }
+  },
+  {
+    "ts": 1779644854262,
+    "type": "file_access",
+    "data": {
+      "path": "/system/bin"
+    }
+  },
+  {
+    "ts": 1779644854262,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin"
+    }
+  },
+  {
+    "ts": 1779644854262,
+    "type": "file_access",
+    "data": {
+      "path": "/odm/bin"
+    }
+  },
+  {
+    "ts": 1779644854262,
+    "type": "file_access",
+    "data": {
+      "path": "/vendor/bin"
+    }
+  },
+  {
+    "ts": 1779644854262,
+    "type": "file_access",
+    "data": {
+      "path": "/vendor/xbin"
+    }
+  },
+  {
+    "ts": 1779644854263,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/shared_prefs/FBAdPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644854268,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceIdHash"
+    }
+  },
+  {
+    "ts": 1779644854278,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~zLCw5tQaWycM7m1m5Bizcg==/com.bitmisrow.legobatman-5e2gkqOykf3PnuoYtRA0-g==/base.apk"
+    }
+  },
+  {
+    "ts": 1779644854325,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/UnityAdsForceDebugMode"
+    }
+  },
+  {
+    "ts": 1779644854329,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/shared_prefs/SDKIDFA.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644854333,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644854334,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644854335,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644854336,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644854340,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644854340,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644854340,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644854340,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644854345,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644854346,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644854347,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644854347,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644854382,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-public-data.json"
+    }
+  },
+  {
+    "ts": 1779644854382,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-public-data.json"
+    }
+  },
+  {
+    "ts": 1779644854383,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-public-data.json"
+    }
+  },
+  {
+    "ts": 1779644854384,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644854386,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644854386,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644854390,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644854399,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files"
+    }
+  },
+  {
+    "ts": 1779644854399,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644854402,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644854403,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644854407,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644854411,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644854416,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644854416,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/shared_prefs/com.startapp.android.publish.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644854416,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644854418,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644854420,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644854421,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files"
+    }
+  },
+  {
+    "ts": 1779644854422,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/shared_prefs/com.startapp.android.publish.CookiePrefsFile.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644854423,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644854425,
+    "type": "shared_pref",
+    "data": {
+      "key": "names"
+    }
+  },
+  {
+    "ts": 1779644854427,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644854427,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644854427,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644854431,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644854434,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644854434,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/startapp_ads/keys"
+    }
+  },
+  {
+    "ts": 1779644854435,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~zLCw5tQaWycM7m1m5Bizcg==/com.bitmisrow.legobatman-5e2gkqOykf3PnuoYtRA0-g==/base.apk"
+    }
+  },
+  {
+    "ts": 1779644854453,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.bitmisrow.legobatman.MainActivity"
+    }
+  },
+  {
+    "ts": 1779644854487,
+    "type": "url_access",
+    "data": {
+      "url": "http://init.startappexchange.com/1.4/getadsmetadata?productId=211691100&os=android&sdkVersion=3.5.1&packageId=com.bitmisrow.legobatman&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=e106&cellSignalLevel=e106&wifiSignalLevel=e106&wifiRssiLevel=e106&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&appVersion=3.0&appCode=1&totalSessions=0&daysSinceFirstSession=0&payingUser=false&paidAmount=0.0&reason=LAUNCH&apkHash=3C2E233E2C515EF3267A3F9BD71B5CE99FD801B2831C42B2FCC9D9D1E003AF03"
+    }
+  },
+  {
+    "ts": 1779644854496,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644854500,
+    "type": "url_access",
+    "data": {
+      "url": "http://init.startappexchange.com/1.4/getadsmetadata?productId=211691100&os=android&sdkVersion=3.5.1&packageId=com.bitmisrow.legobatman&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=e106&cellSignalLevel=e106&wifiSignalLevel=e106&wifiRssiLevel=e106&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&appVersion=3.0&appCode=1&totalSessions=0&daysSinceFirstSession=0&payingUser=false&paidAmount=0.0&reason=LAUNCH&apkHash=3C2E233E2C515EF3267A3F9BD71B5CE99FD801B2831C42B2FCC9D9D1E003AF03"
+    }
+  },
+  {
+    "ts": 1779644854640,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779644854677,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779644854731,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644854734,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644854735,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644854742,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644854808,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644854834,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common"
+    }
+  },
+  {
+    "ts": 1779644854836,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common"
+    }
+  },
+  {
+    "ts": 1779644854913,
+    "type": "url_access",
+    "data": {
+      "url": "https://config.unityads.unity3d.com/webview/2.0.5/release/config.json"
+    }
+  },
+  {
+    "ts": 1779644854921,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644854921,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644855015,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779644855018,
+    "type": "url_access",
+    "data": {
+      "url": "https://config.unityads.unity3d.com/webview/2.0.5/release/config.json?ts=1779644855018&sdkVersion=2005&sdkVersionName=2.0.5"
+    }
+  },
+  {
+    "ts": 1779644855025,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779644855027,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779644855029,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779644855078,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644855078,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644855118,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779644855119,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertisingId"
+    }
+  },
+  {
+    "ts": 1779644855120,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files"
+    }
+  },
+  {
+    "ts": 1779644855158,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/trackdownload?productId=211691100&os=android&sdkVersion=3.5.1&packageId=com.bitmisrow.legobatman&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=e106&cellSignalLevel=e106&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&appVersion=3.0&appCode=1&placement=INAPP_DOWNLOAD"
+    }
+  },
+  {
+    "ts": 1779644855183,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644855201,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/trackdownload?productId=211691100&os=android&sdkVersion=3.5.1&packageId=com.bitmisrow.legobatman&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=e106&cellSignalLevel=e106&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&appVersion=3.0&appCode=1&placement=INAPP_DOWNLOAD"
+    }
+  },
+  {
+    "ts": 1779644855219,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644855225,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644855226,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644855228,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644855228,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779644855231,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644855231,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644855231,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644855252,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779644855254,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779644855302,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=211691100&os=android&sdkVersion=3.5.1&packageId=com.bitmisrow.legobatman&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&appVersion=3.0&appCode=1&placement=INAPP_RETURN&testMode=false&adsNumber=1&packageExclude=com.bitmisrow.legobatman&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=822&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644855282&afh=bScLPnHw9O%2FulKrkhZCzOg&token=1779644854952-4-H4sIAAAAAAAAADMwGIzAaKAdgAeYDLQDRsEooAcYzJlwOAHDgXbAKBgFowAPwFflj5aSKAAAySnRilAKAAA%23"
+    }
+  },
+  {
+    "ts": 1779644855308,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=211691100&os=android&sdkVersion=3.5.1&packageId=com.bitmisrow.legobatman&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&appVersion=3.0&appCode=1&placement=INAPP_OVERLAY&testMode=false&adsNumber=1&packageExclude=com.bitmisrow.legobatman&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=822&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644855288&afh=39%2Fo3FEvmeRTIVxtys1V3A&token=1779644854952-4-H4sIAAAAAAAAADMwGIzAaKAdgAeYDLQDRsEooAcYzJlwOAHDgXbAKBgFowAPwFflj5aSKAAAySnRilAKAAA%23"
+    }
+  },
+  {
+    "ts": 1779644855310,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644855311,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644855315,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=211691100&os=android&sdkVersion=3.5.1&packageId=com.bitmisrow.legobatman&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&appVersion=3.0&appCode=1&placement=INAPP_OVERLAY&testMode=false&adsNumber=1&packageExclude=com.bitmisrow.legobatman&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=822&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644855288&afh=39%2Fo3FEvmeRTIVxtys1V3A&token=1779644854952-4-H4sIAAAAAAAAADMwGIzAaKAdgAeYDLQDRsEooAcYzJlwOAHDgXbAKBgFowAPwFflj5aSKAAAySnRilAKAAA%23"
+    }
+  },
+  {
+    "ts": 1779644855325,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=211691100&os=android&sdkVersion=3.5.1&packageId=com.bitmisrow.legobatman&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2072&density=2.75&sdkId=3&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&appVersion=3.0&appCode=1&placement=INAPP_RETURN&testMode=false&adsNumber=1&packageExclude=com.bitmisrow.legobatman&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=822&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644855282&afh=bScLPnHw9O%2FulKrkhZCzOg&token=1779644854952-4-H4sIAAAAAAAAADMwGIzAaKAdgAeYDLQDRsEooAcYzJlwOAHDgXbAKBgFowAPwFflj5aSKAAAySnRilAKAAA%23"
+    }
+  },
+  {
+    "ts": 1779644855392,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common"
+    }
+  },
+  {
+    "ts": 1779644855392,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common"
+    }
+  },
+  {
+    "ts": 1779644855416,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { act=android.intent.action.CALL_BUTTON flg=0x10000000 }"
+    }
+  },
+  {
+    "ts": 1779644855498,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsWebApp.html"
+    }
+  },
+  {
+    "ts": 1779644855501,
+    "type": "url_access",
+    "data": {
+      "url": "https://webview.unityads.unity3d.com/webview_test/2.0.5/51e759b9360ba543c5b0601aa0c11fb37841ace5/release/index.html"
+    }
+  },
+  {
+    "ts": 1779644855508,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779644855508,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertisingId"
+    }
+  },
+  {
+    "ts": 1779644855560,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.bitmisrow.legobatman.PageActivity"
+    }
+  },
+  {
+    "ts": 1779644855636,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779644855689,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common"
+    }
+  },
+  {
+    "ts": 1779644855695,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common"
+    }
+  },
+  {
+    "ts": 1779644855815,
+    "type": "url_access",
+    "data": {
+      "url": "https://adimpression.startappservice.com/adimpression/api/v1.0/adimp?d=IAAAAAAgAAA6X1tPSEdDUFlaX11MRUVUQ1dQRUBYX1RFQEZAXVdbXldBS1dVT09VTUheW15DSUtDVF5dUF1EQkJaS0lQSEtUXl5ASUtFWFJcWV5IQUlTRk9QQ01XWFhDTU1GUVRfXlhKQ09QSklSRktUV15BQUtGWVJaW15LQklVQ09TQk1RXVhASk1AXFRcXlhNSk9TRElUQUtXWV5HTUtGUVJbXV5LSklUSk9SQE1QV1hBSE1CW1RdWVhPQE9SQUlXRktWWl5ETktHXFJZW15KRUlWS09SR01SXVhBQU1MWVRdUlhORE9VQklZQEtRX15KSEtAW1JWWF5NQElZR09VRE1dWVhGTE1MUFRaXVhAQU9VRUlYREtRVl5LT0tBWVJfW1dCRkVcQ0RVS0VXU1JCTEtBWlJfW11CRkBcQ0VRS0VQU1JDS0tBX1JfWlZCRkJcQ0VTS0VSU1JDTEtBUVJfWlJCRk1cQ0VYS0ZVU1JAS0tCWFJfWVFCRUdcQ0ZZS0ZRU1JAQEtCXFJfWF1CRUJcQ0dXS0ZSU1JBQEtCUFJfX1ZCRERcQ0BUS0dUU1JGQUtDWlJfXlRCREBcQ0FVS0dQU1JHT0tDX1JfXlJCRExcQ0JUS0dcU1JHSUtMXVJfXFFCS0FcQ0NXS0hTU1JFTktMXlJfXFxCS0xcQ0xTS0lVU1JLSEtNWFJfUldCSkZcQ01US0lWU1JLT0tNXVJfUl1CSkxcQERXS0FVX15AQkRJUVRbVlRJSENcQ0daSE1UWFhLREFMUl5eVldJSEVQT0ZTS0FXU1FGQkFHVF1YUFRNTkZZSUVUTUNVVVJKRENCUl5XVlZBSEZRT0BRS0JUU1dDQkJGVFtdUFdKTkBUSUZUTURcVVFEREVFUl1ZVlBNSEZZT0FXS0JcU1ZKQkNEVFpXUFZITkJTSUdTTUZWVVBBREZCUlxaVlNOSEdUT0NRS0NTU1RLQkNDVFhdUFZBTkxRSUdYTUdSVVdCREhEUltfVl1ISEBTT0xSS0RWU1tHQkRAVFdZUFFMTkxYSUBXTUlXVVdFRElAUltWVlxPSEFRT0VRQktQX15DSURPXF1TWlVMSEFST0VRSEtQWl5DSEBPXFpTWlRLSEFXT0VQQ0tQWF5DSEJPXFhTWlRMSEFZT0VQR0tQV15DSElPX19TWldLSEJQT0VTREtTXV5DS0hPX1tTWldASEJUT0VSSEtTWF5DSkZPX1hTWlZASEJYT0VVQ0tSXl5DTUVPXl5TWlFBSENST0VUQUtSWl5DTERPXlpTWlBMSENXT0VUR0tSVl5DT0VPXlZTWlBJSExVT0VWREtdW15DTkZPUVlTWlJOSExWT0VWSUtdVl5DQUJPUF9TWlxJSE1QT0VYQktcXF5DQERPUFxTWlxPSE1VT0VYSEtcVl5ASUZPWF9fVldCX0YoFlhBAwI6CREdDAArAAtUS1FJQ0JCS0NcQUBWQFJLQF5FUVdAWVFKUEVRT0VRSEFXWlVBTVNFWFJcWlRPSkVQQkRCQUJYX1tHTkJDWVhXSFNIThFTF0VQFUAGQ1VAHRVZXQoICkhBS0xWXxJWSUJWW1FESRQQUUxfWFVER1dQQUlSQUNcXVJLTUVXWFtTX1RMQEFQQEJRU0FcUwAdFF4WABsDAhYLHANPHhEGHxIEGg4TF1NGXlJaRVU8XkBCQExcMzwsLShRSkFJOyYtIzotNiw1UUdTTTkrLzMiJj8iLD0iKjxaQENcFAENHAAECQYtEB8HNg0HDDoQHRITEysNGR4OMQ0dHx8bHQocNAQXGhkDBho%2BGR4EHhMtFgYRGwMPEkZKSkksPTYoPDVGWlVPKT05JTA9Ly5aQkZWTxcTFRERBxUXOgAZNhseNBUWBBETUUVTSE1WTVdFRCIxLiIhLyA1UEBZT0RPQ0BQWkBHSU01Jys8JCw9UEFXT0NYXklQWUBHTk1GWkFfXFVIUEFZT0dCRkBYIjc3WkZHVF1bWlZKQldXR0kyNDtGWFRPSV5EW1daSFRIQkkHExgSFVNSXl4QFgoNRwwBBkZOS0lQQkxRU0dcU1FCTkJXWF9aVlVXQ0BUQ1dWR01VQFVBSUBXWFINXgAbQRYES1lSE0cEQ1cXSBJZCw5WW0gdQxdUExBVR0dTWQFRTkFJLBkLGRwWHRFCR0dcMUdGX1NKRBYVBRwLSFRLQklRUUVTQk1VTVJATE1ESl5cX1hLUEVSSklQSEVSXFRCTklXWFtfVlZIQE1SQ01VRVNUXVVPChQfRAoWCA0YHRMEX0JWREYDWlZGH0VZB1YaXxFaQkdWTwJRXkZRQFNRS01FR1tNXlhKQkRTRERCR0ZYKCwnK1NFX1IdAgseHxFCQ0NcQVNXXl4BHRsrDh8GBAscLAxZRCtXRFNUW1tPChQfNggeAwoXFisZSkI%2BRkRGXFJPPh8bDgMLSFdLTkdRUUVVQE1UX01CWkNEVCYgSFZBTkdPR1pQU0RRU1BRTUVJWUxaUlgaRhEDQBYESV1WDVQTVEQRWA1DCQRBQ1kFQhdUERRRWVREThJXXFtTJjVaRk1cBgYUFVNTV15BV0BXXl1TDQQVABFCRUdcFR5IGxBRTkRJXl9dXVxPQ0dQRUVQQkNXTVtERDU6KC0iLiFaSkxcOzo1NSI2OiomMDE4SldZVlVXQ0BUQ1dZSE1VQFNRQUlJWUFfWVJPUEVVQUlRU0FRWl5CV0BXWFtbVlRXQ1dQRkJcQV5VTVJHS01FWExfXlZEIx0SExpBOwUIHhEXHFNFWVlTDQQVABFCQ0VXTUFG&isPubImp=true&dp=true&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&isShown=false&reason=AD_NOT_READY"
+    }
+  },
+  {
+    "ts": 1779644855822,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644855906,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779644855908,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertisingId"
+    }
+  },
+  {
+    "ts": 1779644855915,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.bitmisrow.legobatman.PageActivity"
+    }
+  },
+  {
+    "ts": 1779644855991,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common"
+    }
+  },
+  {
+    "ts": 1779644855991,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common"
+    }
+  },
+  {
+    "ts": 1779644856041,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsWebApp.html"
+    }
+  },
+  {
+    "ts": 1779644856117,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { flg=0x14800000 cmp=com.bitmisrow.legobatman/com.startapp.android.publish.OverlayActivity (has extras) }"
+    }
+  },
+  {
+    "ts": 1779644856319,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644856322,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644856324,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644856325,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644856343,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779644856349,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779644856353,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779644856355,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779644856359,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common"
+    }
+  },
+  {
+    "ts": 1779644856362,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common"
+    }
+  },
+  {
+    "ts": 1779644856370,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=211691100&os=android&sdkVersion=3.5.1&packageId=com.bitmisrow.legobatman&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&appVersion=3.0&appCode=1&placement=INAPP_BANNER&testMode=false&adsNumber=4&packageExclude=com.bitmisrow.legobatman&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=1915&adsDisplayed=1&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644856369&afh=bIV1Q2CIAFYCMT7qlcNLgQ&token=1779644854952-4-H4sIAAAAAAAAADMwGIzAaKAdgAeYDLQDRsEooAcYzJlwOAHDgXbAKBgFowAPwFflj5aSKAAAySnRilAKAAA%23"
+    }
+  },
+  {
+    "ts": 1779644856371,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644856378,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=211691100&os=android&sdkVersion=3.5.1&packageId=com.bitmisrow.legobatman&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&appVersion=3.0&appCode=1&placement=INAPP_BANNER&testMode=false&adsNumber=4&packageExclude=com.bitmisrow.legobatman&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=1915&adsDisplayed=1&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644856369&afh=bIV1Q2CIAFYCMT7qlcNLgQ&token=1779644854952-4-H4sIAAAAAAAAADMwGIzAaKAdgAeYDLQDRsEooAcYzJlwOAHDgXbAKBgFowAPwFflj5aSKAAAySnRilAKAAA%23"
+    }
+  },
+  {
+    "ts": 1779644856395,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779644856398,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.startapp.android.publish.OverlayActivity"
+    }
+  },
+  {
+    "ts": 1779644856416,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644856416,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644856417,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644856417,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644856419,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/obb/com.bitmisrow.legobatman/"
+    }
+  },
+  {
+    "ts": 1779644856421,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~zLCw5tQaWycM7m1m5Bizcg==/com.bitmisrow.legobatman-5e2gkqOykf3PnuoYtRA0-g==/base.apk"
+    }
+  },
+  {
+    "ts": 1779644856422,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/drawable-hdpi.zip"
+    }
+  },
+  {
+    "ts": 1779644856425,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/drawable-hdpi.zip"
+    }
+  },
+  {
+    "ts": 1779644856426,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/empty_star.png"
+    }
+  },
+  {
+    "ts": 1779644856426,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/filled_star.png"
+    }
+  },
+  {
+    "ts": 1779644856427,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/half_star.png"
+    }
+  },
+  {
+    "ts": 1779644856427,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/logo.png"
+    }
+  },
+  {
+    "ts": 1779644856429,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/tab_side.png"
+    }
+  },
+  {
+    "ts": 1779644856429,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/.DS_Store"
+    }
+  },
+  {
+    "ts": 1779644856430,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/back_.png"
+    }
+  },
+  {
+    "ts": 1779644856431,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/back_dark.png"
+    }
+  },
+  {
+    "ts": 1779644856432,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/browser_icon_dark.png"
+    }
+  },
+  {
+    "ts": 1779644856432,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/forward_.png"
+    }
+  },
+  {
+    "ts": 1779644856432,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/forward_dark.png"
+    }
+  },
+  {
+    "ts": 1779644856433,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/x_dark.png"
+    }
+  },
+  {
+    "ts": 1779644856434,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~zLCw5tQaWycM7m1m5Bizcg==/com.bitmisrow.legobatman-5e2gkqOykf3PnuoYtRA0-g==/base.apk"
+    }
+  },
+  {
+    "ts": 1779644856438,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/drawable.zip"
+    }
+  },
+  {
+    "ts": 1779644856441,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/drawable.zip"
+    }
+  },
+  {
+    "ts": 1779644856442,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/info_s.png"
+    }
+  },
+  {
+    "ts": 1779644856445,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/info_l.png"
+    }
+  },
+  {
+    "ts": 1779644856445,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/close_button.png"
+    }
+  },
+  {
+    "ts": 1779644856446,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/back_.png"
+    }
+  },
+  {
+    "ts": 1779644856447,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/back_dark.png"
+    }
+  },
+  {
+    "ts": 1779644856448,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/browser_icon_dark.png"
+    }
+  },
+  {
+    "ts": 1779644856449,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/forward_.png"
+    }
+  },
+  {
+    "ts": 1779644856450,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/forward_dark.png"
+    }
+  },
+  {
+    "ts": 1779644856451,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/x_dark.png"
+    }
+  },
+  {
+    "ts": 1779644856452,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/StartAppSplash.html"
+    }
+  },
+  {
+    "ts": 1779644856457,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/info_l.png"
+    }
+  },
+  {
+    "ts": 1779644856647,
+    "type": "file_access",
+    "data": {
+      "path": "/product/bin"
+    }
+  },
+  {
+    "ts": 1779644856647,
+    "type": "file_access",
+    "data": {
+      "path": "/apex/com.android.runtime/bin"
+    }
+  },
+  {
+    "ts": 1779644856647,
+    "type": "file_access",
+    "data": {
+      "path": "/apex/com.android.art/bin"
+    }
+  },
+  {
+    "ts": 1779644856653,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/bin"
+    }
+  },
+  {
+    "ts": 1779644856653,
+    "type": "file_access",
+    "data": {
+      "path": "/system/bin"
+    }
+  },
+  {
+    "ts": 1779644856653,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin"
+    }
+  },
+  {
+    "ts": 1779644856653,
+    "type": "file_access",
+    "data": {
+      "path": "/odm/bin"
+    }
+  },
+  {
+    "ts": 1779644856654,
+    "type": "file_access",
+    "data": {
+      "path": "/vendor/bin"
+    }
+  },
+  {
+    "ts": 1779644856654,
+    "type": "file_access",
+    "data": {
+      "path": "/vendor/xbin"
+    }
+  },
+  {
+    "ts": 1779644856671,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common"
+    }
+  },
+  {
+    "ts": 1779644856672,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common"
+    }
+  },
+  {
+    "ts": 1779644856673,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/filled_star.png"
+    }
+  },
+  {
+    "ts": 1779644856677,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779644856687,
+    "type": "url_access",
+    "data": {
+      "url": "https://images.startappservice.com/image/fetch/f_auto,q_auto,e_sharpen,w_100,h_100/https%3A%2F%2Fimages-origin.startappservice.com%2Fadvertisers%2F185727079%2F313927735%2F415328924%2F805a5b30-eb4c-4c99-b117-135dd9ab411c.webp"
+    }
+  },
+  {
+    "ts": 1779644856709,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitmisrow.legobatman/files/info_s.png"
+    }
+  },
+  {
+    "ts": 1779644856726,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644856726,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644856737,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644856738,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644856741,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779644856765,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779644856767,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644856767,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644856767,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644856767,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644856785,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=211691100&os=android&sdkVersion=3.5.1&packageId=com.bitmisrow.legobatman&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&appVersion=3.0&appCode=1&placement=INAPP_BANNER&testMode=false&adsNumber=4&packageExclude=com.bitmisrow.legobatman&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=2313&adsDisplayed=1&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644856784&afh=SwfMV3Qdk1ljx4dh3Jb7yQ&token=1779644854952-4-H4sIAAAAAAAAADMwGIzAaKAdgAeYDLQDRsEooAcYzJlwOAHDgXbAKBgFowAPwFflj5aSKAAAySnRilAKAAA%23"
+    }
+  },
+  {
+    "ts": 1779644856792,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644856794,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=211691100&os=android&sdkVersion=3.5.1&packageId=com.bitmisrow.legobatman&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&appVersion=3.0&appCode=1&placement=INAPP_BANNER&testMode=false&adsNumber=4&packageExclude=com.bitmisrow.legobatman&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=2313&adsDisplayed=1&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644856784&afh=SwfMV3Qdk1ljx4dh3Jb7yQ&token=1779644854952-4-H4sIAAAAAAAAADMwGIzAaKAdgAeYDLQDRsEooAcYzJlwOAHDgXbAKBgFowAPwFflj5aSKAAAySnRilAKAAA%23"
+    }
+  },
+  {
+    "ts": 1779644856881,
+    "type": "url_access",
+    "data": {
+      "url": "https://publisher-config.unityads.unity3d.com/privacy/1245991/state"
+    }
+  },
+  {
+    "ts": 1779644856948,
+    "type": "url_access",
+    "data": {
+      "url": "https://adimpression.startappservice.com/adimpression/api/v1.0/adimp?d=IAAAAAAgAAA6X1tPSEdDUFlaX11MRUVUQ1dQRUBYX1RFQEZAXVdbXldBS1dVT09VTUheW15DSUtDVF5dUF1EQkJaS0lQSEtUXl5ASUtFWFJcWV5IQUlTRk9QQ01XWFhDTU1GUVRfXlhKQ09QSklSRktUV15BQUtGWVJaW15LQklVQ09TQk1RXVhASk1AXFRcXlhNSk9TRElUQUtXWV5HTUtGUVJbXV5LSklUSk9SQE1QV1hBSE1CW1RdWVhPQE9SQUlXRktWWl5ETktHXFJZW15KRUlWS09SR01SXVhBQU1MWVRdUlhORE9VQklZQEtRX15KSEtAW1JWWF5NQElZR09VRE1dWVhGTE1MUFRaXVhAQU9VRUlYREtRVl5LT0tBWVJfW1dCRkVcQ0RVS0VXU1JCTEtBWlJfW11CRkBcQ0VRS0VQU1JDS0tBX1JfWlZCRkJcQ0VTS0VSU1JDTEtBUVJfWlJCRk1cQ0VYS0ZVU1JAS0tCWFJfWVFCRUdcQ0ZZS0ZRU1JAQEtCXFJfWF1CRUJcQ0dXS0ZSU1JBQEtCUFJfX1ZCRERcQ0BUS0dUU1JGQUtDWlJfXlRCREBcQ0FVS0dQU1JHT0tDX1JfXlJCRExcQ0JUS0dcU1JHSUtMXVJfXFFCS0FcQ0NXS0hTU1JFTktMXlJfXFxCS0xcQ0xTS0lVU1JLSEtNWFJfUldCSkZcQ01US0lWU1JLT0tNXVJfUl1CSkxcQERXS0FVX15AQkRJUVRbVlRJSENcQ0daSE1UWFhLREFMUl5eVldJSEVQT0ZTS0FXU1FGQkFHVF1YUFRNTkZZSUVUTUNVVVJKRENCUl5XVlZBSEZRT0BRS0JUU1dDQkJGVFtdUFdKTkBUSUZUTURcVVFEREVFUl1ZVlBNSEZZT0FXS0JcU1ZKQkNEVFpXUFZITkJTSUdTTUZWVVBBREZCUlxaVlNOSEdUT0NRS0NTU1RLQkNDVFhdUFZBTkxRSUdYTUdSVVdCREhEUltfVl1ISEBTT0xSS0RWU1tHQkRAVFdZUFFMTkxYSUBXTUlXVVdFRElAUltWVlxPSEFRT0VRQktQX15DSURPXF1TWlVMSEFST0VRSEtQWl5DSEBPXFpTWlRLSEFXT0VQQ0tQWF5DSEJPXFhTWlRMSEFZT0VQR0tQV15DSElPX19TWldLSEJQT0VTREtTXV5DS0hPX1tTWldASEJUT0VSSEtTWF5DSkZPX1hTWlZASEJYT0VVQ0tSXl5DTUVPXl5TWlFBSENST0VUQUtSWl5DTERPXlpTWlBMSENXT0VUR0tSVl5DT0VPXlZTWlBJSExVT0VWREtdW15DTkZPUVlTWlJOSExWT0VWSUtdVl5DQUJPUF9TWlxJSE1QT0VYQktcXF5DQERPUFxTWlxPSE1VT0VYSEtcVl5ASUZPWF9fVldCX0YoFlhBAwI6CREdDAArAAtUS1FJQ0JCS0NcQUBWQFJLQF5FUVdAWVFKUEVRT0VRSEFXWlVBTVNFWFJcWlRPSkVQQkRCQUJYX1tHTkJDWVhXSFNIThFTF0VQFUAGQ1VAHRVZXQoICkhBS0xWXxJWSUJWW1FESRQQUUxfWFVER1dQQUlSQUNcXVJLTUVXWFtTX1RMQEFQQEJRU0FcUwAdFF4WABsDAhYLHANPHhEGHxIEGg4TF1NGXlJaRVU8XkBCQExcMzwsLShRSkFJOyYtIzotNiw1UUdTTTkrLzMiJj8iLD0iKjxaQENcFAENHAAECQYtEB8HNg0HDDoQHRITEysNGR4OMQ0dHx8bHQocNAQXGhkDBho%2BGR4EHhMtFgYRGwMPEkZKSkksPTYoPDVGWlVPKT05JTA9Ly5aQkZWTxcTFRERBxUXOgAZNhseNBUWBBETUUVTSE1WTVdFRCIxLiIhLyA1UEBZT0RPQ0BQWkBHSU01Jys8JCw9UEFXT0NYXklQWUBHTk1GWkFfXFVIUEFZT0dCRkBYIjc3WkZHVF1bWlZKQldXR0kyNDtGWFRPSV5EW1daSFRIQkkHExgSFVNSXl4QFgoNRwwBBkZOS0lQQkxRU0dcU1FCTkJXWF9aVlVXQ0BUQ1dWR01VQFVBSUBXWFINXgAbQRYES1lSE0cEQ1cXSBJZCw5WW0gdQxdUExBVR0dTWQFRTkFJLBkLGRwWHRFCR0dcMUdGX1NKRBYVBRwLSFRLQklRUUVTQk1VTVJATE1ESl5cX1hLUEVSSklQSEVSXFRCTklXWFtfVlZIQE1SQ01VRVNUXVVPChQfRAoWCA0YHRMEX0JWREYDWlZGH0VZB1YaXxFaQkdWTwJRXkZRQFNRS01FR1tNXlhKQkRTRERCR0ZYKCwnK1NFX1IdAgseHxFCQ0NcQVNXXl4BHRsrDh8GBAscLAxZRCtXRFNUW1tPChQfNggeAwoXFisZSkI%2BRkRGXFJPPh8bDgMLSFdLTkdRUUVVQE1UX01CWkNEVCYgSFZBTkdPR1pQU0RRU1BRTUVJWUxaUlgaRhEDQBYESV1WDVQTVEQRWA1DCQRBQ1kFQhdUERRRWVREThJXXFtTJjVaRk1cBgYUFVNTV15BV0BXXl1TDQQVABFCRUdcFR5IGxBRTkRJXl9dXVxPQ0dQRUVQQkNXTVtERDU6KC0iLiFaSkxcOzo1NSI2OiomMDE4SldZVlVXQ0BUQ1dZSE1VQFNRQUlJWUFfWVJPUEVVQUlRU0FRWl5CV0BXWFtbVlRXQ1dQRkJcQV5VTVJHS01FWExfXlZEIx0SExpBOwUIHhEXHFNFWVlTDQQVABFCQ0VXTUFG&isPubImp=true&dp=true&position=interstitial&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&isShown=false&reason=AD_NOT_READY"
+    }
+  },
+  {
+    "ts": 1779644856949,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644857013,
+    "type": "url_access",
+    "data": {
+      "url": "https://images.startappservice.com/image/fetch/f_auto,q_auto,e_sharpen,w_100,h_100/https%3A%2F%2Fimages-origin.startappservice.com%2Fadvertisers%2F185727079%2F313927735%2F415328922%2F4f2bf9b6-e81f-4d6e-b2ca-d077d6fa476d.webp"
+    }
+  },
+  {
+    "ts": 1779644857039,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644857040,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644857040,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779644857040,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779644857046,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779644857058,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=211691100&os=android&sdkVersion=3.5.1&packageId=com.bitmisrow.legobatman&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&appVersion=3.0&appCode=1&placement=INAPP_BANNER&testMode=false&adsNumber=4&packageExclude=com.bitmisrow.legobatman&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=2618&adsDisplayed=1&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644857056&afh=lnKWqSlx0oSHZ9MlZX%2Bvdw&token=1779644854952-4-H4sIAAAAAAAAADMwGIzAaKAdgAeYDLQDRsEooAcYzJlwOAHDgXbAKBgFowAPwFflj5aSKAAAySnRilAKAAA%23"
+    }
+  },
+  {
+    "ts": 1779644857062,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644857064,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=211691100&os=android&sdkVersion=3.5.1&packageId=com.bitmisrow.legobatman&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&appVersion=3.0&appCode=1&placement=INAPP_BANNER&testMode=false&adsNumber=4&packageExclude=com.bitmisrow.legobatman&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=2618&adsDisplayed=1&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779644857056&afh=lnKWqSlx0oSHZ9MlZX%2Bvdw&token=1779644854952-4-H4sIAAAAAAAAADMwGIzAaKAdgAeYDLQDRsEooAcYzJlwOAHDgXbAKBgFowAPwFflj5aSKAAAySnRilAKAAA%23"
+    }
+  },
+  {
+    "ts": 1779644857208,
+    "type": "url_access",
+    "data": {
+      "url": "https://images.startappservice.com/image/fetch/f_auto,q_auto,e_sharpen,w_100,h_100/https%3A%2F%2Fimages-origin.startappservice.com%2Fadvertisers%2F185727079%2F313927735%2F415328924%2F805a5b30-eb4c-4c99-b117-135dd9ab411c.webp"
+    }
+  },
+  {
+    "ts": 1779644857265,
+    "type": "url_access",
+    "data": {
+      "url": "https://adimpression.startappservice.com/adimpression/api/v1.0/adimp?d=IAAAAAAgAAA6X1tPSEdDUFlaX11MRUVUQ1dQRUBYX1RFQEZAXVdbXldBS1dVT09VTUheW15DSUtDVF5dUF1EQkJaS0lQSEtUXl5ASUtFWFJcWV5IQUlTRk9QQ01XWFhDTU1GUVRfXlhKQ09QSklSRktUV15BQUtGWVJaW15LQklVQ09TQk1RXVhASk1AXFRcXlhNSk9TRElUQUtXWV5HTUtGUVJbXV5LSklUSk9SQE1QV1hBSE1CW1RdWVhPQE9SQUlXRktWWl5ETktHXFJZW15KRUlWS09SR01SXVhBQU1MWVRdUlhORE9VQklZQEtRX15KSEtAW1JWWF5NQElZR09VRE1dWVhGTE1MUFRaXVhAQU9VRUlYREtRVl5LT0tBWVJfW1dCRkVcQ0RVS0VXU1JCTEtBWlJfW11CRkBcQ0VRS0VQU1JDS0tBX1JfWlZCRkJcQ0VTS0VSU1JDTEtBUVJfWlJCRk1cQ0VYS0ZVU1JAS0tCWFJfWVFCRUdcQ0ZZS0ZRU1JAQEtCXFJfWF1CRUJcQ0dXS0ZSU1JBQEtCUFJfX1ZCRERcQ0BUS0dUU1JGQUtDWlJfXlRCREBcQ0FVS0dQU1JHT0tDX1JfXlJCRExcQ0JUS0dcU1JHSUtMXVJfXFFCS0FcQ0NXS0hTU1JFTktMXlJfXFxCS0xcQ0xTS0lVU1JLSEtNWFJfUldCSkZcQ01US0lWU1JLT0tNXVJfUl1CSkxcQERXS0FVX15AQkRJUVRbVlRJSENcQ0daSE1UWFhLREFMUl5eVldJSEVQT0ZTS0FXU1FGQkFHVF1YUFRNTkZZSUVUTUNVVVJKRENCUl5XVlZBSEZRT0BRS0JUU1dDQkJGVFtdUFdKTkBUSUZUTURcVVFEREVFUl1ZVlBNSEZZT0FXS0JcU1ZKQkNEVFpXUFZITkJTSUdTTUZWVVBBREZCUlxaVlNOSEdUT0NRS0NTU1RLQkNDVFhdUFZBTkxRSUdYTUdSVVdCREhEUltfVl1ISEBTT0xSS0RWU1tHQkRAVFdZUFFMTkxYSUBXTUlXVVdFRElAUltWVlxPSEFRT0VRQktQX15DSURPXF1TWlVMSEFST0VRSEtQWl5DSEBPXFpTWlRLSEFXT0VQQ0tQWF5DSEJPXFhTWlRMSEFZT0VQR0tQV15DSElPX19TWldLSEJQT0VTREtTXV5DS0hPX1tTWldASEJUT0VSSEtTWF5DSkZPX1hTWlZASEJYT0VVQ0tSXl5DTUVPXl5TWlFBSENST0VUQUtSWl5DTERPXlpTWlBMSENXT0VUR0tSVl5DT0VPXlZTWlBJSExVT0VWREtdW15DTkZPUVlTWlJOSExWT0VWSUtdVl5DQUJPUF9TWlxJSE1QT0VYQktcXF5DQERPUFxTWlxPSE1VT0VYSEtcVl5ASUZPWF9fVldCX0YoFlhBAwI6CREdDAArAAtUS1FJQ0JCS0NcQUBWQFJLQF5FUVdAWVFKUEVRT0VRSEFXWlVBTVNFWFJcWlRPSkVQQkRCQUJYX1tHTkJDWVhXSFNIThFTF0VQFUAGQ1VAHRVZXQoICkhBS0xWXxJWSUJWW1FESRQQUUxfWFVER1dQQUlSQUNcXVJLTUVXWFtTX1RMQEFQQEJRU0FcUwAdFF4WABsDAhYLHANPHhEGHxIEGg4TF1NGXlJaRVU8XkBCQExcMzwsLShRSkFJOyYtIzotNiw1UUdTTTkrLzMiJj8iLD0iKjxaQENcFAENHAAECQYtEB8HNg0HDDoQHRITEysNGR4OMQ0dHx8bHQocNAQXGhkDBho%2BGR4EHhMtFgYRGwMPEkZKSkksPTYoPDVGWlVPKT05JTA9Ly5aQkZWTxcTFRERBxUXOgAZNhseNBUWBBETUUVTSE1WTVdFRCIxLiIhLyA1UEBZT0RPQ0BQWkBHSU01Jys8JCw9UEFXT0NYXklQWUBHTk1GWkFfXFVIUEFZT0dCRkBYIjc3WkZHVF1bWlZKQldXR0kyNDtGWFRPSV5EW1daSFRIQkkHExgSFVNSXl4QFgoNRwwBBkZOS0lQQkxRU0dcU1FCTkJXWF9aVlVXQ0BUQ1dWR01VQFVBSUBXWFINXgAbQRYES1lSE0cEQ1cXSBJZCw5WW0gdQxdUExBVR0dTWQFRTkFJLBkLGRwWHRFCR0dcMUdGX1NKRBYVBRwLSFRLQklRUUVTQk1VTVJATE1ESl5cX1hLUEVSSklQSEVSXFRCTklXWFtfVlZIQE1SQ01VRVNUXVVPChQfRAoWCA0YHRMEX0JWREYDWlZGH0VZB1YaXxFaQkdWTwJRXkZRQFNRS01FR1tNXlhKQkRTRERCR0ZYKCwnK1NFX1IdAgseHxFCQ0NcQVNXXl4BHRsrDh8GBAscLAxZRCtXRFNUW1tPChQfNggeAwoXFisZSkI%2BRkRGXFJPPh8bDgMLSFdLTkdRUUVVQE1UX01CWkNEVCYgSFZBTkdPR1pQU0RRU1BRTUVJWUxaUlgaRhEDQBYESV1WDVQTVEQRWA1DCQRBQ1kFQhdUERRRWVREThJXXFtTJjVaRk1cBgYUFVNTV15BV0BXXl1TDQQVABFCRUdcFR5IGxBRTkRJXl9dXVxPQ0dQRUVQQkNXTVtERDU6KC0iLiFaSkxcOzo1NSI2OiomMDE4SldZVlVXQ0BUQ1dZSE1VQFNRQUlJWUFfWVJPUEVVQUlRU0FRWl5CV0BXWFtbVlRXQ1dQRkJcQV5VTVJHS01FWExfXlZEIx0SExpBOwUIHhEXHFNFWVlTDQQVABFCQ0VXTUFG&isPubImp=true&dp=true&position=interstitial&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&isShown=false&reason=AD_NOT_READY"
+    }
+  },
+  {
+    "ts": 1779644857266,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644857324,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644857328,
+    "type": "url_access",
+    "data": {
+      "url": "https://publisher-config.unityads.unity3d.com/games/1245991/configuration?deviceMake=Google&screenDensity=440&screenSize=268435810&advertisingTrackingId=e2e11e0c-62de-4efa-8887-f79235260dd8&limitAdTracking=false&connectionType=cellular&screenHeight=2009&screenWidth=1080&bundleId=com.bitmisrow.legobatman&encrypted=true&rooted=false&platform=android&sdkVersion=2005&osVersion=11&deviceModel=sdk_gphone_x86_64&language=en_US&test=false&first=true&userLevelFlagDetected=false"
+    }
+  },
+  {
+    "ts": 1779644857579,
+    "type": "url_access",
+    "data": {
+      "url": "https://adimpression.startappservice.com/adimpression/api/v1.0/adimp?d=IAAAAAAgAAA6X1tPSEdDUFlaX11MRUVUQ1dQRUBYX1RFQEZAXVdbXldBS1dVT09VTUheW15DSUtDVF5dUF1EQkJaS0lQSEtUXl5ASUtFWFJcWV5IQUlTRk9QQ01XWFhDTU1GUVRfXlhKQ09QSklSRktUV15BQUtGWVJaW15LQklVQ09TQk1RXVhASk1AXFRcXlhNSk9TRElUQUtXWV5HTUtGUVJbXV5LSklUSk9SQE1QV1hBSE1CW1RdWVhPQE9SQUlXRktWWl5ETktHXFJZW15KRUlWS09SR01SXVhBQU1MWVRdUlhORE9VQklZQEtRX15KSEtAW1JWWF5NQElZR09VRE1dWVhGTE1MUFRaXVhAQU9VRUlYREtRVl5LT0tBWVJfW1dCRkVcQ0RVS0VXU1JCTEtBWlJfW11CRkBcQ0VRS0VQU1JDS0tBX1JfWlZCRkJcQ0VTS0VSU1JDTEtBUVJfWlJCRk1cQ0VYS0ZVU1JAS0tCWFJfWVFCRUdcQ0ZZS0ZRU1JAQEtCXFJfWF1CRUJcQ0dXS0ZSU1JBQEtCUFJfX1ZCRERcQ0BUS0dUU1JGQUtDWlJfXlRCREBcQ0FVS0dQU1JHT0tDX1JfXlJCRExcQ0JUS0dcU1JHSUtMXVJfXFFCS0FcQ0NXS0hTU1JFTktMXlJfXFxCS0xcQ0xTS0lVU1JLSEtNWFJfUldCSkZcQ01US0lWU1JLT0tNXVJfUl1CSkxcQERXS0FVX15AQkRJUVRbVlRJSENcQ0daSE1UWFhLREFMUl5eVldJSEVQT0ZTS0FXU1FGQkFHVF1YUFRNTkZZSUVUTUNVVVJKRENCUl5XVlZBSEZRT0BRS0JUU1dDQkJGVFtdUFdKTkBUSUZUTURcVVFEREVFUl1ZVlBNSEZZT0FXS0JcU1ZKQkNEVFpXUFZITkJTSUdTTUZWVVBBREZCUlxaVlNOSEdUT0NRS0NTU1RLQkNDVFhdUFZBTkxRSUdYTUdSVVdCREhEUltfVl1ISEBTT0xSS0RWU1tHQkRAVFdZUFFMTkxYSUBXTUlXVVdFRElAUltWVlxPSEFRT0VRQktQX15DSURPXF1TWlVMSEFST0VRSEtQWl5DSEBPXFpTWlRLSEFXT0VQQ0tQWF5DSEJPXFhTWlRMSEFZT0VQR0tQV15DSElPX19TWldLSEJQT0VTREtTXV5DS0hPX1tTWldASEJUT0VSSEtTWF5DSkZPX1hTWlZASEJYT0VVQ0tSXl5DTUVPXl5TWlFBSENST0VUQUtSWl5DTERPXlpTWlBMSENXT0VUR0tSVl5DT0VPXlZTWlBJSExVT0VWREtdW15DTkZPUVlTWlJOSExWT0VWSUtdVl5DQUJPUF9TWlxJSE1QT0VYQktcXF5DQERPUFxTWlxPSE1VT0VYSEtcVl5ASUZPWF9fVldCX0YoFlhBAwI6CREdDAArAAtUS1FJQ0JCS0NcQUBWQFJLQF5FUVdAWVFKUEVRT0VRSEFXWlVBTVNFWFJcWlRPSkVQQkRCQUJYX1tHTkJDWVhXSFNIThFTF0VQFUAGQ1VAHRVZXQoICkhBS0xWXxJWSUJWW1FESRQQUUxfWFVER1dQQUlSQUNcXVJLTUVXWFtTX1RMQEFQQEJRU0FcUwAdFF4WABsDAhYLHANPHhEGHxIEGg4TF1NGXlJaRVU8XkBCQExcMzwsLShRSkFJOyYtIzotNiw1UUdTTTkrLzMiJj8iLD0iKjxaQENcFAENHAAECQYtEB8HNg0HDDoQHRITEysNGR4OMQ0dHx8bHQocNAQXGhkDBho%2BGR4EHhMtFgYRGwMPEkZKSkksPTYoPDVGWlVPKT05JTA9Ly5aQkZWTxcTFRERBxUXOgAZNhseNBUWBBETUUVTSE1WTVdFRCIxLiIhLyA1UEBZT0RPQ0BQWkBHSU01Jys8JCw9UEFXT0NYXklQWUBHTk1GWkFfXFVIUEFZT0dCRkBYIjc3WkZHVF1bWlZKQldXR0kyNDtGWFRPSV5EW1daSFRIQkkHExgSFVNSXl4QFgoNRwwBBkZOS0lQQkxRU0dcU1FCTkJXWF9aVlVXQ0BUQ1dWR01VQFVBSUBXWFINXgAbQRYES1lSE0cEQ1cXSBJZCw5WW0gdQxdUExBVR0dTWQFRTkFJLBkLGRwWHRFCR0dcMUdGX1NKRBYVBRwLSFRLQklRUUVTQk1VTVJATE1ESl5cX1hLUEVSSklQSEVSXFRCTklXWFtfVlZIQE1SQ01VRVNUXVVPChQfRAoWCA0YHRMEX0JWREYDWlZGH0VZB1YaXxFaQkdWTwJRXkZRQFNRS01FR1tNXlhKQkRTRERCR0ZYKCwnK1NFX1IdAgseHxFCQ0NcQVNXXl4BHRsrDh8GBAscLAxZRCtXRFNUW1tPChQfNggeAwoXFisZSkI%2BRkRGXFJPPh8bDgMLSFdLTkdRUUVVQE1UX01CWkNEVCYgSFZBTkdPR1pQU0RRU1BRTUVJWUxaUlgaRhEDQBYESV1WDVQTVEQRWA1DCQRBQ1kFQhdUERRRWVREThJXXFtTJjVaRk1cBgYUFVNTV15BV0BXXl1TDQQVABFCRUdcFR5IGxBRTkRJXl9dXVxPQ0dQRUVQQkNXTVtERDU6KC0iLiFaSkxcOzo1NSI2OiomMDE4SldZVlVXQ0BUQ1dZSE1VQFNRQUlJWUFfWVJPUEVVQUlRU0FRWl5CV0BXWFtbVlRXQ1dQRkJcQV5VTVJHS01FWExfXlZEIx0SExpBOwUIHhEXHFNFWVlTDQQVABFCQ0VXTUFG&isPubImp=true&dp=true&position=interstitial&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&ts=1779644857578&afh=CmzRigoRTo%2BfLKfzrgYf4g"
+    }
+  },
+  {
+    "ts": 1779644857580,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644857789,
+    "type": "webview",
+    "data": {
+      "url": "javascript:gClientInterface.setMode(\"interstitial\")"
+    }
+  },
+  {
+    "ts": 1779644857790,
+    "type": "webview",
+    "data": {
+      "url": "javascript:enableScheme(\"externalLinks\")"
+    }
+  },
+  {
+    "ts": 1779644857835,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644857840,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644857844,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644857858,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644857867,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779644857882,
+    "type": "url_access",
+    "data": {
+      "url": "https://auction.unityads.unity3d.com/v6/games/1245991/requests?advertisingTrackingId=e2e11e0c-62de-4efa-8887-f79235260dd8&limitAdTracking=false&deviceModel=sdk_gphone_x86_64&platform=android&sdkVersion=2005&stores=google&deviceMake=Google&screenSize=268435810&screenDensity=440&apiLevel=30&osVersion=11&screenWidth=1080&screenHeight=2009&connectionType=cellular&networkType=13"
+    }
+  },
+  {
+    "ts": 1779644858081,
+    "type": "url_access",
+    "data": {
+      "url": "https://adimpression.startappservice.com/adimpression/api/v1.0/adimp?d=IAAAAAAgAAA6X1tPSEdDUFlaX11MREBZQFdQRUBYX1RFQEZAXVdbXVJBR1dVT09VTUheW15DSUtDVF5dUF1EQkJaS0lQSEtUXl5ASUtFWFJcWV5IQUlTRk9QQ01XWFhDTU1GUVRfXlhKQ09QSklSRktUV15BQUtGWVJaW15LQklVQ09TQk1RXVhASk1AXFRcXlhNSk9TRElUQUtXWV5HTUtGUVJbXl5LSklUSk9SQE1QV1hBSE1CW1RdWVhPQE9SQUlXRktWWl5ETktHXFJZW15KRUlWS09SR01SXVhBQU1MWVRdUlhORE9VQklZQEtRX15KSEtAW1JWWF5NQElZR09VRE1dWVhGTE1MUFRaXVhAQU9VRUlYREtRVl5LT0tBWVJfW1dCRkVcQ0RVS0VXU1JCTEtBWlJfW11CRkBcQ0VRS0VQU1JDS0tBX1JfWldCRkJcQ0VSS0VSU1JDTEtBUVJfWlJCRk1cQ0VYS0ZVU1JAS0tCWFJfWVFCRUdcQ0ZZS0ZRU1JAQEtCXFJfWF1CRUJcQ0dXS0ZSU1JBQEtCUFJfX1dCRERcQ0BUS0dUU1JGQUtDWlJfXlRCREBcQ0FVS0dQU1JHT0tDX1JfXlJCRExcQ0JUS0dcU1JHSUtMXVJfXFFCS0FcQ0NXS0hTU1JFTktMXlJfXFxCS0xcQ0xTS0lVU1JLSEtNWFJfUldCSkZcQ01US0lWU1JLT0tNXVJfUl1CSkxcQERXS0FVX15AQlxGIAtCSxYLLBMTHQERLxkBVENGSUBARU8dGToeARsUAisIFEpFWlNCTVxUGh0xDBcWBgQ%2BGxBbUERVXldeWQMGNggcBBAJLB0FSFRVQEBRTVpFREFEWkFfUlxXQkxZXEZVQ1NUXl5DSUhFW1tYWFFaQkVcQEVQRklUX1NCWkFGVF5WXlJLRERWS1dXQU0AXAZDSBVECkJYWQEcXkAEFBVMSEhdWU4UTklGWlpcXVUdF0xCQ0dRTURGX1BPSkFHUF1ZXFZMUEVVT0BQRUNXVlpAS1NFUFINBAhXER0VHx0SAh8SQA8XHh8WCBsDCgtaQUNcQlpRQEFGXFtPOjw9KiRNWFREIT0iOis1NSgxTVBARDk6KD8%2BNCc4PTokIFdSR00PHQwcWkNNVCIhKSw1NldVREkxPT0pMTA2MlNFW1hTCBccEgAIBBEiAB06GhMtCR8DDB1NWldBTkdCRkNcIjUiIyw2PDxXXVdTW0tAREJXUUFRTTErKjE9MDRXXFlTXFxXSkFWUUFWTUJWQFJFSUFXXFdTWEZPQ0ktJjFCRkNYX1tDSkNFSllbVjY9OFdXRUlRXkBVV1ZRSEFFVAkPBxYcUENRTxYOCglLDQwfWkdMVF5eU1VaRE1cQERRSVNUXldPSV5EWFpfSFJOTkRPREdRQFNUU1cQTRYXXlcLRlJOERVMRhEHRF1cDAIUVBNACl0LXgRIShUCS1dWQU0gGAYAAB8aDExbWFg4QkRCQ0RZTRYEAhAXWkFGWVJeSFRLQklRUUVTQk1VTVJATE1ESl5cX1hLUEVSSklQSEVSXFRCTklXWFtfVlZIQE1TRUNSRVNUXVVPChQfRAoWCA0YHRMEX0JWREYDWlZGH0VZAxgaAA1aQkdWTwJRXkZRQFNRS01FR1tNXlhKQkRTRERCR0ZYKCwnK1NFX1IdAgseHxFCQ0NcQVNXXl4BHRsrDh8GBAscLAxZRCtXRFNUW1tPChQfNggeAwoXFisZSkI%2BRkRGXFJPPh8bDgMLSFdLTkdRUUVVQE1UX01CWkNEVCYgSFZBTkdPR1pQU0RRU1BRTUVJWUxaUlhNEUAHEUNZFV1SWQETVEQRD1tDUgcYFVkCRhdTFUUEX1oTGklXXFtTJjVaRk1cBgYUFVNTV15BV0BXXl1TDQQVABFCRUdcFR5IGxBRTkRJXl9dXVxPQ0dQRUVQQkNXTVtERDU6KC0iLiFaSkxcOzo%2BMjErICYgJiY9LSohSF1OTkRPQkVUQVNdVl5CV0BXUVZTW0tJQURQUUVVQ01VTVJGTU1ER19NWlFMTkVPQldQREZYX01CWkFBW1JfWkZIRkdcIh0SER5FJRYfCQIRDExfW1NEFRUNARFCQUFTU1JR&isPubImp=true&dp=true&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&ts=1779644858081&afh=xZtjIq86Ymf4tsa32X3Gyw"
+    }
+  },
+  {
+    "ts": 1779644858082,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644858387,
+    "type": "url_access",
+    "data": {
+      "url": "https://adimpression.startappservice.com/adimpression/api/v1.0/adimp?d=IAAAAAAgAAA6X1tPSEdDUFlaX11MRENUQldQRUBYX1RFQEZAXVdbXFVMRVdVT09VTUheW15DSUtDVF5dUF1EQkJaS0lQSEtUXl5ASUtFWFJcWV5IQUlTRk9QQ01XWFhDTU1GUVRfXlhKQ09QSklSRktUV15BQUtGWVJaW15LQklVQ09TQk1RXVhASk1AXFRcXlhNSk9TRElUQUtXWV5HTUtGUVJbXl5LSklUSk9SQE1QV1hBSE1CW1RdWVhPQE9SQUlXRktWWl5ETktHXFJZW15KRUlWS09SR01SXVhBQU1MWVRdUlhORE9VQklZQEtRX15KSEtAW1JWWF5NQElZR09VRE1dWVhGTE1MUFRaXVhAQU9VRUlYREtRVl5LT0tBWVJfW1dCRkVcQ0RSS0VXU1JCTEtBWlJfW11CRkBcQ0VRS0VQU1JDS0tBX1JfWlZCRkJcQ0VTS0VSU1JDTEtBUVJfWlJCRk1cQ0VYS0ZVU1JAS0tCWFJfWVFCRUdcQ0ZZS0ZRU1JAQEtCXFJfWF1CRUJcQ0dXS0ZSU1JBQEtCUFJfX1dCRERcQ0BUS0dUU1JGQUtDWlJfXlRCREBcQ0FSS0dQU1JHTEtDX1JfXlJCRExcQ0JUS0dcU1JHSUtMXVJfXFFCS0FcQ0NXS0hTU1JFTktMXlJfXFxCS0xcQ0xTS0lVU1JLSEtNWFJfUldCSkZcQ01US0lWU1JLT0tNXVJfUl1CSkxcQERWS0FVX15AQlxGIAtCSxYLLBMTHQERLxkBVENGSUBARU8dGToeARsUAisIFEpFWlNCTVxUGh0xDBcWBgQ%2BGxBbUERVXldeWQMGNggcBBAJLB0FSFRVQEBRTVpFREFEWkFfUlxXQkxZXEZVQ1NUXl5DSUhFW1tYWFFaQkVcQEVQRklUX1NCWkFGVF5WXlJLRERWS1dXQU0AXAZDSBVECkJYWQEcXkAEFBVMSEhdWU4UTklGWlpcXVUdF0xCQ0dRTURGX1BPSkFHUF1ZXFZMUEVVT0BQRUNXVlpATVNFUFINBAhXER0VHx0SAh8SQA8XHh8WCBsDCgtaQUNcQlpRQEFGXFtPOjw9KiRNWFREIT0iOis1NSgxTVBARDk6KD8%2BNCc4PTokIFdSR00PHQwcWkNNVCIhKSw1NldVREkxPT0pMTA2MlNFW1hTCBccEgAIBBEiAB06GhMtCR8DDB1NWldBTkdCRkNcIjUiIyw2PDxXXVdTW0tAREJXUUFRTTErKjE9MDRXXFlTXFxXSkFWUUFWTUJWQFJFSUFXXFdTWEZPQ0ktJjFCRkNYX1tDSkNFSllbVjY9OFdXRUlRXkBVV1ZRSEFFVAkPBxYcUENRTxYOCglLDQwfWkdMVF5eU1VaRE1cQERRSVNUXldPSV5EWFpfSFJOTkRPREdRQFNUUwZEShQRWg1XRl0fFkxMRkcDFF1cX1IUVBQSCl0NXwAdSxZXRFdWQU0gGAYAAB8aDExbWFg4QkRCQ0RZTRYEAhAXWkFGWVJeSFRLQklRUUVTQk1VTVJATE1ESl5cX1hLUEVSSklQSEVSXFRCTklXWFtfVlZIQE1TRUNSRVNUXVVPChQfRAoWCA0YHRMEX0JWREYDWlZGH0VZGgQMXl1aQkdWTwJRXkZRQFNRS01FR1tNXlhKQkRTRERCR0ZYKCwnK1NFX1IdAgseHxFCQ0NcQVNXXl4BHRsrDh8GBAscLAxZRCtXRFNUW1tPChQfNggeAwoXFisZSkI%2BRkRGXFJPPh8bDgMLSFdLTkdRUUVVQE1UX01CWkNEVCYgSFZBTkdPR1pQU0RRU1BRTUVJWUxaUlgcRUcFF0cDSV1dCAZKVERHCwtDUlRIFVkFFBdTE0QAClsQT0ZXXFtTJjVaRk1cBgYUFVNTV15BV0BXXl1TDQQVABFCRUdcFR5IGxBRTkRJXl9dXVxPQ0dQRUVQQkNXTVtERDU6KC0iLiFaSkxcOzo%2BMjErICYgJiY9LSohSF1OTkRPQkVUQVNdVl5CV0BXUVZTW0tJQURQUUVVQ01VTVJGTU1ER19NWlFMTkVPQldQREZYX01CWkFBW1JfWkZIRkdcIh0SER5FJRYfCQIRDExfW1NEFRUNARFCQUFTU1JR&isPubImp=true&dp=true&clientSessionId=5152b4dc-a4c9-48cb-aac2-f85da108d67c&ts=1779644858387&afh=vvW%2FSI6r%2BGUUmWnLyig3Uw"
+    }
+  },
+  {
+    "ts": 1779644858388,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779644858833,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644858841,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-520f3cf38b78be48567ecea503556df616c093ad064016f38aa7d73b7855591f.webm"
+    }
+  },
+  {
+    "ts": 1779644858844,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-520f3cf38b78be48567ecea503556df616c093ad064016f38aa7d73b7855591f.webm"
+    }
+  },
+  {
+    "ts": 1779644858846,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-520f3cf38b78be48567ecea503556df616c093ad064016f38aa7d73b7855591f.webm"
+    }
+  },
+  {
+    "ts": 1779644858846,
+    "type": "url_access",
+    "data": {
+      "url": "https://cdn-creatives-cf-prd.acquire.unity3dusercontent.com/assets/68494e73db7c262a5e5289d3/VP9_high.webm"
+    }
+  },
+  {
+    "ts": 1779644859056,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644859323,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644859324,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-520f3cf38b78be48567ecea503556df616c093ad064016f38aa7d73b7855591f.webm"
+    }
+  },
+  {
+    "ts": 1779644859327,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-520f3cf38b78be48567ecea503556df616c093ad064016f38aa7d73b7855591f.webm"
+    }
+  },
+  {
+    "ts": 1779644859332,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644859335,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-520f3cf38b78be48567ecea503556df616c093ad064016f38aa7d73b7855591f.webm"
+    }
+  },
+  {
+    "ts": 1779644859348,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-1bd8f36c77a28cc4b134d9d0af918022c465d01ab78f5e9b134936db02d759d0.jpg"
+    }
+  },
+  {
+    "ts": 1779644859350,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644859353,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644859356,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644859362,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-1bd8f36c77a28cc4b134d9d0af918022c465d01ab78f5e9b134936db02d759d0.jpg"
+    }
+  },
+  {
+    "ts": 1779644859366,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-1bd8f36c77a28cc4b134d9d0af918022c465d01ab78f5e9b134936db02d759d0.jpg"
+    }
+  },
+  {
+    "ts": 1779644859366,
+    "type": "url_access",
+    "data": {
+      "url": "https://cdn-store-icons-akamai-prd.unityads.unity3d.com/store-icons/0b827763-76c8-4a3d-a8c6-944d8366d66d.jpg"
+    }
+  },
+  {
+    "ts": 1779644859830,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644860863,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644860866,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644860867,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-1bd8f36c77a28cc4b134d9d0af918022c465d01ab78f5e9b134936db02d759d0.jpg"
+    }
+  },
+  {
+    "ts": 1779644860871,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-1bd8f36c77a28cc4b134d9d0af918022c465d01ab78f5e9b134936db02d759d0.jpg"
+    }
+  },
+  {
+    "ts": 1779644860874,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-1bd8f36c77a28cc4b134d9d0af918022c465d01ab78f5e9b134936db02d759d0.jpg"
+    }
+  },
+  {
+    "ts": 1779644860879,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-dd8b34d6e40526366c30810e8f8e36efc686340b7a69fdd7c106d3494de507d4.html"
+    }
+  },
+  {
+    "ts": 1779644860882,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-dd8b34d6e40526366c30810e8f8e36efc686340b7a69fdd7c106d3494de507d4.html"
+    }
+  },
+  {
+    "ts": 1779644860883,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-dd8b34d6e40526366c30810e8f8e36efc686340b7a69fdd7c106d3494de507d4.html"
+    }
+  },
+  {
+    "ts": 1779644860884,
+    "type": "url_access",
+    "data": {
+      "url": "https://cdn-creatives-cf-prd.acquire.unity3dusercontent.com/assets/687ccc8ae14c72697da23a0a/5ea09cdb-cde4-4fbe-aa1a-57c9c90f902d.html"
+    }
+  },
+  {
+    "ts": 1779644860921,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644861348,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsStorage-private-data.json"
+    }
+  },
+  {
+    "ts": 1779644861349,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-dd8b34d6e40526366c30810e8f8e36efc686340b7a69fdd7c106d3494de507d4.html"
+    }
+  },
+  {
+    "ts": 1779644861350,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-dd8b34d6e40526366c30810e8f8e36efc686340b7a69fdd7c106d3494de507d4.html"
+    }
+  },
+  {
+    "ts": 1779644861354,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.bitmisrow.legobatman/cache/UnityAdsCache/UnityAdsCache-dd8b34d6e40526366c30810e8f8e36efc686340b7a69fdd7c106d3494de507d4.html"
+    }
+  }
+]

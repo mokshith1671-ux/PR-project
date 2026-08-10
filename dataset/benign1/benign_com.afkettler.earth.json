@@ -1,0 +1,23 @@
+[
+  {
+    "ts": 1779638365228,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.afkettler.earth/shared_prefs/com.afkettler.earth_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638365233,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { flg=0x14000000 cmp=com.afkettler.earth/.SettingsActivity }"
+    }
+  },
+  {
+    "ts": 1779638365669,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.afkettler.earth.SettingsActivity"
+    }
+  }
+]

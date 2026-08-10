@@ -1,0 +1,730 @@
+[
+  {
+    "ts": 1778229985164,
+    "type": "file",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1778229985167,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/shared_prefs/CONFS.xml.bak"
+    }
+  },
+  {
+    "ts": 1778229985186,
+    "type": "sp",
+    "data": {
+      "key": "storeVersion"
+    }
+  },
+  {
+    "ts": 1778229985360,
+    "type": "device",
+    "data": {
+      "api": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1778229985376,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778229985385,
+    "type": "sp",
+    "data": {
+      "key": "DeviceID"
+    }
+  },
+  {
+    "ts": 1778229985386,
+    "type": "sp",
+    "data": {
+      "key": "EnableSimulator"
+    }
+  },
+  {
+    "ts": 1778229985561,
+    "type": "sp",
+    "data": {
+      "key": "EnableComScoreAnalytics"
+    }
+  },
+  {
+    "ts": 1778229985561,
+    "type": "sp",
+    "data": {
+      "key": "ComScoreCustomerC2"
+    }
+  },
+  {
+    "ts": 1778229985562,
+    "type": "sp",
+    "data": {
+      "key": "ComScorePublisherSecret"
+    }
+  },
+  {
+    "ts": 1778229985566,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/shared_prefs/cSPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1778229985578,
+    "type": "sp",
+    "data": {
+      "key": "EnableOmnitureAnalytics"
+    }
+  },
+  {
+    "ts": 1778229985581,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778229985581,
+    "type": "sp",
+    "data": {
+      "key": "OmnitureId"
+    }
+  },
+  {
+    "ts": 1778229985586,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/cache/AppMeasurementOfflineCacheDatabase.sqlite"
+    }
+  },
+  {
+    "ts": 1778229985633,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/shared_prefs/APP_MEASUREMENT_CACHE.xml.bak"
+    }
+  },
+  {
+    "ts": 1778229985635,
+    "type": "sp",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1778229985701,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/files/.TwitterSdk/v/com.crashlytics.sdk.android/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1778229985725,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/shared_prefs/com.crashlytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1778229985746,
+    "type": "sp",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1778229985747,
+    "type": "sp",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1778229985755,
+    "type": "sp",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1778229985760,
+    "type": "sp",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1778229985765,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/ECB/PKCS7Padding"
+    }
+  },
+  {
+    "ts": 1778229985785,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/files/.TwitterSdk/v/com.crashlytics.sdk.android/69FDA2E102D1-0001-7B0D-DE4443DA35EABeginSession.cls_temp"
+    }
+  },
+  {
+    "ts": 1778229985793,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/files/.TwitterSdk/v/com.crashlytics.sdk.android/69FDA2E102D1-0001-7B0D-DE4443DA35EABeginSession.cls"
+    }
+  },
+  {
+    "ts": 1778229985796,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/files/.TwitterSdk/v/com.crashlytics.sdk.android/69FDA2E102D1-0001-7B0D-DE4443DA35EASessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1778229985798,
+    "type": "sp",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1778229985823,
+    "type": "sp",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1778229985824,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778229985828,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778229985831,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/files/.TwitterSdk/v/com.crashlytics.sdk.android/69FDA2E102D1-0001-7B0D-DE4443DA35EASessionApp.cls"
+    }
+  },
+  {
+    "ts": 1778229985837,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/files/.TwitterSdk/v/com.crashlytics.sdk.android/69FDA2E102D1-0001-7B0D-DE4443DA35EASessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1778229985838,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/shared_prefs/com.crashlytics.android.internal.D.xml.bak"
+    }
+  },
+  {
+    "ts": 1778229985846,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778229985850,
+    "type": "file",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1778229985861,
+    "type": "network",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.greenowl.traffic1130.android/settings?instance=4cfeadb25f336efdd46096e45b2a3e184bb1b5c5&build_version=1&display_version=1.0&source=1&icon_hash=e3ce2513c1fcaa6e151e1b983660a4a1cee707d9"
+    }
+  },
+  {
+    "ts": 1778229985864,
+    "type": "file",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1778229985871,
+    "type": "network",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.greenowl.traffic1130.android/settings?instance=4cfeadb25f336efdd46096e45b2a3e184bb1b5c5&build_version=1&display_version=1.0&source=1&icon_hash=e3ce2513c1fcaa6e151e1b983660a4a1cee707d9"
+    }
+  },
+  {
+    "ts": 1778229985881,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/files/.TwitterSdk/v/com.crashlytics.sdk.android/69FDA2E102D1-0001-7B0D-DE4443DA35EASessionOS.cls"
+    }
+  },
+  {
+    "ts": 1778229985885,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/files/.TwitterSdk/v/com.crashlytics.sdk.android/69FDA2E102D1-0001-7B0D-DE4443DA35EASessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1778229985887,
+    "type": "file",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1778229985902,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778229985905,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778229985917,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778229985937,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778229985937,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778229985937,
+    "type": "file",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1778229985939,
+    "type": "file",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1778229985940,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/files/.TwitterSdk/v/com.crashlytics.sdk.android/69FDA2E102D1-0001-7B0D-DE4443DA35EASessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1778229985966,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/files/.TwitterSdk/v/com.crashlytics.sdk.android/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1778229986054,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/shared_prefs/com.greenowl.traffic1130.android_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1778229986057,
+    "type": "sp",
+    "data": {
+      "key": "PointCount"
+    }
+  },
+  {
+    "ts": 1778229986069,
+    "type": "sp",
+    "data": {
+      "key": "MjrHwyMapRefreshRate"
+    }
+  },
+  {
+    "ts": 1778229986070,
+    "type": "sp",
+    "data": {
+      "key": "MjrHwyMapRefreshRate"
+    }
+  },
+  {
+    "ts": 1778229986073,
+    "type": "sp",
+    "data": {
+      "key": "SelectCityEnable"
+    }
+  },
+  {
+    "ts": 1778229986076,
+    "type": "sp",
+    "data": {
+      "key": "Re-entrys"
+    }
+  },
+  {
+    "ts": 1778229986077,
+    "type": "sp",
+    "data": {
+      "key": "BrandTag"
+    }
+  },
+  {
+    "ts": 1778229986077,
+    "type": "sp",
+    "data": {
+      "key": "PushNotificationEnable"
+    }
+  },
+  {
+    "ts": 1778229986081,
+    "type": "sp",
+    "data": {
+      "key": "isPushNotificationEnabled"
+    }
+  },
+  {
+    "ts": 1778229986097,
+    "type": "sp",
+    "data": {
+      "key": "Url"
+    }
+  },
+  {
+    "ts": 1778229986098,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/shared_prefs/com.google.android.gcm.xml.bak"
+    }
+  },
+  {
+    "ts": 1778229986104,
+    "type": "sp",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1778229986154,
+    "type": "sp",
+    "data": {
+      "key": "isSurveyEnabled"
+    }
+  },
+  {
+    "ts": 1778229986162,
+    "type": "sp",
+    "data": {
+      "key": "Re-entrys"
+    }
+  },
+  {
+    "ts": 1778229986168,
+    "type": "sp",
+    "data": {
+      "key": "BrandTag"
+    }
+  },
+  {
+    "ts": 1778229986171,
+    "type": "sp",
+    "data": {
+      "key": "config_server_url"
+    }
+  },
+  {
+    "ts": 1778229986308,
+    "type": "sp",
+    "data": {
+      "key": "EnableAdMob"
+    }
+  },
+  {
+    "ts": 1778229986318,
+    "type": "sp",
+    "data": {
+      "key": "adUnitId"
+    }
+  },
+  {
+    "ts": 1778229986320,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.greenowl.traffic1130.android/shared_prefs/GetStartedActivity.xml.bak"
+    }
+  },
+  {
+    "ts": 1778229986323,
+    "type": "sp",
+    "data": {
+      "key": "ShowNewSplashScreen"
+    }
+  },
+  {
+    "ts": 1778229986342,
+    "type": "activity",
+    "data": {
+      "activity": "com.greenowl.traffic1130.android.GetStartedActivity"
+    }
+  },
+  {
+    "ts": 1778229986347,
+    "type": "sp",
+    "data": {
+      "key": "EnableFlurryAnalytics"
+    }
+  },
+  {
+    "ts": 1778229986348,
+    "type": "sp",
+    "data": {
+      "key": "FlurryAppKey"
+    }
+  },
+  {
+    "ts": 1778229986367,
+    "type": "sp",
+    "data": {
+      "key": "BrandTag"
+    }
+  },
+  {
+    "ts": 1778229986406,
+    "type": "sp",
+    "data": {
+      "key": "Url"
+    }
+  },
+  {
+    "ts": 1778229986412,
+    "type": "sp",
+    "data": {
+      "key": "Re-entrys"
+    }
+  },
+  {
+    "ts": 1778229986417,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778229986433,
+    "type": "device",
+    "data": {
+      "api": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1778229986437,
+    "type": "sp",
+    "data": {
+      "key": "EnableGoogleAnalytics"
+    }
+  },
+  {
+    "ts": 1778229986438,
+    "type": "sp",
+    "data": {
+      "key": "EnableComScoreAnalytics"
+    }
+  },
+  {
+    "ts": 1778229986454,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778229986457,
+    "type": "file",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1778229986486,
+    "type": "network",
+    "data": {
+      "url": "http://b.scorecardresearch.com/p2?c1=19&c2=30056823&ns_ap_an=News1130%20Traffic&ns_ap_pn=android&c12=f9da4f405d4d395f08d5e02fa8927dc1-cs32&name=start&ns_ak=&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1778229986453&ns_ap_csf=1&ns_ap_bi=com.greenowl.traffic1130.android&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=1.0&ns_ap_sv=2.1309.19&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1778229985578&ns_ap_jb=0&ns_ap_res=1080x2009&ns_ap_install=1778229985578&ns_ap_lastrun=0&ns_ap_cs=1&ns_ap_runs=1&ns_ap_usage=875&ns_ap_fg=1&ns_ap_ft=2&ns_ap_dft=2&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=873&ns_ap_as=1&ns_ap_das=875&ns_ap_it=873&ns_ap_lang=en&ns_ts=1778229986453"
+    }
+  },
+  {
+    "ts": 1778229986526,
+    "type": "network",
+    "data": {
+      "url": "http://b.scorecardresearch.com/p2?c1=19&c2=30056823&ns_ap_an=News1130%20Traffic&ns_ap_pn=android&c12=f9da4f405d4d395f08d5e02fa8927dc1-cs32&name=start&ns_ak=&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1778229986453&ns_ap_csf=1&ns_ap_bi=com.greenowl.traffic1130.android&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=1.0&ns_ap_sv=2.1309.19&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1778229985578&ns_ap_jb=0&ns_ap_res=1080x2009&ns_ap_install=1778229985578&ns_ap_lastrun=0&ns_ap_cs=1&ns_ap_runs=1&ns_ap_usage=875&ns_ap_fg=1&ns_ap_ft=2&ns_ap_dft=2&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=873&ns_ap_as=1&ns_ap_das=875&ns_ap_it=873&ns_ap_lang=en&ns_ts=1778229986453"
+    }
+  },
+  {
+    "ts": 1778229989378,
+    "type": "sp",
+    "data": {
+      "key": "MinimumRecordingDistance"
+    }
+  },
+  {
+    "ts": 1778229990247,
+    "type": "sp",
+    "data": {
+      "key": "MinimumRecordingDistance"
+    }
+  },
+  {
+    "ts": 1778229992207,
+    "type": "sp",
+    "data": {
+      "key": "MinimumRecordingDistance"
+    }
+  },
+  {
+    "ts": 1778229994208,
+    "type": "sp",
+    "data": {
+      "key": "MinimumRecordingDistance"
+    }
+  },
+  {
+    "ts": 1778229995211,
+    "type": "sp",
+    "data": {
+      "key": "MinimumRecordingDistance"
+    }
+  },
+  {
+    "ts": 1778229995213,
+    "type": "sp",
+    "data": {
+      "key": "BrandTag"
+    }
+  },
+  {
+    "ts": 1778229995224,
+    "type": "sp",
+    "data": {
+      "key": "Url"
+    }
+  },
+  {
+    "ts": 1778229995999,
+    "type": "network",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.greenowl.traffic1130.android/settings?instance=4cfeadb25f336efdd46096e45b2a3e184bb1b5c5&build_version=1&display_version=1.0&source=1&icon_hash=e3ce2513c1fcaa6e151e1b983660a4a1cee707d9"
+    }
+  },
+  {
+    "ts": 1778229995999,
+    "type": "network",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.greenowl.traffic1130.android/settings?instance=4cfeadb25f336efdd46096e45b2a3e184bb1b5c5&build_version=1&display_version=1.0&source=1&icon_hash=e3ce2513c1fcaa6e151e1b983660a4a1cee707d9"
+    }
+  },
+  {
+    "ts": 1778229996210,
+    "type": "sp",
+    "data": {
+      "key": "MinimumRecordingDistance"
+    }
+  },
+  {
+    "ts": 1778229996558,
+    "type": "network",
+    "data": {
+      "url": "http://b.scorecardresearch.com/p2?c1=19&c2=30056823&ns_ap_an=News1130%20Traffic&ns_ap_pn=android&c12=f9da4f405d4d395f08d5e02fa8927dc1-cs32&name=foreground&ns_ak=&ns_ap_ec=2&ns_ap_ev=keep-alive&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1778229986453&ns_ap_bi=com.greenowl.traffic1130.android&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=1.0&ns_ap_sv=2.1309.19&ns_type=hidden&ns_radio=wifi&ns_nc=1&ns_ap_res=1080x2009&ns_ap_cs=1&ns_ap_usage=4028&ns_ap_fg=0&ns_ap_ft=3153&ns_ap_dft=3153&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=0&ns_ap_as=0&ns_ap_das=3153&ns_ap_it=0&ns_ap_oc=0&ns_ap_lang=en&ns_ts=1778229989606"
+    }
+  },
+  {
+    "ts": 1778229998201,
+    "type": "sp",
+    "data": {
+      "key": "MinimumRecordingDistance"
+    }
+  },
+  {
+    "ts": 1778229999211,
+    "type": "sp",
+    "data": {
+      "key": "MinimumRecordingDistance"
+    }
+  },
+  {
+    "ts": 1778230000211,
+    "type": "sp",
+    "data": {
+      "key": "MinimumRecordingDistance"
+    }
+  },
+  {
+    "ts": 1778230002222,
+    "type": "sp",
+    "data": {
+      "key": "MinimumRecordingDistance"
+    }
+  },
+  {
+    "ts": 1778230002223,
+    "type": "sp",
+    "data": {
+      "key": "BrandTag"
+    }
+  },
+  {
+    "ts": 1778230002229,
+    "type": "sp",
+    "data": {
+      "key": "Url"
+    }
+  },
+  {
+    "ts": 1778230003218,
+    "type": "sp",
+    "data": {
+      "key": "MinimumRecordingDistance"
+    }
+  },
+  {
+    "ts": 1778230005230,
+    "type": "sp",
+    "data": {
+      "key": "MinimumRecordingDistance"
+    }
+  }
+]

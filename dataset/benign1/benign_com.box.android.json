@@ -1,0 +1,604 @@
+[
+  {
+    "ts": 1779645725897,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.box.android.MoCoBoxUsers.userInfo"
+    }
+  },
+  {
+    "ts": 1779645725898,
+    "type": "shared_pref",
+    "data": {
+      "key": "storedPublicKey"
+    }
+  },
+  {
+    "ts": 1779645725908,
+    "type": "shared_pref",
+    "data": {
+      "key": "storedPublicKey"
+    }
+  },
+  {
+    "ts": 1779645725939,
+    "type": "shared_pref",
+    "data": {
+      "key": "pinCode"
+    }
+  },
+  {
+    "ts": 1779645725946,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.box.android.activities.login.SplashScreenActivity"
+    }
+  },
+  {
+    "ts": 1779645725969,
+    "type": "shared_pref",
+    "data": {
+      "key": "storedLoggedInUsers"
+    }
+  },
+  {
+    "ts": 1779645725991,
+    "type": "shared_pref",
+    "data": {
+      "key": "storedPublicKey"
+    }
+  },
+  {
+    "ts": 1779645726001,
+    "type": "shared_pref",
+    "data": {
+      "key": "storedPublicKey"
+    }
+  },
+  {
+    "ts": 1779645726002,
+    "type": "shared_pref",
+    "data": {
+      "key": "storedLoggedInUsers"
+    }
+  },
+  {
+    "ts": 1779645726019,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779645726021,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779645726022,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779645726023,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779645726023,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.box.android/cache/"
+    }
+  },
+  {
+    "ts": 1779645726030,
+    "type": "shared_pref",
+    "data": {
+      "key": "storedLoggedInUsers"
+    }
+  },
+  {
+    "ts": 1779645726040,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_id"
+    }
+  },
+  {
+    "ts": 1779645726042,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779645726043,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779645726043,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779645726043,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779645726049,
+    "type": "shared_pref",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1779645726150,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.box.android/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779645726150,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779645726151,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779645726151,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779645726151,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779645726151,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.box.android/files/.Fabric/com.crashlytics.sdk.android:crashlytics/6A133D1D02D9-0001-213D-1FCBC769165ASessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779645726152,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779645726155,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.box.android/settings?instance=8b39b50a2c8304befe4c10dbc722e08ff92c2e70&build_version=400461&display_version=3.7.6&source=1&icon_hash=032e96b863cfbd5bedd79194af790ea95b14b638"
+    }
+  },
+  {
+    "ts": 1779645726159,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.box.android/settings?instance=8b39b50a2c8304befe4c10dbc722e08ff92c2e70&build_version=400461&display_version=3.7.6&source=1&icon_hash=032e96b863cfbd5bedd79194af790ea95b14b638"
+    }
+  },
+  {
+    "ts": 1779645726202,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.box.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779645726217,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779645726219,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779645726220,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779645726237,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.box.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779645726249,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.box.android.MoCoBoxUsers.userInfo"
+    }
+  },
+  {
+    "ts": 1779645726259,
+    "type": "shared_pref",
+    "data": {
+      "key": "pinCode"
+    }
+  },
+  {
+    "ts": 1779645726260,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.box.android.activities.login.WelcomeTourActivity"
+    }
+  },
+  {
+    "ts": 1779645726261,
+    "type": "shared_pref",
+    "data": {
+      "key": "pinCode"
+    }
+  },
+  {
+    "ts": 1779645729233,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_id"
+    }
+  },
+  {
+    "ts": 1779645729239,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779645729239,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779645729240,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779645729241,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779645729251,
+    "type": "shared_pref",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1779645729322,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779645729322,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779645729322,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779645729328,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779645729329,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779645729335,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779645729335,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779645729335,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779645729335,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779645729335,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779645729335,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779645729348,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779645729348,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779645729352,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779645729353,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779645729353,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779645729353,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779645729354,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779645729354,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779645729357,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779645729358,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779645729358,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779645729358,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779645729359,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779645729387,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779645729390,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779645729390,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779645729392,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779645729392,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779645729395,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.box.android/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779645729406,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779645729436,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779645729524,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.box.android/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779645729621,
+    "type": "webview",
+    "data": {
+      "url": "https://app.box.com/api/oauth2/authorize?response_type=code&client_id=1y4ddq8mohgjyat6767yda5zca9ytxu3&state=71508ac90bfc53a9cde22241ffd352df82ed0ac5582a4f389e0e133d5b1d309c&box_show_signup=true"
+    }
+  },
+  {
+    "ts": 1779645729653,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.box.android.activities.login.BoxOAuthActivity"
+    }
+  },
+  {
+    "ts": 1779645729759,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779645729922,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779645729930,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779645729936,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779645729950,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779645729950,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  }
+]

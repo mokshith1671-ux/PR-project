@@ -1,0 +1,1150 @@
+[
+  {
+    "ts": 1779131738173,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/databases/com.localytics.android.19bd6643d89f9d752c2431bd97a6d4b5b23ecaf703868c64109e8024e1d7ea9e.profile.sqlite"
+    }
+  },
+  {
+    "ts": 1779131738185,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779131738188,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/.localytics/17b3c3aac52451a1b93d336-4fe670b6-16a9-11e5-a0c0-00739d24cb30"
+    }
+  },
+  {
+    "ts": 1779131738189,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131738191,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/databases/com.localytics.android.19bd6643d89f9d752c2431bd97a6d4b5b23ecaf703868c64109e8024e1d7ea9e.analytics.sqlite"
+    }
+  },
+  {
+    "ts": 1779131738202,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/databases/com.localytics.android.19bd6643d89f9d752c2431bd97a6d4b5b23ecaf703868c64109e8024e1d7ea9e.analytics.sqlite"
+    }
+  },
+  {
+    "ts": 1779131738241,
+    "type": "shared_pref",
+    "data": {
+      "key": "ATRemanentCampaignSaved"
+    }
+  },
+  {
+    "ts": 1779131738245,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/shared_prefs/com.pushwoosh.pushnotifications.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131738245,
+    "type": "shared_pref",
+    "data": {
+      "key": "dm_pwapp"
+    }
+  },
+  {
+    "ts": 1779131738248,
+    "type": "shared_pref",
+    "data": {
+      "key": "dm_sender_id"
+    }
+  },
+  {
+    "ts": 1779131738253,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/shared_prefs/com.pushwoosh.gcm.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131738253,
+    "type": "shared_pref",
+    "data": {
+      "key": "pw_regId"
+    }
+  },
+  {
+    "ts": 1779131738259,
+    "type": "shared_pref",
+    "data": {
+      "key": "dm_pwapp"
+    }
+  },
+  {
+    "ts": 1779131738260,
+    "type": "shared_pref",
+    "data": {
+      "key": "dm_sender_id"
+    }
+  },
+  {
+    "ts": 1779131738266,
+    "type": "shared_pref",
+    "data": {
+      "key": "pw_regId"
+    }
+  },
+  {
+    "ts": 1779131738267,
+    "type": "shared_pref",
+    "data": {
+      "key": "pw_regId"
+    }
+  },
+  {
+    "ts": 1779131738268,
+    "type": "shared_pref",
+    "data": {
+      "key": "dm_sender_id"
+    }
+  },
+  {
+    "ts": 1779131738312,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/shared_prefs/preferences_ifood_ws.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131738313,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_display_language"
+    }
+  },
+  {
+    "ts": 1779131738315,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/shared_prefs/localytics_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131738317,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/shared_prefs/br.com.brainweb.ifood.address.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131738317,
+    "type": "shared_pref",
+    "data": {
+      "key": "Address"
+    }
+  },
+  {
+    "ts": 1779131738318,
+    "type": "url_access",
+    "data": {
+      "url": "https://wsloja.ifood.com.br/ifood-ws-v3/app/config"
+    }
+  },
+  {
+    "ts": 1779131738321,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_session_token"
+    }
+  },
+  {
+    "ts": 1779131738324,
+    "type": "activity_resume",
+    "data": {
+      "activity": "br.com.brainweb.ifood.presentation.SplashScreen"
+    }
+  },
+  {
+    "ts": 1779131738329,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~htEYFYWQxxf7pkcrVtwLTA==/br.com.brainweb.ifood-IMVYFEJOWtP2VHHzGnDJrg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779131738337,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/shared_prefs/mat_id.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131738338,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/shared_prefs/com.mobileapptracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131738338,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_id"
+    }
+  },
+  {
+    "ts": 1779131738341,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/NoPadding"
+    }
+  },
+  {
+    "ts": 1779131738343,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_referrer"
+    }
+  },
+  {
+    "ts": 1779131738344,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/shared_prefs/mat_queue.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131738354,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131738354,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779131738355,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779131738355,
+    "type": "shared_pref",
+    "data": {
+      "key": "416123125096800json"
+    }
+  },
+  {
+    "ts": 1779131738356,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779131738356,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779131738364,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779131738364,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779131738367,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131738368,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131738368,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131738368,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779131738369,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779131738370,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779131738370,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779131738372,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131738372,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131738372,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131738372,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131738373,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131738374,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131738374,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131738374,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131738375,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779131738376,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779131738378,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131738378,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131738379,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131738379,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131738381,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131738381,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131738381,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131738381,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779131738381,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779131738381,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779131738382,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779131738382,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131738382,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131738382,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131738382,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131738383,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131738383,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131738383,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131738384,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131738385,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131738385,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131738385,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131738385,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131738385,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131738385,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131738386,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131738386,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779131738386,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779131738387,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779131738388,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/416123125096800/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779131738422,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779131738425,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779131738426,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779131738429,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779131738429,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779131738429,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131738438,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779131738470,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779131738562,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131738637,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131738652,
+    "type": "shared_pref",
+    "data": {
+      "key": "416123125096800json"
+    }
+  },
+  {
+    "ts": 1779131738653,
+    "type": "shared_pref",
+    "data": {
+      "key": "416123125096800json"
+    }
+  },
+  {
+    "ts": 1779131738655,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131738655,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779131738655,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779131738656,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/416123125096800/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779131738660,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/416123125096800/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779131738775,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779131738776,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131738778,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779131738784,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131738785,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131738785,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779131738786,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779131738786,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B655A001E-0001-764B-FC89AC2B6906SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779131738789,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779131738806,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/shared_prefs/io.fabric.sdk.android:fabric:a.a.a.a.u.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131738809,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779131738811,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779131738812,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779131738812,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131738824,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779131738828,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131738832,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/br.com.brainweb.ifood/settings?instance=aadbfa5d9e216ddd0d9e18c38737c6b960c269ae&build_version=100&display_version=5.4.1&source=1&icon_hash=a67756cc49ff8a9faf5b86dae3b5ac2707db0680"
+    }
+  },
+  {
+    "ts": 1779131738834,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/br.com.brainweb.ifood/settings?instance=aadbfa5d9e216ddd0d9e18c38737c6b960c269ae&build_version=100&display_version=5.4.1&source=1&icon_hash=a67756cc49ff8a9faf5b86dae3b5ac2707db0680"
+    }
+  },
+  {
+    "ts": 1779131738851,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/databases/com.localytics.android.19bd6643d89f9d752c2431bd97a6d4b5b23ecaf703868c64109e8024e1d7ea9e.analytics.sqlite"
+    }
+  },
+  {
+    "ts": 1779131738866,
+    "type": "url_access",
+    "data": {
+      "url": "https://analytics.localytics.com/api/v2/uploads"
+    }
+  },
+  {
+    "ts": 1779131738873,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779131738874,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131738876,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/localytics/device_id"
+    }
+  },
+  {
+    "ts": 1779131738880,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131738890,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/databases/com.localytics.android.19bd6643d89f9d752c2431bd97a6d4b5b23ecaf703868c64109e8024e1d7ea9e.analytics.sqlite"
+    }
+  },
+  {
+    "ts": 1779131738893,
+    "type": "url_access",
+    "data": {
+      "url": "https://analytics.localytics.com/api/v2/applications/17b3c3aac52451a1b93d336-4fe670b6-16a9-11e5-a0c0-00739d24cb30/amp"
+    }
+  },
+  {
+    "ts": 1779131739017,
+    "type": "url_access",
+    "data": {
+      "url": "https://lhr.stats.paypal.com/counter2.cgi?p=d5e491ad0e214f229a05d9f9f55f7852&i=10.0.2.16&t=1779131738&a=10"
+    }
+  },
+  {
+    "ts": 1779131739267,
+    "type": "shared_pref",
+    "data": {
+      "key": "dm_pwapp"
+    }
+  },
+  {
+    "ts": 1779131739267,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131739268,
+    "type": "shared_pref",
+    "data": {
+      "key": "pw_base_url"
+    }
+  },
+  {
+    "ts": 1779131739271,
+    "type": "url_access",
+    "data": {
+      "url": "http://cp.pushwoosh.com/json/1.3/applicationOpen"
+    }
+  },
+  {
+    "ts": 1779131739272,
+    "type": "url_access",
+    "data": {
+      "url": "http://cp.pushwoosh.com/json/1.3/applicationOpen"
+    }
+  },
+  {
+    "ts": 1779131740146,
+    "type": "url_access",
+    "data": {
+      "url": "https://analytics.localytics.com/api/v2/uploads"
+    }
+  },
+  {
+    "ts": 1779131740437,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/databases/com.localytics.android.19bd6643d89f9d752c2431bd97a6d4b5b23ecaf703868c64109e8024e1d7ea9e.analytics.sqlite"
+    }
+  },
+  {
+    "ts": 1779131741350,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779131745352,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B655A001E-0001-764B-FC89AC2B6906SessionCrash.cls_temp"
+    }
+  },
+  {
+    "ts": 1779131745353,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131745374,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B655A001E-0001-764B-FC89AC2B6906SessionCrash.cls"
+    }
+  },
+  {
+    "ts": 1779131745376,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B655A001E-0001-764B-FC89AC2B6906SessionUser.cls_temp"
+    }
+  },
+  {
+    "ts": 1779131745376,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B655A001E-0001-764B-FC89AC2B6906SessionUser.cls"
+    }
+  },
+  {
+    "ts": 1779131745377,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779131745377,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B65610178-0002-764B-FC89AC2B6906BeginSession.cls_temp"
+    }
+  },
+  {
+    "ts": 1779131745378,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B65610178-0002-764B-FC89AC2B6906BeginSession.cls"
+    }
+  },
+  {
+    "ts": 1779131745378,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B65610178-0002-764B-FC89AC2B6906SessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1779131745379,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779131745379,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B65610178-0002-764B-FC89AC2B6906SessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779131745379,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B65610178-0002-764B-FC89AC2B6906SessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779131745380,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131745381,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779131745381,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779131745381,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B65610178-0002-764B-FC89AC2B6906SessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779131745382,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B65610178-0002-764B-FC89AC2B6906SessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779131745382,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131745382,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131745383,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131745387,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131745387,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131745390,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779131745390,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779131745390,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.brainweb.ifood/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B65610178-0002-764B-FC89AC2B6906SessionDevice.cls"
+    }
+  }
+]

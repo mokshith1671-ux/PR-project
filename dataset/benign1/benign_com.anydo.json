@@ -1,0 +1,996 @@
+[
+  {
+    "ts": 1779640628617,
+    "type": "file_access",
+    "data": {
+      "path": "anydo.log"
+    }
+  },
+  {
+    "ts": 1779640628636,
+    "type": "file_access",
+    "data": {
+      "path": "anydo.log"
+    }
+  },
+  {
+    "ts": 1779640628637,
+    "type": "file_access",
+    "data": {
+      "path": "anydo.log"
+    }
+  },
+  {
+    "ts": 1779640628639,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~tFHB9aiRKS40Yrfn8aeDFQ==/com.anydo-n0mV7S2INzYsXLKYIxS0Pg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779640628679,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640628680,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640628680,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640628680,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640628681,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640628682,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640628682,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640628683,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640628685,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640628685,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640628685,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640628686,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640628686,
+    "type": "file_access",
+    "data": {
+      "path": "anydo.log"
+    }
+  },
+  {
+    "ts": 1779640628687,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.anydo/files/anydo.log"
+    }
+  },
+  {
+    "ts": 1779640628687,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.anydo/files/anydo.log"
+    }
+  },
+  {
+    "ts": 1779640628703,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anydo/shared_prefs/layer_sdk_prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640628706,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640628713,
+    "type": "url_access",
+    "data": {
+      "url": "https://certs.lyr8.net/certificates"
+    }
+  },
+  {
+    "ts": 1779640628714,
+    "type": "url_access",
+    "data": {
+      "url": "https://authn.lyr8.net"
+    }
+  },
+  {
+    "ts": 1779640628714,
+    "type": "url_access",
+    "data": {
+      "url": "https://sync.lyr8.net/"
+    }
+  },
+  {
+    "ts": 1779640628715,
+    "type": "url_access",
+    "data": {
+      "url": "https://conf.lyr8.net/conf"
+    }
+  },
+  {
+    "ts": 1779640628717,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anydo/shared_prefs/layer-logging.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640628734,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anydo/shared_prefs/client_config.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640628760,
+    "type": "shared_pref",
+    "data": {
+      "key": "options"
+    }
+  },
+  {
+    "ts": 1779640628762,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anydo/shared_prefs/appsflyer-data.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640628766,
+    "type": "shared_pref",
+    "data": {
+      "key": "savedProperties"
+    }
+  },
+  {
+    "ts": 1779640628770,
+    "type": "url_access",
+    "data": {
+      "url": "https://conf.lyr8.net/conf"
+    }
+  },
+  {
+    "ts": 1779640628771,
+    "type": "url_access",
+    "data": {
+      "url": "https://conf.lyr8.net/conf"
+    }
+  },
+  {
+    "ts": 1779640628893,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anydo/shared_prefs/anydo_pref.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640628897,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anydo/shared_prefs/com.anydo_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640628906,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640628910,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640628910,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640628910,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640628910,
+    "type": "file_access",
+    "data": {
+      "path": "/sdcard/media/audio/notifications/"
+    }
+  },
+  {
+    "ts": 1779640628913,
+    "type": "file_access",
+    "data": {
+      "path": "/sdcard/media/audio/notifications/"
+    }
+  },
+  {
+    "ts": 1779640628919,
+    "type": "file_access",
+    "data": {
+      "path": "/sdcard/media/audio/notifications/anydo_pop.mp3"
+    }
+  },
+  {
+    "ts": 1779640628934,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anydo/shared_prefs/analytics_pref.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640628935,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_id"
+    }
+  },
+  {
+    "ts": 1779640628937,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_id"
+    }
+  },
+  {
+    "ts": 1779640628946,
+    "type": "shared_pref",
+    "data": {
+      "key": "city"
+    }
+  },
+  {
+    "ts": 1779640628947,
+    "type": "shared_pref",
+    "data": {
+      "key": "session_id"
+    }
+  },
+  {
+    "ts": 1779640628948,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_referrer"
+    }
+  },
+  {
+    "ts": 1779640628953,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_puid"
+    }
+  },
+  {
+    "ts": 1779640628957,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anydo/shared_prefs/xABServiceData.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640628957,
+    "type": "shared_pref",
+    "data": {
+      "key": "client_id"
+    }
+  },
+  {
+    "ts": 1779640628961,
+    "type": "url_access",
+    "data": {
+      "url": "https://anydo-analytics.herokuapp.com/xABService/me?platform=android&required_experiments=%5B%22ANDROID_SIMILAR_WEB%22%2C%22ANDROID_ARBOR%22%2C%22ANDROID_PLACER%22%5D&is_new_user=false"
+    }
+  },
+  {
+    "ts": 1779640628962,
+    "type": "shared_pref",
+    "data": {
+      "key": "interface_lang"
+    }
+  },
+  {
+    "ts": 1779640628965,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_puid"
+    }
+  },
+  {
+    "ts": 1779640628968,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_puid"
+    }
+  },
+  {
+    "ts": 1779640628999,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_puid"
+    }
+  },
+  {
+    "ts": 1779640629057,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_puid"
+    }
+  },
+  {
+    "ts": 1779640629065,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_id"
+    }
+  },
+  {
+    "ts": 1779640629066,
+    "type": "shared_pref",
+    "data": {
+      "key": "interface_lang"
+    }
+  },
+  {
+    "ts": 1779640629067,
+    "type": "shared_pref",
+    "data": {
+      "key": "session_id"
+    }
+  },
+  {
+    "ts": 1779640629067,
+    "type": "shared_pref",
+    "data": {
+      "key": "country_code"
+    }
+  },
+  {
+    "ts": 1779640629068,
+    "type": "shared_pref",
+    "data": {
+      "key": "city"
+    }
+  },
+  {
+    "ts": 1779640629092,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|543675644531|*"
+    }
+  },
+  {
+    "ts": 1779640629092,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779640629093,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779640629093,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779640629110,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779640629110,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640629111,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779640629130,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640629132,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640629132,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779640629132,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anydo/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779640629133,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anydo/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640629137,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779640629137,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779640629138,
+    "type": "shared_pref",
+    "data": {
+      "key": "APPSEE__group"
+    }
+  },
+  {
+    "ts": 1779640629138,
+    "type": "shared_pref",
+    "data": {
+      "key": "APPSEE__properties"
+    }
+  },
+  {
+    "ts": 1779640629140,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.anydo/settings?instance=8c9d0f76aa575010f3aa23e03c4479842a9fbd59&build_version=6374&display_version=3.4.29.3&source=1&icon_hash=a80eeb5545eb13e0326d182bbc2c009439c07928"
+    }
+  },
+  {
+    "ts": 1779640629141,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anydo/shared_prefs/Appsee.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640629143,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.anydo/settings?instance=8c9d0f76aa575010f3aa23e03c4479842a9fbd59&build_version=6374&display_version=3.4.29.3&source=1&icon_hash=a80eeb5545eb13e0326d182bbc2c009439c07928"
+    }
+  },
+  {
+    "ts": 1779640629145,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anydo/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13293401A6-0001-65E2-42B84206365DSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779640629147,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anydo/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-6A13293401A6-0001-65E2-42B84206365D.temp.tmp"
+    }
+  },
+  {
+    "ts": 1779640629154,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anydo/shared_prefs/com.alooma.android.aloomametrics.ReferralInfo.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640629181,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anydo/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779640629190,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anydo/shared_prefs/com.alooma.android.mpmetrics.MixpanelAPI_alooma.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640629193,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779640629195,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anydo/shared_prefs/alooma.viewcrawler.changesalooma.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640629205,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779640629206,
+    "type": "shared_pref",
+    "data": {
+      "key": "events_distinct_id"
+    }
+  },
+  {
+    "ts": 1779640629207,
+    "type": "shared_pref",
+    "data": {
+      "key": "alooma.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779640629208,
+    "type": "shared_pref",
+    "data": {
+      "key": "alooma.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779640629209,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779640629211,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779640629251,
+    "type": "shared_pref",
+    "data": {
+      "key": "interface_lang"
+    }
+  },
+  {
+    "ts": 1779640629271,
+    "type": "url_access",
+    "data": {
+      "url": "https://decide.alooma.com/decide?version=1&lib=android&token=alooma"
+    }
+  },
+  {
+    "ts": 1779640629293,
+    "type": "shared_pref",
+    "data": {
+      "key": "session_id"
+    }
+  },
+  {
+    "ts": 1779640629300,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.anydo.onboarding.LoginMainActivity"
+    }
+  },
+  {
+    "ts": 1779640629301,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779640629315,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779640629319,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779640629325,
+    "type": "shared_pref",
+    "data": {
+      "key": "AF_INSTALLATION"
+    }
+  },
+  {
+    "ts": 1779640629382,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_puid"
+    }
+  },
+  {
+    "ts": 1779640629385,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_id"
+    }
+  },
+  {
+    "ts": 1779640629385,
+    "type": "shared_pref",
+    "data": {
+      "key": "interface_lang"
+    }
+  },
+  {
+    "ts": 1779640629386,
+    "type": "shared_pref",
+    "data": {
+      "key": "session_id"
+    }
+  },
+  {
+    "ts": 1779640629386,
+    "type": "shared_pref",
+    "data": {
+      "key": "country_code"
+    }
+  },
+  {
+    "ts": 1779640629387,
+    "type": "shared_pref",
+    "data": {
+      "key": "city"
+    }
+  },
+  {
+    "ts": 1779640629402,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779640629402,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779640629402,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779640629402,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779640629446,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v4/androidevent?buildnumber=3.5&app_id=com.anydo"
+    }
+  },
+  {
+    "ts": 1779640629583,
+    "type": "shared_pref",
+    "data": {
+      "key": "ANDROID_REALTIME_SYNC__group"
+    }
+  },
+  {
+    "ts": 1779640629585,
+    "type": "shared_pref",
+    "data": {
+      "key": "ANDROID_REALTIME_SYNC__properties"
+    }
+  },
+  {
+    "ts": 1779640629585,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_puid"
+    }
+  },
+  {
+    "ts": 1779640629591,
+    "type": "shared_pref",
+    "data": {
+      "key": "ANDROID_REALTIME_SYNC__group"
+    }
+  },
+  {
+    "ts": 1779640629591,
+    "type": "shared_pref",
+    "data": {
+      "key": "ANDROID_REALTIME_SYNC__properties"
+    }
+  },
+  {
+    "ts": 1779640629648,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779640629656,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779640629659,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779640629659,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779640629713,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779640630108,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779640631217,
+    "type": "shared_pref",
+    "data": {
+      "key": "alooma.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779640631218,
+    "type": "shared_pref",
+    "data": {
+      "key": "alooma.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779640631891,
+    "type": "shared_pref",
+    "data": {
+      "key": "interface_lang"
+    }
+  },
+  {
+    "ts": 1779640632034,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_puid"
+    }
+  },
+  {
+    "ts": 1779640632036,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_id"
+    }
+  },
+  {
+    "ts": 1779640632036,
+    "type": "shared_pref",
+    "data": {
+      "key": "interface_lang"
+    }
+  },
+  {
+    "ts": 1779640632039,
+    "type": "shared_pref",
+    "data": {
+      "key": "session_id"
+    }
+  },
+  {
+    "ts": 1779640632040,
+    "type": "shared_pref",
+    "data": {
+      "key": "country_code"
+    }
+  },
+  {
+    "ts": 1779640632040,
+    "type": "shared_pref",
+    "data": {
+      "key": "city"
+    }
+  },
+  {
+    "ts": 1779640632338,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|543675644531|*"
+    }
+  },
+  {
+    "ts": 1779640632338,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779640638954,
+    "type": "shared_pref",
+    "data": {
+      "key": "country_code"
+    }
+  },
+  {
+    "ts": 1779640638954,
+    "type": "shared_pref",
+    "data": {
+      "key": "city"
+    }
+  },
+  {
+    "ts": 1779640638955,
+    "type": "shared_pref",
+    "data": {
+      "key": "super_properties"
+    }
+  },
+  {
+    "ts": 1779640638956,
+    "type": "shared_pref",
+    "data": {
+      "key": "country_code"
+    }
+  },
+  {
+    "ts": 1779640638959,
+    "type": "shared_pref",
+    "data": {
+      "key": "city"
+    }
+  },
+  {
+    "ts": 1779640638962,
+    "type": "shared_pref",
+    "data": {
+      "key": "country_code"
+    }
+  },
+  {
+    "ts": 1779640638963,
+    "type": "shared_pref",
+    "data": {
+      "key": "city"
+    }
+  },
+  {
+    "ts": 1779640653242,
+    "type": "url_access",
+    "data": {
+      "url": "https://stats.appsflyer.com/stats"
+    }
+  }
+]

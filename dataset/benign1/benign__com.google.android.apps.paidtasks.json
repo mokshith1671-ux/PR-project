@@ -1,0 +1,114 @@
+[
+  {
+    "ts": 1778229216617,
+    "type": "sp",
+    "data": {
+      "key": "setupState"
+    }
+  },
+  {
+    "ts": 1778229216661,
+    "type": "activity",
+    "data": {
+      "activity": "com.google.android.apps.paidtasks.LaunchActivity"
+    }
+  },
+  {
+    "ts": 1778229216701,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.google.android.apps.paidtasks/files/post_queue.tmp"
+    }
+  },
+  {
+    "ts": 1778229216725,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.google.android.apps.paidtasks/files/media_queue.tmp"
+    }
+  },
+  {
+    "ts": 1778229216746,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.google.android.apps.paidtasks/files/prompt_queue.tmp"
+    }
+  },
+  {
+    "ts": 1778229216767,
+    "type": "sp",
+    "data": {
+      "key": "version"
+    }
+  },
+  {
+    "ts": 1778229216786,
+    "type": "sp",
+    "data": {
+      "key": "accountState"
+    }
+  },
+  {
+    "ts": 1778229216786,
+    "type": "sp",
+    "data": {
+      "key": "balance"
+    }
+  },
+  {
+    "ts": 1778229216788,
+    "type": "sp",
+    "data": {
+      "key": "userData"
+    }
+  },
+  {
+    "ts": 1778229216788,
+    "type": "sp",
+    "data": {
+      "key": "setupState"
+    }
+  },
+  {
+    "ts": 1778229216788,
+    "type": "sp",
+    "data": {
+      "key": "rewardHistory"
+    }
+  },
+  {
+    "ts": 1778229216789,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.google.android.apps.paidtasks/files/prompt_en-US"
+    }
+  },
+  {
+    "ts": 1778229216797,
+    "type": "network",
+    "data": {
+      "url": "https://clients4.google.com/survey/android?lang=en-US"
+    }
+  },
+  {
+    "ts": 1778229216912,
+    "type": "activity",
+    "data": {
+      "activity": "com.google.android.apps.paidtasks.SetupActivity"
+    }
+  },
+  {
+    "ts": 1778229226839,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.google.android.apps.paidtasks/files/prompt_en-US"
+    }
+  },
+  {
+    "ts": 1778229226840,
+    "type": "network",
+    "data": {
+      "url": "https://clients4.google.com/survey/android?lang=en-US"
+    }
+  }
+]

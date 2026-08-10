@@ -1,0 +1,1178 @@
+[
+  {
+    "ts": 1779640587163,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anvilgard.moonknight/shared_prefs/com.anvilgard.moonknight_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640587464,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640587468,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.anvilgard.moonknight/shared_prefs/FLURRY_SHARED_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640587475,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640587475,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640587478,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640587479,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640587500,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779640587736,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779640587739,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779640592466,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.anvilgard.moonknight.StartupActivity"
+    }
+  },
+  {
+    "ts": 1779640602223,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { flg=0x10000000 cmp=com.anvilgard.moonknight/.SettingsActivity }"
+    }
+  },
+  {
+    "ts": 1779640602317,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602318,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602319,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602320,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602320,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602321,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602326,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602329,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602329,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602330,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602330,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602331,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602331,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602332,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602333,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602333,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602333,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602333,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602333,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602333,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602334,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602334,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602334,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602335,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602336,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602342,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602343,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602343,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602344,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602345,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602346,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602346,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602347,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602347,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602347,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602348,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602349,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602349,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602349,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602350,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602350,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602350,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602350,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602351,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602351,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602352,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602352,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602353,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602353,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602354,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602354,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602354,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602354,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602355,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602356,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602356,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602357,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602357,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602357,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602358,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602358,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602359,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602359,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602359,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602360,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602360,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602361,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602361,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602362,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602362,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602362,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602362,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602363,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602363,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602364,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602365,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602365,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602370,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602371,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602371,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602372,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602372,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602373,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602373,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602373,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602373,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602373,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602373,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602374,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602374,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602374,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602374,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602375,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602375,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602375,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602375,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602376,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602376,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602378,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602378,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602378,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602379,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602379,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602380,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602380,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602380,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602380,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602381,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602381,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602382,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602382,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602382,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602383,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602384,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602384,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602384,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602385,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602385,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602385,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602387,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602388,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602388,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602388,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602388,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602388,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602389,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602392,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602392,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602393,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602393,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602394,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602394,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602394,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602396,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602396,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602396,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602397,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602397,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602397,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602397,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602397,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602398,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602398,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602400,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640602400,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640602401,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640602401,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640602401,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  },
+  {
+    "ts": 1779640602401,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640602404,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.anvilgard.moonknight.SettingsActivity"
+    }
+  },
+  {
+    "ts": 1779640616756,
+    "type": "shared_pref",
+    "data": {
+      "key": "knightmode"
+    }
+  },
+  {
+    "ts": 1779640616756,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudintensity"
+    }
+  },
+  {
+    "ts": 1779640616757,
+    "type": "shared_pref",
+    "data": {
+      "key": "cloudspeed"
+    }
+  },
+  {
+    "ts": 1779640616757,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogintensity"
+    }
+  },
+  {
+    "ts": 1779640616757,
+    "type": "shared_pref",
+    "data": {
+      "key": "fogspeed"
+    }
+  },
+  {
+    "ts": 1779640616758,
+    "type": "shared_pref",
+    "data": {
+      "key": "ravensintensity"
+    }
+  }
+]

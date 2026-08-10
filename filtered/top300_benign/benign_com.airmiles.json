@@ -1,0 +1,660 @@
+[
+  {
+    "ts": 1779638570408,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779638570418,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.urbanairship.preferences.CHANNEL_ID"
+    }
+  },
+  {
+    "ts": 1779638570422,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/user/"
+    }
+  },
+  {
+    "ts": 1779638570424,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.airmiles/settings?instance=3e10e23ccd33eb0a28655b8e6756bf6d0446059a&build_version=827&display_version=2.15.0&source=1&icon_hash=ba44d85f96a20923cec621a304cf18db2f675b78"
+    }
+  },
+  {
+    "ts": 1779638570429,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.airmiles/settings?instance=3e10e23ccd33eb0a28655b8e6756bf6d0446059a&build_version=827&display_version=2.15.0&source=1&icon_hash=ba44d85f96a20923cec621a304cf18db2f675b78"
+    }
+  },
+  {
+    "ts": 1779638570435,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779638570448,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779638570517,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/cache/tmp"
+    }
+  },
+  {
+    "ts": 1779638570519,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/cache/tmp/tmp.raw"
+    }
+  },
+  {
+    "ts": 1779638570521,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/cache/tmp/tmp.raw"
+    }
+  },
+  {
+    "ts": 1779638570523,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/cache/tmp/tmp.raw"
+    }
+  },
+  {
+    "ts": 1779638570669,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779638570674,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779638570674,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779638570675,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779638570934,
+    "type": "shared_pref",
+    "data": {
+      "key": "coremetrics_url"
+    }
+  },
+  {
+    "ts": 1779638570935,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638570937,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638570940,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638570952,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638570958,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638570964,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airmiles.IntroActivity"
+    }
+  },
+  {
+    "ts": 1779638570970,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638570973,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638571468,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638571472,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638571483,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638572024,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638572027,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638572037,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579737,
+    "type": "shared_pref",
+    "data": {
+      "key": "coremetrics_url"
+    }
+  },
+  {
+    "ts": 1779638579738,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579740,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579743,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579751,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579760,
+    "type": "shared_pref",
+    "data": {
+      "key": "coremetrics_url"
+    }
+  },
+  {
+    "ts": 1779638579761,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579762,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579764,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579766,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579766,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579774,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579777,
+    "type": "shared_pref",
+    "data": {
+      "key": "coremetrics_url"
+    }
+  },
+  {
+    "ts": 1779638579777,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579779,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579781,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579783,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579790,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579792,
+    "type": "shared_pref",
+    "data": {
+      "key": "coremetrics_url"
+    }
+  },
+  {
+    "ts": 1779638579793,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579795,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579795,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579798,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579800,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579805,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579809,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579811,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579830,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638579842,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779638579851,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779638579855,
+    "type": "shared_pref",
+    "data": {
+      "key": "current_version"
+    }
+  },
+  {
+    "ts": 1779638579857,
+    "type": "shared_pref",
+    "data": {
+      "key": "id"
+    }
+  },
+  {
+    "ts": 1779638579858,
+    "type": "shared_pref",
+    "data": {
+      "key": "identifier"
+    }
+  },
+  {
+    "ts": 1779638579859,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/shared_prefs/json_cach.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638579862,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779638579863,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779638579871,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airmiles.LoadingActivity"
+    }
+  },
+  {
+    "ts": 1779638580649,
+    "type": "shared_pref",
+    "data": {
+      "key": "current_version"
+    }
+  },
+  {
+    "ts": 1779638580650,
+    "type": "shared_pref",
+    "data": {
+      "key": "min_version_required"
+    }
+  },
+  {
+    "ts": 1779638580745,
+    "type": "url_access",
+    "data": {
+      "url": "https://combine.urbanairship.com/warp9/"
+    }
+  },
+  {
+    "ts": 1779638580753,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.urbanairship.preferences.CHANNEL_ID"
+    }
+  },
+  {
+    "ts": 1779638580853,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638580855,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638580858,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638580858,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638580860,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638580874,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638580877,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638580945,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/databases/ANDROID_CM_TAGS"
+    }
+  },
+  {
+    "ts": 1779638582018,
+    "type": "shared_pref",
+    "data": {
+      "key": "current_version"
+    }
+  },
+  {
+    "ts": 1779638582019,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779638582022,
+    "type": "shared_pref",
+    "data": {
+      "key": "id"
+    }
+  },
+  {
+    "ts": 1779638582022,
+    "type": "shared_pref",
+    "data": {
+      "key": "identifier"
+    }
+  },
+  {
+    "ts": 1779638582027,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airmiles.LoadingActivity"
+    }
+  },
+  {
+    "ts": 1779638582303,
+    "type": "shared_pref",
+    "data": {
+      "key": "current_version"
+    }
+  },
+  {
+    "ts": 1779638582304,
+    "type": "shared_pref",
+    "data": {
+      "key": "min_version_required"
+    }
+  },
+  {
+    "ts": 1779638583825,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779638583825,
+    "type": "shared_pref",
+    "data": {
+      "key": "current_version"
+    }
+  },
+  {
+    "ts": 1779638583830,
+    "type": "shared_pref",
+    "data": {
+      "key": "id"
+    }
+  },
+  {
+    "ts": 1779638583831,
+    "type": "shared_pref",
+    "data": {
+      "key": "identifier"
+    }
+  },
+  {
+    "ts": 1779638583844,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airmiles.LoadingActivity"
+    }
+  },
+  {
+    "ts": 1779638583850,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779638584115,
+    "type": "shared_pref",
+    "data": {
+      "key": "current_version"
+    }
+  },
+  {
+    "ts": 1779638584115,
+    "type": "shared_pref",
+    "data": {
+      "key": "min_version_required"
+    }
+  }
+]

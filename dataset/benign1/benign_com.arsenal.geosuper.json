@@ -1,0 +1,2025 @@
+[
+  {
+    "ts": 1779642580018,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779642580021,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779642580024,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779642580025,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779642580025,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779642580033,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642580043,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779642580070,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779642580144,
+    "type": "url_access",
+    "data": {
+      "url": "http://init.startappexchange.com/1.4/getadsmetadata?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=e106&cellSignalLevel=e106&wifiSignalLevel=e106&wifiRssiLevel=e106&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&totalSessions=0&daysSinceFirstSession=0&payingUser=false&paidAmount=0.0&reason=LAUNCH&apkHash=EC62D89DCC4C78DF1FE3F2943001FBE1A006BBC3C9B06FD702F683272A791042"
+    }
+  },
+  {
+    "ts": 1779642580173,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642580184,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642580187,
+    "type": "url_access",
+    "data": {
+      "url": "http://init.startappexchange.com/1.4/getadsmetadata?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=e106&cellSignalLevel=e106&wifiSignalLevel=e106&wifiRssiLevel=e106&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&totalSessions=0&daysSinceFirstSession=0&payingUser=false&paidAmount=0.0&reason=LAUNCH&apkHash=EC62D89DCC4C78DF1FE3F2943001FBE1A006BBC3C9B06FD702F683272A791042"
+    }
+  },
+  {
+    "ts": 1779642580243,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779642580243,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779642580243,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779642580247,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779642580248,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779642580253,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779642580253,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779642580254,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779642580255,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779642580256,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779642580256,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779642580262,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779642580262,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779642580262,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779642580263,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779642580264,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779642580264,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779642580274,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779642580274,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779642580274,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779642580275,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779642580281,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779642580281,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779642580281,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779642580292,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/google_ads_flags.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642580293,
+    "type": "shared_pref",
+    "data": {
+      "key": "flag_configuration"
+    }
+  },
+  {
+    "ts": 1779642580344,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779642580345,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779642580345,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779642580346,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779642580349,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779642580350,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779642580351,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779642580351,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779642580367,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/x86"
+    }
+  },
+  {
+    "ts": 1779642580367,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/armeabi-v7a"
+    }
+  },
+  {
+    "ts": 1779642580368,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/armeabi"
+    }
+  },
+  {
+    "ts": 1779642580368,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779642580371,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779642580382,
+    "type": "shared_pref",
+    "data": {
+      "key": "flag_configuration"
+    }
+  },
+  {
+    "ts": 1779642580404,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779642580413,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/shared_prefs/admob.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642580415,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_url_hashes"
+    }
+  },
+  {
+    "ts": 1779642580415,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_vertical_hashes"
+    }
+  },
+  {
+    "ts": 1779642580415,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_settings_json"
+    }
+  },
+  {
+    "ts": 1779642580416,
+    "type": "shared_pref",
+    "data": {
+      "key": "display_cutout"
+    }
+  },
+  {
+    "ts": 1779642580416,
+    "type": "shared_pref",
+    "data": {
+      "key": "native_advanced_settings"
+    }
+  },
+  {
+    "ts": 1779642580416,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/admob_user_agent.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642580416,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_agent"
+    }
+  },
+  {
+    "ts": 1779642580422,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779642580442,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642580447,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779642580449,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779642580450,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779642580452,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779642580467,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_csi_server"
+    }
+  },
+  {
+    "ts": 1779642580467,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580468,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580468,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580468,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580469,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580469,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580470,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580470,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779642580470,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779642580470,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779642580471,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779642580471,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779642580472,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_for_coarse_permission:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580472,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_timeout:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580472,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_interval:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580472,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:pan:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580479,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580479,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580480,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580481,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580481,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580481,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580481,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580481,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779642580481,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779642580481,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779642580482,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779642580482,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779642580493,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779642580494,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779642580524,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580524,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580524,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580525,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580525,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580526,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580526,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580526,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779642580526,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779642580526,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779642580526,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779642580527,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1779642580527,
+    "type": "dex_load",
+    "data": {
+      "dex": "/data/user/0/com.arsenal.geosuper/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779642580527,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779642580527,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779642580527,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779642580528,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779642580530,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779642580534,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1779642580535,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1779642580536,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1779642580546,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779642580565,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/shared_prefs/mobileads_consent.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642580568,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779642580577,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779642580578,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/shared_prefs/com.arsenal.geosuper_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642580607,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:interstitial:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779642580609,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642580617,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580617,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580618,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580618,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580618,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580618,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580619,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580619,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779642580619,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779642580619,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779642580619,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779642580619,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779642580629,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580630,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580630,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580631,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580631,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580631,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580631,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779642580632,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779642580632,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779642580632,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779642580633,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779642580634,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779642580637,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779642580638,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779642580646,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~8Zc1UfAlA2r71AKCuwYzlw==/com.arsenal.geosuper-V0VHfraT4dobd7aMTLtBiw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779642580653,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642580657,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779642580676,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.arsenal.geosuper.MainActivity"
+    }
+  },
+  {
+    "ts": 1779642580694,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642580696,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642580766,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642580768,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642580802,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/trackdownload?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=e106&cellSignalLevel=e106&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_DOWNLOAD"
+    }
+  },
+  {
+    "ts": 1779642580803,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642580806,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/trackdownload?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=e106&cellSignalLevel=e106&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_DOWNLOAD"
+    }
+  },
+  {
+    "ts": 1779642580810,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.startapp.android.publish.OverlayActivity"
+    }
+  },
+  {
+    "ts": 1779642580869,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files"
+    }
+  },
+  {
+    "ts": 1779642580886,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642580886,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642580886,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642580886,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642580887,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779642580889,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779642580895,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779642580901,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779642580912,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779642580913,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779642580930,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642580930,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642580931,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642580931,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642580933,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779642580942,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779642580975,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=e106&cellSignalLevel=e106&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_BANNER&testMode=false&adsNumber=4&packageExclude=com.arsenal.geosuper&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=1014&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642580973&afh=Qf46U0nrZfZWZbUuOgwI0w&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642580977,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642580984,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=e106&cellSignalLevel=e106&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_BANNER&testMode=false&adsNumber=4&packageExclude=com.arsenal.geosuper&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=1014&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642580973&afh=Qf46U0nrZfZWZbUuOgwI0w&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642581012,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=e106&cellSignalLevel=e106&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_RETURN&testMode=false&adsNumber=1&packageExclude=com.arsenal.geosuper&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=993&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642580993&afh=ptAvJ%2BtYz7AaEK0tjP0b2A&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642581020,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=e106&cellSignalLevel=e106&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_OVERLAY&testMode=false&adsNumber=1&packageExclude=com.arsenal.geosuper&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=981&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642581018&afh=QNbQYIgooDQZzTreZfW3eQ&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642581034,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642581035,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642581037,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=e106&cellSignalLevel=e106&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_RETURN&testMode=false&adsNumber=1&packageExclude=com.arsenal.geosuper&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=993&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642580993&afh=ptAvJ%2BtYz7AaEK0tjP0b2A&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642581042,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=e106&cellSignalLevel=e106&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_OVERLAY&testMode=false&adsNumber=1&packageExclude=com.arsenal.geosuper&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=981&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642581018&afh=QNbQYIgooDQZzTreZfW3eQ&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642581159,
+    "type": "webview",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779642581168,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779642581176,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642581178,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642581180,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642581180,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642581195,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779642581256,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779642581275,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779642581285,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_SPLASH&testMode=false&adsNumber=1&packageExclude=com.arsenal.geosuper&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=1276&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642581276&afh=VXW%2FzbTBhV%2FZdqyinEr3zg&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642581285,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779642581308,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642581321,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_SPLASH&testMode=false&adsNumber=1&packageExclude=com.arsenal.geosuper&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=1276&adsDisplayed=0&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642581276&afh=VXW%2FzbTBhV%2FZdqyinEr3zg&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642581323,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779642581324,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779642581453,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642581453,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642581454,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642581454,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642581454,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/obb/com.arsenal.geosuper/"
+    }
+  },
+  {
+    "ts": 1779642581456,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~8Zc1UfAlA2r71AKCuwYzlw==/com.arsenal.geosuper-V0VHfraT4dobd7aMTLtBiw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779642581457,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/drawable-hdpi.zip"
+    }
+  },
+  {
+    "ts": 1779642581460,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/drawable-hdpi.zip"
+    }
+  },
+  {
+    "ts": 1779642581460,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/empty_star.png"
+    }
+  },
+  {
+    "ts": 1779642581461,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/filled_star.png"
+    }
+  },
+  {
+    "ts": 1779642581463,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/half_star.png"
+    }
+  },
+  {
+    "ts": 1779642581464,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/logo.png"
+    }
+  },
+  {
+    "ts": 1779642581465,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/tab_side.png"
+    }
+  },
+  {
+    "ts": 1779642581466,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/.DS_Store"
+    }
+  },
+  {
+    "ts": 1779642581466,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/back_.png"
+    }
+  },
+  {
+    "ts": 1779642581467,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/back_dark.png"
+    }
+  },
+  {
+    "ts": 1779642581467,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/browser_icon_dark.png"
+    }
+  },
+  {
+    "ts": 1779642581467,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/forward_.png"
+    }
+  },
+  {
+    "ts": 1779642581469,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/forward_dark.png"
+    }
+  },
+  {
+    "ts": 1779642581469,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/x_dark.png"
+    }
+  },
+  {
+    "ts": 1779642581469,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~8Zc1UfAlA2r71AKCuwYzlw==/com.arsenal.geosuper-V0VHfraT4dobd7aMTLtBiw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779642581470,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/drawable.zip"
+    }
+  },
+  {
+    "ts": 1779642581474,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/drawable.zip"
+    }
+  },
+  {
+    "ts": 1779642581474,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/info_s.png"
+    }
+  },
+  {
+    "ts": 1779642581474,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/info_ex_s.png"
+    }
+  },
+  {
+    "ts": 1779642581475,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/info_l.png"
+    }
+  },
+  {
+    "ts": 1779642581476,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/info_ex_l.png"
+    }
+  },
+  {
+    "ts": 1779642581478,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/close_button.png"
+    }
+  },
+  {
+    "ts": 1779642581481,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/back_.png"
+    }
+  },
+  {
+    "ts": 1779642581484,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/back_dark.png"
+    }
+  },
+  {
+    "ts": 1779642581487,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/browser_icon_dark.png"
+    }
+  },
+  {
+    "ts": 1779642581488,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/forward_.png"
+    }
+  },
+  {
+    "ts": 1779642581490,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/forward_dark.png"
+    }
+  },
+  {
+    "ts": 1779642581491,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/x_dark.png"
+    }
+  },
+  {
+    "ts": 1779642581491,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/StartAppSplash.html"
+    }
+  },
+  {
+    "ts": 1779642581493,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/filled_star.png"
+    }
+  },
+  {
+    "ts": 1779642581504,
+    "type": "url_access",
+    "data": {
+      "url": "https://images.startappservice.com/image/fetch/f_auto,q_auto,e_sharpen,w_100,h_100/https%3A%2F%2Fimages-origin.startappservice.com%2Fadvertisers%2F185727079%2F313927735%2F415328922%2F4f2bf9b6-e81f-4d6e-b2ca-d077d6fa476d.webp"
+    }
+  },
+  {
+    "ts": 1779642581535,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/info_s.png"
+    }
+  },
+  {
+    "ts": 1779642581535,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/info_ex_s.png"
+    }
+  },
+  {
+    "ts": 1779642581576,
+    "type": "url_access",
+    "data": {
+      "url": "https://adimpression.startappservice.com/adimpression/api/v1.0/adimp?d=IAAAAAAgAAA6X1tPSEdDUFlaWVBBQkNURVdQRUBYX1RFQEZAW1pWW1xOQFdVT09VTUheW15DSUtDVF5dUF1EQkJaS0lQSEtUXl5ASUtFWFJcWV5IQUlTRk9QQ01XWFhDTU1GUVRfXlhKQ09QSklSRktUV15BQUtGWVJaW15LQklVQ09TQk1RXVhASk1AXFRcXlhNSk9TRElUQktXWV5HSktGUVJbXl5LSklUSk9SQE1QV1hBSE1CW1RdWVhPQE9SQUlXRktWWl5ETktHXFJZW15KRUlWS09SR01SXVhBQU1MWVRdUlhORE9VQklZQEtRX15KSEtAW1JWWF5NQElZR09VRE1dWVhGTE1MUFRaXVhAQU9VRUlYREtRVl5LT0tBWVJfW1dCRkVcQ0RSS0VXU1JCTEtBWlJfW11CRkBcQ0VRS0VQU1JDS0tBX1JfWldCRkJcQ0VSS0VSU1JDTEtBUVJfWlJCRk1cQ0VYS0ZVU1JAS0tCWFJfWVFCRUdcQ0ZZS0ZRU1JAQEtCXFJfWF1CRUJcQ0dXS0ZSU1JBQEtCUFJfX1ZCRERcQ0BUS0dUU1JGQUtDWlJfXlRCREBcQ0FSS0dQU1JHTEtDX1JfXlJCRExcQ0JUS0dcU1JHSUtMXVJfXFFCS0FcQ0NXS0hTU1JFTktMXlJfXFxCS0xcQ0xTS0lVU1JLSEtNWFJfUldCSkZcQ01VS0lWU1JLT0tNXVJfUl1CSkxcQERXS0FVX15AQlxGIAtCSxYLLBMTHQERLxkBVENGSUBARU8dGToeARsUAisIFEpFWlNCTVxUGh0xDBcWBgQ%2BGxBbUERVXldeWQMGNggcBBAJLB0FSFRVQEBRTVpFREFAR15dUktLR0VPQEVVU0FVU1JCQURNXlZaX0ZIQklTQkRRQkRRVltRSEJJWFdbXFdOQ0NYUUJQTRVXC1JDHEAXRFlcDwBURxEHE1lZSEhSQwVFQEJHXF1YWwEdS1dQQURcRFNUXV5BSENNW1hZWFBaQkBcRkVUQ0JdV1FAWkFNVAwBBksYAQcEHBUNXhcAARAHCRUGSl1ZVlVXQ0RQUUZZTTMpJyA5WkNFVD0nKC0mJzE5JldSQk0sICIiKS82KCEgLjdaQENcGAcOHlNWV14%2FNjI9JSpNX1NEIzksPisyNDtGX1FFRBMGDA4aAhMcMAQMLQARLwAKGQYAWkFGUVJdSFFOTiYkNTkuNDUpTVdKREBaUFhYXUZMQ0kgPDAzPzkhTVZEREdDR11fUl1aRkNcQExPRkNXWUBHQU0RWF9YSFNJTjg1N1dXQ01UVlJBSkFXX1pTOCEyUEJWT0RPQEBTV0BDSEFJDw4CGABaRERcEBsbCV4GAQ5RTkhJWF9WW0ZOSklTQkRYU0FVWl5CV0BFWlhNXFJEQ1pUUUVcQkAAW1ZCSElZWwxaWUhNEkFQX00DQxJIXlFGGEBAD1wKWQROUENQTzEXFQIcAQ0XWkVHVC5fW0ZIQ0xcFBUNAxVGX1FCREBXWF1fVlVaQkZTT0RCQUJQU1NRSEJAVF1NWlZBTkVZR0NTR0BSV0BDTUFJWl5dUldOREdUUUVSRk0WCghfHAgXAQ4ADABURUNVRBJVRUQDW04YDgQfAUxfWFJEBURPREBPQFNXU1JcTVNBVFxfW1dPQ1dWREknPyU3TVJERAMdBwgCDkZIRElQUUZRTQMBBTwVCRgbBwoxE11PLEJVUUVUSE0WCggtHgAcBgELNB1BRStXRldTQU0iAQwVFRVXW11TWFVaQkBRT0VQXkBGXVNPMD5XWldTWEtNXUVCRkBcQ1NRW15CWkRNVF1eDlBMQ0VYX0YCREJIWgJHSF1NC1wMRlVLRxVRRhJSFEIEWUBHTU0wJUxbUlgNAQEEUUJYTUFLXkBFS00SCAMdDkZOQEkEHFkUA1NSWl5FSUNCUFleWFROQkVTQUZCSEZYKy0zOzwxLUxXU1gwPSsjMzovNSI6OCo2PD9XUVhTW0tJQkdWUUxZTUBLXkBKQE1ER19fU1daQkBST0RCQURRU1NcSVNFXVpTWktJUEVVRElQXkBGX1ZAREFFSl5bWFgyGxUWEx4AUDgEAw4THVA8CAYKDhdaQkRXTxIAHAMATVJDT01FSg%3D%3D&isPubImp=true&dp=true&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&ts=1779642581575&afh=QLPKfsfVLciakZkjdjNkoA"
+    }
+  },
+  {
+    "ts": 1779642581582,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642581637,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/favicon.ico"
+    }
+  },
+  {
+    "ts": 1779642581746,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/getconfig/pubsetting?app_name=com.arsenal.geosuper&client=ca-app-pub-8282264104264564&slotname=4954111937"
+    }
+  },
+  {
+    "ts": 1779642584184,
+    "type": "webview",
+    "data": {
+      "url": "javascript:splash_fadeout()"
+    }
+  },
+  {
+    "ts": 1779642586188,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642586189,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642586189,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642586189,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642586192,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { flg=0x14800000 cmp=com.arsenal.geosuper/com.startapp.android.publish.OverlayActivity (has extras) }"
+    }
+  },
+  {
+    "ts": 1779642586193,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779642586206,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_SPLASH&testMode=false&adsNumber=1&packageExclude=com.arsenal.geosuper&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=6273&adsDisplayed=1&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642586206&afh=bfWAFMOJWovXgjlLcJJVGg&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642586207,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642586208,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_SPLASH&testMode=false&adsNumber=1&packageExclude=com.arsenal.geosuper&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=6273&adsDisplayed=1&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642586206&afh=bfWAFMOJWovXgjlLcJJVGg&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642586229,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642586230,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642586233,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642586233,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642586237,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779642586252,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.startapp.android.publish.OverlayActivity"
+    }
+  },
+  {
+    "ts": 1779642586272,
+    "type": "url_access",
+    "data": {
+      "url": "https://adimpression.startappservice.com/adimpression/api/v1.0/adimp?d=IAAAAAAgAAA6X1tPSEdDUFlaWVBBQk1ZS1dQRUBYX1RFQEZAW1pWWldORVdVT09VTUheW15DSUtDVF5dUF1EQkJaS0lQSEtUXl5ASUtFWFJcWV5IQUlTRk9QQ01XWFhDTU1GUVRfXlhKQ09QSklSRktUV15BQUtGWVJaW15LQklVQ09TQk1RXVhASk1AXFRcXlhNSk9TRElUQUtXWV5HSktGUVJbXl5LSklUSk9SQE1QV1hBSE1CW1RdWVhPQE9SQUlXRktWWl5ETktHXFJZW15KRUlWS09SR01SXVhBQU1MWVRdUlhORE9VQklZQEtRX15KSEtAW1JWWF5NQElZR09VRE1dWVhGTE1MUFRaXVhAQU9VRUlYREtRVl5LT0tBWVJfW1dCRkVcQ0RSS0VXU1JCTEtBWlJfW11CRkBcQ0VRS0VQU1JDS0tBX1JfWlZCRkJcQ0VTS0VSU1JDTEtBUVJfWlJCRk1cQ0VYS0ZVU1JAS0tCWFJfWVFCRUdcQ0ZZS0ZRU1JAQEtCXFJfWF1CRUJcQ0dXS0ZSU1JBQEtCUFJfX1ZCRERcQ0BUS0dUU1JGQUtDWlJfXlRCREBcQ0FSS0dQU1JHTEtDX1JfXlJCRExcQ0JUS0dcU1JHSUtMXVJfXFFCS0FcQ0NXS0hTU1JFTktMXlJfXFxCS0xcQ0xTS0lVU1JLSUtNWFJfUldCSkZcQ01VS0lWU1JLT0tNXVJfUl1CSkxcQERWS0FVX15AQkRJUVRbVlRJSENcQ0daSE1UWFhLREFMUl5eVldJSEVQT0ZTS0FXU1FGQkFHVF1YUFRNTkZZSUVUTUNVVVJKRENCUl5XVlZBSEZRT0BRS0JUU1dDQkJGVFtdUFdKTkBUSUZUTURcVVFEREVFUl1ZVlBKSEZZT0FUS0JcU1ZKQkNEVFpXUFZITkJTSUdTTUZRVVBBREZCUlxaVlNOSEdUT0NRS0NTU1RLQkNDVFhdUFZBTkxRSUdYTUdSVVdCREhEUltfVl1ISEBTT0xSS0RWU1tHQkRAVFdZUFFMTkxYSUBXTUlXVVdFRElAUltWVlxPSEFRT0VRQktQX15DSUNPXF1TWlVMSEFST0VRSEtQWl5DSEBPXFpTWlRLSEFXT0VQQ0tQWF5DSEJPXFhTWlRMSEFZT0VQR0tQV15DSElPX19TWldLSEJQT0VTREtTXV5DS0hPX1tTWldASEJUT0VSSEtTWF5DSkZPX1hTWlZASEJYT0VVQ0tSXl5DTUVPXl5TWlFBSENST0VUQUtSWl5DTENPXlpTWlBPSENXT0VUR0tSVl5DT0VPXlZTWlBJSExVT0VWREtdW15DTkZPUVlTWlJOSExWT0VWSUtdVl5DQUJPUF9TWlxJSE1QT0VYQktcXF5DQERPUFxTWlxPSE1VT0VYSEtcVl5ASUZPWF9fVldCX0YoFlhBAwI6CREdDAArAAtUS1FJQ0FCS0NcQUBWQFJLQF5FUVdAWVFKUEVRT0VRSERcWVpGTVNFWFJcW1VJQUBVSkxCQUJYX1tHTkJDWVhXSFNIThFTF0VQFUAGQ1VAHRVZXQoICkhBS0xWXxJWSUJWW1FESRQQUUxfWFVES1dQQUlSQUNcXVBAS0VXWFtTX1RMQEFXS0xXU0FcUwAdFF4VGxwLBQQVXRMEHQcUABUXTVFFREZaUSpDX0ZLS0kiPj0iO1NWX14gMDM8NjsrMzFaQEZcOzogICA6PTM%2BOCM8SlxZVgMMHxgRExMELxkKHTwQEBcrAAEIGQQmHx0PGSsPHxYKARcXCy8VBwYDCREXLAAIHxETLxkLDxMCJgMEBQ4dA0ZKSkksPTYoPDVGWlVPKT05JTA9Ly5aQkZWTxcTFRERBxUXOgAZNhseNBUWBBETUUVTSE1WTVdFRCIxLiIhLyA1UEBZT0RPQ0VUVkBHSU01Jys8JCw9UEFXT0NYXklQWUBHTk1GWkFfXFVIUEFZT0dCRkBYIjc3WkZHVF1aWlZKQldXR0kyNDtGWFRPSV5EUFZeSFRIQkkHExgSFVNSXl4QFgoNRwwBBkZOS0lQQkxRU0dcU1FCSUlXWF9aVlVXQk1ZQ1dWR01VQFZRSE0WX1taWFxLF1lZQUJWXUQGD1NfQRIXX0JaDl0cFRBSRERQFhZGWVJPPAYRGxYBBQBaRkdcM0ZCQUBdUwUTFQMRSl5cWlhJUEVTQElRU0FXW15CWkFGXVJcSFRKS0lQSkFWQkdVWVpRSERFVFxfWFxKQEZTR1dQQ0ZYHQcZVBUMCgcPBQIcXkJWRkIHREVRCFZfF0kAXRtNWlZOTgJRXEJVXkBGXF5DV0RXXFJdWlVLRURCRUJcNj8wPEBDT00HAAEJBwBaQkNcQ1dTQE0WCggtHgAcBgELNB1BRStXRldQRUhYHQcZJhcEAQAADjoBS0I%2BREBCQkFYKQwdHhwRSl1cVlZJUEVVQklQQV5VTVBCRDk6SlxWVlZXR1pQUUBVTUNGWlZPSVNAUFIMXVFNQE1TFllZQ0ZSQ1cRGEBZUQ0NXUhNFkwEFBBSRkBUCAVRTERJJD9NXlxEBwYUF1dXSU1UQFNRTkJJDw4CGABaREdcFxpMBQNGWVdPTkBHX1ZYW1ZIREVQQEdTU0hTUyY8ODI4LCtNUl1EOjo1NyYyJDkxJyI%2BWkhDVF9AWlxBQldZSklRXkBGVlpPSV5GUF5dSFRNQElRUUVVRE1VQFNRSERBVF5AW0ZIR0JcQ1pRU0FQXF5CWkFBWlIlAwQOEh4AUjwAHR0ECkM6GBkQDB1NWlVPThIAHgcEU0FUWF5DWg%3D%3D&isPubImp=true&dp=true&position=interstitial&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&ts=1779642586261&afh=Dzl5bgbWyCPXrIHH2gVurw"
+    }
+  },
+  {
+    "ts": 1779642586275,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/info_l.png"
+    }
+  },
+  {
+    "ts": 1779642586277,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arsenal.geosuper/files/info_ex_l.png"
+    }
+  },
+  {
+    "ts": 1779642586283,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_OFFER_WALL&testMode=false&adsNumber=10&packageExclude=com.arsenal.geosuper&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=6318&adsDisplayed=2&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642586283&afh=Y819bl0tK6Zzgv8kAHy60A&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642586291,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642586293,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642586296,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_OFFER_WALL&testMode=false&adsNumber=10&packageExclude=com.arsenal.geosuper&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=6318&adsDisplayed=2&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642586283&afh=Y819bl0tK6Zzgv8kAHy60A&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642586441,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779642586452,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_OFFER_WALL&testMode=false&adsNumber=10&packageExclude=com.arsenal.geosuper&offset=0&engInclude=false&twoClicks=true&video=ENABLED&timeSinceSessionStart=6522&adsDisplayed=2&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642586451&afh=MDlI%2FoKTQEf8HbnofdvASQ&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642586456,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642586458,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_OFFER_WALL&testMode=false&adsNumber=10&packageExclude=com.arsenal.geosuper&offset=0&engInclude=false&twoClicks=true&video=ENABLED&timeSinceSessionStart=6522&adsDisplayed=2&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642586451&afh=MDlI%2FoKTQEf8HbnofdvASQ&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642586472,
+    "type": "webview",
+    "data": {
+      "url": "javascript:gClientInterface.setMode(\"interstitial\")"
+    }
+  },
+  {
+    "ts": 1779642586473,
+    "type": "webview",
+    "data": {
+      "url": "javascript:enableScheme(\"externalLinks\")"
+    }
+  },
+  {
+    "ts": 1779642596592,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642596593,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642596593,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642596593,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642596595,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779642596601,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_OFFER_WALL&testMode=false&adsNumber=10&packageExclude=com.arsenal.geosuper&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=16676&adsDisplayed=2&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642596600&afh=LhKQAfXe%2FAcWg3M3CQ5WeQ&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642596603,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642596608,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_OFFER_WALL&testMode=false&adsNumber=10&packageExclude=com.arsenal.geosuper&offset=0&engInclude=true&twoClicks=true&video=ENABLED&timeSinceSessionStart=16676&adsDisplayed=2&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642596600&afh=LhKQAfXe%2FAcWg3M3CQ5WeQ&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642596700,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_simple_token"
+    }
+  },
+  {
+    "ts": 1779642596710,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_OFFER_WALL&testMode=false&adsNumber=10&packageExclude=com.arsenal.geosuper&offset=0&engInclude=false&twoClicks=true&video=ENABLED&timeSinceSessionStart=16781&adsDisplayed=2&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642596706&afh=H8rH2iyQezym6XCiKLwIZg&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642596712,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642596713,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=200024488&os=android&sdkVersion=3.4.1&packageId=com.arsenal.geosuper&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2009&density=2.75&sdkId=3&clientSessionId=d42451d4-5873-4777-8cb8-c87b1b40a1c0&appVersion=1.0&appCode=1&placement=INAPP_OFFER_WALL&testMode=false&adsNumber=10&packageExclude=com.arsenal.geosuper&offset=0&engInclude=false&twoClicks=true&video=ENABLED&timeSinceSessionStart=16781&adsDisplayed=2&hardwareAccelerated=true&dts=true&videoMode=INTERSTITIAL&downloadingMode=CACHE&contentAd=false&ts=1779642596706&afh=H8rH2iyQezym6XCiKLwIZg&token=1779642580715-4-H4sIAAAAAAAAADMwGIzAaKAdMApGATWA4SA1ixgwmglHwSgYBaMAHxiYUpLedQHRAACdy*RSUAoAAA%23%23"
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "ts": 1779636307142,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779636307146,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.dominospizza/shared_prefs/ApplicationConfigurationPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636307159,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~bNHgWEjRX3xrgbji1xskBQ==/ca.dominospizza-f6KDSMM26zZXf9oIRDnFUA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779636307159,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~bNHgWEjRX3xrgbji1xskBQ==/ca.dominospizza-f6KDSMM26zZXf9oIRDnFUA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779636307160,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779636307160,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779636307161,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779636307161,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779636307192,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.dominospizza/shared_prefs/DominosPrefs.xml"
+    }
+  },
+  {
+    "ts": 1779636307193,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.dominospizza/shared_prefs/BeaconConfigurationPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636307208,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.dominospizza/shared_prefs/ca.dominospizza_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636307209,
+    "type": "shared_pref",
+    "data": {
+      "key": "remember_me_cookie_token"
+    }
+  }
+]

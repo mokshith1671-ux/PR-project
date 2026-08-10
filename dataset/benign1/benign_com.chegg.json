@@ -1,0 +1,1081 @@
+[
+  {
+    "ts": 1779646991833,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/user_credentials.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646991840,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/tbsSharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646991845,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_id"
+    }
+  },
+  {
+    "ts": 1779646991846,
+    "type": "shared_pref",
+    "data": {
+      "key": "userContext"
+    }
+  },
+  {
+    "ts": 1779646991846,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_info"
+    }
+  },
+  {
+    "ts": 1779646991853,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/com.mixpanel.android.mpmetrics.ReferralInfo.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646991907,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/com.mixpanel.android.mpmetrics.MixpanelAPI_a26abd50431fee95ad749c4c70f63940.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646991908,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779646991908,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779646991910,
+    "type": "shared_pref",
+    "data": {
+      "key": "events_distinct_id"
+    }
+  },
+  {
+    "ts": 1779646991911,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779646991912,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779646991918,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/mixpanel.viewcrawler.changesa26abd50431fee95ad749c4c70f63940.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646991918,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779646991918,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779646991918,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779646991929,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/TwitterAdvertisingInfoPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646991935,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~HSV6v5uCSz_7VyfWpVf1Ig==/com.chegg-YZA4x4L9jXx4XARwPHceUw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779646991946,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/com.crashlytics.sdk.android:answers:settings.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646991953,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779646991958,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646991990,
+    "type": "url_access",
+    "data": {
+      "url": "https://decide.mixpanel.com/decide?version=1&lib=android&token=a26abd50431fee95ad749c4c70f63940&distinct_id=72835e1d-d47d-44c6-9828-3a3dc81d9f1f"
+    }
+  },
+  {
+    "ts": 1779646992008,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/com.crashlytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646992009,
+    "type": "shared_pref",
+    "data": {
+      "key": "super_properties"
+    }
+  },
+  {
+    "ts": 1779646992020,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646992022,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646992023,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646992057,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1342100007-0001-3C42-8A1A27A7F2AEBeginSession.cls_temp"
+    }
+  },
+  {
+    "ts": 1779646992058,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1342100007-0001-3C42-8A1A27A7F2AEBeginSession.cls"
+    }
+  },
+  {
+    "ts": 1779646992059,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1342100007-0001-3C42-8A1A27A7F2AESessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1779646992059,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646992059,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1342100007-0001-3C42-8A1A27A7F2AESessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779646992060,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1342100007-0001-3C42-8A1A27A7F2AESessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779646992062,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646992062,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779646992063,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779646992063,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1342100007-0001-3C42-8A1A27A7F2AESessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779646992063,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1342100007-0001-3C42-8A1A27A7F2AESessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779646992064,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646992065,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779646992066,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646992067,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646992077,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646992085,
+    "type": "socket",
+    "data": {
+      "host": "data.logentries.com",
+      "port": 443
+    }
+  },
+  {
+    "ts": 1779646992091,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/PromoSP.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646992098,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/rate_app_dialog.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646992105,
+    "type": "shared_pref",
+    "data": {
+      "key": "userSolutions"
+    }
+  },
+  {
+    "ts": 1779646992109,
+    "type": "shared_pref",
+    "data": {
+      "key": "userAuthCookie"
+    }
+  },
+  {
+    "ts": 1779646992117,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/APP_MEASUREMENT_CACHE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646992127,
+    "type": "shared_pref",
+    "data": {
+      "key": "erederBooksCache"
+    }
+  },
+  {
+    "ts": 1779646992128,
+    "type": "shared_pref",
+    "data": {
+      "key": "recent_books"
+    }
+  },
+  {
+    "ts": 1779646992129,
+    "type": "shared_pref",
+    "data": {
+      "key": "promotionCashe"
+    }
+  },
+  {
+    "ts": 1779646992129,
+    "type": "shared_pref",
+    "data": {
+      "key": "promotionCount"
+    }
+  },
+  {
+    "ts": 1779646992131,
+    "type": "shared_pref",
+    "data": {
+      "key": "recentBokksDataSelection"
+    }
+  },
+  {
+    "ts": 1779646992132,
+    "type": "shared_pref",
+    "data": {
+      "key": "recentBokksData"
+    }
+  },
+  {
+    "ts": 1779646992133,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/AssetAccessService.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646992141,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/chegg_prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646992147,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779646992157,
+    "type": "url_access",
+    "data": {
+      "url": "http://chegg-mobile-promotioms.s3.amazonaws.com/config/android/chegg-app/prod/4.4.3/configdata.json"
+    }
+  },
+  {
+    "ts": 1779646992159,
+    "type": "url_access",
+    "data": {
+      "url": "http://chegg-mobile-promotioms.s3.amazonaws.com/config/android/chegg-app/prod/4.4.3/foundation.json"
+    }
+  },
+  {
+    "ts": 1779646992162,
+    "type": "url_access",
+    "data": {
+      "url": "http://chegg-mobile-promotioms.s3.amazonaws.com/config/android/chegg-app/prod/4.4.3/configdata.json"
+    }
+  },
+  {
+    "ts": 1779646992168,
+    "type": "url_access",
+    "data": {
+      "url": "http://chegg-mobile-promotioms.s3.amazonaws.com/config/android/chegg-app/prod/4.4.3/foundation.json"
+    }
+  },
+  {
+    "ts": 1779646992280,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779646992281,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779646992281,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779646992284,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779646992284,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779646992286,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779646992286,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779646992288,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779646992288,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779646992288,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779646992289,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779646992289,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779646992290,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779646992290,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779646992291,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779646992292,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779646992293,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779646992294,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779646992294,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779646992294,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779646992294,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779646992298,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779646992299,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779646992299,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779646992299,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779646992299,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779646992342,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779646992345,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779646992346,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779646992348,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779646992348,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779646992349,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646992360,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779646992382,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779646992434,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646992536,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADOBEMOBILE_STOREDDEFAULTS_AID"
+    }
+  },
+  {
+    "ts": 1779646992536,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID"
+    }
+  },
+  {
+    "ts": 1779646992537,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID_HINT"
+    }
+  },
+  {
+    "ts": 1779646992537,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID_BLOB"
+    }
+  },
+  {
+    "ts": 1779646992538,
+    "type": "url_access",
+    "data": {
+      "url": "https://dpm.demdex.net/id?d_ver=2&d_orgid=3FE7CBC1556605A77F000101@AdobeOrg"
+    }
+  },
+  {
+    "ts": 1779646993346,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779646993349,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779646993352,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779646993352,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779646993727,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779646993727,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779646993772,
+    "type": "url_access",
+    "data": {
+      "url": "http://chegg-mobile-promotioms.s3.amazonaws.com/config/android/chegg-app/prod/4.4.3/foundation.json"
+    }
+  },
+  {
+    "ts": 1779646993773,
+    "type": "url_access",
+    "data": {
+      "url": "http://chegg-mobile-promotioms.s3.amazonaws.com/config/android/chegg-app/prod/4.4.3/foundation.json"
+    }
+  },
+  {
+    "ts": 1779646993773,
+    "type": "url_access",
+    "data": {
+      "url": "http://chegg-mobile-promotioms.s3.amazonaws.com/config/android/chegg-app/prod/4.4.3/configdata.json"
+    }
+  },
+  {
+    "ts": 1779646993773,
+    "type": "url_access",
+    "data": {
+      "url": "http://chegg-mobile-promotioms.s3.amazonaws.com/config/android/chegg-app/prod/4.4.3/configdata.json"
+    }
+  },
+  {
+    "ts": 1779646993871,
+    "type": "url_access",
+    "data": {
+      "url": "https://chegginc.sc.omtrdc.net/id?mid=12051181969406736512997638959254251881&mcorgid=3FE7CBC1556605A77F000101@AdobeOrg"
+    }
+  },
+  {
+    "ts": 1779646996597,
+    "type": "webview",
+    "data": {
+      "url": "http://www.chegg.com/coupon-consolidation?is_in_app=true&app_version=4.4.3&app_platform=android&native_api_version=3.0.0&_mobile=1&adb_appvi=null"
+    }
+  },
+  {
+    "ts": 1779646996638,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.chegg.home.HomeScreenActivity"
+    }
+  },
+  {
+    "ts": 1779646996640,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-5591ad2135623600140002b6.json"
+    }
+  },
+  {
+    "ts": 1779646996640,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-5591ad23633861001400107b.json"
+    }
+  },
+  {
+    "ts": 1779646996640,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-5591ad2135623600140002b6.json"
+    }
+  },
+  {
+    "ts": 1779646996659,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-5591ad23633861001400107b.json"
+    }
+  },
+  {
+    "ts": 1779646996684,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779646996689,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/cacheADBMobileDataCache.sqlite"
+    }
+  },
+  {
+    "ts": 1779646996780,
+    "type": "shared_pref",
+    "data": {
+      "key": "AAMUserId"
+    }
+  },
+  {
+    "ts": 1779646996811,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779646996816,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779646996820,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779646996860,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/prod_push_notifications.registration_state.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646996860,
+    "type": "shared_pref",
+    "data": {
+      "key": "google_registration_id"
+    }
+  },
+  {
+    "ts": 1779646996884,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.chegg.home.HomeScreenActivity"
+    }
+  },
+  {
+    "ts": 1779646996885,
+    "type": "shared_pref",
+    "data": {
+      "key": "google_registration_id"
+    }
+  },
+  {
+    "ts": 1779646996920,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/cacheADBMobileDataCache.sqliteADBMobileTimedActionsCache.sqlite"
+    }
+  },
+  {
+    "ts": 1779646996991,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779646997187,
+    "type": "url_access",
+    "data": {
+      "url": "https://chegginc.sc.omtrdc.net/b/ss/cheggnativeappandroidprod/0/JAVA-4.5.1-AN/s81711539"
+    }
+  },
+  {
+    "ts": 1779646997209,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646997209,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646997214,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646997217,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646997220,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646997220,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779646997220,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779646997226,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646997228,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1342100007-0001-3C42-8A1A27A7F2AESessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779646997228,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779646997246,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779646997247,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.chegg/settings?instance=64c2ba7c534e8f90ecada83fe4a4ed810accebc5&build_version=69&display_version=4.4.3&source=1&icon_hash=55d37a15646b5f9072e11636073210d435de39b2"
+    }
+  },
+  {
+    "ts": 1779646997248,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.chegg/settings?instance=64c2ba7c534e8f90ecada83fe4a4ed810accebc5&build_version=69&display_version=4.4.3&source=1&icon_hash=55d37a15646b5f9072e11636073210d435de39b2"
+    }
+  },
+  {
+    "ts": 1779646997250,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779646997261,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-6A1342100007-0001-3C42-8A1A27A7F2AE.temp.tmp"
+    }
+  },
+  {
+    "ts": 1779646997310,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779646997417,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779646998259,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.chegg.com/coupon-consolidation?is_in_app=true&app_version=4.4.3&app_platform=android&native_api_version=3.0.0&_mobile=1&adb_appvi=null"
+    }
+  },
+  {
+    "ts": 1779646998260,
+    "type": "webview",
+    "data": {
+      "url": "https://www.chegg.com/coupon-consolidation?is_in_app=true&app_version=4.4.3&app_platform=android&native_api_version=3.0.0&_mobile=1&adb_appvi=null"
+    }
+  },
+  {
+    "ts": 1779646998370,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779646999587,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/cache/adbdownloadcache/1f7a71e2f082c6dada08bf21a8898afd.1435610424000_2235356138396336376366373031373933323736396565306532666464633061303A3134333536313034323422"
+    }
+  },
+  {
+    "ts": 1779647000460,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chegg/cache/adbdownloadcache/a346eb6fb476fb8df3658e428d51f9c6.1435610424000_2232303739393930353761663031353536613831363831373030646132643661363A3134333536313034323422"
+    }
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "ts": 1779637747478,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.acer.ccd.ui.MainEntranceActivity"
+    }
+  },
+  {
+    "ts": 1779637752901,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637752902,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637752902,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637752902,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637752903,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637752904,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637752904,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637752904,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637752910,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.acer.ccd.ui.WelcomeActivity"
+    }
+  },
+  {
+    "ts": 1779637753021,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.acer.aop.ui.CCMWelcomeActivity"
+    }
+  },
+  {
+    "ts": 1779637753028,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.acer.ccd/shared_prefs/com.acer.ccd_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637759343,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.acer.aop.ui.AccountManageActivity"
+    }
+  }
+]

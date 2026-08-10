@@ -1,0 +1,1143 @@
+[
+  {
+    "ts": 1779635447758,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bbc.mobile.news.ww/databases/database2.db-wal"
+    }
+  },
+  {
+    "ts": 1779635447761,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bbc.mobile.news.ww/databases/database2.db-wal"
+    }
+  },
+  {
+    "ts": 1779635447779,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635447781,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635447782,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635447782,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635448291,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635448292,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635448293,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448295,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635448298,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/adunit.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448323,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bbc.mobile.news.ww/databases/database2.db-wal"
+    }
+  },
+  {
+    "ts": 1779635448325,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635448326,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635448327,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635448328,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635448328,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448332,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635448333,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635448334,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bbc.mobile.news.ww/shared_prefs/cSPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779635448335,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448340,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/handrail_list.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448341,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635448342,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635448343,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635448345,
+    "type": "crypto",
+    "data": {
+      "algorithm": "RSA/ECB/PKCS1PADDING"
+    }
+  },
+  {
+    "ts": 1779635448349,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779635448362,
+    "type": "url_access",
+    "data": {
+      "url": "https://sb.scorecardresearch.com/p2?c1=19&c2=20982512&ns_site=bbc&ns_ap_an=news&ns_ap_pn=android&ns_ap_pv=11&c12=f039a223665bcde0afad7cad8c6320bc-cs72&ns_ak=ANCchKC%2FQV81%2F1JRyOKtNCDQS8CU0RgzfVjwfxGrWYh4DcUkvEMiF%2FOwAvHG85bKkpqxmaAQKSllndBIUItnPzB2N1hotzbkeIOtXjreMmEnyA0544c8TrH7XQLwLjFzvdoORN4ikYQ%2B7oNkPKwC%2Bt%2FVtc4X7fWglMg1idoIu2k%3D&name=news.appstart.page&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1779635448348&ns_ap_csf=1&ns_ap_bi=bbc.mobile.news.ww&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=4.0.0.80.107106&ns_ap_sv=3.1508.28&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1779635448340&ns_ap_jb=0&ns_ap_res=1080x2072&ns_ap_install=1779635448340&ns_ap_lastrun=0&ns_ap_cs=1&ns_ap_runs=1&ns_ap_usage=8&ns_ap_fg=0&ns_ap_ft=0&ns_ap_dft=0&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=8&ns_ap_as=1&ns_ap_das=0&ns_ap_it=8&ns_ap_lang=en&ns_ap_ar=x86_64&ns_ts=1779635448348&b_ap_edition=news-android-ww&app_type=mobile-app&ml_version=9.3.0&startup_my_news_interface=standard&ten_to_watch_enabled=true&from_wear=false&startup_viewing_mode=standard&bbc_site=invalid-data&istats_visitor_id=93f18ee7ab34dec2ec8d7e78fc68af39afe70c44&welcome_enabled=false&b_daxcorp=bbc-global&ml_name=echo_android&bbc_st_or=portrait&app_name=news&bbc_st_sr=false"
+    }
+  },
+  {
+    "ts": 1779635448408,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635448410,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635448411,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448437,
+    "type": "activity_resume",
+    "data": {
+      "activity": "bbc.mobile.news.v3.app.TopLevelActivity"
+    }
+  },
+  {
+    "ts": 1779635448437,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635448441,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635448442,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448455,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635448457,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635448460,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448465,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635448466,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635448466,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448468,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/content/cps/news/front_page"
+    }
+  },
+  {
+    "ts": 1779635448470,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/flagpoles/ads, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448471,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/content/cps/news/front_page, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448473,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/content/most_popular/news"
+    }
+  },
+  {
+    "ts": 1779635448474,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/content/most_popular/news, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448654,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635448656,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635448663,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448669,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/flagpoles/ads, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448673,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635448677,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/content/cps/news/front_page"
+    }
+  },
+  {
+    "ts": 1779635448677,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635448678,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635448678,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635448681,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448683,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/content/cps/news/front_page, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448686,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/flagpoles/ads, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448688,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635448689,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635448690,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/content/cps/news/video_and_audio/top_stories"
+    }
+  },
+  {
+    "ts": 1779635448690,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635448691,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448691,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635448699,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/flagpoles/ads, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448701,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/content/cps/news/video_and_audio/top_stories, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448788,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|376940020686|*"
+    }
+  },
+  {
+    "ts": 1779635448789,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779635448790,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779635448790,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779635448815,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635448816,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635448818,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635448821,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635448824,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635448838,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635450186,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779635450189,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779635450190,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779635450190,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779635450418,
+    "type": "url_access",
+    "data": {
+      "url": "https://sb.scorecardresearch.com/p2?c1=19&c2=20982512&ns_site=bbc&ns_ap_an=news&ns_ap_pn=android&ns_ap_pv=11&c12=f039a223665bcde0afad7cad8c6320bc-cs72&ns_ak=ANCchKC%2FQV81%2F1JRyOKtNCDQS8CU0RgzfVjwfxGrWYh4DcUkvEMiF%2FOwAvHG85bKkpqxmaAQKSllndBIUItnPzB2N1hotzbkeIOtXjreMmEnyA0544c8TrH7XQLwLjFzvdoORN4ikYQ%2B7oNkPKwC%2Bt%2FVtc4X7fWglMg1idoIu2k%3D&name=news.appstart.page&ns_ap_ec=2&ns_ap_ev=view&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1779635448348&ns_ap_bi=bbc.mobile.news.ww&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=4.0.0.80.107106&ns_ap_sv=3.1508.28&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_res=1080x2072&ns_ap_cs=1&ns_ap_usage=2071&ns_ap_fg=0&ns_ap_ft=0&ns_ap_dft=0&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=2063&ns_ap_as=0&ns_ap_das=0&ns_ap_it=2063&ns_ap_lang=en&ns_ap_ar=x86_64&ns_ts=1779635450411&b_ap_edition=news-android-ww&app_type=mobile-app&ml_version=9.3.0&startup_my_news_interface=standard&ten_to_watch_enabled=true&echo_event=view&from_wear=false&startup_viewing_mode=standard&bbc_site=invalid-data&istats_visitor_id=93f18ee7ab34dec2ec8d7e78fc68af39afe70c44&welcome_enabled=false&b_daxcorp=bbc-global&ml_name=echo_android&bbc_st_or=portrait&app_name=news&bbc_st_sr=false"
+    }
+  },
+  {
+    "ts": 1779635451427,
+    "type": "activity_resume",
+    "data": {
+      "activity": "bbc.mobile.news.v3.app.TopLevelActivity"
+    }
+  },
+  {
+    "ts": 1779635451428,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635451429,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/content/cps/news/front_page"
+    }
+  },
+  {
+    "ts": 1779635451429,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635451430,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635451432,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/content/cps/news/video_and_audio/top_stories"
+    }
+  },
+  {
+    "ts": 1779635451432,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635451433,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635451437,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451441,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635451444,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/content/cps/news/front_page, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451448,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/content/cps/news/video_and_audio/top_stories, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451475,
+    "type": "url_access",
+    "data": {
+      "url": "https://sb.scorecardresearch.com/p2?c1=19&c2=20982512&ns_site=bbc&ns_ap_an=news&ns_ap_pn=android&ns_ap_pv=11&c12=f039a223665bcde0afad7cad8c6320bc-cs72&ns_ak=ANCchKC%2FQV81%2F1JRyOKtNCDQS8CU0RgzfVjwfxGrWYh4DcUkvEMiF%2FOwAvHG85bKkpqxmaAQKSllndBIUItnPzB2N1hotzbkeIOtXjreMmEnyA0544c8TrH7XQLwLjFzvdoORN4ikYQ%2B7oNkPKwC%2Bt%2FVtc4X7fWglMg1idoIu2k%3D&name=news.appstart.page&ns_ap_ec=3&ns_ap_ev=hidden&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1779635448348&ns_ap_bi=bbc.mobile.news.ww&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=4.0.0.80.107106&ns_ap_sv=3.1508.28&ns_type=hidden&ns_radio=wifi&ns_nc=1&ns_ap_res=1080x2072&ns_ap_cs=1&ns_ap_usage=3132&ns_ap_fg=1&ns_ap_ft=738&ns_ap_dft=738&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=323&ns_ap_as=0&ns_ap_das=1060&ns_ap_it=2386&ns_ap_lang=en&ns_ap_ar=x86_64&ns_ts=1779635451472&b_ap_edition=news-android-ww&app_type=mobile-app&ml_version=9.3.0&startup_my_news_interface=standard&ten_to_watch_enabled=true&action_name=push-permission-no&echo_event=userAct&from_wear=false&action_type=click&startup_viewing_mode=standard&bbc_site=invalid-data&istats_visitor_id=93f18ee7ab34dec2ec8d7e78fc68af39afe70c44&welcome_enabled=false&b_daxcorp=bbc-global&ml_name=echo_android&bbc_st_or=portrait&app_name=news&bbc_st_sr=false"
+    }
+  },
+  {
+    "ts": 1779635451499,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bbc.mobile.news.ww/shared_prefs/wt_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779635451554,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635451556,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635451564,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451570,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/flagpoles/ads, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451571,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635451573,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635451573,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/content/most_popular/news"
+    }
+  },
+  {
+    "ts": 1779635451573,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635451574,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451576,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635451578,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451579,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/flagpoles/ads, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451580,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/content/most_popular/news, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451606,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635451607,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635451608,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451616,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635451616,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635451617,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451650,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779635451651,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779635451652,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/cpuinfo_max_freq"
+    }
+  },
+  {
+    "ts": 1779635451653,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779635451653,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu1/cpufreq/cpuinfo_max_freq"
+    }
+  },
+  {
+    "ts": 1779635451654,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779635451654,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu2/cpufreq/cpuinfo_max_freq"
+    }
+  },
+  {
+    "ts": 1779635451655,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779635451655,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu3/cpufreq/cpuinfo_max_freq"
+    }
+  },
+  {
+    "ts": 1779635451655,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779635451666,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635451667,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635451668,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451758,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635451758,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635451759,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451792,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_font_size"
+    }
+  },
+  {
+    "ts": 1779635451794,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635451796,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635451797,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451802,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/flagpoles/ads, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451808,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635451810,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635451810,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451812,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_font_size"
+    }
+  },
+  {
+    "ts": 1779635451814,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/flagpoles/ads, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451870,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635451873,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635451881,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451890,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/flagpoles/ads, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451897,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635451898,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635451902,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451905,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/flagpoles/ads, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635451951,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635451952,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635451954,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635452235,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635452235,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635452237,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635452614,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|376940020686|*"
+    }
+  },
+  {
+    "ts": 1779635452614,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779635453651,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_key_internal_endpoint_policy"
+    }
+  },
+  {
+    "ts": 1779635453652,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json"
+    }
+  },
+  {
+    "ts": 1779635453655,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/static/GNL/android/4.0.0/policy.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635453662,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/content/cps/news/front_page"
+    }
+  },
+  {
+    "ts": 1779635453662,
+    "type": "url_access",
+    "data": {
+      "url": "http://walter-producer-cdn.api.bbci.co.uk/content/most_popular/news"
+    }
+  },
+  {
+    "ts": 1779635453664,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/content/cps/news/front_page, tag=null}"
+    }
+  },
+  {
+    "ts": 1779635453664,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=http://walter-producer-cdn.api.bbci.co.uk/content/most_popular/news, tag=null}"
+    }
+  }
+]

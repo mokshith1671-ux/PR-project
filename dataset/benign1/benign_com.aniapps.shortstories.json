@@ -1,0 +1,51 @@
+[
+  {
+    "ts": 1779640424966,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779640424970,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aniapps.shortstories/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640424977,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|1059251899891|*"
+    }
+  },
+  {
+    "ts": 1779640424981,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aniapps.shortstories/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640424984,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/23754/cmdline"
+    }
+  },
+  {
+    "ts": 1779640424997,
+    "type": "shared_pref",
+    "data": {
+      "key": "gmp_app_id"
+    }
+  },
+  {
+    "ts": 1779640425015,
+    "type": "shared_pref",
+    "data": {
+      "key": "previous_os_version"
+    }
+  }
+]

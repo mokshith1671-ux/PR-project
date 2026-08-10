@@ -1,0 +1,1395 @@
+[
+  {
+    "ts": 1779138732979,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138732984,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138732984,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.205962049613862"
+    }
+  },
+  {
+    "ts": 1779138732985,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/205962049613862?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138732987,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138732988,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779138732996,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/shared_prefs/zendesk-token.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138732997,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/shared_prefs/zendesk-authorization.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138732997,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/shared_prefs/ZendeskConfigStorage.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138733000,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779138733001,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779138733001,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779138733001,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779138733164,
+    "type": "shared_pref",
+    "data": {
+      "key": "zendesk-identity"
+    }
+  },
+  {
+    "ts": 1779138733165,
+    "type": "shared_pref",
+    "data": {
+      "key": "zendesk-identity-type"
+    }
+  },
+  {
+    "ts": 1779138733165,
+    "type": "shared_pref",
+    "data": {
+      "key": "zendesk-identity"
+    }
+  },
+  {
+    "ts": 1779138733165,
+    "type": "shared_pref",
+    "data": {
+      "key": "zendesk-identity-type"
+    }
+  },
+  {
+    "ts": 1779138733180,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138733200,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138733200,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138733201,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138733202,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138733203,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/Yozio"
+    }
+  },
+  {
+    "ts": 1779138733203,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/shared_prefs/come.yozio.android.PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138733210,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138733215,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779138733217,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_uri"
+    }
+  },
+  {
+    "ts": 1779138733217,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779138733219,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_identifier"
+    }
+  },
+  {
+    "ts": 1779138733219,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_link"
+    }
+  },
+  {
+    "ts": 1779138733219,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_push_identifier"
+    }
+  },
+  {
+    "ts": 1779138733219,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_uri"
+    }
+  },
+  {
+    "ts": 1779138733219,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_extra"
+    }
+  },
+  {
+    "ts": 1779138733220,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_version"
+    }
+  },
+  {
+    "ts": 1779138733223,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138733225,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138733226,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138733231,
+    "type": "url_access",
+    "data": {
+      "url": "https://sdk-api.yozio.com/?os=android&method=sdk.app.install.android&app_key=7eee3476-f006-4fae-89c1-dfc7082d7379&device_id=4f7a71a01c8ed626"
+    }
+  },
+  {
+    "ts": 1779138733231,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138733231,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138733232,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138733232,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779138733236,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.tubitv.activities.SplashScreenActivity"
+    }
+  },
+  {
+    "ts": 1779138733245,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779138733246,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICE_TOKEN"
+    }
+  },
+  {
+    "ts": 1779138733247,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138733249,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138733250,
+    "type": "shared_pref",
+    "data": {
+      "key": "205962049613862json"
+    }
+  },
+  {
+    "ts": 1779138733251,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.taplytics.com/api/v1/clientConfig?con=US&tz=GMT+05:30&lv=0&br=google&osv=11&ma=Google&sh=2072&alg=en&ca=Android&con3=USA&ab=48&ad=4f7a71a01c8ed626&os=Android&d=sdk_gphone_x86_64&sw=1080&ai=com.tubitv&tzn=Asia/Calcutta&tzs=19800&aua={\"customData\":{\"deviceId\":\"39a3706f-a683-4320-85af-1f71a84c0956\"}}&an=Tubi%20TV&n=WIFI&adt=anAndroidID&rd=gsm&t=32935c79c4d19ffe0b415df753dfd53d5feb2d66&av=2.7.1&alg3=eng&sdk=1.8.3&sdpi=440"
+    }
+  },
+  {
+    "ts": 1779138733252,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138733253,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138733254,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138733256,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138733257,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779138733257,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779138733257,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779138733263,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138733264,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138733282,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138733283,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138733285,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138733285,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138733287,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138733287,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138733296,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779138733297,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/205962049613862/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138733354,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779138733356,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138733359,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138733361,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138733361,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779138733362,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779138733364,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/shared_prefs/io.fabric.sdk.android:fabric:c.b.a.a.m.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138733364,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779138733365,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779138733367,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779138733367,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.tubitv/settings?instance=eb53b0fa96a393c26bf4d9d19eec105f4a6c4d2f&build_version=48&display_version=2.7.1&source=1&icon_hash=a4886c3f50826d0d977f1fad968e98f76ffb4768"
+    }
+  },
+  {
+    "ts": 1779138733367,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138733368,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.tubitv/settings?instance=eb53b0fa96a393c26bf4d9d19eec105f4a6c4d2f&build_version=48&display_version=2.7.1&source=1&icon_hash=a4886c3f50826d0d977f1fad968e98f76ffb4768"
+    }
+  },
+  {
+    "ts": 1779138733380,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138733386,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779138733387,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/install"
+    }
+  },
+  {
+    "ts": 1779138733567,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.taplytics.com/api/v1/clientConfig?con=US&tz=GMT+05:30&lv=0&br=google&osv=11&ma=Google&sh=2072&alg=en&ca=Android&con3=USA&ab=48&ad=4f7a71a01c8ed626&os=Android&d=sdk_gphone_x86_64&sw=1080&ai=com.tubitv&tzn=Asia/Calcutta&tzs=19800&aua={\"customData\":{\"deviceId\":\"39a3706f-a683-4320-85af-1f71a84c0956\"}}&an=Tubi%20TV&n=WIFI&adt=anAndroidID&rd=gsm&t=32935c79c4d19ffe0b415df753dfd53d5feb2d66&av=2.7.1&alg3=eng&sdk=1.8.3&sdpi=440"
+    }
+  },
+  {
+    "ts": 1779138733600,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.taplytics.com/api/v1/clientConfig?con=US&tz=GMT+05:30&lv=0&br=google&osv=11&ma=Google&sh=2072&alg=en&ca=Android&con3=USA&ab=48&ad=4f7a71a01c8ed626&os=Android&d=sdk_gphone_x86_64&sw=1080&ai=com.tubitv&tzn=Asia/Calcutta&tzs=19800&aua={\"customData\":{\"deviceId\":\"39a3706f-a683-4320-85af-1f71a84c0956\"}}&an=Tubi%20TV&n=WIFI&adt=anAndroidID&rd=gsm&t=32935c79c4d19ffe0b415df753dfd53d5feb2d66&av=2.7.1&alg3=eng&sdk=1.8.3&sdpi=440"
+    }
+  },
+  {
+    "ts": 1779138733638,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.taplytics.com/api/v1/clientConfig?con=US&tz=GMT+05:30&lv=0&br=google&osv=11&ma=Google&sh=2072&alg=en&ca=Android&con3=USA&ab=48&ad=4f7a71a01c8ed626&os=Android&d=sdk_gphone_x86_64&sw=1080&ai=com.tubitv&tzn=Asia/Calcutta&tzs=19800&aua={\"customData\":{\"deviceId\":\"39a3706f-a683-4320-85af-1f71a84c0956\"}}&an=Tubi%20TV&n=WIFI&adt=anAndroidID&rd=gsm&t=32935c79c4d19ffe0b415df753dfd53d5feb2d66&av=2.7.1&alg3=eng&sdk=1.8.3&sdpi=440"
+    }
+  },
+  {
+    "ts": 1779138733807,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779138733819,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_params"
+    }
+  },
+  {
+    "ts": 1779138733820,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000000.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138733823,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138733826,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138733827,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138733827,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138733831,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_params"
+    }
+  },
+  {
+    "ts": 1779138733835,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000000.cls"
+    }
+  },
+  {
+    "ts": 1779138733836,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000001.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138733839,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138733840,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138733845,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000001.cls"
+    }
+  },
+  {
+    "ts": 1779138733846,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000002.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138733846,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138733850,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000002.cls"
+    }
+  },
+  {
+    "ts": 1779138733851,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000003.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138733851,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138733853,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000003.cls"
+    }
+  },
+  {
+    "ts": 1779138733854,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000004.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138733857,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138733864,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000004.cls"
+    }
+  },
+  {
+    "ts": 1779138733865,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000005.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138733866,
+    "type": "shared_pref",
+    "data": {
+      "key": "userId"
+    }
+  },
+  {
+    "ts": 1779138733867,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138733870,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000005.cls"
+    }
+  },
+  {
+    "ts": 1779138733872,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000006.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138733873,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.tubitv.activities.MainLoginActivity"
+    }
+  },
+  {
+    "ts": 1779138733874,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138733883,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000006.cls"
+    }
+  },
+  {
+    "ts": 1779138733886,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779138733929,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779138733935,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779138734309,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-6A0B80AC035F-0001-3A91-1EC10E9D2B53.temp.tmp"
+    }
+  },
+  {
+    "ts": 1779138736517,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138736531,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138736531,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138736531,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138736532,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138736532,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/Yozio"
+    }
+  },
+  {
+    "ts": 1779138736536,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138736537,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138736537,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138736541,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779138736541,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_id"
+    }
+  },
+  {
+    "ts": 1779138736546,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138736546,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138736546,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138736548,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000007.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138736551,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138736576,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000007.cls"
+    }
+  },
+  {
+    "ts": 1779138736577,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000008.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138736582,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138736584,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.tubitv.activities.MainLoginActivity"
+    }
+  },
+  {
+    "ts": 1779138736587,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000008.cls"
+    }
+  },
+  {
+    "ts": 1779138736587,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000009.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138736592,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138736594,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000009.cls"
+    }
+  },
+  {
+    "ts": 1779138736595,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000010.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138736598,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138736602,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000010.cls"
+    }
+  },
+  {
+    "ts": 1779138736603,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000011.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138736606,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138736609,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779138736611,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000011.cls"
+    }
+  },
+  {
+    "ts": 1779138736613,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000012.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138736614,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779138736617,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138736636,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000012.cls"
+    }
+  },
+  {
+    "ts": 1779138736638,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000013.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138736644,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138736653,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B80AC035F-0001-3A91-1EC10E9D2B53SessionEvent0000000013.cls"
+    }
+  },
+  {
+    "ts": 1779138736851,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138736875,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138736893,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.tubitv.activities.SignUpActivity"
+    }
+  },
+  {
+    "ts": 1779138737342,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138737343,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138737347,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779138737347,
+    "type": "shared_pref",
+    "data": {
+      "key": "lastToken"
+    }
+  },
+  {
+    "ts": 1779138737347,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|142970037978|GCM"
+    }
+  },
+  {
+    "ts": 1779138737347,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138737348,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138737351,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-6A0B80AC035F-0001-3A91-1EC10E9D2B53.temp.tmp"
+    }
+  },
+  {
+    "ts": 1779138741083,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_app_uuid"
+    }
+  },
+  {
+    "ts": 1779138746532,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_device_fingerprint_id"
+    }
+  },
+  {
+    "ts": 1779138746532,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779138746532,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_id"
+    }
+  },
+  {
+    "ts": 1779138746532,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_id"
+    }
+  },
+  {
+    "ts": 1779138746532,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779138746533,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_id"
+    }
+  },
+  {
+    "ts": 1779138746533,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_device_fingerprint_id"
+    }
+  },
+  {
+    "ts": 1779138746538,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tubitv/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138746539,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779138746540,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/close"
+    }
+  },
+  {
+    "ts": 1779138747988,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/205962049613862/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138748813,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779138748813,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_id"
+    }
+  },
+  {
+    "ts": 1779138748814,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_uri"
+    }
+  },
+  {
+    "ts": 1779138748814,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779138748815,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_device_fingerprint_id"
+    }
+  },
+  {
+    "ts": 1779138748815,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779138748815,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_identifier"
+    }
+  },
+  {
+    "ts": 1779138748816,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_link"
+    }
+  },
+  {
+    "ts": 1779138748816,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_push_identifier"
+    }
+  },
+  {
+    "ts": 1779138748816,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_uri"
+    }
+  },
+  {
+    "ts": 1779138748816,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_extra"
+    }
+  },
+  {
+    "ts": 1779138748816,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_version"
+    }
+  },
+  {
+    "ts": 1779138748816,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_version"
+    }
+  },
+  {
+    "ts": 1779138748823,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.tubitv.activities.SignUpActivity"
+    }
+  },
+  {
+    "ts": 1779138750182,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779138750192,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779138750193,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/open"
+    }
+  },
+  {
+    "ts": 1779138750513,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779138750515,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_params"
+    }
+  }
+]

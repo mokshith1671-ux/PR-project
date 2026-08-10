@@ -1,0 +1,37 @@
+[
+  {
+    "ts": 1779129928466,
+    "type": "activity_resume",
+    "data": {
+      "activity": "air.joy2play.ipl.t20.cricket.season9.AppEntry"
+    }
+  },
+  {
+    "ts": 1779129928489,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779129928491,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779129928491,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779129928491,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  }
+]

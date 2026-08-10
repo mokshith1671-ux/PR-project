@@ -1,0 +1,828 @@
+[
+  {
+    "ts": 1779133322430,
+    "type": "url_access",
+    "data": {
+      "url": "https://decide.mixpanel.com/decide?version=1&lib=android&token=06262eb0eab67c9181373d0d021472e3&distinct_id=3feea6e2-ff16-4984-8b08-1b5546083524"
+    }
+  },
+  {
+    "ts": 1779133322502,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.dojoapp.dojo/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133322503,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.349361191869787"
+    }
+  },
+  {
+    "ts": 1779133322504,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.dojoapp.dojo/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133322507,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/349361191869787?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779133322515,
+    "type": "shared_pref",
+    "data": {
+      "key": "api_key_key"
+    }
+  },
+  {
+    "ts": 1779133322516,
+    "type": "shared_pref",
+    "data": {
+      "key": "city_key"
+    }
+  },
+  {
+    "ts": 1779133322516,
+    "type": "file_access",
+    "data": {
+      "path": "Asia/Kolkata"
+    }
+  },
+  {
+    "ts": 1779133322518,
+    "type": "shared_pref",
+    "data": {
+      "key": "language_key"
+    }
+  },
+  {
+    "ts": 1779133322521,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.dojoapp.dojo/shared_prefs/branch_referral_shared_pref.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133322522,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779133322524,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.dojoapp.dojo/shared_prefs/BNC_Server_Request_Queue.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133322528,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.dojoapp.dojo/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133322530,
+    "type": "shared_pref",
+    "data": {
+      "key": "BNCServerRequestQueue"
+    }
+  },
+  {
+    "ts": 1779133322532,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_branch_key"
+    }
+  },
+  {
+    "ts": 1779133322533,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_id"
+    }
+  },
+  {
+    "ts": 1779133322533,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_identifier"
+    }
+  },
+  {
+    "ts": 1779133322533,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_link"
+    }
+  },
+  {
+    "ts": 1779133322533,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_push_identifier"
+    }
+  },
+  {
+    "ts": 1779133322567,
+    "type": "shared_pref",
+    "data": {
+      "key": "str_notification_message"
+    }
+  },
+  {
+    "ts": 1779133322567,
+    "type": "shared_pref",
+    "data": {
+      "key": "str_notification_message"
+    }
+  },
+  {
+    "ts": 1779133322605,
+    "type": "shared_pref",
+    "data": {
+      "key": "api_key_key"
+    }
+  },
+  {
+    "ts": 1779133322605,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779133322607,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779133322609,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_identifier"
+    }
+  },
+  {
+    "ts": 1779133322610,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_link"
+    }
+  },
+  {
+    "ts": 1779133322610,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_push_identifier"
+    }
+  },
+  {
+    "ts": 1779133322610,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_uri"
+    }
+  },
+  {
+    "ts": 1779133322610,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_extra"
+    }
+  },
+  {
+    "ts": 1779133322611,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_version"
+    }
+  },
+  {
+    "ts": 1779133322614,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133322621,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779133322623,
+    "type": "activity_resume",
+    "data": {
+      "activity": "co.dojoapp.dojo.StartActivity"
+    }
+  },
+  {
+    "ts": 1779133322637,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779133322638,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779133322638,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133322638,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133322639,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133322639,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133322639,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Pictures/Screenshots"
+    }
+  },
+  {
+    "ts": 1779133322786,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|391157202263|*"
+    }
+  },
+  {
+    "ts": 1779133322787,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779133322787,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779133322788,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779133322815,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779133322818,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779133322820,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133322821,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133322821,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779133322822,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133322828,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.dojoapp.dojo/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779133322830,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779133322832,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.dojoapp.dojo/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6B8A0133-0001-2BC1-9D9CCEFE8CB8SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779133322838,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779133322839,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/install"
+    }
+  },
+  {
+    "ts": 1779133322839,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.dojoapp.dojo/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133322844,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.dojoapp.dojo/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779133322844,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779133322845,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/co.dojoapp.dojo/settings?instance=3d8dca155ed63cbcca8da1ed21f7727e713493ac&build_version=243&display_version=3.1.9&source=1&icon_hash=f3ba2fc1931162847405c3858b80595933908cff"
+    }
+  },
+  {
+    "ts": 1779133322846,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/co.dojoapp.dojo/settings?instance=3d8dca155ed63cbcca8da1ed21f7727e713493ac&build_version=243&display_version=3.1.9&source=1&icon_hash=f3ba2fc1931162847405c3858b80595933908cff"
+    }
+  },
+  {
+    "ts": 1779133322878,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779133322878,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779133323136,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_twittersession"
+    }
+  },
+  {
+    "ts": 1779133323136,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_appsession"
+    }
+  },
+  {
+    "ts": 1779133323508,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779133323522,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_params"
+    }
+  },
+  {
+    "ts": 1779133323530,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_params"
+    }
+  },
+  {
+    "ts": 1779133323532,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=https://s3-eu-west-1.amazonaws.com/ab-tests/segments.json, tag=null}"
+    }
+  },
+  {
+    "ts": 1779133323702,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779133323702,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779133325170,
+    "type": "shared_pref",
+    "data": {
+      "key": "super_properties"
+    }
+  },
+  {
+    "ts": 1779133325171,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.dojoapp.dojo/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6B8A0133-0001-2BC1-9D9CCEFE8CB8SessionEvent0000000000.cls_temp"
+    }
+  },
+  {
+    "ts": 1779133325173,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133325189,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.dojoapp.dojo/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6B8A0133-0001-2BC1-9D9CCEFE8CB8SessionEvent0000000000.cls"
+    }
+  },
+  {
+    "ts": 1779133325189,
+    "type": "shared_pref",
+    "data": {
+      "key": "str_notification_message"
+    }
+  },
+  {
+    "ts": 1779133325190,
+    "type": "shared_pref",
+    "data": {
+      "key": "str_notification_message"
+    }
+  },
+  {
+    "ts": 1779133325235,
+    "type": "activity_resume",
+    "data": {
+      "activity": "co.dojoapp.dojo.onboarding.OnboardingActivity"
+    }
+  },
+  {
+    "ts": 1779133325241,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779133325242,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133325242,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133325242,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779133325242,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133325242,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133325243,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Pictures/Screenshots"
+    }
+  },
+  {
+    "ts": 1779133325854,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|391157202263|*"
+    }
+  },
+  {
+    "ts": 1779133325854,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779133325855,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|391157202263|*"
+    }
+  },
+  {
+    "ts": 1779133326037,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { act=android.intent.action.CALL_BUTTON flg=0x10000000 }"
+    }
+  },
+  {
+    "ts": 1779133339027,
+    "type": "shared_pref",
+    "data": {
+      "key": "str_notification_message"
+    }
+  },
+  {
+    "ts": 1779133339028,
+    "type": "shared_pref",
+    "data": {
+      "key": "str_notification_message"
+    }
+  },
+  {
+    "ts": 1779133339074,
+    "type": "activity_resume",
+    "data": {
+      "activity": "co.dojoapp.dojo.login.LoginActivity"
+    }
+  },
+  {
+    "ts": 1779133339080,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779133339080,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779133339081,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133339082,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133339082,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133339082,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133339082,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Pictures/Screenshots"
+    }
+  },
+  {
+    "ts": 1779133339173,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779133339404,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.mixpanel.com/track?ip=1"
+    }
+  },
+  {
+    "ts": 1779133340496,
+    "type": "url_access",
+    "data": {
+      "url": "https://decide.mixpanel.com/decide?version=1&lib=android&token=06262eb0eab67c9181373d0d021472e3&distinct_id=3feea6e2-ff16-4984-8b08-1b5546083524"
+    }
+  },
+  {
+    "ts": 1779133340820,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.dojoapp.dojo/shared_prefs/com.google.android.gms.signin.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133340820,
+    "type": "shared_pref",
+    "data": {
+      "key": "defaultGoogleSignInAccount"
+    }
+  },
+  {
+    "ts": 1779133341047,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779133341047,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779133341351,
+    "type": "url_access",
+    "data": {
+      "url": "https://decide.mixpanel.com/decide?version=1&lib=android&token=06262eb0eab67c9181373d0d021472e3&distinct_id=3feea6e2-ff16-4984-8b08-1b5546083524"
+    }
+  },
+  {
+    "ts": 1779133341441,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779133341441,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779133343504,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_device_fingerprint_id"
+    }
+  },
+  {
+    "ts": 1779133343505,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779133343506,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_id"
+    }
+  },
+  {
+    "ts": 1779133343506,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_id"
+    }
+  },
+  {
+    "ts": 1779133343506,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779133343506,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_id"
+    }
+  },
+  {
+    "ts": 1779133343507,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_device_fingerprint_id"
+    }
+  },
+  {
+    "ts": 1779133343509,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779133343511,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/close"
+    }
+  },
+  {
+    "ts": 1779133345884,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.dojoapp.dojo/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  }
+]

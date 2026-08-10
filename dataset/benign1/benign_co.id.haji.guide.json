@@ -1,0 +1,58 @@
+[
+  {
+    "ts": 1779133482386,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.id.haji.guide/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133482405,
+    "type": "activity_resume",
+    "data": {
+      "activity": "co.id.splashScreen.SplashScreen"
+    }
+  },
+  {
+    "ts": 1779133482423,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.id.haji.guide/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779133482467,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779133483916,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.id.haji.guide/shared_prefs/co.id.haji.guide_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133483984,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779133483984,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779133483995,
+    "type": "activity_resume",
+    "data": {
+      "activity": "co.id.form.LoginActivity"
+    }
+  }
+]

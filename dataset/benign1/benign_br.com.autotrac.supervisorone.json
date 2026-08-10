@@ -1,0 +1,86 @@
+[
+  {
+    "ts": 1779131712817,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779131712819,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.autotrac.supervisorone/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131712819,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.autotrac.supervisorone/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779131712821,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779131712822,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131712822,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131712822,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/br.com.autotrac.supervisorone/settings?instance=6c3086ef8e575b1ee7e4389f451d223e8dd2b847&build_version=18&display_version=2.11.01&source=1&icon_hash=e866cfd0b0042ff89f7844dcedb3a33326ea7c1e"
+    }
+  },
+  {
+    "ts": 1779131712823,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779131712823,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779131712824,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.autotrac.supervisorone/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B65400279-0001-7595-2F086A021650SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779131712825,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/br.com.autotrac.supervisorone/settings?instance=6c3086ef8e575b1ee7e4389f451d223e8dd2b847&build_version=18&display_version=2.11.01&source=1&icon_hash=e866cfd0b0042ff89f7844dcedb3a33326ea7c1e"
+    }
+  },
+  {
+    "ts": 1779131712836,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.autotrac.supervisorone/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  }
+]

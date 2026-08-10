@@ -1,0 +1,23 @@
+[
+  {
+    "ts": 1779132383181,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.voeazul/shared_prefs/voeazul_gcm_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132383182,
+    "type": "shared_pref",
+    "data": {
+      "key": "property_reg_id"
+    }
+  },
+  {
+    "ts": 1779132383245,
+    "type": "activity_resume",
+    "data": {
+      "activity": "br.com.voeazul.activity.MenuActivity"
+    }
+  }
+]

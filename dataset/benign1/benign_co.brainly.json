@@ -1,0 +1,1409 @@
+[
+  {
+    "ts": 1779133292521,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779133292529,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/shared_prefs/co.brainly.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133292535,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779133292538,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779133292540,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779133292541,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779133292782,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.brainly.StartActivity"
+    }
+  },
+  {
+    "ts": 1779133292903,
+    "type": "shared_pref",
+    "data": {
+      "key": "Location priorities"
+    }
+  },
+  {
+    "ts": 1779133292965,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133292972,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133292974,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133292986,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.brainly.ui.splash.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779133293031,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779133293103,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779133293107,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779133293108,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133293108,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133293110,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/shared_prefs/io.fabric.sdk.android:fabric:io.a.a.a.t.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133293110,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779133293112,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779133293114,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6B6C01B0-0001-2A60-CD7866DBA72FSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779133293124,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779133293125,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779133293129,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/co.brainly/settings?instance=8bf77afb4ec3fb56f0936a519e9464f7be976644&build_version=401707032&display_version=4.1.7.7&source=1&icon_hash=618afafa5fd885a6b0a1d9ff2b24bd412f8f76ea"
+    }
+  },
+  {
+    "ts": 1779133293132,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/co.brainly/settings?instance=8bf77afb4ec3fb56f0936a519e9464f7be976644&build_version=401707032&display_version=4.1.7.7&source=1&icon_hash=618afafa5fd885a6b0a1d9ff2b24bd412f8f76ea"
+    }
+  },
+  {
+    "ts": 1779133303088,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133303088,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133303090,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133303093,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779133303098,
+    "type": "shared_pref",
+    "data": {
+      "key": "marketPrefix"
+    }
+  },
+  {
+    "ts": 1779133303102,
+    "type": "url_access",
+    "data": {
+      "url": "https://trk.kissmetrics.io/e?_k=7081557844a20e4932eea3041c53aeb4dfacaeb1&_c=mobile_app&_u=KISSmetrics-Android/2.2.2&_p=d33fad0d-3ec1-4fd1-939f-f96293fc44b4&_n=Installed%20App&_d=1&_t=1779133292"
+    }
+  },
+  {
+    "ts": 1779133303103,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133303105,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133303110,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779133303113,
+    "type": "shared_pref",
+    "data": {
+      "key": "referralMarketPrefix"
+    }
+  },
+  {
+    "ts": 1779133303119,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133303120,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133303121,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133303122,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779133303126,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779133303612,
+    "type": "shared_pref",
+    "data": {
+      "key": "referralMarketPrefix"
+    }
+  },
+  {
+    "ts": 1779133304114,
+    "type": "shared_pref",
+    "data": {
+      "key": "referralMarketPrefix"
+    }
+  },
+  {
+    "ts": 1779133304616,
+    "type": "shared_pref",
+    "data": {
+      "key": "referralMarketPrefix"
+    }
+  },
+  {
+    "ts": 1779133304663,
+    "type": "url_access",
+    "data": {
+      "url": "https://trk.kissmetrics.io/s?_k=7081557844a20e4932eea3041c53aeb4dfacaeb1&_c=mobile_app&_u=KISSmetrics-Android/2.2.2&_p=d33fad0d-3ec1-4fd1-939f-f96293fc44b4&_d=1&_t=1779133292&App%20Build=401707032"
+    }
+  },
+  {
+    "ts": 1779133305117,
+    "type": "shared_pref",
+    "data": {
+      "key": "referralMarketPrefix"
+    }
+  },
+  {
+    "ts": 1779133305619,
+    "type": "shared_pref",
+    "data": {
+      "key": "referralMarketPrefix"
+    }
+  },
+  {
+    "ts": 1779133305937,
+    "type": "url_access",
+    "data": {
+      "url": "https://trk.kissmetrics.io/s?_k=7081557844a20e4932eea3041c53aeb4dfacaeb1&_c=mobile_app&_u=KISSmetrics-Android/2.2.2&_p=d33fad0d-3ec1-4fd1-939f-f96293fc44b4&_d=1&_t=1779133292&Device%20Manufacturer=Google"
+    }
+  },
+  {
+    "ts": 1779133306112,
+    "type": "shared_pref",
+    "data": {
+      "key": "marketPrefix"
+    }
+  },
+  {
+    "ts": 1779133306113,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133306115,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133306121,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133306124,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133306132,
+    "type": "url_access",
+    "data": {
+      "url": "http://ip-api.com/json"
+    }
+  },
+  {
+    "ts": 1779133306133,
+    "type": "url_access",
+    "data": {
+      "url": "http://ip-api.com/json"
+    }
+  },
+  {
+    "ts": 1779133307218,
+    "type": "url_access",
+    "data": {
+      "url": "https://trk.kissmetrics.io/s?_k=7081557844a20e4932eea3041c53aeb4dfacaeb1&_c=mobile_app&_u=KISSmetrics-Android/2.2.2&_p=d33fad0d-3ec1-4fd1-939f-f96293fc44b4&_d=1&_t=1779133292&Device%20Model=sdk_gphone_x86_64"
+    }
+  },
+  {
+    "ts": 1779133307534,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307536,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307550,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307552,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307553,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307556,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307569,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307571,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307578,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307582,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307583,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307585,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307600,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307606,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307608,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307608,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307641,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779133307650,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779133307659,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/shared_prefs/us.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133307660,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/shared_prefs/com.brainly.auth.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133307661,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.brainly.lt"
+    }
+  },
+  {
+    "ts": 1779133307662,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.brainly.sh"
+    }
+  },
+  {
+    "ts": 1779133307666,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/shared_prefs/swrve_prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133307666,
+    "type": "shared_pref",
+    "data": {
+      "key": "userId"
+    }
+  },
+  {
+    "ts": 1779133307671,
+    "type": "url_access",
+    "data": {
+      "url": "https://3695.api.swrve.com"
+    }
+  },
+  {
+    "ts": 1779133307672,
+    "type": "url_access",
+    "data": {
+      "url": "http://3695.content.swrve.com"
+    }
+  },
+  {
+    "ts": 1779133307693,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133307697,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779133307698,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779133307698,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779133307701,
+    "type": "shared_pref",
+    "data": {
+      "key": "swrve.referrer_id"
+    }
+  },
+  {
+    "ts": 1779133307707,
+    "type": "shared_pref",
+    "data": {
+      "key": "campaigns_and_resources_etag"
+    }
+  },
+  {
+    "ts": 1779133307710,
+    "type": "url_access",
+    "data": {
+      "url": "http://3695.content.swrve.com/api/1/user_resources_and_campaigns?device_dpi=440.0&orientation=both&app_version=4.1.7.7&joined=1779133307696&os_version=11&location_version=1&language=en-US&version=5&android_device_xdpi=440.0&app_store=google&device_width=1080&android_device_ydpi=440.0&device_name=Google+sdk_gphone_x86_64&device_height=2009&api_key=BqRXqULqhxkUNvAzeIZC&conversation_version=2&user=375ccbb3-02b1-450a-ad2d-6c254b6f2a58"
+    }
+  },
+  {
+    "ts": 1779133307712,
+    "type": "url_access",
+    "data": {
+      "url": "http://3695.content.swrve.com/api/1/user_resources_and_campaigns?device_dpi=440.0&orientation=both&app_version=4.1.7.7&joined=1779133307696&os_version=11&location_version=1&language=en-US&version=5&android_device_xdpi=440.0&app_store=google&device_width=1080&android_device_ydpi=440.0&device_name=Google+sdk_gphone_x86_64&device_height=2009&api_key=BqRXqULqhxkUNvAzeIZC&conversation_version=2&user=375ccbb3-02b1-450a-ad2d-6c254b6f2a58"
+    }
+  },
+  {
+    "ts": 1779133307725,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307728,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307729,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307736,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307744,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307750,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307753,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307756,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307758,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/files/appsee"
+    }
+  },
+  {
+    "ts": 1779133307764,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/no_backup/appsee"
+    }
+  },
+  {
+    "ts": 1779133307766,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/no_backup/appsee"
+    }
+  },
+  {
+    "ts": 1779133307766,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/no_backup/appsee"
+    }
+  },
+  {
+    "ts": 1779133307769,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/shared_prefs/Appsee.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133307783,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/shared_prefs/branch_referral_shared_pref.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133307784,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/net/xt_qtaguid/stats"
+    }
+  },
+  {
+    "ts": 1779133307794,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/shared_prefs/BNC_Server_Request_Queue.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133307798,
+    "type": "shared_pref",
+    "data": {
+      "key": "BNCServerRequestQueue"
+    }
+  },
+  {
+    "ts": 1779133307800,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_branch_key"
+    }
+  },
+  {
+    "ts": 1779133307800,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_id"
+    }
+  },
+  {
+    "ts": 1779133307801,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_identifier"
+    }
+  },
+  {
+    "ts": 1779133307801,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_link"
+    }
+  },
+  {
+    "ts": 1779133307801,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_push_identifier"
+    }
+  },
+  {
+    "ts": 1779133307819,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779133307821,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779133307822,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133307836,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_version"
+    }
+  },
+  {
+    "ts": 1779133307838,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_identifier"
+    }
+  },
+  {
+    "ts": 1779133307838,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_link"
+    }
+  },
+  {
+    "ts": 1779133307838,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_push_identifier"
+    }
+  },
+  {
+    "ts": 1779133307839,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_uri"
+    }
+  },
+  {
+    "ts": 1779133307839,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_extra"
+    }
+  },
+  {
+    "ts": 1779133307840,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.brainly.ui.MainActivity"
+    }
+  },
+  {
+    "ts": 1779133307841,
+    "type": "shared_pref",
+    "data": {
+      "key": "coppaToken"
+    }
+  },
+  {
+    "ts": 1779133307854,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133307878,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/no_backup/appsee"
+    }
+  },
+  {
+    "ts": 1779133307881,
+    "type": "shared_pref",
+    "data": {
+      "key": "Appsee_ClientId"
+    }
+  },
+  {
+    "ts": 1779133307882,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307886,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307891,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307897,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307903,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307904,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307910,
+    "type": "shared_pref",
+    "data": {
+      "key": "Appsee_OfflineSessions"
+    }
+  },
+  {
+    "ts": 1779133307923,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779133307942,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133307945,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133308018,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133308022,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133308023,
+    "type": "shared_pref",
+    "data": {
+      "key": "My questions on profile"
+    }
+  },
+  {
+    "ts": 1779133308046,
+    "type": "url_access",
+    "data": {
+      "url": "https://trk.kissmetrics.io/s?_k=7081557844a20e4932eea3041c53aeb4dfacaeb1&_c=mobile_app&_u=KISSmetrics-Android/2.2.2&_p=d33fad0d-3ec1-4fd1-939f-f96293fc44b4&_d=1&_t=1779133292&System%20Name=Android"
+    }
+  },
+  {
+    "ts": 1779133308070,
+    "type": "url_access",
+    "data": {
+      "url": "https://c01842841d43d96947af55f7a7018ff9.api.appsee.com/config"
+    }
+  },
+  {
+    "ts": 1779133308142,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133308142,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133308194,
+    "type": "shared_pref",
+    "data": {
+      "key": "Recommended questions"
+    }
+  },
+  {
+    "ts": 1779133308343,
+    "type": "url_access",
+    "data": {
+      "url": "http://3695.content.swrve.com/api/1/user_resources_and_campaigns?device_dpi=440.0&orientation=both&app_version=4.1.7.7&joined=1779133307696&os_version=11&location_version=1&language=en-US&version=5&android_device_xdpi=440.0&app_store=google&device_width=1080&android_device_ydpi=440.0&device_name=Google+sdk_gphone_x86_64&device_height=2009&api_key=BqRXqULqhxkUNvAzeIZC&conversation_version=2&user=375ccbb3-02b1-450a-ad2d-6c254b6f2a58"
+    }
+  },
+  {
+    "ts": 1779133308395,
+    "type": "url_access",
+    "data": {
+      "url": "https://3695.api.swrve.com/1/batch"
+    }
+  },
+  {
+    "ts": 1779133308423,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779133308427,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133308450,
+    "type": "shared_pref",
+    "data": {
+      "key": "218228351668561json"
+    }
+  },
+  {
+    "ts": 1779133308503,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133308504,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133308504,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133308504,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133308515,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133308515,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133308515,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133308515,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133308519,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133308519,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133308519,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133308519,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133308525,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133308525,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133308526,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133308526,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133308526,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133308527,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133308527,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133308527,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133308532,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133308532,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133308533,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133308533,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133308534,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779133308550,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/218228351668561/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779133308616,
+    "type": "shared_pref",
+    "data": {
+      "key": "Appsee_OfflineSessions"
+    }
+  },
+  {
+    "ts": 1779133308783,
+    "type": "url_access",
+    "data": {
+      "url": "https://trk.kissmetrics.io/s?_k=7081557844a20e4932eea3041c53aeb4dfacaeb1&_c=mobile_app&_u=KISSmetrics-Android/2.2.2&_p=d33fad0d-3ec1-4fd1-939f-f96293fc44b4&_d=1&_t=1779133292&App%20Version=4.1.7.7"
+    }
+  },
+  {
+    "ts": 1779133308793,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/net/xt_qtaguid/stats"
+    }
+  },
+  {
+    "ts": 1779133308844,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779133308858,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779133309066,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6B6C01B0-0001-2A60-CD7866DBA72FSessionEvent0000000000.cls_temp"
+    }
+  },
+  {
+    "ts": 1779133309070,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133309071,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133309071,
+    "type": "url_access",
+    "data": {
+      "url": "https://et.kissmetrics.com/m/trk?product_key=7081557844a20e4932eea3041c53aeb4dfacaeb1&install_uuid=a3972f0c-e39c-4f43-b100-d75a9e5f7663"
+    }
+  },
+  {
+    "ts": 1779133309088,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6B6C01B0-0001-2A60-CD7866DBA72FSessionEvent0000000000.cls"
+    }
+  },
+  {
+    "ts": 1779133309088,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-6A0B6B6C01B0-0001-2A60-CD7866DBA72F.temp.tmp"
+    }
+  },
+  {
+    "ts": 1779133309246,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6B6C01B0-0001-2A60-CD7866DBA72FSessionEvent0000000001.cls_temp"
+    }
+  },
+  {
+    "ts": 1779133309249,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133309254,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6B6C01B0-0001-2A60-CD7866DBA72FSessionEvent0000000001.cls"
+    }
+  },
+  {
+    "ts": 1779133309254,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/co.brainly/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-6A0B6B6C01B0-0001-2A60-CD7866DBA72F.temp.tmp"
+    }
+  },
+  {
+    "ts": 1779133309356,
+    "type": "url_access",
+    "data": {
+      "url": "https://3695.api.swrve.com/1/batch"
+    }
+  },
+  {
+    "ts": 1779133309358,
+    "type": "url_access",
+    "data": {
+      "url": "http://3695.content.swrve.com/api/1/user_resources_and_campaigns?device_dpi=440.0&orientation=both&app_version=4.1.7.7&joined=1779133307696&os_version=11&location_version=1&language=en-US&version=5&android_device_xdpi=440.0&app_store=google&device_width=1080&android_device_ydpi=440.0&device_name=Google+sdk_gphone_x86_64&device_height=2009&api_key=BqRXqULqhxkUNvAzeIZC&conversation_version=2&user=375ccbb3-02b1-450a-ad2d-6c254b6f2a58"
+    }
+  },
+  {
+    "ts": 1779133309360,
+    "type": "url_access",
+    "data": {
+      "url": "http://3695.content.swrve.com/api/1/user_resources_and_campaigns?device_dpi=440.0&orientation=both&app_version=4.1.7.7&joined=1779133307696&os_version=11&location_version=1&language=en-US&version=5&android_device_xdpi=440.0&app_store=google&device_width=1080&android_device_ydpi=440.0&device_name=Google+sdk_gphone_x86_64&device_height=2009&api_key=BqRXqULqhxkUNvAzeIZC&conversation_version=2&user=375ccbb3-02b1-450a-ad2d-6c254b6f2a58"
+    }
+  },
+  {
+    "ts": 1779133309485,
+    "type": "url_access",
+    "data": {
+      "url": "https://trk.kissmetrics.io/s?_k=7081557844a20e4932eea3041c53aeb4dfacaeb1&_c=mobile_app&_u=KISSmetrics-Android/2.2.2&_p=d33fad0d-3ec1-4fd1-939f-f96293fc44b4&_d=1&_t=1779133292&System%20Version=11"
+    }
+  },
+  {
+    "ts": 1779133309724,
+    "type": "url_access",
+    "data": {
+      "url": "http://3695.content.swrve.com/api/1/user_resources_and_campaigns?device_dpi=440.0&orientation=both&app_version=4.1.7.7&joined=1779133307696&os_version=11&location_version=1&language=en-US&version=5&android_device_xdpi=440.0&app_store=google&device_width=1080&android_device_ydpi=440.0&device_name=Google+sdk_gphone_x86_64&device_height=2009&api_key=BqRXqULqhxkUNvAzeIZC&conversation_version=2&user=375ccbb3-02b1-450a-ad2d-6c254b6f2a58"
+    }
+  },
+  {
+    "ts": 1779133309795,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779133309797,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/net/xt_qtaguid/stats"
+    }
+  },
+  {
+    "ts": 1779133309797,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/install"
+    }
+  },
+  {
+    "ts": 1779133310222,
+    "type": "url_access",
+    "data": {
+      "url": "https://trk.kissmetrics.io/e?_k=7081557844a20e4932eea3041c53aeb4dfacaeb1&_c=mobile_app&_u=KISSmetrics-Android/2.2.2&_p=d33fad0d-3ec1-4fd1-939f-f96293fc44b4&_n=one-app-splash-oncreate-first_time&_d=1&_t=1779133292&AppVersion=4.1.7.7"
+    }
+  },
+  {
+    "ts": 1779133310800,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/net/xt_qtaguid/stats"
+    }
+  },
+  {
+    "ts": 1779133311153,
+    "type": "url_access",
+    "data": {
+      "url": "https://trk.kissmetrics.io/e?_k=7081557844a20e4932eea3041c53aeb4dfacaeb1&_c=mobile_app&_u=KISSmetrics-Android/2.2.2&_p=d33fad0d-3ec1-4fd1-939f-f96293fc44b4&_n=one-app-splash-oncreate&_d=1&_t=1779133292&AppVersion=4.1.7.7"
+    }
+  },
+  {
+    "ts": 1779133311802,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/net/xt_qtaguid/stats"
+    }
+  }
+]

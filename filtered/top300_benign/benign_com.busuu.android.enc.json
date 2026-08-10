@@ -1,0 +1,737 @@
+[
+  {
+    "ts": 1779646005802,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com.appboy.offline.storagemap.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646005804,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646005804,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646005804,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646005804,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646005806,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646005806,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646005806,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646005806,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646005811,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646005811,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646005811,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646005811,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646005815,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646005815,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646005815,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646005815,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646005826,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com.appboy.push_registration.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646005843,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779646005849,
+    "type": "shared_pref",
+    "data": {
+      "key": "last_user"
+    }
+  },
+  {
+    "ts": 1779646005849,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com_appboy_override_configuration_cache.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646005850,
+    "type": "shared_pref",
+    "data": {
+      "key": "com_appboy_api_key"
+    }
+  },
+  {
+    "ts": 1779646005854,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com.appboy.storage.serverconfigstorageprovider.31d43c41-44fc-4c01-a539-22b0df0155bd.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646005855,
+    "type": "shared_pref",
+    "data": {
+      "key": "last_configured_appboy_sdk_version"
+    }
+  },
+  {
+    "ts": 1779646005863,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com.appboy.storage.usercache.37a6259cc0c1dae299a7866489dff0bd.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646005865,
+    "type": "shared_pref",
+    "data": {
+      "key": "blacklisted_attributes"
+    }
+  },
+  {
+    "ts": 1779646005872,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com.appboy.storage.device_cache.37a6259cc0c1dae299a7866489dff0bd.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646005872,
+    "type": "shared_pref",
+    "data": {
+      "key": "blacklisted_events"
+    }
+  },
+  {
+    "ts": 1779646005873,
+    "type": "shared_pref",
+    "data": {
+      "key": "blacklisted_purchases"
+    }
+  },
+  {
+    "ts": 1779646005881,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com.appboy.managers.connected_device_storage.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646005890,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com.appboy.support.stringutils.cachefilesuffix.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646005910,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_id_key"
+    }
+  },
+  {
+    "ts": 1779646005922,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com.appboy.storage.device_ad_info.d41d8cd98f00b204e9800998ecf8427e.31d43c41-44fc-4c01-a539-22b0df0155bd.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646005925,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_id_key"
+    }
+  },
+  {
+    "ts": 1779646005926,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_id_hash_value"
+    }
+  },
+  {
+    "ts": 1779646005931,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com.appboy.storage.feedstorageprovider.d41d8cd98f00b204e9800998ecf8427e.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646005939,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com.appboy.stored.push.clicks.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646005940,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_id_key"
+    }
+  },
+  {
+    "ts": 1779646005941,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_id_hash_value"
+    }
+  },
+  {
+    "ts": 1779646005941,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com.appboy.storage.triggers.actions.d41d8cd98f00b204e9800998ecf8427e.31d43c41-44fc-4c01-a539-22b0df0155bd.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646005944,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com.appboy.storage.triggers.local_assets.31d43c41-44fc-4c01-a539-22b0df0155bd.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646005948,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_id_key"
+    }
+  },
+  {
+    "ts": 1779646005948,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_id_hash_value"
+    }
+  },
+  {
+    "ts": 1779646005949,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com.appboy.storage.triggers.re_eligibility.d41d8cd98f00b204e9800998ecf8427e.31d43c41-44fc-4c01-a539-22b0df0155bd.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646005961,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com.appboy.storage.piqqueue.31d43c41-44fc-4c01-a539-22b0df0155bd.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646005962,
+    "type": "shared_pref",
+    "data": {
+      "key": "last_user"
+    }
+  },
+  {
+    "ts": 1779646006058,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_partner_logo_url"
+    }
+  },
+  {
+    "ts": 1779646006058,
+    "type": "shared_pref",
+    "data": {
+      "key": "session_token"
+    }
+  },
+  {
+    "ts": 1779646006069,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/files/appsee"
+    }
+  },
+  {
+    "ts": 1779646006077,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/Appsee.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646006081,
+    "type": "shared_pref",
+    "data": {
+      "key": "logged_uid"
+    }
+  },
+  {
+    "ts": 1779646006086,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.busuu.com/partner/launch-screen?mccmnc=310260&platform=android&platform_version=11&client_version=8.0.157&client_version_code=165&client_model=Google%20sdk_gphone_x86_64&installation_source=google_play&package_name=com.busuu.android.enc&no_cache=1779646006067"
+    }
+  },
+  {
+    "ts": 1779646006087,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/intercomsdk_cordova_prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646006087,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.busuu.com/partner/launch-screen?mccmnc=310260&platform=android&platform_version=11&client_version=8.0.157&client_version_code=165&client_model=Google%20sdk_gphone_x86_64&installation_source=google_play&package_name=com.busuu.android.enc&no_cache=1779646006067"
+    }
+  },
+  {
+    "ts": 1779646006095,
+    "type": "shared_pref",
+    "data": {
+      "key": "cordova_version"
+    }
+  },
+  {
+    "ts": 1779646006113,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.busuu.android.old_ui.BootStrapActivity"
+    }
+  },
+  {
+    "ts": 1779646006114,
+    "type": "shared_pref",
+    "data": {
+      "key": "logged_uid"
+    }
+  },
+  {
+    "ts": 1779646006128,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779646006131,
+    "type": "shared_pref",
+    "data": {
+      "key": "cached_device"
+    }
+  },
+  {
+    "ts": 1779646006131,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com.appboy.device.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646006133,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_id"
+    }
+  },
+  {
+    "ts": 1779646006135,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/google_conversion.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646006165,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/no_backup/appsee"
+    }
+  },
+  {
+    "ts": 1779646006166,
+    "type": "shared_pref",
+    "data": {
+      "key": "Appsee_ClientId"
+    }
+  },
+  {
+    "ts": 1779646006171,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779646006207,
+    "type": "shared_pref",
+    "data": {
+      "key": "Appsee_OfflineSessions"
+    }
+  },
+  {
+    "ts": 1779646006213,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646006338,
+    "type": "url_access",
+    "data": {
+      "url": "https://57121f7b8d2ece158ead47c477545f6d.api.appsee.com/config"
+    }
+  },
+  {
+    "ts": 1779646006428,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646006429,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646006436,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646006437,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646006442,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646006450,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646006453,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779646006459,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779646006465,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779646006491,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779646006492,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A133E35024D-0001-26E5-9BD54D453D64SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779646006509,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.busuu.android.enc/settings?instance=efffe559c8b91b94c48168ab168bf65022453ce7&build_version=165&display_version=8.0.157&source=1&icon_hash=1f4b82b698328a1215f19eb3b4519b9add607915"
+    }
+  },
+  {
+    "ts": 1779646006511,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.busuu.android.enc/settings?instance=efffe559c8b91b94c48168ab168bf65022453ce7&build_version=165&display_version=8.0.157&source=1&icon_hash=1f4b82b698328a1215f19eb3b4519b9add607915"
+    }
+  },
+  {
+    "ts": 1779646006568,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779646006597,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779646006667,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/cache"
+    }
+  },
+  {
+    "ts": 1779646006667,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/files"
+    }
+  },
+  {
+    "ts": 1779646006667,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/databases"
+    }
+  },
+  {
+    "ts": 1779646006667,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs"
+    }
+  },
+  {
+    "ts": 1779646006843,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_chosen_interface_language"
+    }
+  },
+  {
+    "ts": 1779646006889,
+    "type": "shared_pref",
+    "data": {
+      "key": "logged_uid"
+    }
+  },
+  {
+    "ts": 1779646006906,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_chosen_interface_language"
+    }
+  },
+  {
+    "ts": 1779646006906,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_chosen_interface_language"
+    }
+  },
+  {
+    "ts": 1779646006921,
+    "type": "shared_pref",
+    "data": {
+      "key": "logged_uid"
+    }
+  },
+  {
+    "ts": 1779646006948,
+    "type": "shared_pref",
+    "data": {
+      "key": "logged_uid"
+    }
+  },
+  {
+    "ts": 1779646006949,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.busuu.android.old_ui.loginregister.OnBoardingActivity"
+    }
+  },
+  {
+    "ts": 1779646006962,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646007017,
+    "type": "shared_pref",
+    "data": {
+      "key": "Appsee_OfflineSessions"
+    }
+  },
+  {
+    "ts": 1779646007084,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.busuu.android.enc/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646007087,
+    "type": "shared_pref",
+    "data": {
+      "key": "406812862731193json"
+    }
+  },
+  {
+    "ts": 1779646007091,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779646007094,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.3/406812862731193/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779646007285,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779646016142,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779646016143,
+    "type": "shared_pref",
+    "data": {
+      "key": "cached_device"
+    }
+  },
+  {
+    "ts": 1779646016147,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779646021955,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.3/406812862731193/activities?access_token=&format=json&sdk=android"
+    }
+  }
+]

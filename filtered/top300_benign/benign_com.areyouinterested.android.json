@@ -1,0 +1,492 @@
+[
+  {
+    "ts": 1779642462429,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/shared_prefs/TwitterAdvertisingInfoPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642462433,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~_z3Be1A89Oh6E5N3x6nfGw==/com.areyouinterested.android-bpBYTHEKobQEQeJR8vlI3Q==/base.apk"
+    }
+  },
+  {
+    "ts": 1779642462435,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/shared_prefs/com.crashlytics.sdk.android:answers:settings.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642462449,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779642462463,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/shared_prefs/com.crashlytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642462463,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779642462465,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.areyouinterested.android.MainActivity"
+    }
+  },
+  {
+    "ts": 1779642462467,
+    "type": "runtime_exec",
+    "data": {
+      "command": "getprop ro.product.cpu.abi"
+    }
+  },
+  {
+    "ts": 1779642462470,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779642462488,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13305E01CE-0001-59D8-8E05779374BFBeginSession.cls_temp"
+    }
+  },
+  {
+    "ts": 1779642462490,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13305E01CE-0001-59D8-8E05779374BFBeginSession.cls"
+    }
+  },
+  {
+    "ts": 1779642462490,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13305E01CE-0001-59D8-8E05779374BFSessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1779642462490,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779642462491,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13305E01CE-0001-59D8-8E05779374BFSessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779642462491,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13305E01CE-0001-59D8-8E05779374BFSessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779642462492,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642462492,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779642462494,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779642462498,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13305E01CE-0001-59D8-8E05779374BFSessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779642462499,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13305E01CE-0001-59D8-8E05779374BFSessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779642462500,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642462503,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779642462508,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642462509,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642462788,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779642462788,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642462790,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779642462792,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642462793,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642462793,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779642462794,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779642462796,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779642462797,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13305E01CE-0001-59D8-8E05779374BFSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779642462801,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642462805,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779642462806,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.areyouinterested.android/settings?instance=bc2f9c51f7b628caa567b4820c51ddacbbd3acfa&build_version=100003282&display_version=7.0.17&source=1&icon_hash=b3676a9e921f183a8081351e64dbfc46c096e934"
+    }
+  },
+  {
+    "ts": 1779642462818,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.areyouinterested.android/settings?instance=bc2f9c51f7b628caa567b4820c51ddacbbd3acfa&build_version=100003282&display_version=7.0.17&source=1&icon_hash=b3676a9e921f183a8081351e64dbfc46c096e934"
+    }
+  },
+  {
+    "ts": 1779642462834,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779642466118,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.areyouinterested.android.MainActivity"
+    }
+  },
+  {
+    "ts": 1779642466559,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/cache"
+    }
+  },
+  {
+    "ts": 1779642466559,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/files/files/"
+    }
+  },
+  {
+    "ts": 1779642466563,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642466564,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642466564,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642466564,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642466568,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642466569,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642466570,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642466570,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642466581,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642466582,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642466582,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642466582,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642466585,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642466586,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642466586,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642466586,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642466589,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642466590,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642466590,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642466590,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642466596,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/files"
+    }
+  },
+  {
+    "ts": 1779642466597,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.areyouinterested.android/files"
+    }
+  },
+  {
+    "ts": 1779642466597,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/files/Documents"
+    }
+  },
+  {
+    "ts": 1779642466597,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642466599,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.areyouinterested.android/cache"
+    }
+  },
+  {
+    "ts": 1779642466599,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.areyouinterested.android/cache"
+    }
+  },
+  {
+    "ts": 1779642466599,
+    "type": "file_access",
+    "data": {
+      "path": "/"
+    }
+  },
+  {
+    "ts": 1779642466616,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.areyouinterested.android.MainActivity"
+    }
+  },
+  {
+    "ts": 1779642466791,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.areyouinterested.android.MainActivity"
+    }
+  }
+]

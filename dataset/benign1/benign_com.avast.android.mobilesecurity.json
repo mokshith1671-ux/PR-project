@@ -1,0 +1,1402 @@
+[
+  {
+    "ts": 1779643865257,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865260,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/29148/cmdline"
+    }
+  },
+  {
+    "ts": 1779643865283,
+    "type": "shared_pref",
+    "data": {
+      "key": "gmp_app_id"
+    }
+  },
+  {
+    "ts": 1779643865290,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779643865299,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643865299,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643865299,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643865300,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643865302,
+    "type": "shared_pref",
+    "data": {
+      "key": "previous_os_version"
+    }
+  },
+  {
+    "ts": 1779643865303,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/shepherd.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865303,
+    "type": "shared_pref",
+    "data": {
+      "key": "intent.extra.common.ABUID"
+    }
+  },
+  {
+    "ts": 1779643865310,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865310,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/preferences-dev.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865311,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865314,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/preferences-secure.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865318,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779643865341,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/ffl2-app.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865341,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/ECB/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643865352,
+    "type": "shared_pref",
+    "data": {
+      "key": "S1ZfU6bY05Xgc2FvWrQeNhC2GPfDht7y8l/+7yjd7Q4="
+    }
+  },
+  {
+    "ts": 1779643865352,
+    "type": "shared_pref",
+    "data": {
+      "key": "guid"
+    }
+  },
+  {
+    "ts": 1779643865353,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643865358,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865365,
+    "type": "shared_pref",
+    "data": {
+      "key": "S1ZfU6bY05Xgc2FvWrQeNhC2GPfDht7y8l/+7yjd7Q4="
+    }
+  },
+  {
+    "ts": 1779643865365,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643865368,
+    "type": "shared_pref",
+    "data": {
+      "key": "S1ZfU6bY05Xgc2FvWrQeNhC2GPfDht7y8l/+7yjd7Q4="
+    }
+  },
+  {
+    "ts": 1779643865369,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643865371,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/evernote_jobs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865397,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/burger.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865398,
+    "type": "runtime_exec",
+    "data": {
+      "command": "getprop"
+    }
+  },
+  {
+    "ts": 1779643865419,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779643865423,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865427,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.273679106083329"
+    }
+  },
+  {
+    "ts": 1779643865428,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865439,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779643865442,
+    "type": "shared_pref",
+    "data": {
+      "key": "S1ZfU6bY05Xgc2FvWrQeNhC2GPfDht7y8l/+7yjd7Q4="
+    }
+  },
+  {
+    "ts": 1779643865442,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643865450,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.8/273679106083329?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout%2Capp_events_feature_bitmask%2Cseamless_login%2Csmart_login_bookmark_icon_url%2Csmart_login_menu_icon_url&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779643865455,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865512,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/premium.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865528,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643865533,
+    "type": "shared_pref",
+    "data": {
+      "key": "YNc2rWqO8U4YMxgCRFviDrd1Vmo4A5x4ho0J5bEy3L4="
+    }
+  },
+  {
+    "ts": 1779643865533,
+    "type": "shared_pref",
+    "data": {
+      "key": "920bzBKXJ3olWDoar4ygViAMlzpsXlK4/Du8Nt+fs50="
+    }
+  },
+  {
+    "ts": 1779643865533,
+    "type": "shared_pref",
+    "data": {
+      "key": "stgydDiI6rFX4VYqGyDw8OnXZc5X0t/CHl1ERxC3KiA="
+    }
+  },
+  {
+    "ts": 1779643865534,
+    "type": "shared_pref",
+    "data": {
+      "key": "kC5YP1dsqXNsJnzj43P79AB4oeYN0qbHUdn+Q4gGQaQ="
+    }
+  },
+  {
+    "ts": 1779643865538,
+    "type": "shared_pref",
+    "data": {
+      "key": "6PkQRHh55aQWb/6xShqrIrtBOEurwOwy+smG9wZXvRU="
+    }
+  },
+  {
+    "ts": 1779643865540,
+    "type": "shared_pref",
+    "data": {
+      "key": "ZjK9ik0sgO0s0epAsLbjJCeMyuHfRc1BuIuoY3RTbos="
+    }
+  },
+  {
+    "ts": 1779643865541,
+    "type": "shared_pref",
+    "data": {
+      "key": "HRgK6XTKC3yxqZ/z6cNckcEPGGXffPI1UwtBkKvXeMM="
+    }
+  },
+  {
+    "ts": 1779643865542,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643865550,
+    "type": "shared_pref",
+    "data": {
+      "key": "FD+JwYzlhKqQMS3tx99Cbp0HDOdAP7snP+kr76JZ25U="
+    }
+  },
+  {
+    "ts": 1779643865551,
+    "type": "shared_pref",
+    "data": {
+      "key": "FD+JwYzlhKqQMS3tx99Cbp0HDOdAP7snP+kr76JZ25U="
+    }
+  },
+  {
+    "ts": 1779643865553,
+    "type": "shared_pref",
+    "data": {
+      "key": "shepherdTags"
+    }
+  },
+  {
+    "ts": 1779643865554,
+    "type": "shared_pref",
+    "data": {
+      "key": "intent.extra.common.ABUID"
+    }
+  },
+  {
+    "ts": 1779643865560,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/com.avast.android.antitheft.apk"
+    }
+  },
+  {
+    "ts": 1779643865561,
+    "type": "file_access",
+    "data": {
+      "path": "/system/priv-app/com.avast.android.antitheft.apk"
+    }
+  },
+  {
+    "ts": 1779643865568,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779643865569,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779643865591,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/app_streamback/sb.key"
+    }
+  },
+  {
+    "ts": 1779643865592,
+    "type": "url_access",
+    "data": {
+      "url": "https://auth.ff.avast.com:443/V1/REG"
+    }
+  },
+  {
+    "ts": 1779643865767,
+    "type": "shared_pref",
+    "data": {
+      "key": "FD+JwYzlhKqQMS3tx99Cbp0HDOdAP7snP+kr76JZ25U="
+    }
+  },
+  {
+    "ts": 1779643865778,
+    "type": "shared_pref",
+    "data": {
+      "key": "shepherdTags"
+    }
+  },
+  {
+    "ts": 1779643865779,
+    "type": "shared_pref",
+    "data": {
+      "key": "intent.extra.common.ABUID"
+    }
+  },
+  {
+    "ts": 1779643865783,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/com.avast.android.antitheft.apk"
+    }
+  },
+  {
+    "ts": 1779643865784,
+    "type": "file_access",
+    "data": {
+      "path": "/system/priv-app/com.avast.android.antitheft.apk"
+    }
+  },
+  {
+    "ts": 1779643865801,
+    "type": "shared_pref",
+    "data": {
+      "key": "crash:gateway_url"
+    }
+  },
+  {
+    "ts": 1779643865803,
+    "type": "url_access",
+    "data": {
+      "url": "https://mobilecrashreporting.googleapis.com/v1/crashes:batchCreate?key=AIzaSyCouI6v5C58wBS54W9N87epyBfv5iBoOr8&alt=json"
+    }
+  },
+  {
+    "ts": 1779643865835,
+    "type": "shared_pref",
+    "data": {
+      "key": "S1ZfU6bY05Xgc2FvWrQeNhC2GPfDht7y8l/+7yjd7Q4="
+    }
+  },
+  {
+    "ts": 1779643865837,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643865839,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/partner_id_provider.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865840,
+    "type": "shared_pref",
+    "data": {
+      "key": "auid"
+    }
+  },
+  {
+    "ts": 1779643865842,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/account-lib.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865843,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/asus.id"
+    }
+  },
+  {
+    "ts": 1779643865846,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/hp.id"
+    }
+  },
+  {
+    "ts": 1779643865847,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/huawei.id"
+    }
+  },
+  {
+    "ts": 1779643865847,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/tcl.id"
+    }
+  },
+  {
+    "ts": 1779643865847,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/partner.id"
+    }
+  },
+  {
+    "ts": 1779643865848,
+    "type": "shared_pref",
+    "data": {
+      "key": "partner_id"
+    }
+  },
+  {
+    "ts": 1779643865848,
+    "type": "shared_pref",
+    "data": {
+      "key": "partner_id"
+    }
+  },
+  {
+    "ts": 1779643865849,
+    "type": "shared_pref",
+    "data": {
+      "key": "shepherdTags"
+    }
+  },
+  {
+    "ts": 1779643865850,
+    "type": "shared_pref",
+    "data": {
+      "key": "intent.extra.common.ABUID"
+    }
+  },
+  {
+    "ts": 1779643865851,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/com.avast.android.antitheft.apk"
+    }
+  },
+  {
+    "ts": 1779643865853,
+    "type": "file_access",
+    "data": {
+      "path": "/system/priv-app/com.avast.android.antitheft.apk"
+    }
+  },
+  {
+    "ts": 1779643865855,
+    "type": "shared_pref",
+    "data": {
+      "key": "S1ZfU6bY05Xgc2FvWrQeNhC2GPfDht7y8l/+7yjd7Q4="
+    }
+  },
+  {
+    "ts": 1779643865856,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643865860,
+    "type": "shared_pref",
+    "data": {
+      "key": "QHa9fYFxOXlpwYw4LFF8phKxnKC4Yj106Y6ztMwXEz8="
+    }
+  },
+  {
+    "ts": 1779643865863,
+    "type": "shared_pref",
+    "data": {
+      "key": "W+JaWem0PeJg1i/a+1m2m9VXnNWcPQOnC0adjCdS9UA="
+    }
+  },
+  {
+    "ts": 1779643865869,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/easygcm.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865870,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/app_streamback/sb.key"
+    }
+  },
+  {
+    "ts": 1779643865875,
+    "type": "url_access",
+    "data": {
+      "url": "https://auth.ff.avast.com:443/V1/REG"
+    }
+  },
+  {
+    "ts": 1779643865879,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779643865886,
+    "type": "shared_pref",
+    "data": {
+      "key": "S1ZfU6bY05Xgc2FvWrQeNhC2GPfDht7y8l/+7yjd7Q4="
+    }
+  },
+  {
+    "ts": 1779643865887,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643865887,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth2.ff.avast.com:root_client_id"
+    }
+  },
+  {
+    "ts": 1779643865904,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/sdk_engine_settings.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643865905,
+    "type": "shared_pref",
+    "data": {
+      "key": "guid"
+    }
+  },
+  {
+    "ts": 1779643865917,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643865918,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643865918,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643865918,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643865960,
+    "type": "dex_load",
+    "data": {
+      "dex": "/data/user/0/com.avast.android.mobilesecurity/app_dex/avast-android-vps-release.apk"
+    }
+  },
+  {
+    "ts": 1779643865961,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/app_dex/avast-android-vps-release.apk"
+    }
+  },
+  {
+    "ts": 1779643865961,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/app_dex/avast-android-vps-release.apk"
+    }
+  },
+  {
+    "ts": 1779643865968,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779643865968,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/app_dex/avast-android-vps-release.apk"
+    }
+  },
+  {
+    "ts": 1779643865975,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/app_dex/avast-android-vps-release.apk"
+    }
+  },
+  {
+    "ts": 1779643865976,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~CEJUdhbSPqPEKHUm21sebw==/com.avast.android.mobilesecurity-aJcRKPPN3OIvENQ8e_siag==/base.apk"
+    }
+  },
+  {
+    "ts": 1779643866038,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/app_sbkey/sb.key"
+    }
+  },
+  {
+    "ts": 1779643866040,
+    "type": "shared_pref",
+    "data": {
+      "key": "guid"
+    }
+  },
+  {
+    "ts": 1779643866049,
+    "type": "shared_pref",
+    "data": {
+      "key": "pvfctHLOkQIcX3YjCJ1RN5rpGQnm9q30y6EgoE8BLrg="
+    }
+  },
+  {
+    "ts": 1779643866050,
+    "type": "shared_pref",
+    "data": {
+      "key": "tXBcdo7HVy/L79nWQT2FkdXlJVuz6vvUvLpLf+LBWD8="
+    }
+  },
+  {
+    "ts": 1779643866052,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/com.avast.android.mobilesecurity_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643866053,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.appevents.AnalyticsUserIDStore.userID"
+    }
+  },
+  {
+    "ts": 1779643866053,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/asus.id"
+    }
+  },
+  {
+    "ts": 1779643866058,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/hp.id"
+    }
+  },
+  {
+    "ts": 1779643866058,
+    "type": "shared_pref",
+    "data": {
+      "key": "S1ZfU6bY05Xgc2FvWrQeNhC2GPfDht7y8l/+7yjd7Q4="
+    }
+  },
+  {
+    "ts": 1779643866059,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/huawei.id"
+    }
+  },
+  {
+    "ts": 1779643866059,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/tcl.id"
+    }
+  },
+  {
+    "ts": 1779643866060,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/partner.id"
+    }
+  },
+  {
+    "ts": 1779643866061,
+    "type": "shared_pref",
+    "data": {
+      "key": "partner_id"
+    }
+  },
+  {
+    "ts": 1779643866062,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643866066,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/asus.id"
+    }
+  },
+  {
+    "ts": 1779643866066,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/hp.id"
+    }
+  },
+  {
+    "ts": 1779643866066,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/huawei.id"
+    }
+  },
+  {
+    "ts": 1779643866066,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/tcl.id"
+    }
+  },
+  {
+    "ts": 1779643866066,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/partner.id"
+    }
+  },
+  {
+    "ts": 1779643866070,
+    "type": "shared_pref",
+    "data": {
+      "key": "partner_id"
+    }
+  },
+  {
+    "ts": 1779643866070,
+    "type": "shared_pref",
+    "data": {
+      "key": "S1ZfU6bY05Xgc2FvWrQeNhC2GPfDht7y8l/+7yjd7Q4="
+    }
+  },
+  {
+    "ts": 1779643866071,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643866151,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.appevents.SessionInfo.sessionId"
+    }
+  },
+  {
+    "ts": 1779643866180,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643866218,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.avast.android.mobilesecurity.app.main.MainActivity"
+    }
+  },
+  {
+    "ts": 1779643866288,
+    "type": "shared_pref",
+    "data": {
+      "key": "guid"
+    }
+  },
+  {
+    "ts": 1779643866296,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779643866299,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.8/171964413155312?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout%2Capp_events_feature_bitmask%2Cseamless_login%2Csmart_login_bookmark_icon_url%2Csmart_login_menu_icon_url&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779643866303,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643866316,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779643866317,
+    "type": "shared_pref",
+    "data": {
+      "key": "171964413155312json"
+    }
+  },
+  {
+    "ts": 1779643866330,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643866331,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643866331,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643866331,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643866335,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643866335,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643866335,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643866335,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643866340,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643866340,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643866342,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643866343,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643866346,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643866346,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643866347,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643866347,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643866347,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643866348,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643866348,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643866349,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643866356,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643866356,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643866356,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643866356,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643866361,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779643866365,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.8/171964413155312/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779643866546,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|267505377073|*"
+    }
+  },
+  {
+    "ts": 1779643866547,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|267505377073|*"
+    }
+  },
+  {
+    "ts": 1779643867095,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779643867098,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779643867100,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779643867100,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779643867376,
+    "type": "shared_pref",
+    "data": {
+      "key": "crash:gateway_url"
+    }
+  },
+  {
+    "ts": 1779643867380,
+    "type": "url_access",
+    "data": {
+      "url": "https://mobilecrashreporting.googleapis.com/v1/crashes:batchCreate?key=AIzaSyCouI6v5C58wBS54W9N87epyBfv5iBoOr8&alt=json"
+    }
+  },
+  {
+    "ts": 1779643867393,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.8/171964413155312/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779643867467,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/app_streamback/sb.key"
+    }
+  },
+  {
+    "ts": 1779643867469,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643867469,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643867472,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779643867473,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779643867486,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.avast.android.mobilesecurity/app_streamback/sb.key"
+    }
+  },
+  {
+    "ts": 1779643867487,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643867489,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643867513,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth2.ff.avast.com:app_client_id"
+    }
+  },
+  {
+    "ts": 1779643867518,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth2.ff.avast.com:root_client_id"
+    }
+  },
+  {
+    "ts": 1779643867518,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth2.ff.avast.com:root_client_id_generation_token"
+    }
+  },
+  {
+    "ts": 1779643867797,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth2.ff.avast.com:root_client_id"
+    }
+  },
+  {
+    "ts": 1779643867798,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth2.ff.avast.com:root_client_id_generation_token"
+    }
+  },
+  {
+    "ts": 1779643867799,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth2.ff.avast.com:app_client_id"
+    }
+  },
+  {
+    "ts": 1779643867799,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth2.ff.avast.com:app_client_id_generation_token"
+    }
+  },
+  {
+    "ts": 1779643867800,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth2.ff.avast.com:app_client_key_id"
+    }
+  },
+  {
+    "ts": 1779643867800,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth2.ff.avast.com:app_client_key_id"
+    }
+  },
+  {
+    "ts": 1779643867801,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth2.ff.avast.com:app_client_key_key"
+    }
+  },
+  {
+    "ts": 1779643867801,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth2.ff.avast.com:app_client_key_version"
+    }
+  },
+  {
+    "ts": 1779643867801,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth2.ff.avast.com:app_client_key_expiration"
+    }
+  },
+  {
+    "ts": 1779643867802,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth2.ff.avast.com:time_offset"
+    }
+  },
+  {
+    "ts": 1779643867802,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth2.ff.avast.com:app_client_id"
+    }
+  },
+  {
+    "ts": 1779643867802,
+    "type": "shared_pref",
+    "data": {
+      "key": "auth2.ff.avast.com:app_client_id_generation_token"
+    }
+  },
+  {
+    "ts": 1779643867803,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643868137,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643868139,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779643868565,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.avast.android.mobilesecurity.app.main.MainActivity"
+    }
+  },
+  {
+    "ts": 1779643870871,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|267505377073|*"
+    }
+  },
+  {
+    "ts": 1779643870871,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  }
+]

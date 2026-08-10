@@ -1,0 +1,100 @@
+[
+  {
+    "ts": 1778218144858,
+    "type": "activity",
+    "data": {
+      "activity": "com.buzz.RedLight.NotificationView"
+    }
+  },
+  {
+    "ts": 1778218148283,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.buzz.RedLight/shared_prefs/com.buzz.RedLight_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1778218148284,
+    "type": "sp",
+    "data": {
+      "key": "CARNIVAL_KEY_DEVICE_ID"
+    }
+  },
+  {
+    "ts": 1778218148285,
+    "type": "sp",
+    "data": {
+      "key": "CARNIVAL_KEY_DEVICE_ID9a3a7785dff3513e485e8ec6571e277990831a0a"
+    }
+  },
+  {
+    "ts": 1778218148285,
+    "type": "sp",
+    "data": {
+      "key": "CARNIVAL_KEY_TOKEN"
+    }
+  },
+  {
+    "ts": 1778218148290,
+    "type": "network",
+    "data": {
+      "url": "https://devices.carnivalmobile.com/v4/devices.json"
+    }
+  },
+  {
+    "ts": 1778218148313,
+    "type": "sp",
+    "data": {
+      "key": "CARNIVAL_KEY_DEVICE_ID"
+    }
+  },
+  {
+    "ts": 1778218148314,
+    "type": "sp",
+    "data": {
+      "key": "CARNIVAL_KEY_DEVICE_ID9a3a7785dff3513e485e8ec6571e277990831a0a"
+    }
+  },
+  {
+    "ts": 1778218148315,
+    "type": "sp",
+    "data": {
+      "key": "CARNIVAL_KEY_TOKEN"
+    }
+  },
+  {
+    "ts": 1778218148318,
+    "type": "network",
+    "data": {
+      "url": "https://devices.carnivalmobile.com/v4/devices.json"
+    }
+  },
+  {
+    "ts": 1778218148320,
+    "type": "sp",
+    "data": {
+      "key": "CARNIVAL_KEY_DEVICE_ID"
+    }
+  },
+  {
+    "ts": 1778218148321,
+    "type": "sp",
+    "data": {
+      "key": "CARNIVAL_KEY_DEVICE_ID9a3a7785dff3513e485e8ec6571e277990831a0a"
+    }
+  },
+  {
+    "ts": 1778218148322,
+    "type": "sp",
+    "data": {
+      "key": "CARNIVAL_KEY_TOKEN"
+    }
+  },
+  {
+    "ts": 1778218148323,
+    "type": "network",
+    "data": {
+      "url": "https://devices.carnivalmobile.com/v4/devices.json"
+    }
+  }
+]

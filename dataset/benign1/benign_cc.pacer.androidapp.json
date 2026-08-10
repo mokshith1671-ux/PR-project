@@ -1,0 +1,2424 @@
+[
+  {
+    "ts": 1779636848025,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636848047,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636848047,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636848047,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636848048,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636848049,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636848050,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636848050,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636848050,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636848052,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636848052,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636848053,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636848053,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636848056,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636848056,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636848057,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636848057,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636848100,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779636848102,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779636848108,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779636848108,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779636848114,
+    "type": "activity_resume",
+    "data": {
+      "activity": "cc.pacer.androidapp.ui.splash.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779636848126,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/shared_prefs/cc.pacer.androidapp.sharedpreferences.activity_fragment.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636848128,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636848131,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/shared_prefs/FLURRY_SHARED_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636848136,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636848136,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636848146,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636848147,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636848251,
+    "type": "shared_pref",
+    "data": {
+      "key": "group_myself_account_key"
+    }
+  },
+  {
+    "ts": 1779636848252,
+    "type": "shared_pref",
+    "data": {
+      "key": "group_myself_account_key"
+    }
+  },
+  {
+    "ts": 1779636848255,
+    "type": "shared_pref",
+    "data": {
+      "key": "group_myself_account_key"
+    }
+  },
+  {
+    "ts": 1779636848256,
+    "type": "shared_pref",
+    "data": {
+      "key": "group_myself_account_key"
+    }
+  },
+  {
+    "ts": 1779636848264,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779636848264,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779636848266,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779636848266,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779636848266,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~RdbZANUCOUnmB_ZAfM-hFw==/cc.pacer.androidapp-IDtjAuqj26Gqx8F3LuZsEQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779636848267,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~RdbZANUCOUnmB_ZAfM-hFw==/cc.pacer.androidapp-IDtjAuqj26Gqx8F3LuZsEQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779636848267,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~RdbZANUCOUnmB_ZAfM-hFw==/cc.pacer.androidapp-IDtjAuqj26Gqx8F3LuZsEQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779636848374,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~RdbZANUCOUnmB_ZAfM-hFw==/cc.pacer.androidapp-IDtjAuqj26Gqx8F3LuZsEQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779636848382,
+    "type": "shared_pref",
+    "data": {
+      "key": "group_myself_account_key"
+    }
+  },
+  {
+    "ts": 1779636848383,
+    "type": "shared_pref",
+    "data": {
+      "key": "group_myself_account_key"
+    }
+  },
+  {
+    "ts": 1779636848553,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.flurry.sdk.api_key"
+    }
+  },
+  {
+    "ts": 1779636848558,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779636848559,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636848560,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636848572,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779636848572,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/shared_prefs/io.fabric.sdk.android:fabric:c.a.a.a.q.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636848573,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779636848574,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779636848576,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779636848577,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636848578,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779636848581,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779636848582,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/cc.pacer.androidapp/settings?instance=c5f92a76442da8d56a6d4a65851a5d64b54dd37d&build_version=2017012800&display_version=p2.17.0&source=1&icon_hash=14e1c1546e11db360c65851d6c2cc40d138b8f38"
+    }
+  },
+  {
+    "ts": 1779636848582,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131A6F039E-0001-6D02-EE33398E501FSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779636848584,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/cc.pacer.androidapp/settings?instance=c5f92a76442da8d56a6d4a65851a5d64b54dd37d&build_version=2017012800&display_version=p2.17.0&source=1&icon_hash=14e1c1546e11db360c65851d6c2cc40d138b8f38"
+    }
+  },
+  {
+    "ts": 1779636848597,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779636848692,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636848692,
+    "type": "shared_pref",
+    "data": {
+      "key": "group_myself_account_key"
+    }
+  },
+  {
+    "ts": 1779636848693,
+    "type": "shared_pref",
+    "data": {
+      "key": "group_myself_account_key"
+    }
+  },
+  {
+    "ts": 1779636848719,
+    "type": "shared_pref",
+    "data": {
+      "key": "cc.pacer.androidapp.GROUPS_ACCESS_TOKEN"
+    }
+  },
+  {
+    "ts": 1779636848748,
+    "type": "shared_pref",
+    "data": {
+      "key": "group_myself_account_key"
+    }
+  },
+  {
+    "ts": 1779636848748,
+    "type": "shared_pref",
+    "data": {
+      "key": "group_myself_account_key"
+    }
+  },
+  {
+    "ts": 1779636848762,
+    "type": "activity_resume",
+    "data": {
+      "activity": "cc.pacer.androidapp.ui.tutorial.controllers.TutorialActivity"
+    }
+  },
+  {
+    "ts": 1779636849024,
+    "type": "shared_pref",
+    "data": {
+      "key": "cc.pacer.androidapp.GROUPS_ACCESS_TOKEN"
+    }
+  },
+  {
+    "ts": 1779636849029,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636849030,
+    "type": "shared_pref",
+    "data": {
+      "key": "group_myself_account_key"
+    }
+  },
+  {
+    "ts": 1779636849030,
+    "type": "shared_pref",
+    "data": {
+      "key": "group_myself_account_key"
+    }
+  },
+  {
+    "ts": 1779636849292,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636849293,
+    "type": "shared_pref",
+    "data": {
+      "key": "group_myself_account_key"
+    }
+  },
+  {
+    "ts": 1779636849294,
+    "type": "shared_pref",
+    "data": {
+      "key": "group_myself_account_key"
+    }
+  },
+  {
+    "ts": 1779636849459,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_device_uuid"
+    }
+  },
+  {
+    "ts": 1779636849459,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636849464,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_message_type"
+    }
+  },
+  {
+    "ts": 1779636849464,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_device_token"
+    }
+  },
+  {
+    "ts": 1779636849465,
+    "type": "shared_pref",
+    "data": {
+      "key": "cc.pacer.androidapp.GROUPS_ACCESS_TOKEN"
+    }
+  },
+  {
+    "ts": 1779636849478,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_device_uuid"
+    }
+  },
+  {
+    "ts": 1779636849478,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_message_type"
+    }
+  },
+  {
+    "ts": 1779636849479,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_device_token"
+    }
+  },
+  {
+    "ts": 1779636849479,
+    "type": "shared_pref",
+    "data": {
+      "key": "cc.pacer.androidapp.GROUPS_ACCESS_TOKEN"
+    }
+  },
+  {
+    "ts": 1779636849998,
+    "type": "shared_pref",
+    "data": {
+      "key": "feed_abtest_group_info"
+    }
+  },
+  {
+    "ts": 1779636849999,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_ab_test_info_synced_map"
+    }
+  },
+  {
+    "ts": 1779636850004,
+    "type": "shared_pref",
+    "data": {
+      "key": "cc.pacer.androidapp.GROUPS_ACCESS_TOKEN"
+    }
+  },
+  {
+    "ts": 1779636850004,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_device_uuid"
+    }
+  },
+  {
+    "ts": 1779636850004,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_message_type"
+    }
+  },
+  {
+    "ts": 1779636850004,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_device_token"
+    }
+  },
+  {
+    "ts": 1779636850005,
+    "type": "shared_pref",
+    "data": {
+      "key": "feed_abtest_group_info"
+    }
+  },
+  {
+    "ts": 1779636850008,
+    "type": "shared_pref",
+    "data": {
+      "key": "challenge_abtest_group_info"
+    }
+  },
+  {
+    "ts": 1779636850009,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_ab_test_info_synced_map"
+    }
+  },
+  {
+    "ts": 1779636850013,
+    "type": "shared_pref",
+    "data": {
+      "key": "cc.pacer.androidapp.GROUPS_ACCESS_TOKEN"
+    }
+  },
+  {
+    "ts": 1779636850014,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_device_uuid"
+    }
+  },
+  {
+    "ts": 1779636850014,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_message_type"
+    }
+  },
+  {
+    "ts": 1779636850014,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_device_token"
+    }
+  },
+  {
+    "ts": 1779636850014,
+    "type": "shared_pref",
+    "data": {
+      "key": "challenge_abtest_group_info"
+    }
+  },
+  {
+    "ts": 1779636850025,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636850118,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636850568,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636850641,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636850835,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_ab_test_info_synced_map"
+    }
+  },
+  {
+    "ts": 1779636850958,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_ab_test_info_synced_map"
+    }
+  },
+  {
+    "ts": 1779636851949,
+    "type": "shared_pref",
+    "data": {
+      "key": "challenge_abtest_group_info"
+    }
+  },
+  {
+    "ts": 1779636851950,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/shared_prefs/unicorn.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636851956,
+    "type": "shared_pref",
+    "data": {
+      "key": "cc.pacer.androidapp.GROUPS_ACCESS_TOKEN"
+    }
+  },
+  {
+    "ts": 1779636851957,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_device_uuid"
+    }
+  },
+  {
+    "ts": 1779636851957,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_message_type"
+    }
+  },
+  {
+    "ts": 1779636851958,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_device_token"
+    }
+  },
+  {
+    "ts": 1779636851961,
+    "type": "shared_pref",
+    "data": {
+      "key": "adsGroupKey"
+    }
+  },
+  {
+    "ts": 1779636851962,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.pacer.cc/pacer/android/api/v12/unicorn"
+    }
+  },
+  {
+    "ts": 1779636851971,
+    "type": "shared_pref",
+    "data": {
+      "key": "notification_group_type_enabled_key"
+    }
+  },
+  {
+    "ts": 1779636851971,
+    "type": "shared_pref",
+    "data": {
+      "key": "notification_group_type_enabled_key"
+    }
+  },
+  {
+    "ts": 1779636851972,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/shared_prefs/cc.pacer.androidapp_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636851984,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_message_type"
+    }
+  },
+  {
+    "ts": 1779636851984,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_device_token"
+    }
+  },
+  {
+    "ts": 1779636851986,
+    "type": "shared_pref",
+    "data": {
+      "key": "coach_last_visited_date"
+    }
+  },
+  {
+    "ts": 1779636851987,
+    "type": "shared_pref",
+    "data": {
+      "key": "new_messages_count_key"
+    }
+  },
+  {
+    "ts": 1779636852001,
+    "type": "shared_pref",
+    "data": {
+      "key": "coach_last_visited_date"
+    }
+  },
+  {
+    "ts": 1779636852001,
+    "type": "shared_pref",
+    "data": {
+      "key": "new_messages_count_key"
+    }
+  },
+  {
+    "ts": 1779636852022,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_ab_test_info_synced_map"
+    }
+  },
+  {
+    "ts": 1779636852027,
+    "type": "activity_resume",
+    "data": {
+      "activity": "cc.pacer.androidapp.ui.main.MainActivity"
+    }
+  },
+  {
+    "ts": 1779636852082,
+    "type": "shared_pref",
+    "data": {
+      "key": "new_messages_count_key"
+    }
+  },
+  {
+    "ts": 1779636852097,
+    "type": "shared_pref",
+    "data": {
+      "key": "challenge_abtest_group_info"
+    }
+  },
+  {
+    "ts": 1779636852195,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636852198,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779636852199,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779636852200,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779636852299,
+    "type": "shared_pref",
+    "data": {
+      "key": "walk_to_weight_loss_active_plan_key"
+    }
+  },
+  {
+    "ts": 1779636852359,
+    "type": "shared_pref",
+    "data": {
+      "key": "walk_to_weight_loss_active_plan_key"
+    }
+  },
+  {
+    "ts": 1779636852360,
+    "type": "shared_pref",
+    "data": {
+      "key": "walk_to_weight_loss_active_plan_key"
+    }
+  },
+  {
+    "ts": 1779636852390,
+    "type": "shared_pref",
+    "data": {
+      "key": "walk_to_weight_loss_active_plan_key"
+    }
+  },
+  {
+    "ts": 1779636852393,
+    "type": "shared_pref",
+    "data": {
+      "key": "walk_to_weight_loss_active_plan_key"
+    }
+  },
+  {
+    "ts": 1779636852432,
+    "type": "file_access",
+    "data": {
+      "path": "/system/csc/sales_code.dat"
+    }
+  },
+  {
+    "ts": 1779636852444,
+    "type": "file_access",
+    "data": {
+      "path": "mnt/sdcard/pd.test"
+    }
+  },
+  {
+    "ts": 1779636852455,
+    "type": "url_access",
+    "data": {
+      "url": "http://hub.samsungapps.com/product/appCheck.as?appInfo=com.sec.android.app.shealth@0&deviceId=sdk_gphone_x86_64&mnc=260&csc=&openApi=30&pd=&mcc=310"
+    }
+  },
+  {
+    "ts": 1779636852463,
+    "type": "url_access",
+    "data": {
+      "url": "http://hub.samsungapps.com/product/appCheck.as?appInfo=com.sec.android.app.shealth@0&deviceId=sdk_gphone_x86_64&mnc=260&csc=&openApi=30&pd=&mcc=310"
+    }
+  },
+  {
+    "ts": 1779636852650,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636852864,
+    "type": "shared_pref",
+    "data": {
+      "key": "shealth_abtest_group_info"
+    }
+  },
+  {
+    "ts": 1779636852865,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_ab_test_info_synced_map"
+    }
+  },
+  {
+    "ts": 1779636852869,
+    "type": "shared_pref",
+    "data": {
+      "key": "cc.pacer.androidapp.GROUPS_ACCESS_TOKEN"
+    }
+  },
+  {
+    "ts": 1779636852870,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_device_uuid"
+    }
+  },
+  {
+    "ts": 1779636852870,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_message_type"
+    }
+  },
+  {
+    "ts": 1779636852870,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_device_token"
+    }
+  },
+  {
+    "ts": 1779636852870,
+    "type": "shared_pref",
+    "data": {
+      "key": "shealth_abtest_group_info"
+    }
+  },
+  {
+    "ts": 1779636852876,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636852985,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779636852985,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779636852985,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779636852990,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779636852990,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779636852990,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636852990,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636852990,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779636852991,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779636852991,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779636852992,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779636852993,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779636852993,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636852993,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636852993,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779636852993,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779636852994,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779636852995,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779636852995,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779636852996,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636852996,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636852997,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779636852997,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779636852997,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779636852998,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636852998,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636852998,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779636853001,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/google_ads_flags.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636853002,
+    "type": "shared_pref",
+    "data": {
+      "key": "flag_configuration"
+    }
+  },
+  {
+    "ts": 1779636853032,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779636853032,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779636853033,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779636853036,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779636853038,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779636853038,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779636853038,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779636853039,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779636853056,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/x86_64"
+    }
+  },
+  {
+    "ts": 1779636853056,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/arm64-v8a"
+    }
+  },
+  {
+    "ts": 1779636853056,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779636853056,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779636853059,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779636853073,
+    "type": "shared_pref",
+    "data": {
+      "key": "flag_configuration"
+    }
+  },
+  {
+    "ts": 1779636853088,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779636853093,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/shared_prefs/admob.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636853095,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/admob_user_agent.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636853096,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_agent"
+    }
+  },
+  {
+    "ts": 1779636853101,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_url_hashes"
+    }
+  },
+  {
+    "ts": 1779636853101,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_vertical_hashes"
+    }
+  },
+  {
+    "ts": 1779636853101,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_settings_json"
+    }
+  },
+  {
+    "ts": 1779636853101,
+    "type": "shared_pref",
+    "data": {
+      "key": "display_cutout"
+    }
+  },
+  {
+    "ts": 1779636853102,
+    "type": "shared_pref",
+    "data": {
+      "key": "native_advanced_settings"
+    }
+  },
+  {
+    "ts": 1779636853108,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636853120,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_csi_server"
+    }
+  },
+  {
+    "ts": 1779636853120,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853121,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853121,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853121,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853121,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853121,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853121,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853121,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779636853122,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779636853122,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779636853122,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779636853122,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779636853122,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_for_coarse_permission:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853122,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_timeout:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853122,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_interval:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853122,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:pan:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853127,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853127,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853127,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853128,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853128,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853128,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853128,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853128,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779636853128,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779636853128,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779636853128,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779636853128,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779636853133,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779636853135,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779636853137,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853137,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853137,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853137,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853137,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853137,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853142,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779636853143,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779636853143,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779636853143,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779636853143,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779636853143,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779636853152,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779636853153,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1779636853154,
+    "type": "dex_load",
+    "data": {
+      "dex": "/data/user/0/cc.pacer.androidapp/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779636853155,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779636853156,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779636853157,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779636853158,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779636853159,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/shared_prefs/mobileads_consent.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636853160,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779636853161,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1779636853162,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779636853163,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1779636853165,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779636853165,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1779636853185,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779636853188,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779636853189,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779636853206,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_ab_test_info_synced_map"
+    }
+  },
+  {
+    "ts": 1779636853215,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779636853216,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779636853217,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779636853219,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~RdbZANUCOUnmB_ZAfM-hFw==/cc.pacer.androidapp-IDtjAuqj26Gqx8F3LuZsEQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779636853231,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636853231,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636853232,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636853232,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779636853232,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779636853233,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779636853233,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779636853239,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779636853241,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779636853252,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636853253,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636853253,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636853253,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779636853253,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779636853253,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779636853253,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779636853256,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636853257,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636853258,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779636853259,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779636853261,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779636853279,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779636853283,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779636853284,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779636853286,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779636853287,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779636853294,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636853321,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779636853381,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779636853396,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cc.pacer.androidapp/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636853441,
+    "type": "webview",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779636853448,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779636853504,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779636853535,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779636853729,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/favicon.ico"
+    }
+  },
+  {
+    "ts": 1779636853832,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/getconfig/pubsetting?app_name=cc.pacer.androidapp&client=ca-app-pub-6401579832099742&slotname=5526872516"
+    }
+  },
+  {
+    "ts": 1779636853892,
+    "type": "activity_resume",
+    "data": {
+      "activity": "cc.pacer.androidapp.ui.activity.swipepages.ActivitySwipeTutorialActivity"
+    }
+  },
+  {
+    "ts": 1779636854088,
+    "type": "webview",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779636854090,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779636854099,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779636854114,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779636854120,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779636854124,
+    "type": "file_access",
+    "data": {
+      "path": "data:text/html;charset=utf-8;base64,"
+    }
+  },
+  {
+    "ts": 1779636854145,
+    "type": "file_access",
+    "data": {
+      "path": "https://www.gstatic.com/mysidia/824f6d67786cd66a99b283b541f7220e.js?tag=engine/client_fast/client_fast_engine"
+    }
+  },
+  {
+    "ts": 1779636854147,
+    "type": "file_access",
+    "data": {
+      "path": "https://fonts.googleapis.com/css?family=Open%20Sans%3A400%2C500"
+    }
+  },
+  {
+    "ts": 1779636854153,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/omsdk/releases/live/omsdk-v1.js"
+    }
+  },
+  {
+    "ts": 1779636854153,
+    "type": "file_access",
+    "data": {
+      "path": "https://www.gstatic.com/mysidia/d6b7775af140386df9644679ecc3cc4d.js?tag=pingback/client/pingback"
+    }
+  },
+  {
+    "ts": 1779636854155,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260520/r20110914/client/one_afma_ctd.js"
+    }
+  },
+  {
+    "ts": 1779636854157,
+    "type": "file_access",
+    "data": {
+      "path": "https://www.gstatic.com/mysidia/79ff1db958d483a0d3b370ec727ac7c4.js?tag=addon/analytics_pingback"
+    }
+  },
+  {
+    "ts": 1779636854158,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260520/r20110914/client/qs_click_protection.js"
+    }
+  },
+  {
+    "ts": 1779636854160,
+    "type": "file_access",
+    "data": {
+      "path": "https://www.googletagservices.com/activeview/js/current/lidar.js?cache=r20110914"
+    }
+  },
+  {
+    "ts": 1779636854161,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/omsdk/releases/live/omid_session_bin.js"
+    }
+  },
+  {
+    "ts": 1779636854199,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/favicon.ico"
+    }
+  },
+  {
+    "ts": 1779636854303,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260520/r20110914/client/load_preloaded_resource.js"
+    }
+  },
+  {
+    "ts": 1779636854304,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260520/r20110914/client/window_focus.js"
+    }
+  },
+  {
+    "ts": 1779636854305,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260520/r20110914/abg_lite.js"
+    }
+  },
+  {
+    "ts": 1779636854306,
+    "type": "file_access",
+    "data": {
+      "path": "https://www.gstatic.com/mysidia/1f438863f65ca9ac45f20f2ebb7ac91e.js?tag=addon/mysidia_one_click_handler_one_afma"
+    }
+  },
+  {
+    "ts": 1779636854446,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?id=mys&d=CgsIByEAAAAAAAAUQAoHCAgqA2x0cgoRCAEqDWJhbm5lci1ub2xvZ28KCggCKgZzZXJ2ZXIKDRArIQAAAAAAgEdAMAQKDRBMIQCZZmZmdmxAMAQKDRArIQAAAAAAgEdAMAQKDRADIQBmMzMzk2xAMAQKDRAKIQAAfpmZmdk_MAQKDRANIQAAAAAAAAAAMAQKCRAeKgMweDAwBAoMEBkqBjM5M3g5MDAECg0QDiEAAAAAAAAAADAECg0QBCEAlZmZmalsQDAECg0QDyEAAAAAAAAAADAECg0QBSEAlZmZmalsQDAEEhpDS21pbFBTZjBwUURGUWFMWmdJZGNVQW5wUSINdGV4dC9tYWNhd192MygD"
+    }
+  },
+  {
+    "ts": 1779636854552,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=colleague-executed&name=4"
+    }
+  },
+  {
+    "ts": 1779636854578,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=reach&proto=CAlgAWACaAM%3D"
+    }
+  },
+  {
+    "ts": 1779636854585,
+    "type": "file_access",
+    "data": {
+      "path": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2"
+    }
+  },
+  {
+    "ts": 1779636854685,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?id=mys&d=CgsIByEAAAAAAAAUQAoHCAgqA2x0cgoRCAEqDWJhbm5lci1ub2xvZ28KCggCKgZzZXJ2ZXIKDRAQIQAAAADAkAFBMAQKDRARIQAAAAA4GQJBMAQKDRASIQAAAAAAACZAMAQKDRATIQAAAAAAABRAMAQKDRAXIUB7ZmZmTn1AMAQSGkNLbWlsUFNmMHBRREZRYUxaZ0lkY1VBbnBRIg10ZXh0L21hY2F3X3YzKAM="
+    }
+  },
+  {
+    "ts": 1779636854728,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/favicon.ico"
+    }
+  },
+  {
+    "ts": 1779636854731,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779636854741,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779636854747,
+    "type": "url_access",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/pagead/interaction/?ai=CDsb4dhoTaqmPCIaWmsMP8YCdqQoA-Y_k0sET8C4QASDKwKwtYOWy54PEDogBAaABz6CBlALIAQGoAwGYBAiqBLECT9CsQqNm8zKMNjbRf3OORBWAo3lvJC3sNcdgYslpvbzz-RHSLKok9Ke-ud_fq7O_aVqh2nUD_AOd01oLdV57fnh9byr-s1lBdwST_qDaKzmVTiuDsf1a-bbyukiuwJi6TZJAWPCBO1oGmHWd4alrB9bq88hMwQO5L_VzT6Y_VqS3oUMyrqYpgB-Vf9w0fatYXXXPwbph-_bHS5Xrn3Xw2B9vGksVg0bDA2hHMNZNA1PrBHawVZoY6Cec8u7NvEl4CoeQY8f6zt-xqOCMgN9P-XXm46sPWvyL-rjyVzO1zAR2ekM3A1gfIHVrG7Ot2lFhOTAa-_kEsSHZ26IIevZBzKzdZ65IJ6XW1iOToM_E_MXF-w7xmtDrVo8c1FqSzrLYuuOL-5cQNKIdfWIA4Aj8lv_ABMWWja-3BOAEA4gF4KL2mkyQBgHYBgKAB5nf_usBmAcBqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAehAagHrcobqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrECqAe_07EC2AcA-gcTY29tLmZhY2Vib29rLmthdGFuYaAIsuS3BLAIArgIAdIIMQiAYRABGN8DMgiKgoCAgICACDoPgECAwICAgICogAKog4AQSL39wTpYr-eT9J_SlAOACgLICwGADAGiDAVIAZABAaoNAklO6g0TCISwlPSf0pQDFQaLZgIdcUAnpYgOBNATANgTDYIUIhogbW9iaWxlYXBwOjoyLWNjLnBhY2VyLmFuZHJvaWRhcHCIFAHYFAHQFQGYFgHKFhUKE2NvbS5mYWNlYm9vay5rYXRhbmH4FgGAFwGyFzIYAioKNTUyNjg3MjUxNjIgbW9iaWxlYXBwOjoyLWNjLnBhY2VyLmFuZHJvaWRhcHBQBqoYFwkAAAAAYPLzQBIKNTUyNjg3MjUxNhgBshgJEgLoWRgBIgEAmhkHCAEaA1VTRLIZATfQGQHYGQE&sigh=J5_UuGffvy4&cid=CAQSvwIABaugfTjqxxDblKfrjm6xDw6MxOYDTbZSwJXBpQzEZlhIS-qSiLeYCHgDUXAono8_3QPl7868MgmbUIo1eoOCbHXbsNcf5nr8DnjeORzaVHJRZkKgVVHvCxZgj9UdrZGS8b0s6Tk1CIiQJVrcb7CqlDU_dxv4_eQYvDcgYMjGj481ts7mC3A9Llt2KufzlB1pr73d1aecmhEx_9T9aryuKXDr85HeruSYMZ--4iQqpnv6E0EgUztAJYAKudqUHYfDjOLfjYgdAsP3Yg0oMjE02OWnyi6__NY2q1BdmN-A8aQpNABmLqNxGdOS6iKc9VFBRNSQiusJ5pbtzkWrd-WENsBpEvgnzhMTqzPe2ezq3KQAb0rkWzx4WOj3arOHkmzMgSTlEdWF7VyRmHHwpEzoy0aEXvmaOS-2T5ZK8aMi&label=admob_mediation_request_fill_result&mediation_fill_status=3252192797818644.3.0.3252192797818644_2130686620334718.3.0.2130686620334718_8696098139098113.3.0.8696098139098113_7191439709076681.3.0.7191439709076681_7383015835345434.3.0.7383015835345434_8504522012829360.3.0.8504522012829360_6069933531592755.3.0.6069933531592755_3443768924087397.0.687.3443768924087397&ttr=@gw_ttr@&smc_index=7"
+    }
+  },
+  {
+    "ts": 1779636854747,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.init({\"impressionOwner\":\"javascript\",\"videoEventsOwner\":\"none\",\"isolateVerificationScripts\":true})}"
+    }
+  },
+  {
+    "ts": 1779636854748,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setState(\"foregrounded\")}"
+    }
+  },
+  {
+    "ts": 1779636854750,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setDeviceVolume(0.13333334)}"
+    }
+  },
+  {
+    "ts": 1779636854751,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setDeviceVolume(0.13333334)}"
+    }
+  },
+  {
+    "ts": 1779636854752,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.startSession(\"4e7fd520-a1bf-4db6-b4ef-eed02d513758\",{\"environment\":\"app\",\"adSessionType\":\"html\",\"deviceInfo\":{\"deviceType\":\"Google; sdk_gphone_x86_64\",\"osVersion\":\"30\",\"os\":\"Android\"},\"supports\":[\"clid\",\"vlid\"],\"omidNativeInfo\":{\"partnerName\":\"Google\",\"partnerVersion\":\"201004999.9683000\"},\"app\":{\"libraryVersion\":\"1.3.1-google_20200121\",\"appId\":\"cc.pacer.androidapp\"},\"customReferenceData\":\"\"},{},\"\")}"
+    }
+  },
+  {
+    "ts": 1779636854766,
+    "type": "url_access",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/dbm/ad?dbm_c=AKAmf-Bo2H3UamepI2Mrg1BNAkvZsglXXpDfbC8Xhyr4VBcqa_ZTtICfupz5Tlo30jwCWqWjF79uMyV10k3lNtlLMiFkxHpYenIcKmdvfoMx65lmo87TcNkToRvw9j1WjS7hI6vcDaH6DX26-VqfU5HhbJQywGxXfUfh6Est0HQiJmdy_D-pyelN_v2ciUle-qDqqoVcIjOQX4swmSdp5S8FnvYSAjPXOcmcfnUcWi1WTZT83qN-4y7HkYK0efQg8eTRj-rcQurc-K3nyYG3KccV0Nu8qUyFbhOP4qlvNUF78k3buBMiuyk_sQMGIu8brGHpbYG8WWSHvaAYZAllt6gquJHRA_0tvYRWtdLCnJBWUeG6u-Vu63zqS2wN44wSupNgBPRRG2E5NDZN6eh8FPygfZHTQpWdq5fpKw8RuvgCc0m0dU6GLeHgdQ_nR8fHt5ugdqIriENfb0gdWyNZwJdZ_OOYxrtcxA&cry=1&dbm_d=AKAmf-BAGzNmfu2tsCDUNvlM4STrtTWGWgEn1Ty6FVy_Wvrd5uCbcVMErFZA57B_IkVY7hd0N-qIcBdsrKVi_lnebdvwP0ywam_AdByC7z7o3ESiUKzZxNkZbdyRA0Uv1Eua7hz25A9Cvl-GANf8fF4Oim1iroauDzwJ97dIdWcisGEWt49xoeezcG4hkiGhqT-VSpWV5F7tPS6UKcpVjC-VS9YnpkvesFTHzRoVxWJ8CzAtEEcmjaPoIgjWM274FWabRflL-5GaHCvju1peguNV5Zva6y1jtxwM4shWQamDUCQyCiBIWlsAlMHOq9myjKVdzhIWPUnk-LHgBudCLmn5fWPGuUAUSC_8WZ0ijN-9UErLWI3YQcbV3gYhRKWTKh_-I_Zua_aSSCrxfE-t3125zkS45TH-NSpGBwQuIIo5T8hM9dIYnvLUjGaOJy4I8PLIj33y5P9BqDPQWCjc1G5SPw__F4hIyGtxkro2iWdLoR0FywAJeINdjMzv3FJsG06R4-BChuI0acWulIkDoiuBgbhMSXelpmLmAYkdQyZZhL-5XoSLOyjq-gFLYqB7nvc90fjISWlGQqGqcajrlgHtpD0moiL7SFmfA61yF53fXBOFP-lxDLNSZexABGqX8ootUNNU5kiZcXvxdCH_JEQ4OiSgqYeYBGYN66t4DOBJVdsHDvJZ21yZm4zrseE6Z42abN8Ff9freGMl6KdkcKeayt63Z2ZremyJHWbR5RNCFkiBaZI3pAkZ95B2sRLt9m8qoBI1aTOHQ5OtjSWSp6QZGOUlbATyd2lDq9vU39BNksGE5GjFnkywFD-5pM50Ddd0-ZhJmnYeWItNJgWJlfsfCfXLK2h8cPH4P253AAm1xZCyHfKnX1u4fXytO9VbTLz0-xE7hclosctmB4Fg3oorI4YCgKL3VHqzWjbAisY6JN5rvoO1XVuK_pmP8TTQGP5ocOMrwvDCHqtA-MtNMlY-4_B1VH38cv8DNwX96wT3FWRg55wT1B0YwzItapz6tzREYYiGdqMxpxR-gE4VqQEAgiJhWOFoEt31oU6E55-OrJjLGpFzX4OTcv3PbEBFUmMHe7XICMplgJIaqqgBRl3WcbBxedZOvmIQwmvhuZ_d8Yc-GVjgOoMO3c8wAcogHPn-F1SQb0zPcblBlQNsKTjyt1TghpEuFDvfgsdJgiLpIpFnv-Ka0TkFItT8hA78ONOmYNBotmMA_TwLExs_1m_pg8ohCBlWQWIjVhlF4QTOlOtI0UCFe0ZBCORYgbfNc64z8MauqQh6_j_PecmAfYefs4BlITF9NU6mmtQfzG8Thu3zAp0iXrZjBo76Whudoc5Qb0UtpZ8dwupUk4wJQEcOdpWkG7AAClWO9WDl5x5A8Fd3Zb82uBgOYv6mkT3pZtm6qlCj9Eoj3Ho83XUtFYNAaME6K-UP2YArg7ZJ8lgiAoivjMgjp6GQYHjK7gpEYqHjxJxfxzSsqSBpavCCoQRTD_Vc4cG1k7K5YYcN-eVT29I3rX_kA2wa0PIZRqkfGu3_gex-28f7EVlaWWwBdewJN7H_CO64SywXui3TM1t4Xxd1KU23Y5SoPW3bFT9UidP8n4IUBwzIOHOjMC-FNkNxsw8vedV_lmkPtDjNzMEh2Srko70VIc-rywGKcLtssel8MG6bCgsnNEcU86gF6nHgAVWdps2y1TAs3svaJ_JwIFVe9DiyI8aFpbDBobeuWNFT9NtueEv78x3TY9iNbbdnPMUVhXl2GAVbEFDnmR1Yip2bcbTlu9Kre8IRiKzmAtNK6NpL0Mr1A9rAqVYZZqzjMuUYS3NcPZzFLKPDsHQrS-XwVqf9m2tJmEzZHkBcmoPwTavG2OaT7nBWclxCNUZBim7ZbDT8fCmuiHTX987OGa3ZZ2Nh0zqFz9fy6UD7FentBkYxeIdmcxrmPGEVgOhET4Wan9t2OchbWRlcmXMnurlIZoZ4D6tlIoSvFTghX3f4bM0QZO3sE9ze8pEOoLvLdAjbaJe61KczI3ua454cREnPbUHuU0hG0oXW9YNdIxGiZ92A5ICl-nJYOgh6EPELo6DFvsZTLB5TVGkuKqqjpAgLT7iV5kPGosfq9w8G2SOC2AhGv0hSh6AJOsQk3DkLwRorJF7TOSB2-fD8LfNeliFK-JDBB8o8agn7GQUh7MSoKJEFozDn4XyMVWwo8oLsyaConUMGqF0bPn3b5bCQwCZI17OiYUQVIB0G6F4OYGr7lyYjeLubMn9AdW3sYrf9QKTa9AVwSionrpAuiHX-9dJOjK_lesxMy73G2gr5irfNgfCJDiR6iOP0nr87lcWpHbgEwSFDeINp_DiZR2sFKU-xh6ew-3AOPr3YdiYu8hQP-shZvjYxqsmTmd53I2s2Aj6cCSfArgWezrghpjW00ZWk5ZrRMfbkisD3qFJvTP3mKzAsmIhi7iv2AqR0UugeZ4AOnTrUz_Q6ZVLaV0kt1UZ9_3YO0ZCVhcuFSHtq2Qn7DEj3ebz1_pAwz8yWnYAN9LYFXzdEfhjVWpPA7viLWl3OvncGOhAPSYJLndX4gDc1G4iXbrqYApdkyWIb6_hrGV_mf4MPfqr9yaeRQHaY3UI4SwvG18r2Czu8hQ36qNVCzjwR_wl8k3bOIK-tLs-VlVPu3JDVxpN1OjwnkrNSj-kxA5KDddBT6cOeCb216NECU3aigtkPkj-T3VTLl5yAGi0bz70axo7rNXUWsFiZSOfwZeHBb4TUM3kJBuSVVIJ62_k4D-oKPj8PLlMFsdEcv_x3q6Uhrk5zwK5G699u_T3T-WqZrwpox3kqkJ4vdqQqE-dWponDYAttvNtB1RerB25JZQyMHSAODyhRl1l62XNJ04eQlMvJ8HuOqENVCiv6R_vVxHpdlRzrO-KxKGgqtz-HD3aV5iymjZlu3rN3mlDc5_nmBGLmBOmoa3s67yqzqJ1pfXkXT7XqDDd3Xl9alzSyBidVx3CeeKqszWW7QpYucG2v3GYjqHbPPB-o-S-dGySRzj4PXRfKItf6MdDrfJVewy6-Q5q9r06RgKp7HakJuLyANx_L6wEUYKfBTNKrQL1WnvcpIhNNPqp8utD8S4fQ4t9Ec4YoBVqjep4YaTrGOuXni8ETHKreEelq_3-X43d25uU7QotWaNi8jDHud7mca-CCwIXxYSvN7jHZf0PPyzCY59N2aqmF5beLWY4VbhgXJ7YJoU7SXJJzkjAjaGVJMv6lsD99lsbEjsjFMLCl2VWqrfGl_HQnfZffhx-yh2HAEgq3R7p4HtvCf8OCToNzB0KVR6schypW-2Dw5Be103fgGQx45TySoWSqJBC5fG4Et5Asp2E577ky23wNR0iSiA5UgrgxbH6pMWzX-xwdnY9B14Hlw2AputIz9ITKDKUlnWSHDYBUjkz7_Bek5mFMtQ7PoRcL6CfV0r_plnV1NG463wjVOG7_4-ZiEjtG7XUyxPTjMmk1mIfWyGQcZ8YpBRJIpFOaOTtn-6aWV5h0aAxIEzJp1GzoFW5fg4j_jlcAGAxN03DdMIIiUkH2vTilhMsLlPlOYjGtIxfEDaIMsDJkEI5-Kdiv46qes9uzr4E0U53TTBc6m-cqQvykbpceBZyqPqjibEOO86C5PfPA6_hBJ8H5MU3Uefqgj0wpqBsZsMumNKdfWaOulFG6HT81rqHxuZ-Rk-LLDaOnUKLbknFAC71mvqTKYLs-ZFP_M268lVOe80iWnBZ8Gfg1GJ_w5vZ66xuNr7SWWqq-WZtm1vaeVS-9vyUqipSMGSDhkkMgVr0OBnRl_tmjPqhaKfYiTzgjUMkKA4deM_0VsQcVSUbjSsBc9aWayysPhJ3NOEpKasewCQ7iw1CUs3XUFfoZvBYJOrZ7TrQbZieKkoCsVtDU1z2Vtc9SWYL-M-U9b4qqzcRZ9TXxHiCkyYatUPaTVAgzqlDbKvwayyIfHN_i0ufTMWT9lxvrBClKCqJ8CLIDJAhlyJAEPKpeHsl5gYVVdmocb9DP1FQw6ZdyYvN2GTRhZRDfjFKVHvUtC2vpsvg3e0dQYPyE-o6ND2AfFvbIinQpIX-bHvO5URTj0uBrWo4mbRloqC6yh-LdFxjYPsyHeSOOJ-kP-kCPF99dGppeiBnSr3VODyZFEIbIoRyHgM56eZuZYwKK4VG_HZPNHmXXU54utwn36sfz_8Wbqkz7ZagwxC2ycCzOYejiXpbsoKx1XdWNvziWdrALixEls_aLxg02R2RIng0rsEUf4HuKkuzL3TyvM8uoYkslyxjJK4oBlU4xSBhqklfCyFkFL1oMMkYz6jF1AOMEZibQyamfMkzgyHzBTX6usVjohvH3DtPJnd6dQSw8VSO2_IWigN-0yaSqnrg_7MqzYaihw2_w50u0i_WY_dh-WcJl8LDp4tTe3M5pFQh3Rw_e6nZrsYtBmwdqv5JtifhnZyBUu9iHOur85PtgRDMzZtGCGpMJZSVjgTSiMh0Waj5e_Hk2r4-1AaMziqscPZN_cEZ8rijiPq4I8zDmJfsveYaBvqBMcs9hq6wzQ6g7bA_AndMBf7RFxX915ZzEp7y3Rj6ZzmzzYZxwp_zMfVhovBCwTZSist2ZcRh-ptqqgJKT2KM1SuGwNwhkMXNlFQF55ZSw0vmNBiCgUfih0fqlCRzdix01hscPWGUKdDpsyNZqgkwnyRp6410KCEoPf-6PaJ85wnaW-79YEwvOZCgh_I2HjgyTUXAFxWlpcZqUvpnspDzHCjoumcvMNYlYahm0Iwaj8BVyEE1JSMEEicqS41CLnSlZocpOOsCsO1Qef9wgGDuCeuenpNd7WXcBAwZFAgMQNn8SaBPCWSwDkjCqJvxnsWfbu5Eh63loELBeHwS8efHDO_p-qP2Aie1MdqLbMvy6Q4EMExdS9kLr0MJ8Zsr1wttOn4jd6zHLCGdESsR2TKlp5goOvm-H&cid=CAQSvwIABaugfTjqxxDblKfrjm6xDw6MxOYDTbZSwJXBpQzEZlhIS-qSiLeYCHgDUXAono8_3QPl7868MgmbUIo1eoOCbHXbsNcf5nr8DnjeORzaVHJRZkKgVVHvCxZgj9UdrZGS8b0s6Tk1CIiQJVrcb7CqlDU_dxv4_eQYvDcgYMjGj481ts7mC3A9Llt2KufzlB1pr73d1aecmhEx_9T9aryuKXDr85HeruSYMZ--4iQqpnv6E0EgUztAJYAKudqUHYfDjOLfjYgdAsP3Yg0oMjE02OWnyi6__NY2q1BdmN-A8aQpNABmLqNxGdOS6iKc9VFBRNSQiusJ5pbtzkWrd-WENsBpEvgnzhMTqzPe2ezq3KQAb0rkWzx4WOj3arOHkmzMgSTlEdWF7VyRmHHwpEzoy0aEXvmaOS-2T5ZK8aMiGAE&plcmtid=@gw_placement_id@&ms=CoACLg48bkCB2zO0US9hV39SDwO8OMf4Ln-9dQ7qIckBU0KpHs_d2NFHjIJUSBfQf-mkqygMoCuWZBayRCUfHl1WrNvFltAyj0lYkkyXhxzXL4I0GqvZ1RQ012-x3DKNphMcMHJhRfdleYSmuOHpCv7AkKZyf2NuDMBohuH6r2OppxOju1VMciBuxukQtke4VyGBVgopbgaGRm4d1Bu-Ok4VQfwAdEG22bjNlupdDZ_SMF7Tt22VcEfak_Q5XUpaYQENLrFkrFJJx4LM4SpnH0ec5UfvjjBdT_uq445VaMpUvpTLR-7n5_AIEKBBS9-qpjnbBgQJ_HBOH-x7Rc0hSZv72wqAAkASw2lPJUKEg_3UP85ugccpaRc7dWbHbXYQepZwHK6Y2ijU2uLgI2haCJlgdEqy2375SZ3SMhgHkb73h2lLhEu_2KnSJe7rEjK7oD5cuOg_6tqfm6NWtnBZlw6fU4wv0dSYYGk0ERRqTn-KPxToCye5l8Txm4RgkNIxcgQw8qYw8iiQOSj2mU6gzmb8StG4bL-58LaK4cz6mOMtdmJbetn0Zrah8sHccq7ZwTIoihKP2MhtE_HLxVI5GVeKkFIk0M_nM4katQ0XHi7vlumnflkXBB5IEBmoEBfKvESrHTv0xKgCdAOgLgnGY485OG9VU3qjiyxuiikZLKlS2cBCXRUSEHIHtm9BwXjFT2ZV7o3yIN0"
+    }
+  },
+  {
+    "ts": 1779636854803,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setNativeViewHierarchy({\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":850.9091186523438,\"childViews\":[{\"x\":0,\"y\":753.0908813476562,\"width\":392.7272644042969,\"height\":49.818180084228516,\"adSessionId\":\"4e7fd520-a1bf-4db6-b4ef-eed02d513758\",\"notVisibleReason\":\"noWindowFocus\"}]})}"
+    }
+  },
+  {
+    "ts": 1779636854819,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?zx=bb9wmpjhqwvw&id=gmob-apps-activeview&event=empty-clickstring&immediate=false&v=sdk_20260514_RC00&app_name=app_name_unavailable"
+    }
+  },
+  {
+    "ts": 1779636854828,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?zx=yn38ei2ifbx&id=gmob-apps-activeview&event=scrollable-view-baseline&v=sdk_20260514_RC00&is_tos=false"
+    }
+  },
+  {
+    "ts": 1779636854831,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?id=mys&d=CgsIByEAAAAAAAAUQAoHCAgqA2x0cgoRCAEqDWJhbm5lci1ub2xvZ28KCggCKgZzZXJ2ZXIKDRAUIQAAAADIqwdBMAQKDRAVIQAAAAAAACxAMAQKDRAWIQAAAAAAABhAMAQKDRAYIaBBMzMz24JAMAQKDRAyIQAgaWZmZiFAMAQKDRAzIQAgaWZmZiFAMAQKDRA0IQAgaWZmZiFAMAQKDRA1IQAgaWZmZiFAMAQKDRA2IQAgaWZmZiFAMAQKDRA3IQAAAAAAAAAAMAQKDRA4IQAgaWZmZiFAMAQKDRA5IQAgaWZmZiFAMAQKDRA6IQB0NDMzMzhAMAQKDRA7IYA9MzMzO31AMAQKDRA8IQDlzMzMPH1AMAQKDRA9IUB7ZmZmTn1AMAQKDRA-ISA-MzMz14JAMAQKDRA_ISA-MzMz14JAMAQKDRBAIaDUzMzMDINAMAQSGkNLbWlsUFNmMHBRREZRYUxaZ0lkY1VBbnBRIg10ZXh0L21hY2F3X3YzKAM="
+    }
+  },
+  {
+    "ts": 1779636855297,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_message_type"
+    }
+  },
+  {
+    "ts": 1779636855297,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_device_token"
+    }
+  },
+  {
+    "ts": 1779636855303,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_device_uuid"
+    }
+  },
+  {
+    "ts": 1779636855303,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_message_type"
+    }
+  },
+  {
+    "ts": 1779636855303,
+    "type": "shared_pref",
+    "data": {
+      "key": "push_device_token"
+    }
+  },
+  {
+    "ts": 1779636855304,
+    "type": "shared_pref",
+    "data": {
+      "key": "cc.pacer.androidapp.GROUPS_ACCESS_TOKEN"
+    }
+  },
+  {
+    "ts": 1779636855308,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  }
+]

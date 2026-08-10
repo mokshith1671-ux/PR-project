@@ -1,0 +1,632 @@
+[
+  {
+    "ts": 1779638599672,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|442512187915|*"
+    }
+  },
+  {
+    "ts": 1779638599673,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|442512187915|*"
+    }
+  },
+  {
+    "ts": 1779638599673,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779638599675,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779638599679,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779638599680,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779638599681,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638599682,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638599683,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles.loadandgo/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.l.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638599685,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638599686,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles.loadandgo/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779638599687,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779638599687,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779638599687,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779638599691,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.airmiles.loadandgo/settings?instance=940fce5d4c97a349bd9e665973b17dc21873181f&build_version=7&display_version=1.0.1&source=1&icon_hash=894251e2fedef94145c4be607944b9bf67a25a1b"
+    }
+  },
+  {
+    "ts": 1779638599692,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles.loadandgo/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1321470207-0001-29A8-2D8B6C157693SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779638599694,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.airmiles.loadandgo/settings?instance=940fce5d4c97a349bd9e665973b17dc21873181f&build_version=7&display_version=1.0.1&source=1&icon_hash=894251e2fedef94145c4be607944b9bf67a25a1b"
+    }
+  },
+  {
+    "ts": 1779638599700,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles.loadandgo/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779638599753,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779638599754,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779638600446,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airmiles.modules.account.ui.activity.SignInActivity"
+    }
+  },
+  {
+    "ts": 1779638600455,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~GyWBp_RixMu8tyZY7v_Q0w==/com.airmiles.loadandgo-bcr8KEwa67T5BHAlnkqnSA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779638600623,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~GyWBp_RixMu8tyZY7v_Q0w==/com.airmiles.loadandgo-bcr8KEwa67T5BHAlnkqnSA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779638600632,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~GyWBp_RixMu8tyZY7v_Q0w==/com.airmiles.loadandgo-bcr8KEwa67T5BHAlnkqnSA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779638600640,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~GyWBp_RixMu8tyZY7v_Q0w==/com.airmiles.loadandgo-bcr8KEwa67T5BHAlnkqnSA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779638600643,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~GyWBp_RixMu8tyZY7v_Q0w==/com.airmiles.loadandgo-bcr8KEwa67T5BHAlnkqnSA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779638600648,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~GyWBp_RixMu8tyZY7v_Q0w==/com.airmiles.loadandgo-bcr8KEwa67T5BHAlnkqnSA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779638600650,
+    "type": "url_access",
+    "data": {
+      "url": "https://mobile-backend.api.loyalty.com:443/analytics"
+    }
+  },
+  {
+    "ts": 1779638603086,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airmiles.modules.account.ui.activity.SignInActivity"
+    }
+  },
+  {
+    "ts": 1779638603090,
+    "type": "url_access",
+    "data": {
+      "url": "https://mobile-backend.api.loyalty.com:443/analytics"
+    }
+  },
+  {
+    "ts": 1779638603182,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|442512187915|*"
+    }
+  },
+  {
+    "ts": 1779638603183,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779638611304,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779638611305,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779638611305,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779638611308,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779638611308,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779638611313,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638611313,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638611313,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779638611313,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779638611314,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779638611316,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779638611316,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779638611322,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638611322,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638611322,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779638611323,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779638611324,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779638611325,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779638611326,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779638611331,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638611331,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638611332,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779638611332,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779638611333,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779638611339,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638611339,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638611340,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779638611356,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779638611356,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779638611357,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779638611362,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779638611364,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779638611364,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779638611365,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779638611365,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779638611377,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/n/x86_64"
+    }
+  },
+  {
+    "ts": 1779638611378,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/n/arm64-v8a"
+    }
+  },
+  {
+    "ts": 1779638611378,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779638611378,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779638611384,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779638611400,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles.loadandgo/shared_prefs/v5_gtmContainerRefreshPolicy_GTM-WQXGXW.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638611412,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.google-analytics.com/gtm/android?id=GTM-WQXGXW&pv=-1&rv=5.0"
+    }
+  },
+  {
+    "ts": 1779638611526,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779638611528,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779638611528,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779638611529,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779638611703,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles.loadandgo/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638611713,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/10664/cmdline"
+    }
+  },
+  {
+    "ts": 1779638611746,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles.loadandgo/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779638611777,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779638623728,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airmiles.modules.account.ui.activity.SignInActivity"
+    }
+  },
+  {
+    "ts": 1779638623729,
+    "type": "url_access",
+    "data": {
+      "url": "https://mobile-backend.api.loyalty.com:443/analytics"
+    }
+  },
+  {
+    "ts": 1779638623753,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles.loadandgo/shared_prefs/com.airmiles.loadandgo_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638623775,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airmiles.modules.account.ui.activity.ScanCardActivity"
+    }
+  },
+  {
+    "ts": 1779638623776,
+    "type": "shared_pref",
+    "data": {
+      "key": "preferences_front_light_mode"
+    }
+  },
+  {
+    "ts": 1779638623783,
+    "type": "url_access",
+    "data": {
+      "url": "https://mobile-backend.api.loyalty.com:443/analytics"
+    }
+  },
+  {
+    "ts": 1779638623794,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airmiles.loadandgo/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779638623913,
+    "type": "shared_pref",
+    "data": {
+      "key": "preferences_front_light_mode"
+    }
+  }
+]

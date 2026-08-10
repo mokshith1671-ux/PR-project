@@ -1,0 +1,443 @@
+[
+  {
+    "ts": 1779642427735,
+    "type": "shared_pref",
+    "data": {
+      "key": "project_id"
+    }
+  },
+  {
+    "ts": 1779642427763,
+    "type": "shared_pref",
+    "data": {
+      "key": "AF_INSTALLATION"
+    }
+  },
+  {
+    "ts": 1779642427775,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.arcadegame.games.bingo.holiday.free.slots.bash/shared_prefs/tracking_mask.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642427796,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779642427890,
+    "type": "shared_pref",
+    "data": {
+      "key": "24-22-37-head"
+    }
+  },
+  {
+    "ts": 1779642427892,
+    "type": "shared_pref",
+    "data": {
+      "key": "24-22-37-title"
+    }
+  },
+  {
+    "ts": 1779642427892,
+    "type": "shared_pref",
+    "data": {
+      "key": "24-22-37-content"
+    }
+  },
+  {
+    "ts": 1779642428011,
+    "type": "file_access",
+    "data": {
+      "path": ""
+    }
+  },
+  {
+    "ts": 1779642428011,
+    "type": "file_access",
+    "data": {
+      "path": "/etc/pre_install.appsflyer"
+    }
+  },
+  {
+    "ts": 1779642428016,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779642428018,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779642428028,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779642428029,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779642428030,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779642428031,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779642428034,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v4/androidevent?buildnumber=6.0&app_id=com.arcadegame.games.bingo.holiday.free.slots.bash"
+    }
+  },
+  {
+    "ts": 1779642428091,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779642428092,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779642428093,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779642428184,
+    "type": "url_access",
+    "data": {
+      "url": "https://stats.appsflyer.com/stats"
+    }
+  },
+  {
+    "ts": 1779642428278,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779642428282,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779642428282,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779642428283,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779642428460,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779642428513,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.appsflyer.com/install_data/v3/com.arcadegame.games.bingo.holiday.free.slots.bash?devkey=NFfcQbKF65HGqDyA3uH5pC&device_id=1779642419491-2850049772787484656"
+    }
+  },
+  {
+    "ts": 1779642428621,
+    "type": "shared_pref",
+    "data": {
+      "key": "application_id"
+    }
+  },
+  {
+    "ts": 1779642428622,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642428622,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_id"
+    }
+  },
+  {
+    "ts": 1779642428624,
+    "type": "shared_pref",
+    "data": {
+      "key": "pw_base_url"
+    }
+  },
+  {
+    "ts": 1779642428625,
+    "type": "shared_pref",
+    "data": {
+      "key": "application_id"
+    }
+  },
+  {
+    "ts": 1779642428625,
+    "type": "shared_pref",
+    "data": {
+      "key": "application_id"
+    }
+  },
+  {
+    "ts": 1779642428631,
+    "type": "url_access",
+    "data": {
+      "url": "https://BDA74-A8B47.api.pushwoosh.com/json/1.3/registerUser"
+    }
+  },
+  {
+    "ts": 1779642429818,
+    "type": "shared_pref",
+    "data": {
+      "key": "application_id"
+    }
+  },
+  {
+    "ts": 1779642429818,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642429819,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_id"
+    }
+  },
+  {
+    "ts": 1779642429822,
+    "type": "shared_pref",
+    "data": {
+      "key": "pw_base_url"
+    }
+  },
+  {
+    "ts": 1779642429822,
+    "type": "url_access",
+    "data": {
+      "url": "https://BDA74-A8B47.api.pushwoosh.com/json/1.3/applicationOpen"
+    }
+  },
+  {
+    "ts": 1779642430026,
+    "type": "shared_pref",
+    "data": {
+      "key": "application_id"
+    }
+  },
+  {
+    "ts": 1779642430026,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642430026,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_id"
+    }
+  },
+  {
+    "ts": 1779642430046,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642430046,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642430046,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642430046,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642430051,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642430051,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642430051,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642430051,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642430054,
+    "type": "shared_pref",
+    "data": {
+      "key": "pw_base_url"
+    }
+  },
+  {
+    "ts": 1779642430054,
+    "type": "url_access",
+    "data": {
+      "url": "https://BDA74-A8B47.api.pushwoosh.com/json/1.3/setAttributes"
+    }
+  },
+  {
+    "ts": 1779642431317,
+    "type": "shared_pref",
+    "data": {
+      "key": "application_id"
+    }
+  },
+  {
+    "ts": 1779642431317,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642431318,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_id"
+    }
+  },
+  {
+    "ts": 1779642431318,
+    "type": "shared_pref",
+    "data": {
+      "key": "pw_base_url"
+    }
+  },
+  {
+    "ts": 1779642431318,
+    "type": "url_access",
+    "data": {
+      "url": "https://BDA74-A8B47.api.pushwoosh.com/json/1.3/setBadge"
+    }
+  },
+  {
+    "ts": 1779642431784,
+    "type": "url_access",
+    "data": {
+      "url": "https://register.appsflyer.com/api/v4/androidevent?buildnumber=6.0&app_id=com.arcadegame.games.bingo.holiday.free.slots.bash"
+    }
+  },
+  {
+    "ts": 1779642432596,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779642433641,
+    "type": "shared_pref",
+    "data": {
+      "key": "application_id"
+    }
+  },
+  {
+    "ts": 1779642433641,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642433642,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_id"
+    }
+  },
+  {
+    "ts": 1779642433650,
+    "type": "shared_pref",
+    "data": {
+      "key": "pw_base_url"
+    }
+  },
+  {
+    "ts": 1779642433651,
+    "type": "url_access",
+    "data": {
+      "url": "https://BDA74-A8B47.api.pushwoosh.com/json/1.3/registerDevice"
+    }
+  }
+]

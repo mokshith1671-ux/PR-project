@@ -1,0 +1,380 @@
+[
+  {
+    "ts": 1779139401177,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139401177,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139401179,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139401179,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139401182,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139401183,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139401209,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.venticake.retrica.camera.CameraActivity"
+    }
+  },
+  {
+    "ts": 1779139401324,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779139401329,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779139401331,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779139401344,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779139401418,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|412177954777|*"
+    }
+  },
+  {
+    "ts": 1779139401420,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779139401420,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779139401422,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779139401453,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.retrica.permission.PermissionActivity"
+    }
+  },
+  {
+    "ts": 1779139401597,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779139401598,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779139401601,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139401603,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.venticake.retrica/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139401603,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.venticake.retrica/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779139401606,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779139401629,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.venticake.retrica/settings?instance=dc1efb28463adca151e55c4a5007d2497840e9ba&build_version=71&display_version=3.0.7&source=1&icon_hash=048af51fab84da4b481b0ae25a598c29784e8bfa"
+    }
+  },
+  {
+    "ts": 1779139401630,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.venticake.retrica/settings?instance=dc1efb28463adca151e55c4a5007d2497840e9ba&build_version=71&display_version=3.0.7&source=1&icon_hash=048af51fab84da4b481b0ae25a598c29784e8bfa"
+    }
+  },
+  {
+    "ts": 1779139401644,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.venticake.retrica/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779139401688,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139401690,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139401691,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779139401691,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779139401692,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.venticake.retrica/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B834803C6-0001-4E0F-63BAB073934ESessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779139401728,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779139401728,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779139402525,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779139402528,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779139402529,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779139402529,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779139404040,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICE_UUID"
+    }
+  },
+  {
+    "ts": 1779139404041,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICE_UUID"
+    }
+  },
+  {
+    "ts": 1779139404431,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.venticake.retrica.camera.CameraActivity"
+    }
+  },
+  {
+    "ts": 1779139404562,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.retrica.permission.PermissionActivity"
+    }
+  },
+  {
+    "ts": 1779139404691,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.venticake.retrica/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779139404699,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.venticake.retrica.camera.CameraActivity"
+    }
+  },
+  {
+    "ts": 1779139404790,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|412177954777|*"
+    }
+  },
+  {
+    "ts": 1779139404790,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779139404840,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.retrica.permission.PermissionActivity"
+    }
+  },
+  {
+    "ts": 1779139404980,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.retrica.permission.PermissionActivity"
+    }
+  },
+  {
+    "ts": 1779139405024,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.venticake.retrica.camera.CameraActivity"
+    }
+  },
+  {
+    "ts": 1779139405168,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.retrica.permission.PermissionActivity"
+    }
+  },
+  {
+    "ts": 1779139405286,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.venticake.retrica/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779139407021,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICE_UUID"
+    }
+  },
+  {
+    "ts": 1779139407021,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICE_UUID"
+    }
+  },
+  {
+    "ts": 1779139412422,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICE_UUID"
+    }
+  },
+  {
+    "ts": 1779139412422,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICE_UUID"
+    }
+  },
+  {
+    "ts": 1779139416218,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.venticake.retrica/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  }
+]

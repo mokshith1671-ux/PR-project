@@ -1,0 +1,3376 @@
+[
+  {
+    "ts": 1779134594647,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.unity3d.player.UnityPlayerActivity"
+    }
+  },
+  {
+    "ts": 1779134597911,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.unity3d.player.UnityPlayerActivity"
+    }
+  },
+  {
+    "ts": 1779134598068,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/com.aemobile.games.farmdozer.v2.playerprefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134598070,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/com.aemobile.games.farmdozer.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134598975,
+    "type": "shared_pref",
+    "data": {
+      "key": "5.3.4"
+    }
+  },
+  {
+    "ts": 1779134598979,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134598987,
+    "type": "url_access",
+    "data": {
+      "url": "https://stats.unity3d.com/HWStats.cgi"
+    }
+  },
+  {
+    "ts": 1779134600110,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.unity3d.player.UnityPlayerActivity"
+    }
+  },
+  {
+    "ts": 1779134601506,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134601506,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.510198842474341"
+    }
+  },
+  {
+    "ts": 1779134601510,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/510198842474341?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779134601517,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134601521,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779134601537,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134601537,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779134601543,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/510198842474341/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779134602347,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134602351,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134602351,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779134602352,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779134603056,
+    "type": "url_access",
+    "data": {
+      "url": "https://config.uca.cloud.unity3d.com/66ce402d-1315-4caa-b9ad-625f7d9625a0.json"
+    }
+  },
+  {
+    "ts": 1779134603336,
+    "type": "url_access",
+    "data": {
+      "url": "http://aestorage.cloudapp.net/time"
+    }
+  },
+  {
+    "ts": 1779134603337,
+    "type": "url_access",
+    "data": {
+      "url": "http://aestorage.cloudapp.net/time"
+    }
+  },
+  {
+    "ts": 1779134603366,
+    "type": "shared_pref",
+    "data": {
+      "key": "3acd0f9c510e5f390d82db77fcf25628"
+    }
+  },
+  {
+    "ts": 1779134603459,
+    "type": "url_access",
+    "data": {
+      "url": "http://datatracking.azurewebsites.net/PayReissue?packageId=com.aemobile.games.farmdozer&userId=97cffd33-28d3-4da1-9b77-ed430e2776e8&ServerId=2"
+    }
+  },
+  {
+    "ts": 1779134603461,
+    "type": "url_access",
+    "data": {
+      "url": "http://datatracking.azurewebsites.net/PayReissue?packageId=com.aemobile.games.farmdozer&userId=97cffd33-28d3-4da1-9b77-ed430e2776e8&ServerId=2"
+    }
+  },
+  {
+    "ts": 1779134603494,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/appsflyer-data.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134603494,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779134603495,
+    "type": "shared_pref",
+    "data": {
+      "key": "AF_INSTALLATION"
+    }
+  },
+  {
+    "ts": 1779134603510,
+    "type": "shared_pref",
+    "data": {
+      "key": "savedProperties"
+    }
+  },
+  {
+    "ts": 1779134603514,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134603522,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779134603523,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779134603523,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779134603717,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779134603718,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779134603718,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779134603789,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/VUNGLE_PUB_APP_INFO.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134603798,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134603798,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134603799,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134603799,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134603817,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.aemobile.games.farmdozer/cache/.VungleCacheDir"
+    }
+  },
+  {
+    "ts": 1779134603877,
+    "type": "url_access",
+    "data": {
+      "url": "http://aestorage.cloudapp.net/time"
+    }
+  },
+  {
+    "ts": 1779134603881,
+    "type": "url_access",
+    "data": {
+      "url": "http://aestorage.cloudapp.net/time"
+    }
+  },
+  {
+    "ts": 1779134603952,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779134603952,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779134603958,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134603958,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134603958,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779134603960,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779134603963,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779134603963,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779134603968,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134603969,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134603969,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779134603969,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779134603971,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779134603972,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779134603983,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134603983,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134603984,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779134603984,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779134603994,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134603994,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134603994,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779134604017,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/google_ads_flags.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134604018,
+    "type": "shared_pref",
+    "data": {
+      "key": "flag_configuration"
+    }
+  },
+  {
+    "ts": 1779134604092,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779134604092,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779134604093,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779134604105,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779134604107,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779134604108,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779134604108,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779134604109,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779134604135,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/x86"
+    }
+  },
+  {
+    "ts": 1779134604135,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/armeabi-v7a"
+    }
+  },
+  {
+    "ts": 1779134604135,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/armeabi"
+    }
+  },
+  {
+    "ts": 1779134604135,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779134604141,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779134604161,
+    "type": "shared_pref",
+    "data": {
+      "key": "flag_configuration"
+    }
+  },
+  {
+    "ts": 1779134604169,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.ae-mobile.com/FarmDozerSettings/Unity5/config_147_2.bytes"
+    }
+  },
+  {
+    "ts": 1779134604170,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.ae-mobile.com/FarmDozerSettings/Unity5/config_147_2.bytes"
+    }
+  },
+  {
+    "ts": 1779134604181,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779134604191,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/admob.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134604193,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_csi_server"
+    }
+  },
+  {
+    "ts": 1779134604194,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/admob_user_agent.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134604195,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_agent"
+    }
+  },
+  {
+    "ts": 1779134604201,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_url_hashes"
+    }
+  },
+  {
+    "ts": 1779134604201,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_vertical_hashes"
+    }
+  },
+  {
+    "ts": 1779134604201,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_settings_json"
+    }
+  },
+  {
+    "ts": 1779134604202,
+    "type": "shared_pref",
+    "data": {
+      "key": "display_cutout"
+    }
+  },
+  {
+    "ts": 1779134604203,
+    "type": "shared_pref",
+    "data": {
+      "key": "native_advanced_settings"
+    }
+  },
+  {
+    "ts": 1779134604205,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134604206,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.ae-mobile.com/FarmDozerSettings/Unity5/Offer.xml"
+    }
+  },
+  {
+    "ts": 1779134604209,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.ae-mobile.com/FarmDozerSettings/Unity5/Offer.xml"
+    }
+  },
+  {
+    "ts": 1779134604229,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_csi_server"
+    }
+  },
+  {
+    "ts": 1779134604229,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604230,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604230,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604230,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604230,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604230,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604230,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604231,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779134604231,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779134604231,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779134604231,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779134604231,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779134604231,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_for_coarse_permission:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604231,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_timeout:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604231,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_interval:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604232,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:pan:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604243,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604243,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604243,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604243,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604244,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604244,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604244,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604244,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779134604244,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779134604244,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779134604244,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779134604245,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779134604245,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779134604252,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604252,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604253,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779134604256,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604256,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604256,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604256,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604257,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604257,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779134604257,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779134604257,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779134604257,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779134604258,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779134604258,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779134604267,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1779134604269,
+    "type": "dex_load",
+    "data": {
+      "dex": "/data/user/0/com.aemobile.games.farmdozer/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779134604273,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779134604273,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779134604275,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779134604275,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779134604276,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1779134604277,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1779134604277,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1779134604329,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779134604332,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779134604333,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~KYQx_sA5apnS897rmUlXlg==/com.aemobile.games.farmdozer-lHNDEb-F4R5Md9EhiCWyKw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779134604337,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/mobileads_consent.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134604338,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779134604345,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779134604345,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/com.aemobile.games.farmdozer_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134604353,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134604361,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779134604363,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779134604364,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779134604365,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:interstitial:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779134604369,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134604375,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604376,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604377,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604377,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604377,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604377,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604378,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604378,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779134604378,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779134604379,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779134604380,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779134604380,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779134604384,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604384,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604385,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604385,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604385,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604385,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604385,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779134604385,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779134604386,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779134604386,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779134604386,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779134604386,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779134604387,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134604388,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134604390,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779134604392,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779134604400,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134604403,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134604404,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134604405,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779134604405,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134604406,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134604424,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134604424,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134604434,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134604435,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134604435,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134604435,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779134604436,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134604436,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134604441,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134604442,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134604442,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134604442,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134604442,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134604472,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779134604475,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134604476,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134604477,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134604477,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134604482,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134604516,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779134604750,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134604852,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134604915,
+    "type": "webview",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779134604946,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779134604990,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779134605136,
+    "type": "url_access",
+    "data": {
+      "url": "http://anchovy.buddylync.com/AdvertiseXml/xml.action?xmlFileName=bl282&v=1.0.0.1&v2=1.0.0.0&t=639147512046898990"
+    }
+  },
+  {
+    "ts": 1779134605142,
+    "type": "url_access",
+    "data": {
+      "url": "http://anchovy.buddylync.com/AdvertiseXml/xml.action?xmlFileName=bl282&v=1.0.0.1&v2=1.0.0.0&t=639147512046898990"
+    }
+  },
+  {
+    "ts": 1779134605294,
+    "type": "url_access",
+    "data": {
+      "url": "http://albatross.buddylync.com/AdvertiseInterface/Request?a=282&wh=480_80&p=Android&o=7fcb3f36dbbe352ba36debe482b00b7e&m=live&c=US&l=en&w=480&h=80&n=0&v=1.0.0.1&v2=1.0.0.0&t=639147512052779590"
+    }
+  },
+  {
+    "ts": 1779134605298,
+    "type": "url_access",
+    "data": {
+      "url": "http://albatross.buddylync.com/AdvertiseInterface/Request?a=282&wh=480_80&p=Android&o=7fcb3f36dbbe352ba36debe482b00b7e&m=live&c=US&l=en&w=480&h=80&n=0&v=1.0.0.1&v2=1.0.0.0&t=639147512052779590"
+    }
+  },
+  {
+    "ts": 1779134605347,
+    "type": "url_access",
+    "data": {
+      "url": "http://albatross.buddylync.com/AdvertiseInterface/Install?a=bl282&o=7fcb3f36dbbe352ba36debe482b00b7e&p=Android&c=US&l=en-US&v=1.0.0.1&v2=1.0.0.0"
+    }
+  },
+  {
+    "ts": 1779134605351,
+    "type": "url_access",
+    "data": {
+      "url": "http://albatross.buddylync.com/AdvertiseInterface/Install?a=bl282&o=7fcb3f36dbbe352ba36debe482b00b7e&p=Android&c=US&l=en-US&v=1.0.0.1&v2=1.0.0.0"
+    }
+  },
+  {
+    "ts": 1779134605380,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779134605591,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/favicon.ico"
+    }
+  },
+  {
+    "ts": 1779134605602,
+    "type": "url_access",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/pagead/interaction/?ai=CBj98jnALaq-6Gcqs77APutfrmAH5ydqmBdHvhbqSAQAQCCD0gYgjYOWy54PEDogBAakCAAAAAICELkGoAwGqBBtP0Kg8JJGlCELFiVIPJD3deWZjOJQ4iEN5PsyQBgHABguAB-eglKWNHZAHAZgHAagH_56xAqgHsL6xAtIIMQiAYRABGN8DMgiKgoCAgICACDoPgECAwICAgICogAKog4AQSL39wTpYyJbk8dDDlAOACgLqDRMIgL_k8dDDlAMVStYbAB266xoT&sigh=ZuKmlyZZRdo&cid=CAQSvwIABaugfRMX4nwoWwcQ7424XHYUyDRPbu32dGmRR5vbVEg_BgOcw-UjXdEwtKbXDqeuWdYNkEInPrjV7zxwJLJSI6DRzL16fT6KVgx9zWXF3L6n5BleGSXpREnCM3gBXcb0_GKQ6wrSavyEl2OCXxuM0AlMXqeF1LG0veJ99XrWHPvsNglUEdle0vQVUrEx2UEgjBE6qft58od5IocT6Dg1cJLhlhsbOAPh-MfS2w_M6pE6JvP6voWDhOckod9TvetTut0VMZjgkqd-cXfnk301BG5Zx79Yy-kZvN9nfudzTW7l-MW11hLpFVnYKrl0PHmY_zZ7Zel12pTV7r2yNV0Ig0-PJXrZw8ktP85TO_usMWJs9blghCTS5uX_SLaSDh_DObyKfCR6KFyDPLXVZFa4nVOe3sPMft5lvsFMbNpU&label=admob_mediation_request_fill_result&mediation_fill_status=8041669856853724.3.0.8041669856853724&ttr=@gw_ttr@"
+    }
+  },
+  {
+    "ts": 1779134605645,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.ae-mobile.com:443/FarmDozerSettings/Unity5/Offer.xml"
+    }
+  },
+  {
+    "ts": 1779134605682,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/getconfig/pubsetting?app_name=com.aemobile.games.farmdozer&client=ca-app-pub-3667494865525686&slotname=1844853850"
+    }
+  },
+  {
+    "ts": 1779134605727,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.ae-mobile.com:443/FarmDozerSettings/Unity5/config_147_2.bytes"
+    }
+  },
+  {
+    "ts": 1779134606052,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.uca.cloud.unity3d.com/v1/events"
+    }
+  },
+  {
+    "ts": 1779134606080,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.ae-mobile.com/FarmDozerSettings/Unity5/FestivalEvent/festival.bytes"
+    }
+  },
+  {
+    "ts": 1779134606083,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.ae-mobile.com/FarmDozerSettings/Unity5/FestivalEvent/festival.bytes"
+    }
+  },
+  {
+    "ts": 1779134606094,
+    "type": "url_access",
+    "data": {
+      "url": "http://anchovy.buddylync.com/AdvertiseXml/xml.action?xmlFileName=default&v=1.0.0.1&v2=1.0.0.0&t=639147512060856560"
+    }
+  },
+  {
+    "ts": 1779134606096,
+    "type": "url_access",
+    "data": {
+      "url": "http://anchovy.buddylync.com/AdvertiseXml/xml.action?xmlFileName=default&v=1.0.0.1&v2=1.0.0.0&t=639147512060856560"
+    }
+  },
+  {
+    "ts": 1779134606420,
+    "type": "shared_pref",
+    "data": {
+      "key": "defaultUserAgent"
+    }
+  },
+  {
+    "ts": 1779134606421,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134606422,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/new?app_id=com.aemobile.games.farmdozer&ifa=b812026a-97d9-4281-b475-7b41a56a9161"
+    }
+  },
+  {
+    "ts": 1779134606422,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134606422,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134606423,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134606423,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/new?app_id=com.aemobile.games.farmdozer&ifa=b812026a-97d9-4281-b475-7b41a56a9161"
+    }
+  },
+  {
+    "ts": 1779134606424,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134606424,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134606425,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134606425,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134606433,
+    "type": "shared_pref",
+    "data": {
+      "key": "defaultUserAgent"
+    }
+  },
+  {
+    "ts": 1779134606438,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134606439,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134606440,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134606441,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134606446,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134606447,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134606449,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134606450,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134606453,
+    "type": "shared_pref",
+    "data": {
+      "key": "defaultUserAgent"
+    }
+  },
+  {
+    "ts": 1779134606462,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134606464,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134606692,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134606702,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.ae-mobile.com:443/FarmDozerSettings/Unity5/FestivalEvent/festival.bytes"
+    }
+  },
+  {
+    "ts": 1779134606723,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779134606757,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779134606832,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.uca.cloud.unity3d.com/v1/events"
+    }
+  },
+  {
+    "ts": 1779134607091,
+    "type": "shared_pref",
+    "data": {
+      "key": "defaultUserAgent"
+    }
+  },
+  {
+    "ts": 1779134607091,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/config"
+    }
+  },
+  {
+    "ts": 1779134607091,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/config"
+    }
+  },
+  {
+    "ts": 1779134607108,
+    "type": "shared_pref",
+    "data": {
+      "key": "defaultUserAgent"
+    }
+  },
+  {
+    "ts": 1779134607110,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/sessionStart"
+    }
+  },
+  {
+    "ts": 1779134607111,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/sessionStart"
+    }
+  },
+  {
+    "ts": 1779134607313,
+    "type": "url_access",
+    "data": {
+      "url": "https://register.appsflyer.com/api/v4/androidevent?buildnumber=3.8&app_id=com.aemobile.games.farmdozer"
+    }
+  },
+  {
+    "ts": 1779134607380,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134607382,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134608151,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134608152,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134608414,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134608416,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134608569,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/AEAnalyticsCache.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134608569,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_referrer"
+    }
+  },
+  {
+    "ts": 1779134608571,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_utm_source"
+    }
+  },
+  {
+    "ts": 1779134608571,
+    "type": "shared_pref",
+    "data": {
+      "key": "launch_utm_source"
+    }
+  },
+  {
+    "ts": 1779134608571,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_referrer"
+    }
+  },
+  {
+    "ts": 1779134608572,
+    "type": "shared_pref",
+    "data": {
+      "key": "launch_deep_link"
+    }
+  },
+  {
+    "ts": 1779134608573,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_referrer"
+    }
+  },
+  {
+    "ts": 1779134608573,
+    "type": "shared_pref",
+    "data": {
+      "key": "launch_deep_link"
+    }
+  },
+  {
+    "ts": 1779134608574,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_referrer"
+    }
+  },
+  {
+    "ts": 1779134608574,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_utm_source"
+    }
+  },
+  {
+    "ts": 1779134608575,
+    "type": "shared_pref",
+    "data": {
+      "key": "launch_utm_source"
+    }
+  },
+  {
+    "ts": 1779134608576,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_referrer"
+    }
+  },
+  {
+    "ts": 1779134608576,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_utm_campaign"
+    }
+  },
+  {
+    "ts": 1779134608576,
+    "type": "shared_pref",
+    "data": {
+      "key": "launch_utm_campaign"
+    }
+  },
+  {
+    "ts": 1779134608577,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_referrer"
+    }
+  },
+  {
+    "ts": 1779134608578,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_utm_medium"
+    }
+  },
+  {
+    "ts": 1779134608578,
+    "type": "shared_pref",
+    "data": {
+      "key": "launch_utm_medium"
+    }
+  },
+  {
+    "ts": 1779134608579,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_referrer"
+    }
+  },
+  {
+    "ts": 1779134608579,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_utm_term"
+    }
+  },
+  {
+    "ts": 1779134608579,
+    "type": "shared_pref",
+    "data": {
+      "key": "launch_utm_term"
+    }
+  },
+  {
+    "ts": 1779134608580,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_referrer"
+    }
+  },
+  {
+    "ts": 1779134608580,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_utm_content"
+    }
+  },
+  {
+    "ts": 1779134608580,
+    "type": "shared_pref",
+    "data": {
+      "key": "launch_utm_content"
+    }
+  },
+  {
+    "ts": 1779134608581,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_referrer"
+    }
+  },
+  {
+    "ts": 1779134608581,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_anid"
+    }
+  },
+  {
+    "ts": 1779134608581,
+    "type": "shared_pref",
+    "data": {
+      "key": "launch_anid"
+    }
+  },
+  {
+    "ts": 1779134608583,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_referrer"
+    }
+  },
+  {
+    "ts": 1779134608583,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_gclid"
+    }
+  },
+  {
+    "ts": 1779134608583,
+    "type": "shared_pref",
+    "data": {
+      "key": "launch_gclid"
+    }
+  },
+  {
+    "ts": 1779134608590,
+    "type": "url_access",
+    "data": {
+      "url": "http://datatracking.azurewebsites.net/v1/Login"
+    }
+  },
+  {
+    "ts": 1779134608592,
+    "type": "url_access",
+    "data": {
+      "url": "http://datatracking.azurewebsites.net/v1/Login"
+    }
+  },
+  {
+    "ts": 1779134608613,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/com.facebook.ads.FEATURE_CONFIG.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134608661,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/FBAdPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134608662,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceIdHash"
+    }
+  },
+  {
+    "ts": 1779134608689,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134608690,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134608710,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aemobile.games.farmdozer/shared_prefs/SDKIDFA.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134608717,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common/"
+    }
+  },
+  {
+    "ts": 1779134608718,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common/"
+    }
+  },
+  {
+    "ts": 1779134608961,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134608962,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134609066,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.appevents.SessionInfo.sessionId"
+    }
+  },
+  {
+    "ts": 1779134609078,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/510198842474341?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779134609226,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779134609232,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134609232,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134609497,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134609498,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134609759,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134609760,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134609892,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/config"
+    }
+  },
+  {
+    "ts": 1779134609892,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/config"
+    }
+  },
+  {
+    "ts": 1779134610023,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134610024,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134610285,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134610286,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134610548,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134610548,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134610810,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134610811,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134611072,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134611072,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134611351,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134611352,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134611614,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134611614,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134611889,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134611890,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134612152,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134612153,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134612414,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134612415,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134612677,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134612678,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134612944,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134612944,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134613206,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134613207,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134613469,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134613470,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134613733,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134613733,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134613996,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134613996,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134614258,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134614259,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134614424,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/config"
+    }
+  },
+  {
+    "ts": 1779134614424,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/config"
+    }
+  },
+  {
+    "ts": 1779134614520,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134614521,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134614804,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134614805,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134615070,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134615071,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134615332,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134615333,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134615596,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134615597,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134615858,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134615860,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134616122,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134616123,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134616386,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134616386,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134616649,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134616650,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134616912,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134616913,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134617174,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134617175,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134617457,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134617457,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134617720,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134617720,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134617982,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134617983,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134618243,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134618244,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134618507,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134618508,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134618770,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134618771,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134619033,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134619033,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134619297,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134619297,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134619559,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134619560,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134619822,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134619823,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134620085,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134620085,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134620347,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134620348,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134620609,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134620610,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134620871,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134620871,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134621155,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134621155,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134621417,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134621417,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134621679,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134621679,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134621853,
+    "type": "url_access",
+    "data": {
+      "url": "http://aestorage.cloudapp.net/v2/farmdozer/userdata/97cffd33-28d3-4da1-9b77-ed430e2776e8?639147512218517190"
+    }
+  },
+  {
+    "ts": 1779134621855,
+    "type": "url_access",
+    "data": {
+      "url": "http://aestorage.cloudapp.net/v2/farmdozer/userdata/97cffd33-28d3-4da1-9b77-ed430e2776e8?639147512218517190"
+    }
+  },
+  {
+    "ts": 1779134621881,
+    "type": "url_access",
+    "data": {
+      "url": "http://aetracing.cloudapp.net/v1/farmdozer/login"
+    }
+  },
+  {
+    "ts": 1779134621883,
+    "type": "url_access",
+    "data": {
+      "url": "http://aetracing.cloudapp.net/v1/farmdozer/login"
+    }
+  },
+  {
+    "ts": 1779134621949,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134621950,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134622211,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134622212,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134622473,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134622474,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134622736,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134622736,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134622933,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/config"
+    }
+  },
+  {
+    "ts": 1779134622934,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/config"
+    }
+  },
+  {
+    "ts": 1779134622998,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134622999,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134623261,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134623261,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134623524,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134623524,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134623787,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134623787,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134624050,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134624051,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134624088,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134624088,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134624088,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134624088,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134624089,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134624089,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134624089,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134624089,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134624090,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134624091,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134624091,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134624091,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134624092,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134624092,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134624092,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134624092,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134624093,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134624093,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134624093,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134624094,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134624095,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134624095,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134624095,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134624095,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134624096,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779134624101,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/510198842474341/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779134624313,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134624314,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134624575,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134624576,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134624838,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134624838,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134625101,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  },
+  {
+    "ts": 1779134625101,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.vungle.com/api/v4/requestAd"
+    }
+  }
+]

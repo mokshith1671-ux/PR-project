@@ -1,0 +1,72 @@
+[
+  {
+    "ts": 1779130617794,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/android.uniwar/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130617805,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779130617806,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779130617806,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779130617810,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/android.uniwar/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779130617844,
+    "type": "url_access",
+    "data": {
+      "url": "https://docs.google.com/a/tbsgames.net/forms/d/1Tya_LddVZTG93mHNMdc8Pa52i4HMYyfJGQdcoTKZ3HM/formResponse"
+    }
+  },
+  {
+    "ts": 1779130619484,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779130619487,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779130619488,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779130619488,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  }
+]

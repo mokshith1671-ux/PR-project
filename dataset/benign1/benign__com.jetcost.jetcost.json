@@ -1,0 +1,114 @@
+[
+  {
+    "ts": 1778233235433,
+    "type": "file",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1778233235438,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.jetcost.jetcost/shared_prefs/countryId.xml.bak"
+    }
+  },
+  {
+    "ts": 1778233235438,
+    "type": "sp",
+    "data": {
+      "key": "jetcost"
+    }
+  },
+  {
+    "ts": 1778233235444,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.jetcost.jetcost/shared_prefs/jetcost.xml.bak"
+    }
+  },
+  {
+    "ts": 1778233235630,
+    "type": "activity",
+    "data": {
+      "activity": "com.jetcost.jetcost.ZStartupActivity_"
+    }
+  },
+  {
+    "ts": 1778233235649,
+    "type": "network",
+    "data": {
+      "url": "http://www.jetcost.ie/iphoneSettings.php"
+    }
+  },
+  {
+    "ts": 1778233235823,
+    "type": "network",
+    "data": {
+      "url": "http://www.jetcost.ie/iphoneSettings.php"
+    }
+  },
+  {
+    "ts": 1778233236095,
+    "type": "activity",
+    "data": {
+      "activity": "com.jetcost.ui.ZUIFlagListActivity_"
+    }
+  },
+  {
+    "ts": 1778233238586,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.jetcost.jetcost/shared_prefs/jetcostLocations.xml.bak"
+    }
+  },
+  {
+    "ts": 1778233238684,
+    "type": "network",
+    "data": {
+      "url": "http://www.jetcost.dk/iphoneSettings.php"
+    }
+  },
+  {
+    "ts": 1778233238702,
+    "type": "network",
+    "data": {
+      "url": "http://www.jetcost.dk/iphoneSettings.php"
+    }
+  },
+  {
+    "ts": 1778233238724,
+    "type": "activity",
+    "data": {
+      "activity": "com.jetcost.jetcost.ZStartupActivity_"
+    }
+  },
+  {
+    "ts": 1778233244438,
+    "type": "activity",
+    "data": {
+      "activity": "com.jetcost.jetcost.ZStartupActivity_"
+    }
+  },
+  {
+    "ts": 1778233257500,
+    "type": "network",
+    "data": {
+      "url": "http://www.jetcost.dk/iphoneSettings.php"
+    }
+  },
+  {
+    "ts": 1778233257502,
+    "type": "network",
+    "data": {
+      "url": "http://www.jetcost.dk/iphoneSettings.php"
+    }
+  },
+  {
+    "ts": 1778233257508,
+    "type": "activity",
+    "data": {
+      "activity": "com.jetcost.jetcost.ZStartupActivity_"
+    }
+  }
+]

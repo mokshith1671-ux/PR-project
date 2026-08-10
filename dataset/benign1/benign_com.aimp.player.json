@@ -1,0 +1,23 @@
+[
+  {
+    "ts": 1779135093401,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779135093404,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aimp.player/shared_prefs/com.aimp.player_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135093404,
+    "type": "shared_pref",
+    "data": {
+      "key": "Language"
+    }
+  }
+]

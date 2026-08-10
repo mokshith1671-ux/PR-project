@@ -1,0 +1,1612 @@
+[
+  {
+    "ts": 1779134002932,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/shared_prefs/languageSharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134002933,
+    "type": "shared_pref",
+    "data": {
+      "key": "currentLanguageKey"
+    }
+  },
+  {
+    "ts": 1779134002962,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/shared_prefs/zendesk-authorization.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134002964,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/shared_prefs/zendesk-token.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134003004,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/shared_prefs/com.amplitude.api.com.abaenglish.videoclass.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134003005,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.amplitude.api.deviceId"
+    }
+  },
+  {
+    "ts": 1779134003046,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.amplitude.api.userId"
+    }
+  },
+  {
+    "ts": 1779134003056,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/shared_prefs/isFirstRunSharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134003057,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134003058,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134003058,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134003058,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134003063,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/ABA_English"
+    }
+  },
+  {
+    "ts": 1779134003065,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134003065,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134003065,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134003065,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134003065,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/.nomedia"
+    }
+  },
+  {
+    "ts": 1779134003071,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/shared_prefs/deeplink_data.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134003071,
+    "type": "shared_pref",
+    "data": {
+      "key": "deeplink_data"
+    }
+  },
+  {
+    "ts": 1779134003073,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134003074,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779134003074,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134003074,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779134003074,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO1"
+    }
+  },
+  {
+    "ts": 1779134003076,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/shared_prefs/com.mixpanel.android.mpmetrics.ReferralInfo.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134003081,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO2"
+    }
+  },
+  {
+    "ts": 1779134003082,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO3"
+    }
+  },
+  {
+    "ts": 1779134003082,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO4"
+    }
+  },
+  {
+    "ts": 1779134003088,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/shared_prefs/com.mixpanel.android.mpmetrics.MixpanelAPI_7a0b3be8625e1b358121231a9e8f61d9.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134003088,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO5"
+    }
+  },
+  {
+    "ts": 1779134003089,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779134003090,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO6"
+    }
+  },
+  {
+    "ts": 1779134003091,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779134003091,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO7"
+    }
+  },
+  {
+    "ts": 1779134003091,
+    "type": "shared_pref",
+    "data": {
+      "key": "events_distinct_id"
+    }
+  },
+  {
+    "ts": 1779134003091,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779134003091,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779134003093,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO8"
+    }
+  },
+  {
+    "ts": 1779134003096,
+    "type": "shared_pref",
+    "data": {
+      "key": "super_properties"
+    }
+  },
+  {
+    "ts": 1779134003097,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/shared_prefs/mixpanel.viewcrawler.changes7a0b3be8625e1b358121231a9e8f61d9.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134003099,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO9"
+    }
+  },
+  {
+    "ts": 1779134003100,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO10"
+    }
+  },
+  {
+    "ts": 1779134003101,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779134003101,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779134003101,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779134003102,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO11"
+    }
+  },
+  {
+    "ts": 1779134003102,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO12"
+    }
+  },
+  {
+    "ts": 1779134003105,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO13"
+    }
+  },
+  {
+    "ts": 1779134003106,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO14"
+    }
+  },
+  {
+    "ts": 1779134003106,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO15"
+    }
+  },
+  {
+    "ts": 1779134003108,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO16"
+    }
+  },
+  {
+    "ts": 1779134003113,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO17"
+    }
+  },
+  {
+    "ts": 1779134003114,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO18"
+    }
+  },
+  {
+    "ts": 1779134003115,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/shared_prefs/ABA_FIRST_APP_SESSION_SHARED_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134003116,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO19"
+    }
+  },
+  {
+    "ts": 1779134003117,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO20"
+    }
+  },
+  {
+    "ts": 1779134003118,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO21"
+    }
+  },
+  {
+    "ts": 1779134003119,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO22"
+    }
+  },
+  {
+    "ts": 1779134003120,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO23"
+    }
+  },
+  {
+    "ts": 1779134003121,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO24"
+    }
+  },
+  {
+    "ts": 1779134003122,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO25"
+    }
+  },
+  {
+    "ts": 1779134003123,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO26"
+    }
+  },
+  {
+    "ts": 1779134003124,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO27"
+    }
+  },
+  {
+    "ts": 1779134003127,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO28"
+    }
+  },
+  {
+    "ts": 1779134003131,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO29"
+    }
+  },
+  {
+    "ts": 1779134003131,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO30"
+    }
+  },
+  {
+    "ts": 1779134003132,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/shared_prefs/REGISTRATION_EXPERIMENT_SHARED_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134003132,
+    "type": "shared_pref",
+    "data": {
+      "key": "REGISTRATION_EXPERIMENT_KEY"
+    }
+  },
+  {
+    "ts": 1779134003133,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO31"
+    }
+  },
+  {
+    "ts": 1779134003133,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO32"
+    }
+  },
+  {
+    "ts": 1779134003135,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO33"
+    }
+  },
+  {
+    "ts": 1779134003136,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO34"
+    }
+  },
+  {
+    "ts": 1779134003137,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO35"
+    }
+  },
+  {
+    "ts": 1779134003137,
+    "type": "shared_pref",
+    "data": {
+      "key": "REGISTRATION_EXPERIMENT_KEY"
+    }
+  },
+  {
+    "ts": 1779134003137,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO36"
+    }
+  },
+  {
+    "ts": 1779134003138,
+    "type": "url_access",
+    "data": {
+      "url": "https://decide.mixpanel.com/decide?version=1&lib=android&token=7a0b3be8625e1b358121231a9e8f61d9&distinct_id=992b57ef-e792-4859-9be7-9b22010f11bc"
+    }
+  },
+  {
+    "ts": 1779134003140,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO37"
+    }
+  },
+  {
+    "ts": 1779134003145,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO38"
+    }
+  },
+  {
+    "ts": 1779134003146,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/shared_prefs/VERSION_MANAGER_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134003147,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO39"
+    }
+  },
+  {
+    "ts": 1779134003147,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO40"
+    }
+  },
+  {
+    "ts": 1779134003151,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO41"
+    }
+  },
+  {
+    "ts": 1779134003152,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO42"
+    }
+  },
+  {
+    "ts": 1779134003153,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO43"
+    }
+  },
+  {
+    "ts": 1779134003153,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO44"
+    }
+  },
+  {
+    "ts": 1779134003155,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO45"
+    }
+  },
+  {
+    "ts": 1779134003158,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO46"
+    }
+  },
+  {
+    "ts": 1779134003160,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO47"
+    }
+  },
+  {
+    "ts": 1779134003162,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.abaenglish.com/api/abaEnglishApi/requiredVersion"
+    }
+  },
+  {
+    "ts": 1779134003164,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.abaenglish.videoclass.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779134003165,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO48"
+    }
+  },
+  {
+    "ts": 1779134003167,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO49"
+    }
+  },
+  {
+    "ts": 1779134003167,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO50"
+    }
+  },
+  {
+    "ts": 1779134003168,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO51"
+    }
+  },
+  {
+    "ts": 1779134003170,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO52"
+    }
+  },
+  {
+    "ts": 1779134003170,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO53"
+    }
+  },
+  {
+    "ts": 1779134003171,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO54"
+    }
+  },
+  {
+    "ts": 1779134003171,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO55"
+    }
+  },
+  {
+    "ts": 1779134003172,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO56"
+    }
+  },
+  {
+    "ts": 1779134003172,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO57"
+    }
+  },
+  {
+    "ts": 1779134003173,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO58"
+    }
+  },
+  {
+    "ts": 1779134003174,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO59"
+    }
+  },
+  {
+    "ts": 1779134003174,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO60"
+    }
+  },
+  {
+    "ts": 1779134003175,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO61"
+    }
+  },
+  {
+    "ts": 1779134003176,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO62"
+    }
+  },
+  {
+    "ts": 1779134003177,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO63"
+    }
+  },
+  {
+    "ts": 1779134003177,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO64"
+    }
+  },
+  {
+    "ts": 1779134003178,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO65"
+    }
+  },
+  {
+    "ts": 1779134003180,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO66"
+    }
+  },
+  {
+    "ts": 1779134003181,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO67"
+    }
+  },
+  {
+    "ts": 1779134003182,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO68"
+    }
+  },
+  {
+    "ts": 1779134003182,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO69"
+    }
+  },
+  {
+    "ts": 1779134003182,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO70"
+    }
+  },
+  {
+    "ts": 1779134003182,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO71"
+    }
+  },
+  {
+    "ts": 1779134003184,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO72"
+    }
+  },
+  {
+    "ts": 1779134003185,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO73"
+    }
+  },
+  {
+    "ts": 1779134003186,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO74"
+    }
+  },
+  {
+    "ts": 1779134003186,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO75"
+    }
+  },
+  {
+    "ts": 1779134003187,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO76"
+    }
+  },
+  {
+    "ts": 1779134003188,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO77"
+    }
+  },
+  {
+    "ts": 1779134003189,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO78"
+    }
+  },
+  {
+    "ts": 1779134003190,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO79"
+    }
+  },
+  {
+    "ts": 1779134003191,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO80"
+    }
+  },
+  {
+    "ts": 1779134003192,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO81"
+    }
+  },
+  {
+    "ts": 1779134003193,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO82"
+    }
+  },
+  {
+    "ts": 1779134003194,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO83"
+    }
+  },
+  {
+    "ts": 1779134003197,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO84"
+    }
+  },
+  {
+    "ts": 1779134003197,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO85"
+    }
+  },
+  {
+    "ts": 1779134003197,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO86"
+    }
+  },
+  {
+    "ts": 1779134003198,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO87"
+    }
+  },
+  {
+    "ts": 1779134003199,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO88"
+    }
+  },
+  {
+    "ts": 1779134003201,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO89"
+    }
+  },
+  {
+    "ts": 1779134003202,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO90"
+    }
+  },
+  {
+    "ts": 1779134003202,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO91"
+    }
+  },
+  {
+    "ts": 1779134003204,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO92"
+    }
+  },
+  {
+    "ts": 1779134003204,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO93"
+    }
+  },
+  {
+    "ts": 1779134003205,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO94"
+    }
+  },
+  {
+    "ts": 1779134003209,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO95"
+    }
+  },
+  {
+    "ts": 1779134003210,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO96"
+    }
+  },
+  {
+    "ts": 1779134003214,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO97"
+    }
+  },
+  {
+    "ts": 1779134003214,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO98"
+    }
+  },
+  {
+    "ts": 1779134003214,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO99"
+    }
+  },
+  {
+    "ts": 1779134003215,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO100"
+    }
+  },
+  {
+    "ts": 1779134003216,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO101"
+    }
+  },
+  {
+    "ts": 1779134003224,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO102"
+    }
+  },
+  {
+    "ts": 1779134003225,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO103"
+    }
+  },
+  {
+    "ts": 1779134003225,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO104"
+    }
+  },
+  {
+    "ts": 1779134003226,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO105"
+    }
+  },
+  {
+    "ts": 1779134003228,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO106"
+    }
+  },
+  {
+    "ts": 1779134003228,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO107"
+    }
+  },
+  {
+    "ts": 1779134003239,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO108"
+    }
+  },
+  {
+    "ts": 1779134003240,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO109"
+    }
+  },
+  {
+    "ts": 1779134003241,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO110"
+    }
+  },
+  {
+    "ts": 1779134003243,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO111"
+    }
+  },
+  {
+    "ts": 1779134003244,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO112"
+    }
+  },
+  {
+    "ts": 1779134003244,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO113"
+    }
+  },
+  {
+    "ts": 1779134003245,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO114"
+    }
+  },
+  {
+    "ts": 1779134003246,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO115"
+    }
+  },
+  {
+    "ts": 1779134003246,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO116"
+    }
+  },
+  {
+    "ts": 1779134003247,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO117"
+    }
+  },
+  {
+    "ts": 1779134003249,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO118"
+    }
+  },
+  {
+    "ts": 1779134003249,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO119"
+    }
+  },
+  {
+    "ts": 1779134003250,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO120"
+    }
+  },
+  {
+    "ts": 1779134003251,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO121"
+    }
+  },
+  {
+    "ts": 1779134003252,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO122"
+    }
+  },
+  {
+    "ts": 1779134003253,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO123"
+    }
+  },
+  {
+    "ts": 1779134003253,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO124"
+    }
+  },
+  {
+    "ts": 1779134003254,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO125"
+    }
+  },
+  {
+    "ts": 1779134003254,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO126"
+    }
+  },
+  {
+    "ts": 1779134003254,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO127"
+    }
+  },
+  {
+    "ts": 1779134003255,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO128"
+    }
+  },
+  {
+    "ts": 1779134003256,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO129"
+    }
+  },
+  {
+    "ts": 1779134003265,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO130"
+    }
+  },
+  {
+    "ts": 1779134003265,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO131"
+    }
+  },
+  {
+    "ts": 1779134003266,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO132"
+    }
+  },
+  {
+    "ts": 1779134003266,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO133"
+    }
+  },
+  {
+    "ts": 1779134003267,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO134"
+    }
+  },
+  {
+    "ts": 1779134003267,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO135"
+    }
+  },
+  {
+    "ts": 1779134003268,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO136"
+    }
+  },
+  {
+    "ts": 1779134003268,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO137"
+    }
+  },
+  {
+    "ts": 1779134003269,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO138"
+    }
+  },
+  {
+    "ts": 1779134003270,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO139"
+    }
+  },
+  {
+    "ts": 1779134003270,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO140"
+    }
+  },
+  {
+    "ts": 1779134003270,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO141"
+    }
+  },
+  {
+    "ts": 1779134003270,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO142"
+    }
+  },
+  {
+    "ts": 1779134003271,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO143"
+    }
+  },
+  {
+    "ts": 1779134003271,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AUDIO144"
+    }
+  },
+  {
+    "ts": 1779134003340,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779134003341,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134003345,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134003347,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134003352,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134003353,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779134003353,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779134003353,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779134003354,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779134003355,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779134003355,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6E32031B-0001-407B-984AFB6B9E70SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779134003373,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779134003386,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.abaenglish.videoclass/settings?instance=6fdee2af2959a4e84be1190e14191730f84d2a2a&build_version=71&display_version=2.3.2&source=1&icon_hash=b50d4b893344a663308e87eb450ef892b2a0275f"
+    }
+  },
+  {
+    "ts": 1779134003391,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.abaenglish.videoclass/settings?instance=6fdee2af2959a4e84be1190e14191730f84d2a2a&build_version=71&display_version=2.3.2&source=1&icon_hash=b50d4b893344a663308e87eb450ef892b2a0275f"
+    }
+  },
+  {
+    "ts": 1779134004006,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134004011,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134004012,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779134004012,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779134004641,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779134004641,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779134004656,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.mixpanel.com/track?ip=1"
+    }
+  },
+  {
+    "ts": 1779134004995,
+    "type": "shared_pref",
+    "data": {
+      "key": "LAST_SUPPORTED_VERSION_KEY"
+    }
+  },
+  {
+    "ts": 1779134004997,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/shared_prefs/com.abaenglish.videoclass_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134005010,
+    "type": "url_access",
+    "data": {
+      "url": "http://query.yahooapis.com/v1/public/yql?q=select%20Name,%20Rate%20from%20yahoo.finance.xchange%20where%20pair%20in%20('USDUSD,USDMXN,USDCAD,USDGBP,USDEUR,USDSEK,USDDKK,USDNOK,USDCHF,USDAUD,USDNZD,USDJPY,USDCNY,USDHKD,USDSGD,USDTWD,USDINR,USDIDR,USDILS,USDRUB,USDSAR,USDZAR,USDTRY,USDAED')&env=store://datatables.org/alltableswithkeys"
+    }
+  },
+  {
+    "ts": 1779134005019,
+    "type": "url_access",
+    "data": {
+      "url": "http://query.yahooapis.com/v1/public/yql?q=select%20Name,%20Rate%20from%20yahoo.finance.xchange%20where%20pair%20in%20('USDUSD,USDMXN,USDCAD,USDGBP,USDEUR,USDSEK,USDDKK,USDNOK,USDCHF,USDAUD,USDNZD,USDJPY,USDCNY,USDHKD,USDSGD,USDTWD,USDINR,USDIDR,USDILS,USDRUB,USDSAR,USDZAR,USDTRY,USDAED')&env=store://datatables.org/alltableswithkeys"
+    }
+  },
+  {
+    "ts": 1779134005052,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.abaenglish.com/api/abaEnglishApi/requiredVersion"
+    }
+  },
+  {
+    "ts": 1779134005071,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134005073,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134005088,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.abaenglish.videoclass.StartActivityABTest"
+    }
+  },
+  {
+    "ts": 1779134005106,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abaenglish.videoclass/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779134005316,
+    "type": "shared_pref",
+    "data": {
+      "key": "LAST_SUPPORTED_VERSION_KEY"
+    }
+  },
+  {
+    "ts": 1779134005340,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779134005604,
+    "type": "url_access",
+    "data": {
+      "url": "https://decide.mixpanel.com/decide?version=1&lib=android&token=7a0b3be8625e1b358121231a9e8f61d9&distinct_id=992b57ef-e792-4859-9be7-9b22010f11bc"
+    }
+  },
+  {
+    "ts": 1779134005695,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779134005695,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779134005705,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.mixpanel.com/track?ip=1"
+    }
+  },
+  {
+    "ts": 1779134006044,
+    "type": "url_access",
+    "data": {
+      "url": "https://decide.mixpanel.com/decide?version=1&lib=android&token=7a0b3be8625e1b358121231a9e8f61d9&distinct_id=992b57ef-e792-4859-9be7-9b22010f11bc"
+    }
+  },
+  {
+    "ts": 1779134007417,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779134007417,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779134007419,
+    "type": "url_access",
+    "data": {
+      "url": "https://decide.mixpanel.com/decide?version=1&lib=android&token=7a0b3be8625e1b358121231a9e8f61d9&distinct_id=992b57ef-e792-4859-9be7-9b22010f11bc"
+    }
+  },
+  {
+    "ts": 1779134007510,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779134007511,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  }
+]

@@ -1,0 +1,1066 @@
+[
+  {
+    "ts": 1779637277517,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/shared_prefs/splash_config.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637277519,
+    "type": "shared_pref",
+    "data": {
+      "key": "path"
+    }
+  },
+  {
+    "ts": 1779637277519,
+    "type": "shared_pref",
+    "data": {
+      "key": "activity_url"
+    }
+  },
+  {
+    "ts": 1779637277529,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/shared_prefs/lxdMoblieAgent_event_cn.xiaochuankeji.tieba.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637277530,
+    "type": "shared_pref",
+    "data": {
+      "key": "eventlogs"
+    }
+  },
+  {
+    "ts": 1779637277533,
+    "type": "shared_pref",
+    "data": {
+      "key": "eventlogs"
+    }
+  },
+  {
+    "ts": 1779637277534,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/shared_prefs/lxdMoblieAgent_state_cn.xiaochuankeji.tieba.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637277534,
+    "type": "shared_pref",
+    "data": {
+      "key": "sessionId"
+    }
+  },
+  {
+    "ts": 1779637277536,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/shared_prefs/lxdMoblieAgent_upload_cn.xiaochuankeji.tieba.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637277537,
+    "type": "shared_pref",
+    "data": {
+      "key": "uploadList"
+    }
+  },
+  {
+    "ts": 1779637277548,
+    "type": "shared_pref",
+    "data": {
+      "key": "updateonlyonwifi"
+    }
+  },
+  {
+    "ts": 1779637277549,
+    "type": "shared_pref",
+    "data": {
+      "key": "updatedelay"
+    }
+  },
+  {
+    "ts": 1779637277549,
+    "type": "shared_pref",
+    "data": {
+      "key": "send_policy"
+    }
+  },
+  {
+    "ts": 1779637277552,
+    "type": "shared_pref",
+    "data": {
+      "key": "uploadList"
+    }
+  },
+  {
+    "ts": 1779637277556,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779637277557,
+    "type": "activity_resume",
+    "data": {
+      "activity": "cn.xiaochuankeji.tieba.ui.base.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779637277565,
+    "type": "shared_pref",
+    "data": {
+      "key": "MOBILE_APPKEY"
+    }
+  },
+  {
+    "ts": 1779637277566,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/shared_prefs/common_lib.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637277568,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779637277576,
+    "type": "shared_pref",
+    "data": {
+      "key": "MOBILE_CHANNEL"
+    }
+  },
+  {
+    "ts": 1779637277578,
+    "type": "shared_pref",
+    "data": {
+      "key": "MOBILE_APPKEY"
+    }
+  },
+  {
+    "ts": 1779637277578,
+    "type": "shared_pref",
+    "data": {
+      "key": "MOBILE_CHANNEL"
+    }
+  },
+  {
+    "ts": 1779637277580,
+    "type": "url_access",
+    "data": {
+      "url": "http://da.mmarket.com/mmsdk/mmsdk?func=mmsdk:posteventlog&appkey=300008448508&channel=MobileMarket&code=106"
+    }
+  },
+  {
+    "ts": 1779637277582,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779637277585,
+    "type": "url_access",
+    "data": {
+      "url": "http://da.mmarket.com/mmsdk/mmsdk?func=mmsdk:posteventlog&appkey=300008448508&channel=MobileMarket&code=106"
+    }
+  },
+  {
+    "ts": 1779637277694,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/shared_prefs/umeng_general_config.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637277697,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779637277698,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/shared_prefs/mobclick_agent_online_setting_cn.xiaochuankeji.tieba.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637277701,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/shared_prefs/common.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637277714,
+    "type": "shared_pref",
+    "data": {
+      "key": "umeng_last_config_time"
+    }
+  },
+  {
+    "ts": 1779637277718,
+    "type": "shared_pref",
+    "data": {
+      "key": "AccountData"
+    }
+  },
+  {
+    "ts": 1779637277719,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_id"
+    }
+  },
+  {
+    "ts": 1779637277719,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779637277730,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277730,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277730,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277730,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277731,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277731,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277731,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277731,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277733,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277733,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277733,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277733,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277735,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/files/data/chatmsg/"
+    }
+  },
+  {
+    "ts": 1779637277735,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/files/data/chatmsg/tbmsgcache/0"
+    }
+  },
+  {
+    "ts": 1779637277744,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277744,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277745,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277746,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277747,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277747,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277747,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277747,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277749,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277749,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277749,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277749,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277751,
+    "type": "file_access",
+    "data": {
+      "path": "/system/bin/su"
+    }
+  },
+  {
+    "ts": 1779637277751,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779637277751,
+    "type": "subscriber_id_access",
+    "data": {
+      "action": "getSubscriberId"
+    }
+  },
+  {
+    "ts": 1779637277757,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277757,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277758,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277758,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277759,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277759,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277759,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277759,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277762,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277762,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637277762,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277762,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637277997,
+    "type": "shared_pref",
+    "data": {
+      "key": "uploadList"
+    }
+  },
+  {
+    "ts": 1779637278000,
+    "type": "shared_pref",
+    "data": {
+      "key": "uploadList"
+    }
+  },
+  {
+    "ts": 1779637278774,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779637278775,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779637278775,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779637278778,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779637278779,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779637278781,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637278781,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637278781,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637278782,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779637278782,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779637278783,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779637278786,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779637278786,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779637278790,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637278790,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637278791,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637278791,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779637278791,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779637278791,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779637278793,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637278793,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637278794,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637278794,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779637278794,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779637278819,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779637278823,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779637278823,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779637278824,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779637278824,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779637278825,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637278842,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779637278859,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637278932,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637278975,
+    "type": "webview",
+    "data": {
+      "url": "file:///android_asset/community.html"
+    }
+  },
+  {
+    "ts": 1779637278994,
+    "type": "activity_resume",
+    "data": {
+      "activity": "cn.xiaochuankeji.tieba.ui.base.CommunityNormsActivity"
+    }
+  },
+  {
+    "ts": 1779637278995,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/shared_prefs/umeng_event_snapshot.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637278996,
+    "type": "url_access",
+    "data": {
+      "url": "file:/system/framework/framework.jar"
+    }
+  },
+  {
+    "ts": 1779637279004,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779637279021,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/files/data/OnlineConfig.dat"
+    }
+  },
+  {
+    "ts": 1779637279030,
+    "type": "shared_pref",
+    "data": {
+      "key": "session_id"
+    }
+  },
+  {
+    "ts": 1779637279031,
+    "type": "url_access",
+    "data": {
+      "url": "file:/system/framework/framework.jar"
+    }
+  },
+  {
+    "ts": 1779637279037,
+    "type": "url_access",
+    "data": {
+      "url": "file:/system/framework/framework.jar"
+    }
+  },
+  {
+    "ts": 1779637279071,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637279077,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637279077,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637279079,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637279080,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637279081,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637279082,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637279082,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637279083,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637279086,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637279086,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637279086,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637279089,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637279091,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779637279101,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779637279109,
+    "type": "shared_pref",
+    "data": {
+      "key": "session_id"
+    }
+  },
+  {
+    "ts": 1779637279112,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779637279113,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779637279117,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779637279128,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779637279147,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779637279202,
+    "type": "shared_pref",
+    "data": {
+      "key": "signature"
+    }
+  },
+  {
+    "ts": 1779637282413,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_client_id"
+    }
+  },
+  {
+    "ts": 1779637282417,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/shared_prefs/spref313266124.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637282417,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_message"
+    }
+  },
+  {
+    "ts": 1779637282421,
+    "type": "shared_pref",
+    "data": {
+      "key": "attentionPosts"
+    }
+  },
+  {
+    "ts": 1779637282421,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_message"
+    }
+  },
+  {
+    "ts": 1779637282424,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/files/data/TopicAttentionList.dat"
+    }
+  },
+  {
+    "ts": 1779637282425,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/files/data/TopicAttentionList.dat"
+    }
+  },
+  {
+    "ts": 1779637282426,
+    "type": "shared_pref",
+    "data": {
+      "key": "attentionPosts"
+    }
+  },
+  {
+    "ts": 1779637282426,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/files/data/chatmsg/tbmsgcache/313266124"
+    }
+  },
+  {
+    "ts": 1779637282428,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/files/data/"
+    }
+  },
+  {
+    "ts": 1779637282428,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/files/data/sysmsg/"
+    }
+  },
+  {
+    "ts": 1779637282429,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cn.xiaochuankeji.tieba/files/data/sysmsg/"
+    }
+  }
+]

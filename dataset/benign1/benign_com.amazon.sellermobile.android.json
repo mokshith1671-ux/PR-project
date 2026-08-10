@@ -1,0 +1,436 @@
+[
+  {
+    "ts": 1779639509705,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779639509706,
+    "type": "file_access",
+    "data": {
+      "path": "/"
+    }
+  },
+  {
+    "ts": 1779639509713,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.sellermobile.android/shared_prefs/com.amazon.identity.auth.device.storage.LocalOnlySQLDB.encryption.namespace.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639509720,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.sellermobile.android/shared_prefs/central.local.datastore.info.store.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639509735,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.sellermobile.android/shared_prefs/SSOInfo.config.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639509770,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.sellermobile.android/shared_prefs/com.amazon.sellermobile.android.USER_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639509771,
+    "type": "shared_pref",
+    "data": {
+      "key": "MARKETPLACE_ID"
+    }
+  },
+  {
+    "ts": 1779639509773,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.amazon.identity.auth.device.storage.LocalOnlySQLDB.encrypt.key"
+    }
+  },
+  {
+    "ts": 1779639509774,
+    "type": "shared_pref",
+    "data": {
+      "key": "MERCHANT_ID"
+    }
+  },
+  {
+    "ts": 1779639509775,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS7Padding"
+    }
+  },
+  {
+    "ts": 1779639509793,
+    "type": "shared_pref",
+    "data": {
+      "key": "MARKETPLACE_ID"
+    }
+  },
+  {
+    "ts": 1779639509794,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS7Padding"
+    }
+  },
+  {
+    "ts": 1779639509803,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS7Padding"
+    }
+  },
+  {
+    "ts": 1779639509811,
+    "type": "shared_pref",
+    "data": {
+      "key": "MARKETPLACE_ID"
+    }
+  },
+  {
+    "ts": 1779639509811,
+    "type": "shared_pref",
+    "data": {
+      "key": "MERCHANT_ID"
+    }
+  },
+  {
+    "ts": 1779639509815,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779639509815,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779639509815,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779639509819,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779639509819,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779639509838,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779639509839,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779639509839,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779639509839,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779639509840,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779639509841,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779639509842,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779639509842,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779639509843,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779639509843,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779639509843,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779639509844,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779639509844,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779639509844,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779639509845,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779639509846,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779639509846,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779639509846,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779639509847,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779639509865,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779639509867,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779639509868,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779639509869,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779639509869,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779639509871,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.sellermobile.android/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639509893,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779639509896,
+    "type": "shared_pref",
+    "data": {
+      "key": "REGION"
+    }
+  },
+  {
+    "ts": 1779639509917,
+    "type": "shared_pref",
+    "data": {
+      "key": "MARKETPLACE_ID"
+    }
+  },
+  {
+    "ts": 1779639509919,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.sellermobile.android/shared_prefs/com.amazon.device.utils.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639509923,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.sellermobile.android/shared_prefs/transport-preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639509930,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.sellermobile.android/shared_prefs/com.amazon.client.metrics.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639509931,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousDeviceSerialNumberUUID"
+    }
+  },
+  {
+    "ts": 1779639509933,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousSessionIDKey"
+    }
+  },
+  {
+    "ts": 1779639509933,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousCustomerIDKey"
+    }
+  },
+  {
+    "ts": 1779639509936,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousDeviceSerialNumberUUID"
+    }
+  },
+  {
+    "ts": 1779639509936,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousSessionIDKey"
+    }
+  },
+  {
+    "ts": 1779639509936,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousCustomerIDKey"
+    }
+  },
+  {
+    "ts": 1779639509942,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779639509951,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.sellermobile.android/shared_prefs/CrashDetectionHelper.crashManager.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639509952,
+    "type": "shared_pref",
+    "data": {
+      "key": "CrashDescriptors"
+    }
+  },
+  {
+    "ts": 1779639509955,
+    "type": "shared_pref",
+    "data": {
+      "key": "LANGUAGE"
+    }
+  },
+  {
+    "ts": 1779639509956,
+    "type": "shared_pref",
+    "data": {
+      "key": "COUNTRY"
+    }
+  }
+]

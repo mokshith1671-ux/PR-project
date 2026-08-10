@@ -1,0 +1,555 @@
+[
+  {
+    "ts": 1779634485201,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ali.coupon.code.sale.all/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634485246,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~2zF_VWcpWWgbHl76r4MpYw==/ali.coupon.code.sale.all-ZCNc5skCecgEjyqQZLlAkg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779634485263,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ali.coupon.code.sale.all/shared_prefs/mat_id.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634485265,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ali.coupon.code.sale.all/shared_prefs/com.mobileapptracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634485265,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_id"
+    }
+  },
+  {
+    "ts": 1779634485269,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/NoPadding"
+    }
+  },
+  {
+    "ts": 1779634485269,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_referrer"
+    }
+  },
+  {
+    "ts": 1779634485270,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ali.coupon.code.sale.all/shared_prefs/mat_queue.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634485276,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ali.coupon.code.sale.all/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634485277,
+    "type": "webview",
+    "data": {
+      "url": "http://newmobads.com/tds/ali_coupon?clickid={subid}&sub_id_1=ali_coupon_01"
+    }
+  },
+  {
+    "ts": 1779634485281,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.1159311550828043"
+    }
+  },
+  {
+    "ts": 1779634485282,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ali.coupon.code.sale.all/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634485284,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779634485286,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/1159311550828043?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779634485337,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ali.coupon.code.sale.all/shared_prefs/APP_PREFS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634485345,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.example.app.MainActivity"
+    }
+  },
+  {
+    "ts": 1779634485349,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ali.coupon.code.sale.all/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634485352,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_referrer"
+    }
+  },
+  {
+    "ts": 1779634485354,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_log_id_last_open"
+    }
+  },
+  {
+    "ts": 1779634485355,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_id"
+    }
+  },
+  {
+    "ts": 1779634485357,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_log_id_open"
+    }
+  },
+  {
+    "ts": 1779634485358,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779634485358,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_is_paying_user"
+    }
+  },
+  {
+    "ts": 1779634485358,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_user_id"
+    }
+  },
+  {
+    "ts": 1779634485366,
+    "type": "shared_pref",
+    "data": {
+      "key": "1"
+    }
+  },
+  {
+    "ts": 1779634485385,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779634485391,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634485393,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634485394,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634485395,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634485408,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779634485552,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779634485555,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ali.coupon.code.sale.all/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634485562,
+    "type": "shared_pref",
+    "data": {
+      "key": "1159311550828043json"
+    }
+  },
+  {
+    "ts": 1779634485565,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ali.coupon.code.sale.all/shared_prefs/FLURRY_SHARED_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634485568,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634485568,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634485569,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634485569,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634485570,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779634485571,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634485571,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634485571,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634485571,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634485577,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779634485581,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ali.coupon.code.sale.all/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779634485583,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779634485583,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779634485583,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779634485584,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634485585,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634485585,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634485585,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634485587,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634485588,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634485588,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ali.coupon.code.sale.all/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634485589,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634485589,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634485590,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ali.coupon.code.sale.all/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131135002D-0001-313E-071FF1D44BEFSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779634485594,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779634485596,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634485597,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634485597,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634485597,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634485599,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634485600,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634485600,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634485600,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634485602,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ali.coupon.code.sale.all/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779634485602,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779634485604,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/1159311550828043/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779634485608,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779634485614,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/ali.coupon.code.sale.all/settings?instance=c9a022abc28860a07b4e428ebaca844e9b9bf4f9&build_version=1&display_version=1.8.6&source=1&icon_hash=be3057b71878ae555d9c65f0aac49377020415b3"
+    }
+  },
+  {
+    "ts": 1779634485615,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/ali.coupon.code.sale.all/settings?instance=c9a022abc28860a07b4e428ebaca844e9b9bf4f9&build_version=1&display_version=1.8.6&source=1&icon_hash=be3057b71878ae555d9c65f0aac49377020415b3"
+    }
+  },
+  {
+    "ts": 1779634487107,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779634487109,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779634487110,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779634487110,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779634500351,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/1159311550828043?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories&format=json&sdk=android"
+    }
+  }
+]

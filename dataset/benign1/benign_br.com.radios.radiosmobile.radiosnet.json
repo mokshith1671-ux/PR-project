@@ -1,0 +1,156 @@
+[
+  {
+    "ts": 1779132223299,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.radios.radiosmobile.radiosnet/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779132223330,
+    "type": "url_access",
+    "data": {
+      "url": "http://app.radios.com.br/radiosnet/webservice.php"
+    }
+  },
+  {
+    "ts": 1779132223349,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779132223369,
+    "type": "url_access",
+    "data": {
+      "url": "http://app.radios.com.br/radiosnet/webservice.php"
+    }
+  },
+  {
+    "ts": 1779132225213,
+    "type": "url_access",
+    "data": {
+      "url": "https://failover.venganet.com/radiosnet/webservice.php"
+    }
+  },
+  {
+    "ts": 1779132226545,
+    "type": "activity_resume",
+    "data": {
+      "activity": "br.com.radios.radiosmobile.radiosnet.activity.ListaPaisesActivity"
+    }
+  },
+  {
+    "ts": 1779132227250,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779132227253,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779132227254,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779132227254,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779132227556,
+    "type": "url_access",
+    "data": {
+      "url": "http://app.radios.com.br/radiosnet/webservice.php"
+    }
+  },
+  {
+    "ts": 1779132227557,
+    "type": "url_access",
+    "data": {
+      "url": "http://app.radios.com.br/radiosnet/webservice.php"
+    }
+  },
+  {
+    "ts": 1779132228560,
+    "type": "url_access",
+    "data": {
+      "url": "https://failover.venganet.com/radiosnet/webservice.php"
+    }
+  },
+  {
+    "ts": 1779132229203,
+    "type": "url_access",
+    "data": {
+      "url": "http://app.radios.com.br/radiosnet/webservice.php"
+    }
+  },
+  {
+    "ts": 1779132229204,
+    "type": "url_access",
+    "data": {
+      "url": "http://app.radios.com.br/radiosnet/webservice.php"
+    }
+  },
+  {
+    "ts": 1779132230213,
+    "type": "url_access",
+    "data": {
+      "url": "https://failover.venganet.com/radiosnet/webservice.php"
+    }
+  },
+  {
+    "ts": 1779132231774,
+    "type": "url_access",
+    "data": {
+      "url": "http://app.radios.com.br/radiosnet/webservice.php"
+    }
+  },
+  {
+    "ts": 1779132231775,
+    "type": "url_access",
+    "data": {
+      "url": "http://app.radios.com.br/radiosnet/webservice.php"
+    }
+  },
+  {
+    "ts": 1779132232749,
+    "type": "url_access",
+    "data": {
+      "url": "https://failover.venganet.com/radiosnet/webservice.php"
+    }
+  },
+  {
+    "ts": 1779132240068,
+    "type": "url_access",
+    "data": {
+      "url": "http://app.radios.com.br/radiosnet/webservice.php"
+    }
+  },
+  {
+    "ts": 1779132240069,
+    "type": "activity_resume",
+    "data": {
+      "activity": "br.com.radios.radiosmobile.radiosnet.activity.ListaUfsActivity"
+    }
+  },
+  {
+    "ts": 1779132240070,
+    "type": "url_access",
+    "data": {
+      "url": "http://app.radios.com.br/radiosnet/webservice.php"
+    }
+  }
+]

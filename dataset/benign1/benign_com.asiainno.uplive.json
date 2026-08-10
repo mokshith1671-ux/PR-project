@@ -1,0 +1,1248 @@
+[
+  {
+    "ts": 1779642660182,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/s_name.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642660184,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779642660191,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/.uplive/"
+    }
+  },
+  {
+    "ts": 1779642660201,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642660207,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.1698316857098420"
+    }
+  },
+  {
+    "ts": 1779642660209,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642660213,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779642660216,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779642660219,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/disk_entries_list.xml"
+    }
+  },
+  {
+    "ts": 1779642660230,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779642660232,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/disk_entries_list.xml"
+    }
+  },
+  {
+    "ts": 1779642660234,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779642660234,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779642660235,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642660235,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420"
+    }
+  },
+  {
+    "ts": 1779642660235,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420"
+    }
+  },
+  {
+    "ts": 1779642660241,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/TwitterAdvertisingInfoPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642660248,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~PjLgNShtL-RH_WN7VGLQsA==/com.asiainno.uplive-4S4N5urORZ_H7mdEHR53yQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779642660250,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/com.twitter.sdk.android:twitter-core:session_store.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642660283,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779642660369,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779642660371,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779642660373,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779642660374,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779642660390,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|810710132118|*"
+    }
+  },
+  {
+    "ts": 1779642660390,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642660484,
+    "type": "url_access",
+    "data": {
+      "url": "https://a.upliveapps.com/safe/system/preload"
+    }
+  },
+  {
+    "ts": 1779642660486,
+    "type": "shared_pref",
+    "data": {
+      "key": "userToken"
+    }
+  },
+  {
+    "ts": 1779642660492,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/live.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642660506,
+    "type": "shared_pref",
+    "data": {
+      "key": "userToken"
+    }
+  },
+  {
+    "ts": 1779642660532,
+    "type": "url_access",
+    "data": {
+      "url": "https://a.upliveapps.com/safe/system/preload"
+    }
+  },
+  {
+    "ts": 1779642660533,
+    "type": "url_access",
+    "data": {
+      "url": "https://a.upliveapps.com/safe/system/preload"
+    }
+  },
+  {
+    "ts": 1779642660551,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/nbsagent_preference_com.asiainno.uplive.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642660554,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/com.networkbench.agent.impl.v2_com.asiainno.uplive.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642660569,
+    "type": "file_access",
+    "data": {
+      "path": "/data/anr/"
+    }
+  },
+  {
+    "ts": 1779642660614,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/Access_Preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642660617,
+    "type": "shared_pref",
+    "data": {
+      "key": "test_uuid"
+    }
+  },
+  {
+    "ts": 1779642660620,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779642660646,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420"
+    }
+  },
+  {
+    "ts": 1779642660647,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420"
+    }
+  },
+  {
+    "ts": 1779642660679,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/databases/access.db-journal"
+    }
+  },
+  {
+    "ts": 1779642660680,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/databases/access.db-shm"
+    }
+  },
+  {
+    "ts": 1779642660681,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/databases/access.db-wal"
+    }
+  },
+  {
+    "ts": 1779642660683,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779642660684,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779642660685,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642660685,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642660685,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642660685,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779642660686,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642660689,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/databases/access.db-wipecheck"
+    }
+  },
+  {
+    "ts": 1779642660691,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779642660693,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~PjLgNShtL-RH_WN7VGLQsA==/com.asiainno.uplive-4S4N5urORZ_H7mdEHR53yQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779642660693,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~PjLgNShtL-RH_WN7VGLQsA==/com.asiainno.uplive-4S4N5urORZ_H7mdEHR53yQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779642660701,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779642660737,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|810710132118|*"
+    }
+  },
+  {
+    "ts": 1779642660737,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|810710132118|*"
+    }
+  },
+  {
+    "ts": 1779642660737,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779642660741,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779642660741,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779642660751,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779642660752,
+    "type": "runtime_exec",
+    "data": {
+      "command": "getprop"
+    }
+  },
+  {
+    "ts": 1779642660762,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642660777,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779642660779,
+    "type": "shared_pref",
+    "data": {
+      "key": "1698316857098420json"
+    }
+  },
+  {
+    "ts": 1779642660815,
+    "type": "shared_pref",
+    "data": {
+      "key": "samplingInfo"
+    }
+  },
+  {
+    "ts": 1779642660816,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_cm"
+    }
+  },
+  {
+    "ts": 1779642660817,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_uni"
+    }
+  },
+  {
+    "ts": 1779642660819,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642660821,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642660823,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642660825,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642660825,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_ct"
+    }
+  },
+  {
+    "ts": 1779642660831,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642660834,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642660836,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642660836,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642660843,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642660843,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642660844,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642660844,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642660845,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642660846,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642660847,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642660847,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642660849,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642660854,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642660856,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642660856,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642660858,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642660858,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642660858,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642660859,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642660861,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779642660865,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779642660867,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420/activities"
+    }
+  },
+  {
+    "ts": 1779642660869,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420/activities"
+    }
+  },
+  {
+    "ts": 1779642660970,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/umeng_general_config.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642660974,
+    "type": "shared_pref",
+    "data": {
+      "key": "signature"
+    }
+  },
+  {
+    "ts": 1779642660975,
+    "type": "shared_pref",
+    "data": {
+      "key": "fs_lc_tl"
+    }
+  },
+  {
+    "ts": 1779642660976,
+    "type": "shared_pref",
+    "data": {
+      "key": "session_id"
+    }
+  },
+  {
+    "ts": 1779642660992,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779642660996,
+    "type": "shared_pref",
+    "data": {
+      "key": "session_id"
+    }
+  },
+  {
+    "ts": 1779642661002,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.asiainno.uplive/databases/cc/cc.db"
+    }
+  },
+  {
+    "ts": 1779642661011,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.asiainno.uplive.init.login.ui.LoginActivity"
+    }
+  },
+  {
+    "ts": 1779642661045,
+    "type": "shared_pref",
+    "data": {
+      "key": "session_id"
+    }
+  },
+  {
+    "ts": 1779642661070,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/com.crashlytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642661077,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779642661078,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779642661086,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.asiainno.uplive/databases/cc/cc.db"
+    }
+  },
+  {
+    "ts": 1779642661103,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779642661103,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642661111,
+    "type": "shared_pref",
+    "data": {
+      "key": "st"
+    }
+  },
+  {
+    "ts": 1779642661113,
+    "type": "shared_pref",
+    "data": {
+      "key": "versionname"
+    }
+  },
+  {
+    "ts": 1779642661125,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/io.fabric.sdk.android:fabric:io.a.a.a.n.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642661131,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779642661137,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.asiainno.uplive/settings?instance=40c58d39296572054601154a0365951c00cea5c4&build_version=4067&display_version=1.8.1&source=1&icon_hash=1a4f3e59c6c2d07059e79c727446b98a43236b2d"
+    }
+  },
+  {
+    "ts": 1779642661145,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/stat"
+    }
+  },
+  {
+    "ts": 1779642661150,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.asiainno.uplive/settings?instance=40c58d39296572054601154a0365951c00cea5c4&build_version=4067&display_version=1.8.1&source=1&icon_hash=1a4f3e59c6c2d07059e79c727446b98a43236b2d"
+    }
+  },
+  {
+    "ts": 1779642661153,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.asiainno.uplive/settings"
+    }
+  },
+  {
+    "ts": 1779642661154,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.asiainno.uplive/settings"
+    }
+  },
+  {
+    "ts": 1779642661173,
+    "type": "shared_pref",
+    "data": {
+      "key": "invld_id"
+    }
+  },
+  {
+    "ts": 1779642661179,
+    "type": "shared_pref",
+    "data": {
+      "key": "userlevel"
+    }
+  },
+  {
+    "ts": 1779642661180,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.asiainno.uplive/databases/cc/cc.db"
+    }
+  },
+  {
+    "ts": 1779642661185,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.asiainno.uplive/databases/cc/cc.db"
+    }
+  },
+  {
+    "ts": 1779642661188,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/mobclick_agent_user_com.asiainno.uplive.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642661189,
+    "type": "shared_pref",
+    "data": {
+      "key": "au_p"
+    }
+  },
+  {
+    "ts": 1779642661191,
+    "type": "shared_pref",
+    "data": {
+      "key": "au_u"
+    }
+  },
+  {
+    "ts": 1779642661218,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.asiainno.uplive/settings"
+    }
+  },
+  {
+    "ts": 1779642661220,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.asiainno.uplive/settings"
+    }
+  },
+  {
+    "ts": 1779642661220,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.asiainno.uplive/settings"
+    }
+  },
+  {
+    "ts": 1779642661221,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_twittersession"
+    }
+  },
+  {
+    "ts": 1779642661222,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_guestsession"
+    }
+  },
+  {
+    "ts": 1779642661303,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779642661305,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779642661305,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779642661336,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779642661347,
+    "type": "shared_pref",
+    "data": {
+      "key": "signature"
+    }
+  },
+  {
+    "ts": 1779642661362,
+    "type": "url_access",
+    "data": {
+      "url": "https://a.upliveapps.com/safe/system/preload"
+    }
+  },
+  {
+    "ts": 1779642661365,
+    "type": "url_access",
+    "data": {
+      "url": "https://a.upliveapps.com/safe/system/preload"
+    }
+  },
+  {
+    "ts": 1779642661369,
+    "type": "shared_pref",
+    "data": {
+      "key": "userToken"
+    }
+  },
+  {
+    "ts": 1779642661384,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.asiainno.uplive/databases/cc/cc.db"
+    }
+  },
+  {
+    "ts": 1779642661435,
+    "type": "url_access",
+    "data": {
+      "url": "http://alog.umeng.com/app_logs"
+    }
+  },
+  {
+    "ts": 1779642661436,
+    "type": "url_access",
+    "data": {
+      "url": "http://alog.umeng.com/app_logs"
+    }
+  },
+  {
+    "ts": 1779642661437,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779642661440,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779642661440,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779642661441,
+    "type": "url_access",
+    "data": {
+      "url": "http://alog.umeng.com/app_logs"
+    }
+  },
+  {
+    "ts": 1779642661445,
+    "type": "url_access",
+    "data": {
+      "url": "http://alog.umeng.com/app_logs"
+    }
+  },
+  {
+    "ts": 1779642661587,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420"
+    }
+  },
+  {
+    "ts": 1779642661588,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.asiainno.uplive/settings"
+    }
+  },
+  {
+    "ts": 1779642661590,
+    "type": "url_access",
+    "data": {
+      "url": "https://a.upliveapps.com/safe/system/preload"
+    }
+  },
+  {
+    "ts": 1779642661738,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420/activities"
+    }
+  },
+  {
+    "ts": 1779642661738,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420/activities"
+    }
+  },
+  {
+    "ts": 1779642662028,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779642662030,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779642662031,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779642662168,
+    "type": "url_access",
+    "data": {
+      "url": "http://alog.umeng.com/app_logs"
+    }
+  },
+  {
+    "ts": 1779642662173,
+    "type": "url_access",
+    "data": {
+      "url": "http://alog.umeng.com/app_logs"
+    }
+  },
+  {
+    "ts": 1779642662176,
+    "type": "shared_pref",
+    "data": {
+      "key": "signature"
+    }
+  },
+  {
+    "ts": 1779642662586,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420/activities"
+    }
+  },
+  {
+    "ts": 1779642662587,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779642662587,
+    "type": "url_access",
+    "data": {
+      "url": "http://alog.umeng.com/app_logs"
+    }
+  },
+  {
+    "ts": 1779642663335,
+    "type": "shared_pref",
+    "data": {
+      "key": "activities"
+    }
+  },
+  {
+    "ts": 1779642663353,
+    "type": "shared_pref",
+    "data": {
+      "key": "autoact"
+    }
+  },
+  {
+    "ts": 1779642663372,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/databases/google_app_measurement_local.db"
+    }
+  },
+  {
+    "ts": 1779642663712,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.asiainno.uplive.init.login.ui.LoginActivity"
+    }
+  },
+  {
+    "ts": 1779642663716,
+    "type": "shared_pref",
+    "data": {
+      "key": "session_id"
+    }
+  },
+  {
+    "ts": 1779642664040,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|810710132118|*"
+    }
+  },
+  {
+    "ts": 1779642664041,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779642664041,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|810710132118|*"
+    }
+  },
+  {
+    "ts": 1779642664042,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.asiainno.uplive/shared_prefs/push.xml.bak"
+    }
+  },
+  {
+    "ts": 1779642675782,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779642675782,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420/activities"
+    }
+  },
+  {
+    "ts": 1779642675782,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420/activities"
+    }
+  },
+  {
+    "ts": 1779642676057,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420/activities"
+    }
+  },
+  {
+    "ts": 1779642676058,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420/activities"
+    }
+  },
+  {
+    "ts": 1779642676588,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/1698316857098420/activities"
+    }
+  }
+]

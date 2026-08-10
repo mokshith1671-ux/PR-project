@@ -1,0 +1,142 @@
+[
+  {
+    "ts": 1778246649124,
+    "type": "file",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1778246649160,
+    "type": "device",
+    "data": {
+      "api": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1778246649587,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778246649751,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778246649807,
+    "type": "file",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1778246649814,
+    "type": "file",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1778246649827,
+    "type": "file",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1778246649829,
+    "type": "file",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1778246649832,
+    "type": "file",
+    "data": {
+      "path": "/data/app/~~i6WLy5GT45X31hZfU5Dvcg==/com.mtdata.checkercalgary-X3sy8LrkbTwzRf0aAHKJmg==/base.apk"
+    }
+  },
+  {
+    "ts": 1778246649850,
+    "type": "file",
+    "data": {
+      "path": "/data/app/~~i6WLy5GT45X31hZfU5Dvcg==/com.mtdata.checkercalgary-X3sy8LrkbTwzRf0aAHKJmg==/base.apk"
+    }
+  },
+  {
+    "ts": 1778246650006,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778246650479,
+    "type": "file",
+    "data": {
+      "path": "shared_prefs/default.xml"
+    }
+  },
+  {
+    "ts": 1778246650484,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mtdata.checkercalgary/shared_prefs/com.mtdata.checkercalgary_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1778246651945,
+    "type": "network",
+    "data": {
+      "url": "http://web.thecheckergroup.com:8080/mobilebooker/AuthenticationWebService.asmx/GetConfigurationTerse"
+    }
+  },
+  {
+    "ts": 1778246651979,
+    "type": "activity",
+    "data": {
+      "activity": "com.mtdata.taxibooker.bitskillz.login.OnBoardActivity"
+    }
+  },
+  {
+    "ts": 1778246652148,
+    "type": "network",
+    "data": {
+      "url": "http://web.thecheckergroup.com:8080/mobilebooker/AuthenticationWebService.asmx/GetConfigurationTerse"
+    }
+  },
+  {
+    "ts": 1778246654154,
+    "type": "activity",
+    "data": {
+      "activity": "com.mtdata.taxibooker.bitskillz.login.OnBoardActivity"
+    }
+  },
+  {
+    "ts": 1778246654847,
+    "type": "activity",
+    "data": {
+      "activity": "com.mtdata.taxibooker.bitskillz.login.LoginActivity"
+    }
+  },
+  {
+    "ts": 1778246661082,
+    "type": "network",
+    "data": {
+      "url": "http://web.thecheckergroup.com:8080/mobilebooker/AuthenticationWebService.asmx/GetConfigurationTerse"
+    }
+  },
+  {
+    "ts": 1778246661123,
+    "type": "network",
+    "data": {
+      "url": "http://web.thecheckergroup.com:8080/mobilebooker/AuthenticationWebService.asmx/GetConfigurationTerse"
+    }
+  }
+]

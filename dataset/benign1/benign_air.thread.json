@@ -1,0 +1,37 @@
+[
+  {
+    "ts": 1779130452656,
+    "type": "activity_resume",
+    "data": {
+      "activity": "air.thread.AppEntry"
+    }
+  },
+  {
+    "ts": 1779130452681,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779130452682,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779130452682,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779130452682,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  }
+]

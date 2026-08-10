@@ -1,0 +1,121 @@
+[
+  {
+    "ts": 1779647501284,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.cleevio.spendee.ui.LoginActivity"
+    }
+  },
+  {
+    "ts": 1779647501303,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cleevio.spendee/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.j.xml.bak"
+    }
+  },
+  {
+    "ts": 1779647501303,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779647501304,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779647501304,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779647501307,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779647501309,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779647501316,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cleevio.spendee/files/.Fabric/com.crashlytics.sdk.android:crashlytics/6A13440C02FE-0001-465D-E6FDD2682196SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779647501333,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.cleevio.spendee/settings?instance=f77ead3005231639e08667776da690cd3a96090d&build_version=3001&display_version=3.0.1&source=1&icon_hash=027424d9ad172f5bde633ea7e55bff5ba944ab2a"
+    }
+  },
+  {
+    "ts": 1779647501334,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.cleevio.spendee/settings?instance=f77ead3005231639e08667776da690cd3a96090d&build_version=3001&display_version=3.0.1&source=1&icon_hash=027424d9ad172f5bde633ea7e55bff5ba944ab2a"
+    }
+  },
+  {
+    "ts": 1779647501342,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779647504377,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.cleevio.spendee.ui.LoginActivity"
+    }
+  },
+  {
+    "ts": 1779647506349,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cleevio.spendee/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779647506366,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779647506367,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779647506367,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779647506382,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cleevio.spendee/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  }
+]

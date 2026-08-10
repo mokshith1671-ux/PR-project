@@ -1,0 +1,240 @@
+[
+  {
+    "ts": 1779131622554,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.thomashermine.prochainbus/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779131622563,
+    "type": "activity_resume",
+    "data": {
+      "activity": "be.thomashermine.prochainbus.activities.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779131622577,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779131622685,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779131622685,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131622687,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779131622689,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.thomashermine.prochainbus/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779131622690,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131622691,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131622698,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.thomashermine.prochainbus/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131622700,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779131622702,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779131622702,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779131622703,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/be.thomashermine.prochainbus/settings?instance=2a3bf8ddf649693cc0ee1d3ad5fcb8397c556cd3&build_version=1523050005&display_version=5.0.5&source=1&icon_hash=b99445dacd28f6237f02d9fb3aa8c9b00c222dfb"
+    }
+  },
+  {
+    "ts": 1779131622704,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/be.thomashermine.prochainbus/settings?instance=2a3bf8ddf649693cc0ee1d3ad5fcb8397c556cd3&build_version=1523050005&display_version=5.0.5&source=1&icon_hash=b99445dacd28f6237f02d9fb3aa8c9b00c222dfb"
+    }
+  },
+  {
+    "ts": 1779131622704,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.thomashermine.prochainbus/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B64E601AC-0001-73D2-D83F365CD2C2SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779131622707,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.thomashermine.prochainbus/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779131623870,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131623873,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131623873,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779131623873,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779131625304,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779131625610,
+    "type": "activity_resume",
+    "data": {
+      "activity": "be.thomashermine.prochainbus.activities.MainActivity"
+    }
+  },
+  {
+    "ts": 1779131626278,
+    "type": "activity_resume",
+    "data": {
+      "activity": "be.thomashermine.prochainbus.activities.MainActivity"
+    }
+  },
+  {
+    "ts": 1779131626325,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { act=android.intent.action.CALL_BUTTON flg=0x10000000 }"
+    }
+  },
+  {
+    "ts": 1779131628713,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779131635012,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779131638291,
+    "type": "activity_resume",
+    "data": {
+      "activity": "be.thomashermine.prochainbus.activities.ScheduleSearchActivity"
+    }
+  },
+  {
+    "ts": 1779131646634,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779131647304,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779131647821,
+    "type": "activity_resume",
+    "data": {
+      "activity": "be.thomashermine.prochainbus.activities.MainActivity"
+    }
+  },
+  {
+    "ts": 1779131647834,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.thomashermine.prochainbus/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779131647941,
+    "type": "url_access",
+    "data": {
+      "url": "https://s-api.nextride.be/search/near/lat/37.4219983/lng/-122.084.json"
+    }
+  },
+  {
+    "ts": 1779131649518,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  }
+]

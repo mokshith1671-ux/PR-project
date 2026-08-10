@@ -1,0 +1,898 @@
+[
+  {
+    "ts": 1779135899508,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amitech.allevents/shared_prefs/apprater.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135899589,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_city"
+    }
+  },
+  {
+    "ts": 1779135899590,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lat"
+    }
+  },
+  {
+    "ts": 1779135899590,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lon"
+    }
+  },
+  {
+    "ts": 1779135899590,
+    "type": "shared_pref",
+    "data": {
+      "key": "query"
+    }
+  },
+  {
+    "ts": 1779135899604,
+    "type": "shared_pref",
+    "data": {
+      "key": "name"
+    }
+  },
+  {
+    "ts": 1779135899608,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.amitech.allevents.EventsCitypage"
+    }
+  },
+  {
+    "ts": 1779135899609,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_city"
+    }
+  },
+  {
+    "ts": 1779135899609,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lat"
+    }
+  },
+  {
+    "ts": 1779135899612,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lon"
+    }
+  },
+  {
+    "ts": 1779135899613,
+    "type": "shared_pref",
+    "data": {
+      "key": "query"
+    }
+  },
+  {
+    "ts": 1779135899622,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_city"
+    }
+  },
+  {
+    "ts": 1779135899623,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lat"
+    }
+  },
+  {
+    "ts": 1779135899623,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lon"
+    }
+  },
+  {
+    "ts": 1779135899623,
+    "type": "shared_pref",
+    "data": {
+      "key": "query"
+    }
+  },
+  {
+    "ts": 1779135899624,
+    "type": "shared_pref",
+    "data": {
+      "key": "313568645378487json"
+    }
+  },
+  {
+    "ts": 1779135899626,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135899638,
+    "type": "shared_pref",
+    "data": {
+      "key": "ae_token"
+    }
+  },
+  {
+    "ts": 1779135899648,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779135899652,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779135899653,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779135899686,
+    "type": "shared_pref",
+    "data": {
+      "key": "personalize_data_feed"
+    }
+  },
+  {
+    "ts": 1779135899687,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_following"
+    }
+  },
+  {
+    "ts": 1779135899688,
+    "type": "url_access",
+    "data": {
+      "url": "https://allevents.in/api/index.php/misc/static/get_value/mbl.android.version"
+    }
+  },
+  {
+    "ts": 1779135899692,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_interests"
+    }
+  },
+  {
+    "ts": 1779135899695,
+    "type": "shared_pref",
+    "data": {
+      "key": "email"
+    }
+  },
+  {
+    "ts": 1779135899695,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_city"
+    }
+  },
+  {
+    "ts": 1779135899696,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lat"
+    }
+  },
+  {
+    "ts": 1779135899696,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lon"
+    }
+  },
+  {
+    "ts": 1779135899696,
+    "type": "shared_pref",
+    "data": {
+      "key": "query"
+    }
+  },
+  {
+    "ts": 1779135899696,
+    "type": "shared_pref",
+    "data": {
+      "key": "email"
+    }
+  },
+  {
+    "ts": 1779135899697,
+    "type": "url_access",
+    "data": {
+      "url": "https://allevents.in/api/personalized.php"
+    }
+  },
+  {
+    "ts": 1779135899804,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_city"
+    }
+  },
+  {
+    "ts": 1779135899805,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lat"
+    }
+  },
+  {
+    "ts": 1779135899806,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lon"
+    }
+  },
+  {
+    "ts": 1779135899806,
+    "type": "shared_pref",
+    "data": {
+      "key": "query"
+    }
+  },
+  {
+    "ts": 1779135900829,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_device_fingerprint_id"
+    }
+  },
+  {
+    "ts": 1779135900829,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779135900829,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_id"
+    }
+  },
+  {
+    "ts": 1779135900830,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_id"
+    }
+  },
+  {
+    "ts": 1779135900844,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779135900844,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_id"
+    }
+  },
+  {
+    "ts": 1779135900844,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_device_fingerprint_id"
+    }
+  },
+  {
+    "ts": 1779135903580,
+    "type": "shared_pref",
+    "data": {
+      "key": "networking"
+    }
+  },
+  {
+    "ts": 1779135906546,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_city"
+    }
+  },
+  {
+    "ts": 1779135906547,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lat"
+    }
+  },
+  {
+    "ts": 1779135906547,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lon"
+    }
+  },
+  {
+    "ts": 1779135906547,
+    "type": "shared_pref",
+    "data": {
+      "key": "query"
+    }
+  },
+  {
+    "ts": 1779135906548,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_city"
+    }
+  },
+  {
+    "ts": 1779135906548,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lat"
+    }
+  },
+  {
+    "ts": 1779135906548,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lon"
+    }
+  },
+  {
+    "ts": 1779135906548,
+    "type": "shared_pref",
+    "data": {
+      "key": "query"
+    }
+  },
+  {
+    "ts": 1779135906548,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_city"
+    }
+  },
+  {
+    "ts": 1779135906548,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lat"
+    }
+  },
+  {
+    "ts": 1779135906549,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lon"
+    }
+  },
+  {
+    "ts": 1779135906549,
+    "type": "shared_pref",
+    "data": {
+      "key": "query"
+    }
+  },
+  {
+    "ts": 1779135906550,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_following"
+    }
+  },
+  {
+    "ts": 1779135906551,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_interests"
+    }
+  },
+  {
+    "ts": 1779135906552,
+    "type": "shared_pref",
+    "data": {
+      "key": "email"
+    }
+  },
+  {
+    "ts": 1779135906552,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_city"
+    }
+  },
+  {
+    "ts": 1779135906552,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lat"
+    }
+  },
+  {
+    "ts": 1779135906553,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lon"
+    }
+  },
+  {
+    "ts": 1779135906554,
+    "type": "shared_pref",
+    "data": {
+      "key": "query"
+    }
+  },
+  {
+    "ts": 1779135906716,
+    "type": "shared_pref",
+    "data": {
+      "key": "email"
+    }
+  },
+  {
+    "ts": 1779135906718,
+    "type": "url_access",
+    "data": {
+      "url": "https://allevents.in/api/personalized.php"
+    }
+  },
+  {
+    "ts": 1779135906742,
+    "type": "url_access",
+    "data": {
+      "url": "https://cdn.allevents.in/old/default_thumb.png"
+    }
+  },
+  {
+    "ts": 1779135906743,
+    "type": "url_access",
+    "data": {
+      "url": "https://cdn.allevents.in/old/default_thumb.png"
+    }
+  },
+  {
+    "ts": 1779135906745,
+    "type": "url_access",
+    "data": {
+      "url": "https://cdn.allevents.in/images/appicons/star_w.png"
+    }
+  },
+  {
+    "ts": 1779135906747,
+    "type": "url_access",
+    "data": {
+      "url": "https://dyn-image.allevents.in/generate-image?v=4&title=Who+Actually+Needs+a+Job+Search+Strategy+in+2026%3F&date=03+Jun"
+    }
+  },
+  {
+    "ts": 1779135906751,
+    "type": "url_access",
+    "data": {
+      "url": "https://cdn.allevents.in/images/appicons/star_w.png"
+    }
+  },
+  {
+    "ts": 1779135906767,
+    "type": "url_access",
+    "data": {
+      "url": "https://dyn-image.allevents.in/generate-image?v=4&title=Who+Actually+Needs+a+Job+Search+Strategy+in+2026%3F&date=03+Jun"
+    }
+  },
+  {
+    "ts": 1779135906789,
+    "type": "url_access",
+    "data": {
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183910657%2F232855692231%2F1%2Foriginal.20260506-130024?auto=format%2Ccompress&q=75&sharp=10&s=21384e7fdd6ad3e78f1ed192e4510f74"
+    }
+  },
+  {
+    "ts": 1779135906790,
+    "type": "url_access",
+    "data": {
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183910657%2F232855692231%2F1%2Foriginal.20260506-130024?auto=format%2Ccompress&q=75&sharp=10&s=21384e7fdd6ad3e78f1ed192e4510f74"
+    }
+  },
+  {
+    "ts": 1779135906992,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779135906998,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_city"
+    }
+  },
+  {
+    "ts": 1779135906998,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lat"
+    }
+  },
+  {
+    "ts": 1779135906998,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lon"
+    }
+  },
+  {
+    "ts": 1779135906998,
+    "type": "shared_pref",
+    "data": {
+      "key": "query"
+    }
+  },
+  {
+    "ts": 1779135907006,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/close"
+    }
+  },
+  {
+    "ts": 1779135907073,
+    "type": "shared_pref",
+    "data": {
+      "key": "email"
+    }
+  },
+  {
+    "ts": 1779135907325,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135907911,
+    "type": "url_access",
+    "data": {
+      "url": "https://dyn-image.allevents.in/generate-image?v=4&title=Metropolitan+Opera%3A+Turandot&date=18+May"
+    }
+  },
+  {
+    "ts": 1779135907912,
+    "type": "url_access",
+    "data": {
+      "url": "https://dyn-image.allevents.in/generate-image?v=4&title=Metropolitan+Opera%3A+Turandot&date=18+May"
+    }
+  },
+  {
+    "ts": 1779135908041,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_city"
+    }
+  },
+  {
+    "ts": 1779135908042,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lat"
+    }
+  },
+  {
+    "ts": 1779135908043,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lon"
+    }
+  },
+  {
+    "ts": 1779135908043,
+    "type": "shared_pref",
+    "data": {
+      "key": "query"
+    }
+  },
+  {
+    "ts": 1779135908291,
+    "type": "url_access",
+    "data": {
+      "url": "https://cdn.allevents.in/images/appicons/updates.png"
+    }
+  },
+  {
+    "ts": 1779135908291,
+    "type": "url_access",
+    "data": {
+      "url": "https://cdn.allevents.in/images/appicons/updates.png"
+    }
+  },
+  {
+    "ts": 1779135908479,
+    "type": "url_access",
+    "data": {
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181728375%2F2278695910433%2F1%2Foriginal.20260408-202801?auto=format%2Ccompress&q=75&sharp=10&s=5f498472fd02e5476be59af88cd05e68"
+    }
+  },
+  {
+    "ts": 1779135908480,
+    "type": "url_access",
+    "data": {
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181728375%2F2278695910433%2F1%2Foriginal.20260408-202801?auto=format%2Ccompress&q=75&sharp=10&s=5f498472fd02e5476be59af88cd05e68"
+    }
+  },
+  {
+    "ts": 1779135908493,
+    "type": "url_access",
+    "data": {
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F736849509%2F563558357097%2F1%2Foriginal.20240405-174114?auto=format%2Ccompress&q=75&sharp=10&s=f88009e157c32575a671a52afeec7fa7"
+    }
+  },
+  {
+    "ts": 1779135908493,
+    "type": "url_access",
+    "data": {
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F736849509%2F563558357097%2F1%2Foriginal.20240405-174114?auto=format%2Ccompress&q=75&sharp=10&s=f88009e157c32575a671a52afeec7fa7"
+    }
+  },
+  {
+    "ts": 1779135908704,
+    "type": "url_access",
+    "data": {
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182046782%2F479307190541%2F1%2Foriginal.20260413-160003?auto=format%2Ccompress&q=75&sharp=10&s=078fabd1d8c5e07da0b6b673f0d7ac8c"
+    }
+  },
+  {
+    "ts": 1779135908705,
+    "type": "url_access",
+    "data": {
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182046782%2F479307190541%2F1%2Foriginal.20260413-160003?auto=format%2Ccompress&q=75&sharp=10&s=078fabd1d8c5e07da0b6b673f0d7ac8c"
+    }
+  },
+  {
+    "ts": 1779135908752,
+    "type": "url_access",
+    "data": {
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183197684%2F2975583296021%2F1%2Foriginal.20260428-072126?auto=format%2Ccompress&q=75&sharp=10&s=a1c7c83a31fec1ac4e2e8ce58aa8dc56"
+    }
+  },
+  {
+    "ts": 1779135908753,
+    "type": "url_access",
+    "data": {
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183197684%2F2975583296021%2F1%2Foriginal.20260428-072126?auto=format%2Ccompress&q=75&sharp=10&s=a1c7c83a31fec1ac4e2e8ce58aa8dc56"
+    }
+  },
+  {
+    "ts": 1779135908893,
+    "type": "url_access",
+    "data": {
+      "url": "https://dyn-image.allevents.in/generate-image?v=4&title=Western+Ballet+-+Don+Quixote+at+Mountain+View+Center+for+the+Performing+Arts&date=22+May"
+    }
+  },
+  {
+    "ts": 1779135908893,
+    "type": "url_access",
+    "data": {
+      "url": "https://dyn-image.allevents.in/generate-image?v=4&title=Western+Ballet+-+Don+Quixote+at+Mountain+View+Center+for+the+Performing+Arts&date=22+May"
+    }
+  },
+  {
+    "ts": 1779135909395,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_city"
+    }
+  },
+  {
+    "ts": 1779135909395,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lat"
+    }
+  },
+  {
+    "ts": 1779135909395,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lon"
+    }
+  },
+  {
+    "ts": 1779135909395,
+    "type": "shared_pref",
+    "data": {
+      "key": "query"
+    }
+  },
+  {
+    "ts": 1779135909419,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_city"
+    }
+  },
+  {
+    "ts": 1779135909419,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lat"
+    }
+  },
+  {
+    "ts": 1779135909419,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lon"
+    }
+  },
+  {
+    "ts": 1779135909419,
+    "type": "shared_pref",
+    "data": {
+      "key": "query"
+    }
+  },
+  {
+    "ts": 1779135909421,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_city"
+    }
+  },
+  {
+    "ts": 1779135909421,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lat"
+    }
+  },
+  {
+    "ts": 1779135909422,
+    "type": "shared_pref",
+    "data": {
+      "key": "local_lon"
+    }
+  },
+  {
+    "ts": 1779135909423,
+    "type": "shared_pref",
+    "data": {
+      "key": "query"
+    }
+  },
+  {
+    "ts": 1779135909475,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amitech.allevents/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135909476,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.313568645378487"
+    }
+  },
+  {
+    "ts": 1779135909484,
+    "type": "url_access",
+    "data": {
+      "url": "https://allevents.in/api/index.php/events/tags/type=json"
+    }
+  },
+  {
+    "ts": 1779135909566,
+    "type": "shared_pref",
+    "data": {
+      "key": "email"
+    }
+  },
+  {
+    "ts": 1779135909566,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779135909566,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_id"
+    }
+  },
+  {
+    "ts": 1779135909567,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779135909567,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_device_fingerprint_id"
+    }
+  },
+  {
+    "ts": 1779135909568,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779135909568,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_version"
+    }
+  },
+  {
+    "ts": 1779135909569,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_version"
+    }
+  },
+  {
+    "ts": 1779135909569,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_identifier"
+    }
+  },
+  {
+    "ts": 1779135909570,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_link"
+    }
+  },
+  {
+    "ts": 1779135909572,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779135909585,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.amitech.allevents.list.EventListX"
+    }
+  },
+  {
+    "ts": 1779135909591,
+    "type": "shared_pref",
+    "data": {
+      "key": "313568645378487json"
+    }
+  },
+  {
+    "ts": 1779135909592,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  }
+]

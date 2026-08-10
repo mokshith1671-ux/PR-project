@@ -1,0 +1,324 @@
+[
+  {
+    "ts": 1779133645659,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779133645660,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779133645664,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779133645664,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779133645664,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779133645664,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779133645664,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779133645664,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779133645665,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779133645667,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779133645667,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779133645668,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779133645669,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779133645672,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779133645714,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779133645718,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779133645718,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779133645722,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779133645722,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779133645723,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.a0soft.gphone.bfont/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133645732,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779133645774,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779133645890,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.a0soft.gphone.bfont/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133646009,
+    "type": "webview",
+    "data": {
+      "url": "file:///android_asset/en/desc.htm"
+    }
+  },
+  {
+    "ts": 1779133646049,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.a0soft.gphone.bfont/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133646062,
+    "type": "url_access",
+    "data": {
+      "url": "file:/system/framework/framework.jar"
+    }
+  },
+  {
+    "ts": 1779133646075,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.a0soft.gphone.bfont.AboutWnd"
+    }
+  },
+  {
+    "ts": 1779133646102,
+    "type": "url_access",
+    "data": {
+      "url": "file:/system/framework/framework.jar"
+    }
+  },
+  {
+    "ts": 1779133646115,
+    "type": "url_access",
+    "data": {
+      "url": "file:/system/framework/framework.jar"
+    }
+  },
+  {
+    "ts": 1779133646160,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779133646162,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133646163,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133646163,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779133646163,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779133646166,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779133646183,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133646192,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.a0soft.gphone.bfont/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779133646239,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779133646239,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.a0soft.gphone.bfont/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6CCD019B-0001-35CF-E24A1CA57984SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779133646242,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.a0soft.gphone.bfont/shared_prefs/io.fabric.sdk.android:fabric:dob.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133646245,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779133646246,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.a0soft.gphone.bfont/settings?instance=5fc9cb85e4906bcb77857ee3c659651bd0a7690e&build_version=100002639&display_version=2.63&source=1&icon_hash=9a7272984b50ec27b238239ead9bf9ac0d29592a"
+    }
+  },
+  {
+    "ts": 1779133646247,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.a0soft.gphone.bfont/settings?instance=5fc9cb85e4906bcb77857ee3c659651bd0a7690e&build_version=100002639&display_version=2.63&source=1&icon_hash=9a7272984b50ec27b238239ead9bf9ac0d29592a"
+    }
+  },
+  {
+    "ts": 1779133646276,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.a0soft.gphone.bfont/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779133646419,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.a0soft.gphone.bfont/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779133646686,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  }
+]

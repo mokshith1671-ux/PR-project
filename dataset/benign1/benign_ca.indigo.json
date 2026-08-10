@@ -1,0 +1,786 @@
+[
+  {
+    "ts": 1779636384613,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.indigo/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636384614,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779636384614,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.126609647370213"
+    }
+  },
+  {
+    "ts": 1779636384617,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779636384617,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.indigo/shared_prefs/com.facebook.SharedPreferencesTokenCachingStrategy.DEFAULT_KEY.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636384618,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779636384618,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779636384671,
+    "type": "shared_pref",
+    "data": {
+      "key": "ca.indigo.util.KEY_ENVIRONMENT_NAME"
+    }
+  },
+  {
+    "ts": 1779636384672,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.indigo/shared_prefs/com.newrelic.android.agent.v1_ca.indigo.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636384674,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.indigo/shared_prefs/NRAnalyticAttributeStore.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636384681,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636384681,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779636384682,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636384682,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779636384704,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.indigo/shared_prefs/NRCrashStore.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636384712,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/stat"
+    }
+  },
+  {
+    "ts": 1779636384744,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ca.indigo.HomeActivity"
+    }
+  },
+  {
+    "ts": 1779636384751,
+    "type": "shared_pref",
+    "data": {
+      "key": "utm_source"
+    }
+  },
+  {
+    "ts": 1779636384752,
+    "type": "shared_pref",
+    "data": {
+      "key": "utm_medium"
+    }
+  },
+  {
+    "ts": 1779636384752,
+    "type": "shared_pref",
+    "data": {
+      "key": "utm_term"
+    }
+  },
+  {
+    "ts": 1779636384752,
+    "type": "shared_pref",
+    "data": {
+      "key": "utm_content"
+    }
+  },
+  {
+    "ts": 1779636384752,
+    "type": "shared_pref",
+    "data": {
+      "key": "utm_campaign"
+    }
+  },
+  {
+    "ts": 1779636384777,
+    "type": "url_access",
+    "data": {
+      "url": "http://112.2o7.net/b/ss/onlineindigocamobileapp/0/JAVA-3.2.3-AN/s60832903?AQB=1&ndh=1&pageName=Indigo%281.5.2%29%20Install&vid=2bc4734acfd74fd9891e0a940e6eb9f7&pe=lnk_o&t=24%2F4%2F2026%2020%3A56%3A24%200%20-330&pev2=ADMS%20BP%20Event&ce=UTF-8&c.&a.&EngDaysLifetime=%2B1&AppID=Indigo%281.5.2%29&Resolution=1080x2009&DailyEngUserEvent=DailyEngUserEvent&OSEnvironment=Android%2011&LaunchEvent=LaunchEvent&OSVersion=Android%2011&DayOfWeek=1&DeviceName=sdk_gphone_x86_64&InstallEvent=InstallEvent&CarrierName=Android&MonthlyEngUserEvent=MonthlyEngUserEvent&InstallDate=5%2F24%2F2026&Launches=1&HourOfDay=20&.a&.c&AQE=1"
+    }
+  },
+  {
+    "ts": 1779636384779,
+    "type": "url_access",
+    "data": {
+      "url": "http://112.2o7.net/b/ss/onlineindigocamobileapp/0/JAVA-3.2.3-AN/s60832903?AQB=1&ndh=1&pageName=Indigo%281.5.2%29%20Install&vid=2bc4734acfd74fd9891e0a940e6eb9f7&pe=lnk_o&t=24%2F4%2F2026%2020%3A56%3A24%200%20-330&pev2=ADMS%20BP%20Event&ce=UTF-8&c.&a.&EngDaysLifetime=%2B1&AppID=Indigo%281.5.2%29&Resolution=1080x2009&DailyEngUserEvent=DailyEngUserEvent&OSEnvironment=Android%2011&LaunchEvent=LaunchEvent&OSVersion=Android%2011&DayOfWeek=1&DeviceName=sdk_gphone_x86_64&InstallEvent=InstallEvent&CarrierName=Android&MonthlyEngUserEvent=MonthlyEngUserEvent&InstallDate=5%2F24%2F2026&Launches=1&HourOfDay=20&.a&.c&AQE=1"
+    }
+  },
+  {
+    "ts": 1779636384779,
+    "type": "url_access",
+    "data": {
+      "url": "http://112.2o7.net/b/ss/onlineindigocamobileapp/0/JAVA-3.2.3-AN/s60832903"
+    }
+  },
+  {
+    "ts": 1779636384782,
+    "type": "url_access",
+    "data": {
+      "url": "http://112.2o7.net/b/ss/onlineindigocamobileapp/0/JAVA-3.2.3-AN/s60832903?AQB=1&ndh=1&pageName=Indigo%281.5.2%29%20Install&vid=2bc4734acfd74fd9891e0a940e6eb9f7&pe=lnk_o&t=24%2F4%2F2026%2020%3A56%3A24%200%20-330&pev2=ADMS%20BP%20Event&ce=UTF-8&c.&a.&EngDaysLifetime=%2B1&AppID=Indigo%281.5.2%29&Resolution=1080x2009&DailyEngUserEvent=DailyEngUserEvent&OSEnvironment=Android%2011&LaunchEvent=LaunchEvent&OSVersion=Android%2011&DayOfWeek=1&DeviceName=sdk_gphone_x86_64&InstallEvent=InstallEvent&CarrierName=Android&MonthlyEngUserEvent=MonthlyEngUserEvent&InstallDate=5%2F24%2F2026&Launches=1&HourOfDay=20&.a&.c&AQE=1"
+    }
+  },
+  {
+    "ts": 1779636384786,
+    "type": "shared_pref",
+    "data": {
+      "key": "CHECKED_IN_STORE"
+    }
+  },
+  {
+    "ts": 1779636384787,
+    "type": "shared_pref",
+    "data": {
+      "key": "appName"
+    }
+  },
+  {
+    "ts": 1779636384788,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779636384788,
+    "type": "shared_pref",
+    "data": {
+      "key": "appBuild"
+    }
+  },
+  {
+    "ts": 1779636384788,
+    "type": "shared_pref",
+    "data": {
+      "key": "packageId"
+    }
+  },
+  {
+    "ts": 1779636384789,
+    "type": "shared_pref",
+    "data": {
+      "key": "agentName"
+    }
+  },
+  {
+    "ts": 1779636384789,
+    "type": "shared_pref",
+    "data": {
+      "key": "agentVersion"
+    }
+  },
+  {
+    "ts": 1779636384789,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceArchitecture"
+    }
+  },
+  {
+    "ts": 1779636384789,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceId"
+    }
+  },
+  {
+    "ts": 1779636384789,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceModel"
+    }
+  },
+  {
+    "ts": 1779636384789,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceManufacturer"
+    }
+  },
+  {
+    "ts": 1779636384789,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceRunTime"
+    }
+  },
+  {
+    "ts": 1779636384789,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceSize"
+    }
+  },
+  {
+    "ts": 1779636384789,
+    "type": "shared_pref",
+    "data": {
+      "key": "osName"
+    }
+  },
+  {
+    "ts": 1779636384789,
+    "type": "shared_pref",
+    "data": {
+      "key": "osBuild"
+    }
+  },
+  {
+    "ts": 1779636384789,
+    "type": "shared_pref",
+    "data": {
+      "key": "osVersion"
+    }
+  },
+  {
+    "ts": 1779636384795,
+    "type": "shared_pref",
+    "data": {
+      "key": "IndigoApiAuth"
+    }
+  },
+  {
+    "ts": 1779636384796,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/config"
+    }
+  },
+  {
+    "ts": 1779636384798,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/config"
+    }
+  },
+  {
+    "ts": 1779636384801,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/config"
+    }
+  },
+  {
+    "ts": 1779636384805,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.2/126609647370213?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779636384808,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636384810,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.2/126609647370213?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779636384814,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.2/126609647370213"
+    }
+  },
+  {
+    "ts": 1779636384822,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/config"
+    }
+  },
+  {
+    "ts": 1779636384948,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.2/126609647370213/custom_audience_third_party_id"
+    }
+  },
+  {
+    "ts": 1779636384968,
+    "type": "url_access",
+    "data": {
+      "url": "http://112.2o7.net/b/ss/onlineindigocamobileapp/0/JAVA-3.2.3-AN/s60832903"
+    }
+  },
+  {
+    "ts": 1779636384973,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.2/126609647370213/custom_audience_third_party_id"
+    }
+  },
+  {
+    "ts": 1779636384981,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636384983,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.indigo/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636384985,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779636384985,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779636384985,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779636385012,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ca.indigo.OnboardingActivity"
+    }
+  },
+  {
+    "ts": 1779636385020,
+    "type": "shared_pref",
+    "data": {
+      "key": "CHECKED_IN_STORE"
+    }
+  },
+  {
+    "ts": 1779636385030,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.indigo/no_backup/com.urbanairship.databases"
+    }
+  },
+  {
+    "ts": 1779636385182,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.2/126609647370213"
+    }
+  },
+  {
+    "ts": 1779636385342,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/config"
+    }
+  },
+  {
+    "ts": 1779636385700,
+    "type": "shared_pref",
+    "data": {
+      "key": "dataToken"
+    }
+  },
+  {
+    "ts": 1779636385701,
+    "type": "shared_pref",
+    "data": {
+      "key": "crossProcessId"
+    }
+  },
+  {
+    "ts": 1779636385709,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.2/126609647370213/custom_audience_third_party_id"
+    }
+  },
+  {
+    "ts": 1779636385709,
+    "type": "url_access",
+    "data": {
+      "url": "http://112.2o7.net/b/ss/onlineindigocamobileapp/0/JAVA-3.2.3-AN/s60832903"
+    }
+  },
+  {
+    "ts": 1779636385711,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.2/126609647370213"
+    }
+  },
+  {
+    "ts": 1779636385711,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/config"
+    }
+  },
+  {
+    "ts": 1779636387715,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ca.indigo.HomeActivity"
+    }
+  },
+  {
+    "ts": 1779636387724,
+    "type": "shared_pref",
+    "data": {
+      "key": "CHECKED_IN_STORE"
+    }
+  },
+  {
+    "ts": 1779636387729,
+    "type": "shared_pref",
+    "data": {
+      "key": "IndigoApiAuth"
+    }
+  },
+  {
+    "ts": 1779636387729,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/cms/page/vendor"
+    }
+  },
+  {
+    "ts": 1779636387730,
+    "type": "shared_pref",
+    "data": {
+      "key": "crossProcessId"
+    }
+  },
+  {
+    "ts": 1779636387730,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/cms/page/vendor"
+    }
+  },
+  {
+    "ts": 1779636387731,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/cms/page/vendor"
+    }
+  },
+  {
+    "ts": 1779636387737,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/cms/page/vendor"
+    }
+  },
+  {
+    "ts": 1779636387790,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/cms/page/vendor"
+    }
+  },
+  {
+    "ts": 1779636387976,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ca.indigo.HomeActivity"
+    }
+  },
+  {
+    "ts": 1779636387985,
+    "type": "shared_pref",
+    "data": {
+      "key": "CHECKED_IN_STORE"
+    }
+  },
+  {
+    "ts": 1779636387990,
+    "type": "shared_pref",
+    "data": {
+      "key": "IndigoApiAuth"
+    }
+  },
+  {
+    "ts": 1779636387990,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/cms/page/vendor"
+    }
+  },
+  {
+    "ts": 1779636387990,
+    "type": "shared_pref",
+    "data": {
+      "key": "crossProcessId"
+    }
+  },
+  {
+    "ts": 1779636387990,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/cms/page/vendor"
+    }
+  },
+  {
+    "ts": 1779636387991,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/cms/page/vendor"
+    }
+  },
+  {
+    "ts": 1779636388009,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/cms/page/vendor"
+    }
+  },
+  {
+    "ts": 1779636388054,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/cms/page/vendor"
+    }
+  },
+  {
+    "ts": 1779636388298,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636388303,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636388307,
+    "type": "shared_pref",
+    "data": {
+      "key": "crossProcessId"
+    }
+  },
+  {
+    "ts": 1779636388308,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636388308,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636388418,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636388704,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/cms/page/vendor"
+    }
+  },
+  {
+    "ts": 1779636388704,
+    "type": "url_access",
+    "data": {
+      "url": "http://cdn.api.indigo.ca/v1_4/cms/page/vendor"
+    }
+  },
+  {
+    "ts": 1779636388704,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636388728,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636388731,
+    "type": "shared_pref",
+    "data": {
+      "key": "crossProcessId"
+    }
+  },
+  {
+    "ts": 1779636388731,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636388731,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636388736,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636389049,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636389051,
+    "type": "shared_pref",
+    "data": {
+      "key": "crossProcessId"
+    }
+  },
+  {
+    "ts": 1779636389051,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636389052,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636389056,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636389368,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636389704,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636389704,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636400009,
+    "type": "url_access",
+    "data": {
+      "url": "https://ssl.api.indigo.ca/v1_4/cart"
+    }
+  },
+  {
+    "ts": 1779636400706,
+    "type": "url_access",
+    "data": {
+      "url": "https://ssl.api.indigo.ca/v1_4/cart"
+    }
+  }
+]

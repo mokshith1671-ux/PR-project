@@ -1,0 +1,282 @@
+[
+  {
+    "ts": 1779138615839,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138615844,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.tripwolf.Main"
+    }
+  },
+  {
+    "ts": 1779138615946,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779138615947,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138615947,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138615950,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779138615951,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779138615952,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tripwolf.miniapp_9470_free/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B803702D1-0001-35E0-EFF60BB66795SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779138615955,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tripwolf.miniapp_9470_free/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138615958,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tripwolf.miniapp_9470_free/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138615969,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779138615970,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.tripwolf.miniapp_9470_free/settings?instance=e8b52adf90792c0e664cf113a420c9a292086820&build_version=53&display_version=4.6.4&source=1&icon_hash=d9ab6102c4a26c980294d03b1139f9d079b451cb"
+    }
+  },
+  {
+    "ts": 1779138615973,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.tripwolf.miniapp_9470_free/settings?instance=e8b52adf90792c0e664cf113a420c9a292086820&build_version=53&display_version=4.6.4&source=1&icon_hash=d9ab6102c4a26c980294d03b1139f9d079b451cb"
+    }
+  },
+  {
+    "ts": 1779138615978,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tripwolf.miniapp_9470_free/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138617445,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779138619530,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tripwolf.miniapp_9470_free/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B803702D1-0001-35E0-EFF60BB66795SessionCrash.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138619532,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138619566,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tripwolf.miniapp_9470_free/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B803702D1-0001-35E0-EFF60BB66795SessionCrash.cls"
+    }
+  },
+  {
+    "ts": 1779138619567,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tripwolf.miniapp_9470_free/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B803702D1-0001-35E0-EFF60BB66795SessionUser.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138619567,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tripwolf.miniapp_9470_free/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B803702D1-0001-35E0-EFF60BB66795SessionUser.cls"
+    }
+  },
+  {
+    "ts": 1779138619567,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779138619568,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tripwolf.miniapp_9470_free/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B803B0237-0002-35E0-EFF60BB66795BeginSession.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138619568,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tripwolf.miniapp_9470_free/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B803B0237-0002-35E0-EFF60BB66795BeginSession.cls"
+    }
+  },
+  {
+    "ts": 1779138619568,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tripwolf.miniapp_9470_free/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B803B0237-0002-35E0-EFF60BB66795SessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138619569,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779138619570,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tripwolf.miniapp_9470_free/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B803B0237-0002-35E0-EFF60BB66795SessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779138619571,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tripwolf.miniapp_9470_free/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B803B0237-0002-35E0-EFF60BB66795SessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138619571,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138619571,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779138619571,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779138619571,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tripwolf.miniapp_9470_free/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B803B0237-0002-35E0-EFF60BB66795SessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779138619571,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tripwolf.miniapp_9470_free/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B803B0237-0002-35E0-EFF60BB66795SessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779138619571,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138619572,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138619574,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138619611,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138619630,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138619631,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779138619631,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779138619632,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.tripwolf.miniapp_9470_free/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B803B0237-0002-35E0-EFF60BB66795SessionDevice.cls"
+    }
+  }
+]

@@ -1,0 +1,891 @@
+[
+  {
+    "ts": 1779131545511,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779131548863,
+    "type": "activity_resume",
+    "data": {
+      "activity": "be.ibad.villobrussels.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779131548882,
+    "type": "shared_pref",
+    "data": {
+      "key": "KEY_DISTANCE_VALUE"
+    }
+  },
+  {
+    "ts": 1779131548893,
+    "type": "url_access",
+    "data": {
+      "url": "http://opendata.bruxelles.be/api/records/1.0/search?dataset=stations-villo-disponibilites-en-temps-reel&rows=10000"
+    }
+  },
+  {
+    "ts": 1779131548908,
+    "type": "url_access",
+    "data": {
+      "url": "http://opendata.bruxelles.be/api/records/1.0/search?dataset=stations-villo-disponibilites-en-temps-reel&rows=10000"
+    }
+  },
+  {
+    "ts": 1779131559297,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779131559298,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779131559298,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779131559301,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779131559301,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779131559305,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131559305,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131559306,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779131559306,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779131559306,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779131559308,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779131559308,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779131559310,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131559311,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131559311,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779131559311,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779131559311,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779131559313,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779131559314,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779131559317,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131559317,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131559318,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779131559318,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779131559318,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779131559321,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131559322,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131559322,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779131559350,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779131559351,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779131559351,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779131559355,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779131559357,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779131559359,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779131559359,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779131559359,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779131559373,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/n/x86_64"
+    }
+  },
+  {
+    "ts": 1779131559373,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/n/arm64-v8a"
+    }
+  },
+  {
+    "ts": 1779131559373,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779131559374,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779131559383,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779131559441,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.ibad.villobrussels/shared_prefs/com.google.maps.api.android.lib6.drd.PREFERENCES_FILE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131559444,
+    "type": "settings_access",
+    "data": {
+      "setting": "logging_id2"
+    }
+  },
+  {
+    "ts": 1779131559508,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131559509,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131559509,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131559509,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131559522,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131559522,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131559523,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131559523,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131559524,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131559524,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779131559524,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131559524,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779131559550,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.ibad.villobrussels/shared_prefs/MapviewInitializerPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131559582,
+    "type": "shared_pref",
+    "data": {
+      "key": "KEY_MAP_DISTANCE_VALUE"
+    }
+  },
+  {
+    "ts": 1779131559584,
+    "type": "activity_resume",
+    "data": {
+      "activity": "be.ibad.villobrussels.activity.ProximityMapActivity"
+    }
+  },
+  {
+    "ts": 1779131559585,
+    "type": "url_access",
+    "data": {
+      "url": "http://opendata.bruxelles.be/api/records/1.0/search?dataset=stations-villo-disponibilites-en-temps-reel&rows=10000"
+    }
+  },
+  {
+    "ts": 1779131559587,
+    "type": "url_access",
+    "data": {
+      "url": "http://opendata.bruxelles.be/api/records/1.0/search?dataset=stations-villo-disponibilites-en-temps-reel&rows=10000"
+    }
+  },
+  {
+    "ts": 1779131561448,
+    "type": "shared_pref",
+    "data": {
+      "key": "Cohort"
+    }
+  },
+  {
+    "ts": 1779131561448,
+    "type": "shared_pref",
+    "data": {
+      "key": "LegalCountry"
+    }
+  },
+  {
+    "ts": 1779131561453,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131561583,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000005/GoogleCertificates.apk"
+    }
+  },
+  {
+    "ts": 1779131561584,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000005/GoogleCertificates.apk"
+    }
+  },
+  {
+    "ts": 1779131561584,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000005/GoogleCertificates.apk"
+    }
+  },
+  {
+    "ts": 1779131561585,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000005/GoogleCertificates.apk"
+    }
+  },
+  {
+    "ts": 1779131561590,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000005/n/x86_64"
+    }
+  },
+  {
+    "ts": 1779131561590,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000005/n/arm64-v8a"
+    }
+  },
+  {
+    "ts": 1779131561590,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779131561590,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779131561593,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000005/GoogleCertificates.apk"
+    }
+  },
+  {
+    "ts": 1779131562452,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131562454,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131562456,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779131562456,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779131562831,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131562920,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131563457,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131563460,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131563460,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131563549,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131563620,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131563642,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131563681,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131563709,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131563774,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131563796,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131563858,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131563934,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131564310,
+    "type": "url_access",
+    "data": {
+      "url": "https://csi.gstatic.com/csi?s=maps_android_api&v=3&action=map_start_up&it=init.97,map_load.4835,on_resume.2,on_create.0&irt=97,4835,112,97"
+    }
+  },
+  {
+    "ts": 1779131564988,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131564990,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131565002,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131565137,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131565413,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131565576,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131565578,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131565729,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131565731,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131565772,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131565776,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131565890,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131566928,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131566929,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131566932,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131566932,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131567065,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131567085,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131567094,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131567202,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131567218,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131567510,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131567511,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131567599,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131567652,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131567770,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131567802,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131567837,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131567910,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131568037,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131568071,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779131568075,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  }
+]

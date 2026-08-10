@@ -1,0 +1,1010 @@
+[
+  {
+    "ts": 1779135123796,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airgoat.goat/shared_prefs/goatSharedPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135123807,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.airgoat.goat.authToken"
+    }
+  },
+  {
+    "ts": 1779135123818,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779135123821,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_uri"
+    }
+  },
+  {
+    "ts": 1779135123822,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779135123823,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_identifier"
+    }
+  },
+  {
+    "ts": 1779135123824,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_link"
+    }
+  },
+  {
+    "ts": 1779135123824,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_push_identifier"
+    }
+  },
+  {
+    "ts": 1779135123824,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_uri"
+    }
+  },
+  {
+    "ts": 1779135123824,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_extra"
+    }
+  },
+  {
+    "ts": 1779135123825,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_version"
+    }
+  },
+  {
+    "ts": 1779135123829,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135123836,
+    "type": "shared_pref",
+    "data": {
+      "key": "domain"
+    }
+  },
+  {
+    "ts": 1779135123837,
+    "type": "shared_pref",
+    "data": {
+      "key": "appId"
+    }
+  },
+  {
+    "ts": 1779135123837,
+    "type": "shared_pref",
+    "data": {
+      "key": "apiKey"
+    }
+  },
+  {
+    "ts": 1779135123841,
+    "type": "shared_pref",
+    "data": {
+      "key": "config"
+    }
+  },
+  {
+    "ts": 1779135123846,
+    "type": "shared_pref",
+    "data": {
+      "key": "config"
+    }
+  },
+  {
+    "ts": 1779135123848,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceToken"
+    }
+  },
+  {
+    "ts": 1779135123848,
+    "type": "shared_pref",
+    "data": {
+      "key": "appConfig"
+    }
+  },
+  {
+    "ts": 1779135123849,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779135123849,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779135123849,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779135123849,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779135123849,
+    "type": "shared_pref",
+    "data": {
+      "key": "activeConversation"
+    }
+  },
+  {
+    "ts": 1779135123852,
+    "type": "url_access",
+    "data": {
+      "url": "https://sneakers-production.herokuapp.com/api/v1/allstrings_android"
+    }
+  },
+  {
+    "ts": 1779135123863,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779135123864,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779135123864,
+    "type": "shared_pref",
+    "data": {
+      "key": "uuid"
+    }
+  },
+  {
+    "ts": 1779135123864,
+    "type": "shared_pref",
+    "data": {
+      "key": "uuid"
+    }
+  },
+  {
+    "ts": 1779135123868,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779135123869,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779135123869,
+    "type": "shared_pref",
+    "data": {
+      "key": "sdkType"
+    }
+  },
+  {
+    "ts": 1779135123869,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779135123869,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceId"
+    }
+  },
+  {
+    "ts": 1779135123870,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779135123870,
+    "type": "shared_pref",
+    "data": {
+      "key": "uuid"
+    }
+  },
+  {
+    "ts": 1779135123870,
+    "type": "shared_pref",
+    "data": {
+      "key": "uuid"
+    }
+  },
+  {
+    "ts": 1779135123870,
+    "type": "url_access",
+    "data": {
+      "url": "https://goat.helpshift.com/api/lib/2/config/?signature=0ed341f5a5636c2c1ee62ced7cfbdfab295826d5a839059c84984cbb6cc445d4&platform-id=goat_platform_20150709021012082-9e9f9bbfc1d1aa4&timestamp=1779135123.860"
+    }
+  },
+  {
+    "ts": 1779135123873,
+    "type": "shared_pref",
+    "data": {
+      "key": "sdkLanguage"
+    }
+  },
+  {
+    "ts": 1779135123873,
+    "type": "shared_pref",
+    "data": {
+      "key": "etags"
+    }
+  },
+  {
+    "ts": 1779135123880,
+    "type": "url_access",
+    "data": {
+      "url": "https://goat.helpshift.com/api/lib/2/events/"
+    }
+  },
+  {
+    "ts": 1779135123880,
+    "type": "shared_pref",
+    "data": {
+      "key": "sdkLanguage"
+    }
+  },
+  {
+    "ts": 1779135123899,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779135123902,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airgoat.goat.onboarding.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779135123904,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airgoat.goat/shared_prefs/com.mixpanel.android.mpmetrics.ReferralInfo.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135123909,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airgoat.goat/shared_prefs/com.mixpanel.android.mpmetrics.MixpanelAPI_87d63960c1907a6a1353562385b48ea1.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135123909,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779135123910,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779135123910,
+    "type": "shared_pref",
+    "data": {
+      "key": "events_distinct_id"
+    }
+  },
+  {
+    "ts": 1779135123911,
+    "type": "shared_pref",
+    "data": {
+      "key": "people_distinct_id"
+    }
+  },
+  {
+    "ts": 1779135123911,
+    "type": "shared_pref",
+    "data": {
+      "key": "waiting_array"
+    }
+  },
+  {
+    "ts": 1779135123914,
+    "type": "shared_pref",
+    "data": {
+      "key": "super_properties"
+    }
+  },
+  {
+    "ts": 1779135123916,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airgoat.goat/shared_prefs/mixpanel.viewcrawler.changes87d63960c1907a6a1353562385b48ea1.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135123918,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779135123918,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airgoat.goat/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135123921,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.833031136732016"
+    }
+  },
+  {
+    "ts": 1779135123921,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779135123922,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779135123928,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airgoat.goat/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135123934,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/833031136732016?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779135123937,
+    "type": "shared_pref",
+    "data": {
+      "key": "948457286"
+    }
+  },
+  {
+    "ts": 1779135123939,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airgoat.goat/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135123941,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779135123957,
+    "type": "shared_pref",
+    "data": {
+      "key": "domain"
+    }
+  },
+  {
+    "ts": 1779135123957,
+    "type": "shared_pref",
+    "data": {
+      "key": "appId"
+    }
+  },
+  {
+    "ts": 1779135123957,
+    "type": "shared_pref",
+    "data": {
+      "key": "apiKey"
+    }
+  },
+  {
+    "ts": 1779135123957,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginIdentifier"
+    }
+  },
+  {
+    "ts": 1779135123957,
+    "type": "shared_pref",
+    "data": {
+      "key": "identity"
+    }
+  },
+  {
+    "ts": 1779135123957,
+    "type": "shared_pref",
+    "data": {
+      "key": "failedMessages"
+    }
+  },
+  {
+    "ts": 1779135123957,
+    "type": "shared_pref",
+    "data": {
+      "key": "failedApiCalls"
+    }
+  },
+  {
+    "ts": 1779135123963,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airgoat.goat/shared_prefs/google_conversion.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135123969,
+    "type": "url_access",
+    "data": {
+      "url": "https://decide.mixpanel.com/decide?version=1&lib=android&token=87d63960c1907a6a1353562385b48ea1&distinct_id=0eb8088f-bff6-4004-b2f9-c5a1407ee163"
+    }
+  },
+  {
+    "ts": 1779135124117,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airgoat.goat/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135124134,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779135124137,
+    "type": "shared_pref",
+    "data": {
+      "key": "833031136732016json"
+    }
+  },
+  {
+    "ts": 1779135124139,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779135124141,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airgoat.goat/shared_prefs/io.fabric.sdk.android:fabric:io.a.a.a.u.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135124153,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135124154,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airgoat.goat/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779135124155,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/install"
+    }
+  },
+  {
+    "ts": 1779135124157,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779135124158,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135124161,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779135124162,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779135124162,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779135124165,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.airgoat.goat/settings?instance=657fd4c7a5b9e16d8de8854b590e5e94645ee95b&build_version=51&display_version=1.5.1&source=1&icon_hash=85dbc70512844c2cdcfe1736f16de15af400b7b3"
+    }
+  },
+  {
+    "ts": 1779135124166,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airgoat.goat/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779135124166,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airgoat.goat/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B72930270-0001-5EF4-3A1CB016E35ASessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779135124172,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.airgoat.goat/settings?instance=657fd4c7a5b9e16d8de8854b590e5e94645ee95b&build_version=51&display_version=1.5.1&source=1&icon_hash=85dbc70512844c2cdcfe1736f16de15af400b7b3"
+    }
+  },
+  {
+    "ts": 1779135124178,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135124179,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135124179,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135124179,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135124179,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135124179,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135124179,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135124180,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135124181,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135124181,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135124181,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135124181,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135124183,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135124183,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135124183,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135124183,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135124184,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135124184,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135124184,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135124185,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135124186,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135124187,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135124187,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135124187,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135124189,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779135124190,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/833031136732016/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779135124905,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_twittersession"
+    }
+  },
+  {
+    "ts": 1779135124906,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_appsession"
+    }
+  },
+  {
+    "ts": 1779135125002,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_session"
+    }
+  },
+  {
+    "ts": 1779135125017,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airgoat.goat/shared_prefs/metrics.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135125415,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779135125421,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779135125422,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779135125422,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779135125840,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.airgoat.goat.authToken"
+    }
+  },
+  {
+    "ts": 1779135125872,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.airgoat.goat.authToken"
+    }
+  },
+  {
+    "ts": 1779135125877,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airgoat.goat.onboarding.WelcomeActivity"
+    }
+  },
+  {
+    "ts": 1779135126586,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779135126587,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779135126599,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779135126619,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_params"
+    }
+  },
+  {
+    "ts": 1779135126620,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_params"
+    }
+  },
+  {
+    "ts": 1779135127254,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.mixpanel.com/track?ip=1"
+    }
+  },
+  {
+    "ts": 1779135127566,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airgoat.goat.onboarding.RegisterActivity"
+    }
+  },
+  {
+    "ts": 1779135127583,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779135127583,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779135128103,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airgoat.goat/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779135129268,
+    "type": "url_access",
+    "data": {
+      "url": "https://decide.mixpanel.com/decide?version=1&lib=android&token=87d63960c1907a6a1353562385b48ea1&distinct_id=0eb8088f-bff6-4004-b2f9-c5a1407ee163"
+    }
+  },
+  {
+    "ts": 1779135130123,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779135130123,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779135138939,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/833031136732016/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779135142039,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.airgoat.goat.authToken"
+    }
+  },
+  {
+    "ts": 1779135142041,
+    "type": "url_access",
+    "data": {
+      "url": "https://sneakers-production.herokuapp.com/api/v1/users/sign_in"
+    }
+  },
+  {
+    "ts": 1779135151430,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.airgoat.goat.authToken"
+    }
+  },
+  {
+    "ts": 1779135151431,
+    "type": "url_access",
+    "data": {
+      "url": "https://sneakers-production.herokuapp.com/api/v1/users/sign_in"
+    }
+  }
+]

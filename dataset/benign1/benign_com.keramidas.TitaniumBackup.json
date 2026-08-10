@@ -1,0 +1,506 @@
+[
+  {
+    "ts": 1779138467845,
+    "type": "file_access",
+    "data": {
+      "path": "/dbdata/databases/com.android.providers.settings"
+    }
+  },
+  {
+    "ts": 1779138467845,
+    "type": "file_access",
+    "data": {
+      "path": "/dbdata/shared_prefs/com.keramidas.TitaniumBackup"
+    }
+  },
+  {
+    "ts": 1779138467846,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779138467848,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.keramidas.TitaniumBackup.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138467851,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138467851,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138467852,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138467852,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138467854,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/sdcard/extStorages/SdCard"
+    }
+  },
+  {
+    "ts": 1779138467854,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/sdcard-ext"
+    }
+  },
+  {
+    "ts": 1779138467854,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/sdcard2"
+    }
+  },
+  {
+    "ts": 1779138467854,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/external1"
+    }
+  },
+  {
+    "ts": 1779138467855,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/external_sd"
+    }
+  },
+  {
+    "ts": 1779138467856,
+    "type": "file_access",
+    "data": {
+      "path": "/Removable/MicroSD"
+    }
+  },
+  {
+    "ts": 1779138467856,
+    "type": "file_access",
+    "data": {
+      "path": "/bootsdcard"
+    }
+  },
+  {
+    "ts": 1779138467856,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/extSdCard"
+    }
+  },
+  {
+    "ts": 1779138467856,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/sdcard1"
+    }
+  },
+  {
+    "ts": 1779138467856,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/external_SD"
+    }
+  },
+  {
+    "ts": 1779138467856,
+    "type": "file_access",
+    "data": {
+      "path": "/sdcard2"
+    }
+  },
+  {
+    "ts": 1779138467869,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138467869,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138467870,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138467870,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138467871,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/sdcard/extStorages/SdCard"
+    }
+  },
+  {
+    "ts": 1779138467873,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/sdcard-ext"
+    }
+  },
+  {
+    "ts": 1779138467874,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/sdcard2"
+    }
+  },
+  {
+    "ts": 1779138467874,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/external1"
+    }
+  },
+  {
+    "ts": 1779138467874,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/external_sd"
+    }
+  },
+  {
+    "ts": 1779138467875,
+    "type": "file_access",
+    "data": {
+      "path": "/Removable/MicroSD"
+    }
+  },
+  {
+    "ts": 1779138467876,
+    "type": "file_access",
+    "data": {
+      "path": "/bootsdcard"
+    }
+  },
+  {
+    "ts": 1779138467876,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/extSdCard"
+    }
+  },
+  {
+    "ts": 1779138467876,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/sdcard1"
+    }
+  },
+  {
+    "ts": 1779138467877,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/external_SD"
+    }
+  },
+  {
+    "ts": 1779138467877,
+    "type": "file_access",
+    "data": {
+      "path": "/sdcard2"
+    }
+  },
+  {
+    "ts": 1779138467880,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/emmc"
+    }
+  },
+  {
+    "ts": 1779138467880,
+    "type": "file_access",
+    "data": {
+      "path": "/nand"
+    }
+  },
+  {
+    "ts": 1779138467881,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.keramidas.TitaniumBackup/files/license.txt"
+    }
+  },
+  {
+    "ts": 1779138467882,
+    "type": "file_access",
+    "data": {
+      "path": "/system/bin/su"
+    }
+  },
+  {
+    "ts": 1779138467883,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779138468028,
+    "type": "shared_pref",
+    "data": {
+      "key": "backupLocation"
+    }
+  },
+  {
+    "ts": 1779138468033,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/TitaniumBackup"
+    }
+  },
+  {
+    "ts": 1779138468087,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/emmc"
+    }
+  },
+  {
+    "ts": 1779138468088,
+    "type": "file_access",
+    "data": {
+      "path": "/nand"
+    }
+  },
+  {
+    "ts": 1779138468088,
+    "type": "file_access",
+    "data": {
+      "path": "/sd-ext/app"
+    }
+  },
+  {
+    "ts": 1779138468089,
+    "type": "file_access",
+    "data": {
+      "path": "/data/sd/app"
+    }
+  },
+  {
+    "ts": 1779138468089,
+    "type": "file_access",
+    "data": {
+      "path": "/system/sd/app"
+    }
+  },
+  {
+    "ts": 1779138468090,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/sdcard/extStorages/SdCard"
+    }
+  },
+  {
+    "ts": 1779138468091,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/sdcard-ext"
+    }
+  },
+  {
+    "ts": 1779138468091,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/sdcard2"
+    }
+  },
+  {
+    "ts": 1779138468091,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/external1"
+    }
+  },
+  {
+    "ts": 1779138468091,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/external_sd"
+    }
+  },
+  {
+    "ts": 1779138468091,
+    "type": "file_access",
+    "data": {
+      "path": "/Removable/MicroSD"
+    }
+  },
+  {
+    "ts": 1779138468092,
+    "type": "file_access",
+    "data": {
+      "path": "/bootsdcard"
+    }
+  },
+  {
+    "ts": 1779138468092,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/extSdCard"
+    }
+  },
+  {
+    "ts": 1779138468092,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/sdcard1"
+    }
+  },
+  {
+    "ts": 1779138468092,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/external_SD"
+    }
+  },
+  {
+    "ts": 1779138468092,
+    "type": "file_access",
+    "data": {
+      "path": "/sdcard2"
+    }
+  },
+  {
+    "ts": 1779138468101,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138468101,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138468102,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138468102,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138468103,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.keramidas.TitaniumBackup/shared_prefs/DataProfilesCache.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138468104,
+    "type": "shared_pref",
+    "data": {
+      "key": "currentProfile"
+    }
+  },
+  {
+    "ts": 1779138468109,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138468109,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138468110,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138468110,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138468117,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138468117,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138468117,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138468117,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138468118,
+    "type": "shared_pref",
+    "data": {
+      "key": "currentProfile"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "ts": 1778228897969,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.clipper.main/shared_prefs/com.facebook.SharedPreferencesTokenCachingStrategy.DEFAULT_KEY.xml.bak"
+    }
+  },
+  {
+    "ts": 1778228897977,
+    "type": "sp",
+    "data": {
+      "key": "clipper.pref.lang"
+    }
+  },
+  {
+    "ts": 1778228897978,
+    "type": "sp",
+    "data": {
+      "key": "clipper.pref.lang"
+    }
+  },
+  {
+    "ts": 1778228897987,
+    "type": "activity",
+    "data": {
+      "activity": "com.clipper.main.WelcomeActivity"
+    }
+  },
+  {
+    "ts": 1778228898059,
+    "type": "network",
+    "data": {
+      "url": "https://graph.facebook.com/v2.1/459606767506173?fields=supports_attribution%2Csupports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled&format=json&sdk=android"
+    }
+  }
+]

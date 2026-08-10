@@ -1,0 +1,324 @@
+[
+  {
+    "ts": 1779134442556,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.acstech.thecityv1/shared_prefs/com.acstech.thecityv1.storage.message_count.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134442559,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.acstech.thecityv1/shared_prefs/com.acstech.thecityv1_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134442571,
+    "type": "shared_pref",
+    "data": {
+      "key": "apiURL"
+    }
+  },
+  {
+    "ts": 1779134442574,
+    "type": "shared_pref",
+    "data": {
+      "key": "menuSelected"
+    }
+  },
+  {
+    "ts": 1779134442586,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779134442586,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779134442598,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779134442601,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134442610,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.acstech.thecityv1/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134442615,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134442618,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.acstech.thecityv1/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779134442620,
+    "type": "shared_pref",
+    "data": {
+      "key": "menuSelected"
+    }
+  },
+  {
+    "ts": 1779134442621,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779134442621,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779134442622,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.acstech.thecityv1/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6FEA0144-0001-4A73-E0E90B93266ESessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779134442624,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.acstech.thecityv1/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-6A0B6FEA0144-0001-4A73-E0E90B93266E.temp.tmp"
+    }
+  },
+  {
+    "ts": 1779134442631,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.acstech.thecityv1/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779134442645,
+    "type": "shared_pref",
+    "data": {
+      "key": "apiURL"
+    }
+  },
+  {
+    "ts": 1779134442645,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779134442646,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.acstech.thecityv1/settings?instance=880cbcacc2eb4b49ebefa4910cafb8575463f432&build_version=10300&display_version=1.10&source=1&icon_hash=5678d38ae5fdc14554902876a1f76d38e7bd15c6"
+    }
+  },
+  {
+    "ts": 1779134442649,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.acstech.thecityv1/settings?instance=880cbcacc2eb4b49ebefa4910cafb8575463f432&build_version=10300&display_version=1.10&source=1&icon_hash=5678d38ae5fdc14554902876a1f76d38e7bd15c6"
+    }
+  },
+  {
+    "ts": 1779134442654,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.acstech.thecityv1.refactor.TCMainActivity"
+    }
+  },
+  {
+    "ts": 1779134442678,
+    "type": "shared_pref",
+    "data": {
+      "key": "menuSelected"
+    }
+  },
+  {
+    "ts": 1779134442687,
+    "type": "shared_pref",
+    "data": {
+      "key": "apiURL"
+    }
+  },
+  {
+    "ts": 1779134442689,
+    "type": "shared_pref",
+    "data": {
+      "key": "menuSelected"
+    }
+  },
+  {
+    "ts": 1779134442973,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.acstech.thecityv1.refactor.TCLoginActivity"
+    }
+  },
+  {
+    "ts": 1779134443402,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134443405,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134443406,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779134443406,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779134444896,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779134444897,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779134448751,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779134448751,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779134451746,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.acstech.thecityv1/databases/"
+    }
+  },
+  {
+    "ts": 1779134451747,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.acstech.thecityv1/databases/thecitydb"
+    }
+  },
+  {
+    "ts": 1779134451747,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.acstech.thecityv1/databases/thecitydb-journal"
+    }
+  },
+  {
+    "ts": 1779134451999,
+    "type": "shared_pref",
+    "data": {
+      "key": "apiURL"
+    }
+  },
+  {
+    "ts": 1779134454494,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779134454495,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779134459672,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.acstech.thecityv1.refactor.PasswordReset"
+    }
+  },
+  {
+    "ts": 1779134459987,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.acstech.thecityv1/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779134466056,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779134466056,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779134466814,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779134466814,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  }
+]

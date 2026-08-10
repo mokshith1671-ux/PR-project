@@ -1,0 +1,37 @@
+[
+  {
+    "ts": 1778246616748,
+    "type": "network",
+    "data": {
+      "url": "https://smartphone.morningstar.com/smartphone/index.json"
+    }
+  },
+  {
+    "ts": 1778246617006,
+    "type": "activity",
+    "data": {
+      "activity": "com.mstar.mobile.activity.AppNavigatorActivity"
+    }
+  },
+  {
+    "ts": 1778246617040,
+    "type": "sp",
+    "data": {
+      "key": "CURRENT_POW_NAME"
+    }
+  },
+  {
+    "ts": 1778246617042,
+    "type": "sp",
+    "data": {
+      "key": "CURRENT_POW_STARS"
+    }
+  },
+  {
+    "ts": 1778246617248,
+    "type": "settings",
+    "data": {
+      "key": "accessibility_captioning_locale"
+    }
+  }
+]

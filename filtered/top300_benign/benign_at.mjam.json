@@ -1,0 +1,751 @@
+[
+  {
+    "ts": 1779130996896,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/stat"
+    }
+  },
+  {
+    "ts": 1779130997026,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_user_signed_in"
+    }
+  },
+  {
+    "ts": 1779130997026,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_selected_address"
+    }
+  },
+  {
+    "ts": 1779130997028,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/shared_prefs/com.appboy.offline.storagemap.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130997029,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779130997029,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779130997030,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779130997030,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779130997030,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779130997030,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779130997031,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779130997031,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779130997034,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779130997034,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779130997034,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779130997034,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779130997035,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779130997035,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779130997035,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779130997035,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779130997037,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/shared_prefs/com.appboy.push_registration.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130997038,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779130997039,
+    "type": "shared_pref",
+    "data": {
+      "key": "last_user"
+    }
+  },
+  {
+    "ts": 1779130997040,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/shared_prefs/com_appboy_override_configuration_cache.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130997040,
+    "type": "shared_pref",
+    "data": {
+      "key": "com_appboy_api_key"
+    }
+  },
+  {
+    "ts": 1779130997041,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/shared_prefs/com.appboy.storage.serverconfigstorageprovider.2f02916b-325a-44f8-ad89-41033838cc67.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130997041,
+    "type": "shared_pref",
+    "data": {
+      "key": "last_configured_appboy_sdk_version"
+    }
+  },
+  {
+    "ts": 1779130997043,
+    "type": "shared_pref",
+    "data": {
+      "key": "blacklisted_attributes"
+    }
+  },
+  {
+    "ts": 1779130997043,
+    "type": "shared_pref",
+    "data": {
+      "key": "blacklisted_events"
+    }
+  },
+  {
+    "ts": 1779130997043,
+    "type": "shared_pref",
+    "data": {
+      "key": "blacklisted_purchases"
+    }
+  },
+  {
+    "ts": 1779130997047,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/shared_prefs/com.appboy.storage.usercache.37a6259cc0c1dae299a7866489dff0bd.null.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130997047,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/shared_prefs/com.appboy.storage.device_cache.37a6259cc0c1dae299a7866489dff0bd.null.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130997049,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/shared_prefs/com.appboy.managers.connected_device_storage.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130997050,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/shared_prefs/com.appboy.storage.device_ad_info.d41d8cd98f00b204e9800998ecf8427e.2f02916b-325a-44f8-ad89-41033838cc67.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130997052,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/shared_prefs/com.appboy.storage.feedstorageprovider..xml.bak"
+    }
+  },
+  {
+    "ts": 1779130997054,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/shared_prefs/com.appboy.stored.push.clicks.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130997055,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/shared_prefs/com.appboy.storage.triggers.actions.d41d8cd98f00b204e9800998ecf8427e.2f02916b-325a-44f8-ad89-41033838cc67.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130997055,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/shared_prefs/com.appboy.storage.triggers.local_assets.2f02916b-325a-44f8-ad89-41033838cc67.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130997057,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/shared_prefs/com.appboy.storage.triggers.re_eligibility.d41d8cd98f00b204e9800998ecf8427e.2f02916b-325a-44f8-ad89-41033838cc67.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130997060,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/shared_prefs/com.appboy.storage.piqqueue.2f02916b-325a-44f8-ad89-41033838cc67.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130997061,
+    "type": "shared_pref",
+    "data": {
+      "key": "last_user"
+    }
+  },
+  {
+    "ts": 1779130997064,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_user_signed_in"
+    }
+  },
+  {
+    "ts": 1779130997064,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_selected_address"
+    }
+  },
+  {
+    "ts": 1779130997075,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/databases/google_tagmanager.db"
+    }
+  },
+  {
+    "ts": 1779130997090,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_selected_address"
+    }
+  },
+  {
+    "ts": 1779130997090,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r?id=GTM-5BTTS2&v=a65833898"
+    }
+  },
+  {
+    "ts": 1779130997092,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r?id=GTM-5BTTS2&v=a65833898"
+    }
+  },
+  {
+    "ts": 1779130997092,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r"
+    }
+  },
+  {
+    "ts": 1779130997098,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779130997104,
+    "type": "activity_resume",
+    "data": {
+      "activity": "at.mjam.activity.LaunchActivity"
+    }
+  },
+  {
+    "ts": 1779130997107,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_user_signed_in"
+    }
+  },
+  {
+    "ts": 1779130997108,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_selected_address"
+    }
+  },
+  {
+    "ts": 1779130997109,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/shared_prefs/com.appboy.device.xml.bak"
+    }
+  },
+  {
+    "ts": 1779130997109,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_id"
+    }
+  },
+  {
+    "ts": 1779130997110,
+    "type": "shared_pref",
+    "data": {
+      "key": "cached_device"
+    }
+  },
+  {
+    "ts": 1779130997111,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_id"
+    }
+  },
+  {
+    "ts": 1779130997112,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779130997117,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779130997117,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_id"
+    }
+  },
+  {
+    "ts": 1779130997119,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779130997120,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779130997121,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779130997122,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779130997122,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779130998117,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_USER"
+    }
+  },
+  {
+    "ts": 1779130998117,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_PASS"
+    }
+  },
+  {
+    "ts": 1779130998117,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_user_signed_in"
+    }
+  },
+  {
+    "ts": 1779130998117,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_selected_address"
+    }
+  },
+  {
+    "ts": 1779130998123,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779130998161,
+    "type": "activity_resume",
+    "data": {
+      "activity": "at.mjam.activity.FirstStartActivity"
+    }
+  },
+  {
+    "ts": 1779130998411,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779130998411,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779130998411,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779130998442,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779130998442,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779130998539,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r"
+    }
+  },
+  {
+    "ts": 1779130998741,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779130998741,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779130998742,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r"
+    }
+  },
+  {
+    "ts": 1779130998781,
+    "type": "url_access",
+    "data": {
+      "url": "https://md-a-c.apptimize.com/api/metadata/v4/DJqRFYeVbahVma54cteg9aprfPg64ZQ"
+    }
+  },
+  {
+    "ts": 1779130998830,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/cache"
+    }
+  },
+  {
+    "ts": 1779130998830,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/files"
+    }
+  },
+  {
+    "ts": 1779130998831,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/databases"
+    }
+  },
+  {
+    "ts": 1779130998831,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/at.mjam/shared_prefs"
+    }
+  },
+  {
+    "ts": 1779130998896,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779130999369,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779130999370,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779130999370,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779130999376,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779130999740,
+    "type": "url_access",
+    "data": {
+      "url": "https://md-a-c.apptimize.com/api/metadata/v4/DJqRFYeVbahVma54cteg9aprfPg64ZQ"
+    }
+  },
+  {
+    "ts": 1779130999741,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779130999741,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/event"
+    }
+  },
+  {
+    "ts": 1779131000043,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { act=android.intent.action.CALL_BUTTON flg=0x10000000 }"
+    }
+  },
+  {
+    "ts": 1779131000188,
+    "type": "activity_resume",
+    "data": {
+      "activity": "at.mjam.activity.SignInActivity"
+    }
+  },
+  {
+    "ts": 1779131001371,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/attribution?environment=production&needs_response_details=1&event_buffering_enabled=0&app_token=vv2au28hbyfb&created_at=2026-05-19T00%3A33%3A18.203Z%2B0530&gps_adid=b812026a-97d9-4281-b475-7b41a56a9161&tracking_enabled=1&sent_at=2026-05-19T00%3A33%3A21.371Z%2B0530"
+    }
+  },
+  {
+    "ts": 1779131001372,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/attribution?environment=production&needs_response_details=1&event_buffering_enabled=0&app_token=vv2au28hbyfb&created_at=2026-05-19T00%3A33%3A18.203Z%2B0530&gps_adid=b812026a-97d9-4281-b475-7b41a56a9161&tracking_enabled=1&sent_at=2026-05-19T00%3A33%3A21.371Z%2B0530"
+    }
+  },
+  {
+    "ts": 1779131001372,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/attribution"
+    }
+  },
+  {
+    "ts": 1779131001841,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/attribution"
+    }
+  },
+  {
+    "ts": 1779131002740,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/attribution"
+    }
+  },
+  {
+    "ts": 1779131008140,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779131008142,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_id"
+    }
+  },
+  {
+    "ts": 1779131008142,
+    "type": "shared_pref",
+    "data": {
+      "key": "cached_device"
+    }
+  },
+  {
+    "ts": 1779131008144,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779131008144,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779131008144,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779131009021,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779131009741,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  }
+]

@@ -1,0 +1,583 @@
+[
+  {
+    "ts": 1779644260770,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bamnetworks.mobile.android.ballpark/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13376402D4-0001-7ABE-0015261F6464SessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1779644260775,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bamnetworks.mobile.android.ballpark/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13376402D4-0001-7ABE-0015261F6464SessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779644260775,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bamnetworks.mobile.android.ballpark/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13376402D4-0001-7ABE-0015261F6464SessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779644260788,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779644260791,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779644260798,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bamnetworks.mobile.android.ballpark/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13376402D4-0001-7ABE-0015261F6464SessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779644260802,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bamnetworks.mobile.android.ballpark/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13376402D4-0001-7ABE-0015261F6464SessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779644260804,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779644260824,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779644260824,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779644260830,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779644260979,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bamnetworks.mobile.android.ballpark/shared_prefs/programs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644260987,
+    "type": "shared_pref",
+    "data": {
+      "key": "GCMRegisterId"
+    }
+  },
+  {
+    "ts": 1779644260987,
+    "type": "shared_pref",
+    "data": {
+      "key": "GCMDeviceId"
+    }
+  },
+  {
+    "ts": 1779644260987,
+    "type": "shared_pref",
+    "data": {
+      "key": "GCMAppVersion"
+    }
+  },
+  {
+    "ts": 1779644260988,
+    "type": "shared_pref",
+    "data": {
+      "key": "GCMRegisterId"
+    }
+  },
+  {
+    "ts": 1779644261031,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bamnetworks.mobile.android.ballpark/shared_prefs/APP_MEASUREMENT_CACHE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644261043,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.bamnetworks.mobile.android.ballpark.onboard.activities.OnBoardActivity"
+    }
+  },
+  {
+    "ts": 1779644261058,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADOBEMOBILE_STOREDDEFAULTS_AID"
+    }
+  },
+  {
+    "ts": 1779644261064,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_VISITORID_IDS"
+    }
+  },
+  {
+    "ts": 1779644261068,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID"
+    }
+  },
+  {
+    "ts": 1779644261069,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID_HINT"
+    }
+  },
+  {
+    "ts": 1779644261069,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID_BLOB"
+    }
+  },
+  {
+    "ts": 1779644261070,
+    "type": "url_access",
+    "data": {
+      "url": "https://dpm.demdex.net/id?d_ver=2&d_orgid=A65F776A5245B01B0A490D44@AdobeOrg"
+    }
+  },
+  {
+    "ts": 1779644261141,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644261142,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644261142,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644261142,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644261143,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644261143,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644261143,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644261143,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644261148,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bamnetworks.mobile.android.ballpark/cacheADBMobileDataCache.sqlite"
+    }
+  },
+  {
+    "ts": 1779644261153,
+    "type": "shared_pref",
+    "data": {
+      "key": "GCMRegisterId"
+    }
+  },
+  {
+    "ts": 1779644261154,
+    "type": "shared_pref",
+    "data": {
+      "key": "GCMDeviceId"
+    }
+  },
+  {
+    "ts": 1779644261155,
+    "type": "shared_pref",
+    "data": {
+      "key": "GCMAppVersion"
+    }
+  },
+  {
+    "ts": 1779644261155,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644261156,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779644261156,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644261156,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779644261156,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/MLB.com At the Ballpark/"
+    }
+  },
+  {
+    "ts": 1779644261157,
+    "type": "shared_pref",
+    "data": {
+      "key": "GCMRegisterId"
+    }
+  },
+  {
+    "ts": 1779644261160,
+    "type": "shared_pref",
+    "data": {
+      "key": "GCMRegisterId"
+    }
+  },
+  {
+    "ts": 1779644261379,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779644261402,
+    "type": "url_access",
+    "data": {
+      "url": "https://msocial.bamnetworks.com/mobile-service-social/teamList"
+    }
+  },
+  {
+    "ts": 1779644261459,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779644261459,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779644261460,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779644261460,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779644261464,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bamnetworks.mobile.android.ballpark/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13376402D4-0001-7ABE-0015261F6464SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779644261507,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bamnetworks.mobile.android.ballpark/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.s.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644261517,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779644261519,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.bamnetworks.mobile.android.ballpark/settings?instance=b7291379e850e06c365151f6132a17e723be4716&build_version=5240294&display_version=5.2.4&source=1&icon_hash=6a0ea3d06fbde76f81964701660ca9684c849e99"
+    }
+  },
+  {
+    "ts": 1779644261521,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.bamnetworks.mobile.android.ballpark/settings?instance=b7291379e850e06c365151f6132a17e723be4716&build_version=5240294&display_version=5.2.4&source=1&icon_hash=6a0ea3d06fbde76f81964701660ca9684c849e99"
+    }
+  },
+  {
+    "ts": 1779644262388,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bamnetworks.mobile.android.ballpark/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779644262389,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_twittersession"
+    }
+  },
+  {
+    "ts": 1779644262390,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_appsession"
+    }
+  },
+  {
+    "ts": 1779644262392,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779644262400,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779644262403,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779644262404,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779644262411,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779644262415,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779644262417,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779644262444,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bamnetworks.mobile.android.ballpark/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779644262481,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779644262482,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_session"
+    }
+  },
+  {
+    "ts": 1779644262484,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779644262489,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779644262490,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779644262533,
+    "type": "url_access",
+    "data": {
+      "url": "https://mlb.sc.omtrdc.net/id?mid=71982213145030515232553436404005237724&mcorgid=A65F776A5245B01B0A490D44@AdobeOrg"
+    }
+  },
+  {
+    "ts": 1779644264663,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779644264665,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADMS_LifecycleData"
+    }
+  },
+  {
+    "ts": 1779644264721,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779644264741,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADMS_LifecycleData"
+    }
+  },
+  {
+    "ts": 1779644264758,
+    "type": "url_access",
+    "data": {
+      "url": "https://mlb.sc.omtrdc.net/b/ss/mlbat.the.ballpark.android/0/JAVA-4.8.1-AN/s3559604"
+    }
+  },
+  {
+    "ts": 1779644264796,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-54661dce3034620018da0300.json"
+    }
+  },
+  {
+    "ts": 1779644264797,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-54661dce3034620018da0300.json"
+    }
+  },
+  {
+    "ts": 1779644264801,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-54661dce30346200150e0300.json"
+    }
+  },
+  {
+    "ts": 1779644264801,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-54661dce30346200150e0300.json"
+    }
+  },
+  {
+    "ts": 1779644264820,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779644265113,
+    "type": "url_access",
+    "data": {
+      "url": "https://mlb.sc.omtrdc.net/b/ss/mlbat.the.ballpark.android/0/JAVA-4.8.1-AN/s81915585"
+    }
+  },
+  {
+    "ts": 1779644265244,
+    "type": "url_access",
+    "data": {
+      "url": "https://mlb.sc.omtrdc.net/b/ss/mlbat.the.ballpark.android/0/JAVA-4.8.1-AN/s26529533"
+    }
+  }
+]

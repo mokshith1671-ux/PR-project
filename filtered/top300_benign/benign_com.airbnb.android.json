@@ -1,0 +1,863 @@
+[
+  {
+    "ts": 1779638523780,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638523781,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638523783,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638523783,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airbnb.android/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638523786,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.0/138566025676?fields=supports_attribution%2Csupports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779638523787,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638523788,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airbnb.android/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638523791,
+    "type": "shared_pref",
+    "data": {
+      "key": "138566025676json"
+    }
+  },
+  {
+    "ts": 1779638523791,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638523793,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638523796,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638523796,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.0/138566025676?fields=supports_attribution%2Csupports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779638523798,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.0/138566025676"
+    }
+  },
+  {
+    "ts": 1779638523802,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.0/138566025676?fields=supports_attribution%2Csupports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779638523806,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638523809,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.0/138566025676?fields=supports_attribution%2Csupports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779638523809,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.0/138566025676"
+    }
+  },
+  {
+    "ts": 1779638523818,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638523844,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638523846,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638523847,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638523849,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638523999,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airbnb.android.activities.AppIntroFtueActivity"
+    }
+  },
+  {
+    "ts": 1779638524000,
+    "type": "shared_pref",
+    "data": {
+      "key": "TREBUCHET_mobile_beta_android_beta_user"
+    }
+  },
+  {
+    "ts": 1779638524014,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/currencies"
+    }
+  },
+  {
+    "ts": 1779638524027,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/i18n/country_of_ip_address"
+    }
+  },
+  {
+    "ts": 1779638524035,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/campaigns"
+    }
+  },
+  {
+    "ts": 1779638524123,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/activity/popular_mobile_v3"
+    }
+  },
+  {
+    "ts": 1779638524147,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638524178,
+    "type": "shared_pref",
+    "data": {
+      "key": "TREBUCHET_mobile_beta_android_beta_user"
+    }
+  },
+  {
+    "ts": 1779638524179,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/currencies?currency=USD&locale=en&client_id=3092nxybyb0otqw18e8nh5nty"
+    }
+  },
+  {
+    "ts": 1779638524181,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/currencies"
+    }
+  },
+  {
+    "ts": 1779638524181,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.0/138566025676"
+    }
+  },
+  {
+    "ts": 1779638524182,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779638524182,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779638524187,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.0/138566025676/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779638524191,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.0/138566025676"
+    }
+  },
+  {
+    "ts": 1779638524193,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.0/138566025676/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779638524193,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.0/138566025676/activities"
+    }
+  },
+  {
+    "ts": 1779638524202,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.0/138566025676/activities"
+    }
+  },
+  {
+    "ts": 1779638524223,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638524246,
+    "type": "shared_pref",
+    "data": {
+      "key": "TREBUCHET_mobile_beta_android_beta_user"
+    }
+  },
+  {
+    "ts": 1779638524261,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638524284,
+    "type": "shared_pref",
+    "data": {
+      "key": "TREBUCHET_mobile_beta_android_beta_user"
+    }
+  },
+  {
+    "ts": 1779638524286,
+    "type": "shared_pref",
+    "data": {
+      "key": "TREBUCHET_mobile_beta_android_beta_user"
+    }
+  },
+  {
+    "ts": 1779638524362,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airbnb.android.activities.SignInActivity"
+    }
+  },
+  {
+    "ts": 1779638524388,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638524464,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638524475,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/currencies"
+    }
+  },
+  {
+    "ts": 1779638524476,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/i18n/country_of_ip_address"
+    }
+  },
+  {
+    "ts": 1779638524478,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/campaigns"
+    }
+  },
+  {
+    "ts": 1779638524478,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/activity/popular_mobile_v3"
+    }
+  },
+  {
+    "ts": 1779638524479,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.0/138566025676"
+    }
+  },
+  {
+    "ts": 1779638524479,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.0/138566025676"
+    }
+  },
+  {
+    "ts": 1779638524480,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.0/138566025676/activities"
+    }
+  },
+  {
+    "ts": 1779638524578,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/currencies"
+    }
+  },
+  {
+    "ts": 1779638524579,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/currencies"
+    }
+  },
+  {
+    "ts": 1779638524590,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.routingnumbers.info/api/name.json?rn=072000326"
+    }
+  },
+  {
+    "ts": 1779638524615,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.routingnumbers.info/api/name.json"
+    }
+  },
+  {
+    "ts": 1779638525209,
+    "type": "url_access",
+    "data": {
+      "url": "http://e.yoz.io/"
+    }
+  },
+  {
+    "ts": 1779638525443,
+    "type": "shared_pref",
+    "data": {
+      "key": "domains"
+    }
+  },
+  {
+    "ts": 1779638525458,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token"
+    }
+  },
+  {
+    "ts": 1779638525458,
+    "type": "shared_pref",
+    "data": {
+      "key": "lmb_locations"
+    }
+  },
+  {
+    "ts": 1779638525459,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/domains?locale=en&currency=USD&client_id=3092nxybyb0otqw18e8nh5nty"
+    }
+  },
+  {
+    "ts": 1779638525471,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/domains?locale=en&currency=USD&client_id=3092nxybyb0otqw18e8nh5nty"
+    }
+  },
+  {
+    "ts": 1779638525471,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/domains"
+    }
+  },
+  {
+    "ts": 1779638525473,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token"
+    }
+  },
+  {
+    "ts": 1779638525473,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/currencies"
+    }
+  },
+  {
+    "ts": 1779638525474,
+    "type": "url_access",
+    "data": {
+      "url": "http://e.yoz.io/"
+    }
+  },
+  {
+    "ts": 1779638525475,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v2/locations?locale=en&currency=USD&last_minute=1&client_id=3092nxybyb0otqw18e8nh5nty"
+    }
+  },
+  {
+    "ts": 1779638525476,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v2/locations?locale=en&currency=USD&last_minute=1&client_id=3092nxybyb0otqw18e8nh5nty"
+    }
+  },
+  {
+    "ts": 1779638525477,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v2/locations"
+    }
+  },
+  {
+    "ts": 1779638525479,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.yoz.io/"
+    }
+  },
+  {
+    "ts": 1779638525481,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.yoz.io/"
+    }
+  },
+  {
+    "ts": 1779638525481,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.yoz.io/"
+    }
+  },
+  {
+    "ts": 1779638525482,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.yoz.io/"
+    }
+  },
+  {
+    "ts": 1779638525730,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/domains"
+    }
+  },
+  {
+    "ts": 1779638525754,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v2/locations"
+    }
+  },
+  {
+    "ts": 1779638526473,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.yoz.io/"
+    }
+  },
+  {
+    "ts": 1779638526473,
+    "type": "url_access",
+    "data": {
+      "url": "http://api.yoz.io/"
+    }
+  },
+  {
+    "ts": 1779638526474,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v1/domains"
+    }
+  },
+  {
+    "ts": 1779638526474,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.airbnb.com/v2/locations"
+    }
+  },
+  {
+    "ts": 1779638538226,
+    "type": "shared_pref",
+    "data": {
+      "key": "TREBUCHET_mobile_beta_android_beta_user"
+    }
+  },
+  {
+    "ts": 1779638538237,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638538260,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779638538260,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779638538260,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779638538268,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779638538268,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779638538272,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638538272,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638538272,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638538273,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779638538273,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779638538273,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779638538273,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779638538276,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779638538276,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779638538281,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638538281,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638538281,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638538281,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779638538281,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779638538282,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779638538282,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779638538283,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638538283,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638538283,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779638538283,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779638538283,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779638538329,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779638538331,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779638538332,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779638538338,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779638538338,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779638538339,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airbnb.android/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638538347,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779638538398,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779638538511,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airbnb.android/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638538577,
+    "type": "shared_pref",
+    "data": {
+      "key": "access_token"
+    }
+  },
+  {
+    "ts": 1779638538609,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.airbnb.android.activities.WebViewActivity"
+    }
+  },
+  {
+    "ts": 1779638538662,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779638539248,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  }
+]

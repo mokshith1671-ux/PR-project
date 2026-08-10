@@ -1,0 +1,492 @@
+[
+  {
+    "ts": 1779139752993,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/events/AppOpened"
+    }
+  },
+  {
+    "ts": 1779139752996,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.splash.Splash"
+    }
+  },
+  {
+    "ts": 1779139752996,
+    "type": "shared_pref",
+    "data": {
+      "key": "preferenceUserUserLogged"
+    }
+  },
+  {
+    "ts": 1779139752997,
+    "type": "shared_pref",
+    "data": {
+      "key": "preferenceLastDtOrigem"
+    }
+  },
+  {
+    "ts": 1779139752997,
+    "type": "shared_pref",
+    "data": {
+      "key": "preferenceLastDtOrigem"
+    }
+  },
+  {
+    "ts": 1779139752997,
+    "type": "shared_pref",
+    "data": {
+      "key": "preferenceLastDtDestino"
+    }
+  },
+  {
+    "ts": 1779139752997,
+    "type": "shared_pref",
+    "data": {
+      "key": "preferenceLastDtDestino"
+    }
+  },
+  {
+    "ts": 1779139752998,
+    "type": "shared_pref",
+    "data": {
+      "key": "preferenceLastOrigem"
+    }
+  },
+  {
+    "ts": 1779139752998,
+    "type": "shared_pref",
+    "data": {
+      "key": "preferenceLastOrigem"
+    }
+  },
+  {
+    "ts": 1779139752998,
+    "type": "shared_pref",
+    "data": {
+      "key": "preferenceLastDestino"
+    }
+  },
+  {
+    "ts": 1779139752998,
+    "type": "shared_pref",
+    "data": {
+      "key": "preferenceLastDestino"
+    }
+  },
+  {
+    "ts": 1779139753116,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779139753119,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139753120,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139753232,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.voopter/shared_prefs/FLURRY_SHARED_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139753239,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779139753884,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779139753886,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779139753886,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779139753887,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779139755055,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/events/AppOpened"
+    }
+  },
+  {
+    "ts": 1779139755522,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/users"
+    }
+  },
+  {
+    "ts": 1779139755655,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779139756025,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.splash.intro.Intro"
+    }
+  },
+  {
+    "ts": 1779139756589,
+    "type": "shared_pref",
+    "data": {
+      "key": "preferenceUserPicture"
+    }
+  },
+  {
+    "ts": 1779139756590,
+    "type": "shared_pref",
+    "data": {
+      "key": "preferenceUserPicture"
+    }
+  },
+  {
+    "ts": 1779139756593,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.voopter/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779139756616,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.voopter/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779139756645,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139756646,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139756647,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139756647,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139756650,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139756791,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779139756839,
+    "type": "shared_pref",
+    "data": {
+      "key": "preferenceUserPicture"
+    }
+  },
+  {
+    "ts": 1779139756839,
+    "type": "shared_pref",
+    "data": {
+      "key": "preferenceUserPicture"
+    }
+  },
+  {
+    "ts": 1779139756856,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139756856,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139756857,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139756857,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779139756859,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139756984,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757049,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757074,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757090,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757107,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757131,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757153,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757171,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757184,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757189,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757209,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757226,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757252,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757284,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757302,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757315,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757322,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757351,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757376,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.voopter.Home"
+    }
+  },
+  {
+    "ts": 1779139757826,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/events/AppOpened"
+    }
+  },
+  {
+    "ts": 1779139758782,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/users"
+    }
+  },
+  {
+    "ts": 1779139760087,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779139763145,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/events/AppOpened"
+    }
+  },
+  {
+    "ts": 1779139766060,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/users"
+    }
+  },
+  {
+    "ts": 1779139767636,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779139772677,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/events/AppOpened"
+    }
+  },
+  {
+    "ts": 1779139779454,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/users"
+    }
+  },
+  {
+    "ts": 1779139780459,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/users"
+    }
+  },
+  {
+    "ts": 1779139782096,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  }
+]

@@ -1,0 +1,1318 @@
+[
+  {
+    "ts": 1779639469915,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779639469917,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779639469917,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779639469917,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779639469918,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779639469919,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639469930,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779639469955,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779639470000,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639470059,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779639470063,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779639470066,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/shared_prefs/CrashDetectionHelper.crashManager.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639470066,
+    "type": "shared_pref",
+    "data": {
+      "key": "CrashDescriptors"
+    }
+  },
+  {
+    "ts": 1779639470085,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/shared_prefs/CDUploadLibSharedPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639470086,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceUuid"
+    }
+  },
+  {
+    "ts": 1779639470090,
+    "type": "shared_pref",
+    "data": {
+      "key": "endpointUrl"
+    }
+  },
+  {
+    "ts": 1779639470091,
+    "type": "shared_pref",
+    "data": {
+      "key": "endpointUserDomain"
+    }
+  },
+  {
+    "ts": 1779639470096,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/shared_prefs/distributed.datastore.info.store.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639470102,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/cache/mShopCache/RESIDENCE_PRIORITY_0"
+    }
+  },
+  {
+    "ts": 1779639470103,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/cache/mShopCache/RESIDENCE_PRIORITY_1"
+    }
+  },
+  {
+    "ts": 1779639470103,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/cache/mShopCache/RESIDENCE_PRIORITY_0"
+    }
+  },
+  {
+    "ts": 1779639470104,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/cache/mShopCache/RESIDENCE_PRIORITY_1"
+    }
+  },
+  {
+    "ts": 1779639470113,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.amazon.com/gp/alexa-shopping-list/eligibility/androidMShopEligible"
+    }
+  },
+  {
+    "ts": 1779639470185,
+    "type": "shared_pref",
+    "data": {
+      "key": "previousAmazonAccount_en_IN"
+    }
+  },
+  {
+    "ts": 1779639470200,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/shared_prefs/com.amazon.appmanager.lib.PreloadManager.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639470203,
+    "type": "shared_pref",
+    "data": {
+      "key": "preload_id"
+    }
+  },
+  {
+    "ts": 1779639470207,
+    "type": "shared_pref",
+    "data": {
+      "key": "associatesTagWithoutLocaleCode"
+    }
+  },
+  {
+    "ts": 1779639470208,
+    "type": "shared_pref",
+    "data": {
+      "key": "amazonAssociatesTag"
+    }
+  },
+  {
+    "ts": 1779639470208,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/amzn.mshop.properties"
+    }
+  },
+  {
+    "ts": 1779639470208,
+    "type": "file_access",
+    "data": {
+      "path": "/carrier/etc/amzn.mshop.properties"
+    }
+  },
+  {
+    "ts": 1779639470209,
+    "type": "file_access",
+    "data": {
+      "path": "/oem/etc/amzn.mshop.properties"
+    }
+  },
+  {
+    "ts": 1779639470212,
+    "type": "file_access",
+    "data": {
+      "path": "/data/Amazon Video/raw/amzn.mshop.properties"
+    }
+  },
+  {
+    "ts": 1779639470220,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.amazon.mShop.splashscreen.StartupActivity"
+    }
+  },
+  {
+    "ts": 1779639470232,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_debug_configure_services"
+    }
+  },
+  {
+    "ts": 1779639470233,
+    "type": "shared_pref",
+    "data": {
+      "key": "signin_id"
+    }
+  },
+  {
+    "ts": 1779639470233,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/shared_prefs/SSOInfo.config.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639470247,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639470249,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/shared_prefs/Lambortish_Clock_Store.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639470276,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/shared_prefs/sync_dirty_data_store.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639470435,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779639470437,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779639470437,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779639470437,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779639470550,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779639470552,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779639470581,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639470607,
+    "type": "shared_pref",
+    "data": {
+      "key": "currentGatewayUrl_en_IN"
+    }
+  },
+  {
+    "ts": 1779639470637,
+    "type": "shared_pref",
+    "data": {
+      "key": "pushNotificationRegID_en_IN"
+    }
+  },
+  {
+    "ts": 1779639470680,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.amazon.in/s/assets/?ie=UTF-8&dataVersion=v0.2&cid=08e6b9c8bdfc91895ce634a035f3d00febd36433&format=json&cri=wj8qS8Roy5qeHt7a"
+    }
+  },
+  {
+    "ts": 1779639470718,
+    "type": "shared_pref",
+    "data": {
+      "key": "shortcut_install_current_version"
+    }
+  },
+  {
+    "ts": 1779639470718,
+    "type": "shared_pref",
+    "data": {
+      "key": "shortcut_install_current_version"
+    }
+  },
+  {
+    "ts": 1779639470757,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/shared_prefs/com.google.android.gcm.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639470757,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779639470795,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779639470797,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779639470798,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779639470799,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779639470801,
+    "type": "shared_pref",
+    "data": {
+      "key": "associatesTagWithoutLocaleCode"
+    }
+  },
+  {
+    "ts": 1779639470801,
+    "type": "shared_pref",
+    "data": {
+      "key": "amazonAssociatesTag"
+    }
+  },
+  {
+    "ts": 1779639470803,
+    "type": "url_access",
+    "data": {
+      "url": "https://msh.amazon.in/mShop/service"
+    }
+  },
+  {
+    "ts": 1779639470813,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639470818,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639470822,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639470823,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639470831,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639470833,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639470868,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639470877,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639470878,
+    "type": "shared_pref",
+    "data": {
+      "key": "associatesTagWithoutLocaleCode"
+    }
+  },
+  {
+    "ts": 1779639470878,
+    "type": "shared_pref",
+    "data": {
+      "key": "amazonAssociatesTag"
+    }
+  },
+  {
+    "ts": 1779639470964,
+    "type": "webview",
+    "data": {
+      "url": "https://www.amazon.in/gp/gw/ajax/mshop.html"
+    }
+  },
+  {
+    "ts": 1779639470977,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.amazon.mShop.home.web.MShopWebGatewayActivity"
+    }
+  },
+  {
+    "ts": 1779639470992,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/shared_prefs/TreasureTruckSharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639470996,
+    "type": "shared_pref",
+    "data": {
+      "key": "treasureTruckProdCity"
+    }
+  },
+  {
+    "ts": 1779639471000,
+    "type": "shared_pref",
+    "data": {
+      "key": "REFERRALS_MARKETING_INTERSTITIAL_STATE_KEY_en_IN"
+    }
+  },
+  {
+    "ts": 1779639471009,
+    "type": "shared_pref",
+    "data": {
+      "key": "shortcut_install_current_version"
+    }
+  },
+  {
+    "ts": 1779639471009,
+    "type": "url_access",
+    "data": {
+      "url": "https://af-mobile-api.amazon.in/v1/shop/navigation/global"
+    }
+  },
+  {
+    "ts": 1779639471011,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639471023,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779639471042,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779639471045,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779639471049,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639471069,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779639471189,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779639471190,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779639471193,
+    "type": "url_access",
+    "data": {
+      "url": "https://msh.amazon.in/mShop/service"
+    }
+  },
+  {
+    "ts": 1779639471208,
+    "type": "shared_pref",
+    "data": {
+      "key": "associatesTagWithoutLocaleCode"
+    }
+  },
+  {
+    "ts": 1779639471208,
+    "type": "shared_pref",
+    "data": {
+      "key": "amazonAssociatesTag"
+    }
+  },
+  {
+    "ts": 1779639471216,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639471216,
+    "type": "shared_pref",
+    "data": {
+      "key": "associatesTagWithoutLocaleCode"
+    }
+  },
+  {
+    "ts": 1779639471217,
+    "type": "shared_pref",
+    "data": {
+      "key": "amazonAssociatesTag"
+    }
+  },
+  {
+    "ts": 1779639471228,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.amazon.mShop.sso.SigninPromptActivity"
+    }
+  },
+  {
+    "ts": 1779639471229,
+    "type": "shared_pref",
+    "data": {
+      "key": "treasureTruckProdCity"
+    }
+  },
+  {
+    "ts": 1779639471235,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639471439,
+    "type": "webview",
+    "data": {
+      "url": "https://www.amazon.in/appgrade-campaign?id=mss-android-patron&boolean=true"
+    }
+  },
+  {
+    "ts": 1779639471452,
+    "type": "shared_pref",
+    "data": {
+      "key": "applicationExitReason_en_IN"
+    }
+  },
+  {
+    "ts": 1779639471452,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779639471453,
+    "type": "shared_pref",
+    "data": {
+      "key": "associatesTagWithoutLocaleCode"
+    }
+  },
+  {
+    "ts": 1779639471453,
+    "type": "shared_pref",
+    "data": {
+      "key": "amazonAssociatesTag"
+    }
+  },
+  {
+    "ts": 1779639471461,
+    "type": "url_access",
+    "data": {
+      "url": "https://msh.amazon.in/mShop/service"
+    }
+  },
+  {
+    "ts": 1779639471461,
+    "type": "url_access",
+    "data": {
+      "url": "https://af-mobile-api.amazon.in/v1/shop/navigation/global"
+    }
+  },
+  {
+    "ts": 1779639471483,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639471720,
+    "type": "webview",
+    "data": {
+      "url": "javascript:if (typeof webclient_progress !== 'undefined' &&  webclient_progress !== null){webclient_progress.update(performance.timing.responseStart, performance.timing.domInteractive);}"
+    }
+  },
+  {
+    "ts": 1779639471835,
+    "type": "webview",
+    "data": {
+      "url": "javascript:if (typeof webclient_progress !== 'undefined' &&  webclient_progress !== null){webclient_progress.update(performance.timing.responseStart, performance.timing.domInteractive);}"
+    }
+  },
+  {
+    "ts": 1779639471957,
+    "type": "webview",
+    "data": {
+      "url": "javascript:if (typeof webclient_progress !== 'undefined' &&  webclient_progress !== null){webclient_progress.update(performance.timing.responseStart, performance.timing.domInteractive);}"
+    }
+  },
+  {
+    "ts": 1779639472091,
+    "type": "webview",
+    "data": {
+      "url": "javascript:if (typeof webclient_progress !== 'undefined' &&  webclient_progress !== null){webclient_progress.update(performance.timing.responseStart, performance.timing.domInteractive);}"
+    }
+  },
+  {
+    "ts": 1779639472141,
+    "type": "webview",
+    "data": {
+      "url": "javascript:eval(smash.asset('cordova-mash-full-1.11.js'))"
+    }
+  },
+  {
+    "ts": 1779639472727,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/cache"
+    }
+  },
+  {
+    "ts": 1779639472728,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/files/files/"
+    }
+  },
+  {
+    "ts": 1779639472730,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472730,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472730,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472731,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472732,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472732,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472732,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472732,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472733,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472734,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472734,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472734,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472766,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472766,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472766,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472767,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472768,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472769,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472769,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472769,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472776,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/files"
+    }
+  },
+  {
+    "ts": 1779639472777,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.amazon.mShop.android.shopping/files"
+    }
+  },
+  {
+    "ts": 1779639472778,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/files/Documents"
+    }
+  },
+  {
+    "ts": 1779639472779,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472781,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.amazon.mShop.android.shopping/cache"
+    }
+  },
+  {
+    "ts": 1779639472781,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.amazon.mShop.android.shopping/cache"
+    }
+  },
+  {
+    "ts": 1779639472782,
+    "type": "file_access",
+    "data": {
+      "path": "/"
+    }
+  },
+  {
+    "ts": 1779639472785,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472785,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472786,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779639472786,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472786,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472789,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472790,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472790,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472791,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472794,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472794,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472794,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472794,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472796,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472796,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472796,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472797,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472799,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472800,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472800,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472800,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472802,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472803,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779639472803,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472803,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779639472806,
+    "type": "webview",
+    "data": {
+      "url": "javascript:try{cordova.callbackFromNative('File60225552',true,1,[{\"applicationDirectory\":\"file:\\/\\/\\/android_asset\\/\",\"applicationStorageDirectory\":\"file:\\/\\/\\/data\\/user\\/0\\/com.amazon.mShop.android.shopping\\/\",\"dataDirectory\":\"file:\\/\\/\\/data\\/user\\/0\\/com.amazon.mShop.android.shopping\\/files\\/\",\"cacheDirectory\":\"file:\\/\\/\\/data\\/user\\/0\\/com.amazon.mShop.android.shopping\\/cache\\/\",\"externalApplicationStorageDirectory\":\"file:\\/\\/\\/storage\\/emulated\\/0\\/Android\\/data\\/com.amazon.mShop.android.shopping\\/\",\"externalDataDirectory\":\"file:\\/\\/\\/storage\\/emulated\\/0\\/Android\\/data\\/com.amazon.mShop.android.shopping\\/files\\/\",\"externalCacheDirectory\":\"file:\\/\\/\\/storage\\/emulated\\/0\\/Android\\/data\\/com.amazon.mShop.android.shopping\\/cache\\/\",\"externalRootDirectory\":\"file:\\/\\/\\/storage\\/emulated\\/0\\/\"}],false);}catch(e){}"
+    }
+  },
+  {
+    "ts": 1779639473224,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639473235,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779639473236,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779639473238,
+    "type": "url_access",
+    "data": {
+      "url": "https://msh.amazon.in/mShop/service"
+    }
+  },
+  {
+    "ts": 1779639473268,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.amazon.mShop.sso.DistributedSSOLoginActivity"
+    }
+  },
+  {
+    "ts": 1779639473269,
+    "type": "shared_pref",
+    "data": {
+      "key": "treasureTruckProdCity"
+    }
+  },
+  {
+    "ts": 1779639473276,
+    "type": "url_access",
+    "data": {
+      "url": "https://af-mobile-api.amazon.in/v1/shop/navigation/global"
+    }
+  },
+  {
+    "ts": 1779639473278,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639473285,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639473365,
+    "type": "shared_pref",
+    "data": {
+      "key": "userFullName_en_IN"
+    }
+  },
+  {
+    "ts": 1779639473386,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.amazon.in"
+    }
+  },
+  {
+    "ts": 1779639473398,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779639473408,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779639473425,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.amazon.in"
+    }
+  },
+  {
+    "ts": 1779639473443,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.amazon.in"
+    }
+  },
+  {
+    "ts": 1779639473454,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&accountStatusPolicy=P1&language=en_US&pageId=amzn_mshop_android_v2_in&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fap%2Fmaplanding&openid.assoc_handle=amzn_mshop_android_v2_in&openid.oa2.response_type=token&openid.mode=checkid_setup&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.ns.oa2=http%3A%2F%2Fwww.amazon.com%2Fap%2Fext%2Foauth%2F2&openid.oa2.scope=device_auth_access&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.oa2.client_id=device%3A36626136346635306139623834353639623535356166363661356338353736312341314d50534c4643374c3541464b&disableLoginPrepopulate=1&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"
+    }
+  },
+  {
+    "ts": 1779639473454,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&accountStatusPolicy=P1&language=en_US&pageId=amzn_mshop_android_v2_in&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fap%2Fmaplanding&openid.assoc_handle=amzn_mshop_android_v2_in&openid.oa2.response_type=token&openid.mode=checkid_setup&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.ns.oa2=http%3A%2F%2Fwww.amazon.com%2Fap%2Fext%2Foauth%2F2&openid.oa2.scope=device_auth_access&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.oa2.client_id=device%3A36626136346635306139623834353639623535356166363661356338353736312341314d50534c4643374c3541464b&disableLoginPrepopulate=1&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"
+    }
+  },
+  {
+    "ts": 1779639473454,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&accountStatusPolicy=P1&language=en_US&pageId=amzn_mshop_android_v2_in&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fap%2Fmaplanding&openid.assoc_handle=amzn_mshop_android_v2_in&openid.oa2.response_type=token&openid.mode=checkid_setup&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.ns.oa2=http%3A%2F%2Fwww.amazon.com%2Fap%2Fext%2Foauth%2F2&openid.oa2.scope=device_auth_access&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.oa2.client_id=device%3A36626136346635306139623834353639623535356166363661356338353736312341314d50534c4643374c3541464b&disableLoginPrepopulate=1&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"
+    }
+  },
+  {
+    "ts": 1779639473456,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&accountStatusPolicy=P1&language=en_US&pageId=amzn_mshop_android_v2_in&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fap%2Fmaplanding&openid.assoc_handle=amzn_mshop_android_v2_in&openid.oa2.response_type=token&openid.mode=checkid_setup&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.ns.oa2=http%3A%2F%2Fwww.amazon.com%2Fap%2Fext%2Foauth%2F2&openid.oa2.scope=device_auth_access&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.oa2.client_id=device%3A36626136346635306139623834353639623535356166363661356338353736312341314d50534c4643374c3541464b&disableLoginPrepopulate=1&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"
+    }
+  },
+  {
+    "ts": 1779639473457,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&accountStatusPolicy=P1&language=en_US&pageId=amzn_mshop_android_v2_in&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fap%2Fmaplanding&openid.assoc_handle=amzn_mshop_android_v2_in&openid.oa2.response_type=token&openid.mode=checkid_setup&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.ns.oa2=http%3A%2F%2Fwww.amazon.com%2Fap%2Fext%2Foauth%2F2&openid.oa2.scope=device_auth_access&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.oa2.client_id=device%3A36626136346635306139623834353639623535356166363661356338353736312341314d50534c4643374c3541464b&disableLoginPrepopulate=1&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"
+    }
+  },
+  {
+    "ts": 1779639473457,
+    "type": "webview",
+    "data": {
+      "url": "https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&accountStatusPolicy=P1&language=en_US&pageId=amzn_mshop_android_v2_in&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fap%2Fmaplanding&openid.assoc_handle=amzn_mshop_android_v2_in&openid.oa2.response_type=token&openid.mode=checkid_setup&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.ns.oa2=http%3A%2F%2Fwww.amazon.com%2Fap%2Fext%2Foauth%2F2&openid.oa2.scope=device_auth_access&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.oa2.client_id=device%3A36626136346635306139623834353639623535356166363661356338353736312341314d50534c4643374c3541464b&disableLoginPrepopulate=1&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"
+    }
+  },
+  {
+    "ts": 1779639473462,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.amazon.identity.auth.device.AuthPortalUIActivity"
+    }
+  },
+  {
+    "ts": 1779639473826,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.amazon.identity.auth.device.AuthPortalUIActivity"
+    }
+  },
+  {
+    "ts": 1779639473962,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&accountStatusPolicy=P1&language=en_US&pageId=amzn_mshop_android_v2_in&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fap%2Fmaplanding&openid.assoc_handle=amzn_mshop_android_v2_in&openid.oa2.response_type=token&openid.mode=checkid_setup&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.ns.oa2=http%3A%2F%2Fwww.amazon.com%2Fap%2Fext%2Foauth%2F2&openid.oa2.scope=device_auth_access&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.oa2.client_id=device%3A36626136346635306139623834353639623535356166363661356338353736312341314d50534c4643374c3541464b&disableLoginPrepopulate=1&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"
+    }
+  },
+  {
+    "ts": 1779639475715,
+    "type": "webview",
+    "data": {
+      "url": "javascript:try{cordova.callbackFromNative('MASHCore60225557',true,1,[\"OK\"],false);}catch(e){}"
+    }
+  },
+  {
+    "ts": 1779639475716,
+    "type": "webview",
+    "data": {
+      "url": "javascript:try{cordova.callbackFromNative('CSMCordova60225558',true,1,[{\"timing\":{\"transitionStart\":1779639471391},\"transition\":{\"type\":\"cold-start\",\"launchType\":\"normal\"},\"tags\":[\"usesAppStartTime\"],\"platform\":\"android\"}],false);}catch(e){}"
+    }
+  }
+]

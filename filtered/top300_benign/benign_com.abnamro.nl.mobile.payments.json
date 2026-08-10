@@ -1,0 +1,450 @@
+[
+  {
+    "ts": 1779134042583,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.abnamro.nl:443/texts?ids=AndroidMBV8Alert%2CmobielBankierenAlert"
+    }
+  },
+  {
+    "ts": 1779134042591,
+    "type": "shared_pref",
+    "data": {
+      "key": "KEY_INSTALLATION_ID"
+    }
+  },
+  {
+    "ts": 1779134042648,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.abnamro.nl.mobile.payments.ui.activity.main.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779134042798,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134042800,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.abnamro.nl:443/nl/widgetcontent/mobielbankieren/remotefunctionalities.json"
+    }
+  },
+  {
+    "ts": 1779134042802,
+    "type": "shared_pref",
+    "data": {
+      "key": "KEY_INSTALLATION_ID"
+    }
+  },
+  {
+    "ts": 1779134043366,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134043385,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.abnamro.nl.mobile.payments.modules.saldo.ui.activity.SaldoLauncherActivity"
+    }
+  },
+  {
+    "ts": 1779134043386,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abnamro.nl.mobile.payments/shared_prefs/APP_MEASUREMENT_CACHE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134043416,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADOBEMOBILE_STOREDDEFAULTS_AID"
+    }
+  },
+  {
+    "ts": 1779134043416,
+    "type": "url_access",
+    "data": {
+      "url": "https://abnamro.d2.sc.omtrdc.net/id"
+    }
+  },
+  {
+    "ts": 1779134043422,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134044295,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134044299,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134044300,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134044301,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779134044301,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779134044303,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134044326,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134044328,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134044331,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.abnamro.nl:443/nl/widgetcontent/mobielbankieren/adobe_analytics_configuration.json"
+    }
+  },
+  {
+    "ts": 1779134044333,
+    "type": "shared_pref",
+    "data": {
+      "key": "KEY_INSTALLATION_ID"
+    }
+  },
+  {
+    "ts": 1779134044402,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134044403,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134044456,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779134044457,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abnamro.nl.mobile.payments/cacheADBMobileDataCache.sqlite"
+    }
+  },
+  {
+    "ts": 1779134044469,
+    "type": "url_access",
+    "data": {
+      "url": "https://abnamro.d2.sc.omtrdc.net/b/ss/abnamronl/0/JAVA-4.5.4-AN/s43173237"
+    }
+  },
+  {
+    "ts": 1779134044471,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779134044503,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134044504,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.abnamro.nl:443/nl/widgetcontent/mobielbankieren/remotemessages.json"
+    }
+  },
+  {
+    "ts": 1779134044505,
+    "type": "shared_pref",
+    "data": {
+      "key": "KEY_INSTALLATION_ID"
+    }
+  },
+  {
+    "ts": 1779134044545,
+    "type": "url_access",
+    "data": {
+      "url": "https://abnamro.d2.sc.omtrdc.net/b/ss/abnamronl/0/JAVA-4.5.4-AN/s84044789"
+    }
+  },
+  {
+    "ts": 1779134046266,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779134046274,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134046277,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134046278,
+    "type": "url_access",
+    "data": {
+      "url": "https://abnamro.d2.sc.omtrdc.net/b/ss/abnamronl/0/JAVA-4.5.4-AN/s25898554"
+    }
+  },
+  {
+    "ts": 1779134046312,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134046313,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134046314,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.abnamro.nl:443/nl/widgetcontent/mobielbankieren/remotemessages.json"
+    }
+  },
+  {
+    "ts": 1779134046315,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.abnamro.nl:443/nl/widgetcontent/mobielbankieren/remotefunctionalities.json"
+    }
+  },
+  {
+    "ts": 1779134046315,
+    "type": "shared_pref",
+    "data": {
+      "key": "KEY_INSTALLATION_ID"
+    }
+  },
+  {
+    "ts": 1779134046316,
+    "type": "shared_pref",
+    "data": {
+      "key": "KEY_INSTALLATION_ID"
+    }
+  },
+  {
+    "ts": 1779134046376,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779134046392,
+    "type": "url_access",
+    "data": {
+      "url": "https://abnamro.d2.sc.omtrdc.net/b/ss/abnamronl/0/JAVA-4.5.4-AN/s65201363"
+    }
+  },
+  {
+    "ts": 1779134046450,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134046518,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.abnamro.nl.mobile.payments.modules.saldo.ui.activity.SaldoLauncherActivity"
+    }
+  },
+  {
+    "ts": 1779134046519,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abnamro.nl.mobile.payments/cacheADBMobileDataCache.sqliteADBMobileTimedActionsCache.sqlite"
+    }
+  },
+  {
+    "ts": 1779134046522,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134046543,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779134046549,
+    "type": "url_access",
+    "data": {
+      "url": "https://abnamro.d2.sc.omtrdc.net/b/ss/abnamronl/0/JAVA-4.5.4-AN/s98536792"
+    }
+  },
+  {
+    "ts": 1779134046657,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134046670,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.abnamro.nl.mobile.payments.modules.saldo.ui.activity.SaldoLauncherActivity"
+    }
+  },
+  {
+    "ts": 1779134046671,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134046673,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779134046682,
+    "type": "url_access",
+    "data": {
+      "url": "https://abnamro.d2.sc.omtrdc.net/b/ss/abnamronl/0/JAVA-4.5.4-AN/s10049096"
+    }
+  },
+  {
+    "ts": 1779134046796,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134046800,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134046805,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.abnamro.nl:443/nl/widgetcontent/mobielbankieren/remotefunctionalities.json"
+    }
+  },
+  {
+    "ts": 1779134046805,
+    "type": "shared_pref",
+    "data": {
+      "key": "KEY_INSTALLATION_ID"
+    }
+  },
+  {
+    "ts": 1779134046822,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { act=android.intent.action.CALL_BUTTON flg=0x10000000 }"
+    }
+  },
+  {
+    "ts": 1779134046830,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134046836,
+    "type": "shared_pref",
+    "data": {
+      "key": "language"
+    }
+  },
+  {
+    "ts": 1779134046837,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.abnamro.nl:443/nl/widgetcontent/mobielbankieren/remotemessages.json"
+    }
+  },
+  {
+    "ts": 1779134046838,
+    "type": "shared_pref",
+    "data": {
+      "key": "KEY_INSTALLATION_ID"
+    }
+  }
+]

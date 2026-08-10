@@ -1,0 +1,3649 @@
+[
+  {
+    "ts": 1779132812119,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/google_ads_flags.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132812120,
+    "type": "shared_pref",
+    "data": {
+      "key": "flag_configuration"
+    }
+  },
+  {
+    "ts": 1779132812164,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779132812164,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779132812164,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779132812170,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779132812171,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779132812172,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779132812172,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779132812172,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779132812189,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/x86_64"
+    }
+  },
+  {
+    "ts": 1779132812189,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/arm64-v8a"
+    }
+  },
+  {
+    "ts": 1779132812189,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779132812189,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779132812194,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779132812206,
+    "type": "shared_pref",
+    "data": {
+      "key": "flag_configuration"
+    }
+  },
+  {
+    "ts": 1779132812221,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779132812225,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cdff.mobileapp/shared_prefs/admob.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132812226,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_csi_server"
+    }
+  },
+  {
+    "ts": 1779132812227,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_url_hashes"
+    }
+  },
+  {
+    "ts": 1779132812227,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_vertical_hashes"
+    }
+  },
+  {
+    "ts": 1779132812227,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_settings_json"
+    }
+  },
+  {
+    "ts": 1779132812227,
+    "type": "shared_pref",
+    "data": {
+      "key": "display_cutout"
+    }
+  },
+  {
+    "ts": 1779132812227,
+    "type": "shared_pref",
+    "data": {
+      "key": "native_advanced_settings"
+    }
+  },
+  {
+    "ts": 1779132812229,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/admob_user_agent.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132812230,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_agent"
+    }
+  },
+  {
+    "ts": 1779132812237,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132812238,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132812250,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_csi_server"
+    }
+  },
+  {
+    "ts": 1779132812250,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812250,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812251,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812251,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812251,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812251,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812251,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812251,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132812251,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132812252,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132812252,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132812252,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132812252,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_for_coarse_permission:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812252,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_timeout:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812252,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_interval:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812252,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:pan:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812256,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812256,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812256,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812256,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812257,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812257,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812257,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812257,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132812257,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132812257,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132812257,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132812257,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132812263,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cdff.mobileapp/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779132812264,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779132812266,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812266,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812266,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812266,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812266,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812267,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812267,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812267,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132812267,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132812267,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132812267,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132812267,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132812273,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cdff.mobileapp/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1779132812274,
+    "type": "dex_load",
+    "data": {
+      "dex": "/data/user/0/cdff.mobileapp/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779132812277,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cdff.mobileapp/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779132812278,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cdff.mobileapp/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779132812279,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779132812279,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779132812280,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cdff.mobileapp/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779132812281,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cdff.mobileapp/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1779132812282,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cdff.mobileapp/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1779132812282,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cdff.mobileapp/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1779132812283,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779132812288,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cdff.mobileapp/shared_prefs/mobileads_consent.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132812289,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779132812292,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779132812293,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cdff.mobileapp/shared_prefs/cdff.mobileapp_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132812309,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~xKFQhmKTO63tdIhd7-7nYA==/cdff.mobileapp-Ycmz2n92JldqW46LRdTVRA==/base.apk"
+    }
+  },
+  {
+    "ts": 1779132812316,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779132812364,
+    "type": "webview",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779132812366,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779132812752,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779132812760,
+    "type": "url_access",
+    "data": {
+      "url": "https://csi.gstatic.com/csi?app=cdff.mobileapp&os=11&e=318486317%2C318491267%2C318481907%2C318482079%2C318483611%2C318484496%2C318484802%2C318526849&network_coarse=1&task.request-parcel=s.0&task.renderer=f.2&task.webview-cookie=s.6&task.server-transaction=s.407&task.signals=s.51&s=gmob_sdk&is_lite_sdk=1&v=3&task.render-config-init=f.1&action=ftl&api_v=30&sdkVersion=afma-sdk-a-v201004999.6171000.1&network_fine=13&label.ttc=f.460&device=Google%20sdk_gphone_x86_64&gqi=jWkLauWaGNGr9fwP_Nbu8Qw&ftl=3"
+    }
+  },
+  {
+    "ts": 1779132812760,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779132812761,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132812762,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132812764,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812765,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812765,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812765,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812765,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812765,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812766,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812766,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132812766,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132812766,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132812766,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132812766,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132812767,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779132812768,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812768,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812768,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812769,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812769,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812769,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812769,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132812769,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132812769,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132812769,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132812769,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132812771,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132812774,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779132812776,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779132812778,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779132812784,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779132812784,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779132812956,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/favicon.ico"
+    }
+  },
+  {
+    "ts": 1779132813063,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/getconfig/pubsetting?app_name=cdff.mobileapp&client=ca-app-pub-4427896316517083&slotname=5090790846"
+    }
+  },
+  {
+    "ts": 1779132813189,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779132813189,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132813190,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132813192,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813192,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813192,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813192,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813192,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813193,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813193,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813193,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132813193,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132813193,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132813193,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132813193,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132813194,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813194,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813194,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813195,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813195,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813195,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813195,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813195,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132813195,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132813195,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132813195,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132813195,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132813198,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779132813198,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779132813207,
+    "type": "url_access",
+    "data": {
+      "url": "https://csi.gstatic.com/csi?app=cdff.mobileapp&os=11&e=318486317%2C318491267%2C318481907%2C318482079%2C318483611%2C318484496%2C318484802%2C318526849&network_coarse=1&task.request-parcel=s.3&task.renderer=f.2&task.webview-cookie=s.1&task.server-transaction=s.389&task.signals=s.14&s=gmob_sdk&is_lite_sdk=1&v=3&action=ftl&api_v=30&sdkVersion=afma-sdk-a-v201004999.6171000.1&network_fine=13&label.ttc=f.408&device=Google%20sdk_gphone_x86_64&gqi=jWkLarH2Mdik9fwP2PjniAw&ftl=3"
+    }
+  },
+  {
+    "ts": 1779132813561,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779132813562,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132813563,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132813565,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813565,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813565,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813565,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813566,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813566,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813566,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813566,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132813566,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132813566,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132813566,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132813566,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132813567,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813567,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813567,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813567,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813567,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813567,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813567,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132813567,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132813569,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132813569,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132813569,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132813570,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132813574,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779132813576,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779132813578,
+    "type": "url_access",
+    "data": {
+      "url": "https://csi.gstatic.com/csi?app=cdff.mobileapp&os=11&e=318486317%2C318491267%2C318481907%2C318482079%2C318483611%2C318484496%2C318484802%2C318526849&network_coarse=1&task.request-parcel=s.1&task.renderer=f.2&task.webview-cookie=s.3&task.server-transaction=s.349&task.signals=s.7&s=gmob_sdk&is_lite_sdk=1&v=3&task.render-config-init=f.1&action=ftl&api_v=30&sdkVersion=afma-sdk-a-v201004999.6171000.1&network_fine=13&label.ttc=f.359&device=Google%20sdk_gphone_x86_64&gqi=jmkLatOwDeqT9fwPqdbeiQk&ftl=3"
+    }
+  },
+  {
+    "ts": 1779132814105,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779132814105,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132814106,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132814107,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814107,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814107,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814107,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814107,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814108,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814108,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814108,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132814108,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132814108,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132814108,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132814108,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132814109,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814109,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814109,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814109,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814109,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814109,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814109,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814109,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132814110,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132814110,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132814110,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132814110,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132814112,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779132814112,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779132814114,
+    "type": "url_access",
+    "data": {
+      "url": "https://csi.gstatic.com/csi?app=cdff.mobileapp&os=11&e=318486317%2C318491267%2C318481907%2C318482079%2C318483611%2C318484496%2C318484802%2C318526849&network_coarse=1&task.request-parcel=s.1&task.renderer=f.0&task.server-transaction=f.521&task.signals=s.8&s=gmob_sdk&is_lite_sdk=1&v=3&action=ftl&api_v=30&sdkVersion=afma-sdk-a-v201004999.6171000.1&network_fine=13&label.ttc=f.530&device=Google%20sdk_gphone_x86_64&ftl=1"
+    }
+  },
+  {
+    "ts": 1779132814642,
+    "type": "url_access",
+    "data": {
+      "url": "https://csi.gstatic.com/csi?app=cdff.mobileapp&os=11&e=318486317%2C318491267%2C318481907%2C318482079%2C318483611%2C318484496%2C318484802%2C318526849&network_coarse=1&task.request-parcel=s.0&task.renderer=f.0&task.webview-cookie=s.3&task.server-transaction=f.517&task.signals=s.10&s=gmob_sdk&is_lite_sdk=1&v=3&action=ftl&api_v=30&sdkVersion=afma-sdk-a-v201004999.6171000.1&network_fine=13&label.ttc=f.528&device=Google%20sdk_gphone_x86_64&ftl=1"
+    }
+  },
+  {
+    "ts": 1779132814644,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779132814645,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132814645,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132814647,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814647,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814647,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814647,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814648,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814648,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814648,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814648,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132814648,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132814648,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132814648,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132814649,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132814649,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814649,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814649,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814649,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814649,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814650,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814650,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132814650,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132814650,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132814650,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132814650,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132814650,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132814654,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779132814655,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779132815185,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779132815185,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132815186,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132815187,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815187,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815188,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815188,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815188,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815188,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815188,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815188,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132815188,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132815189,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132815189,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132815189,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132815190,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815190,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815190,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815190,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815190,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815190,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815190,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815190,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132815190,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132815191,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132815191,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132815191,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132815195,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779132815195,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779132815200,
+    "type": "url_access",
+    "data": {
+      "url": "https://csi.gstatic.com/csi?app=cdff.mobileapp&os=11&e=318486317%2C318491267%2C318481907%2C318482079%2C318483611%2C318484496%2C318484802%2C318526849&network_coarse=1&task.request-parcel=s.0&task.webview-cookie=s.1&task.server-transaction=f.517&task.signals=s.3&s=gmob_sdk&is_lite_sdk=1&v=3&action=ftl&api_v=30&sdkVersion=afma-sdk-a-v201004999.6171000.1&network_fine=13&label.ttc=f.522&device=Google%20sdk_gphone_x86_64&ftl=1"
+    }
+  },
+  {
+    "ts": 1779132815724,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779132815727,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132815728,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132815730,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815731,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815731,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815731,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815731,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815731,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815731,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815732,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132815732,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132815733,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132815733,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132815733,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132815734,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815734,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815734,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815734,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815735,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815735,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815735,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132815735,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132815735,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132815735,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132815735,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132815736,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132815741,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779132815743,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779132815743,
+    "type": "url_access",
+    "data": {
+      "url": "https://csi.gstatic.com/csi?app=cdff.mobileapp&os=11&e=318486317%2C318491267%2C318481907%2C318482079%2C318483611%2C318484496%2C318484802%2C318526849&network_coarse=1&task.request-parcel=s.0&task.webview-cookie=s.4&task.server-transaction=f.517&task.signals=s.10&s=gmob_sdk&is_lite_sdk=1&v=3&action=ftl&api_v=30&sdkVersion=afma-sdk-a-v201004999.6171000.1&network_fine=13&label.ttc=f.527&device=Google%20sdk_gphone_x86_64&ftl=1"
+    }
+  },
+  {
+    "ts": 1779132816268,
+    "type": "url_access",
+    "data": {
+      "url": "https://csi.gstatic.com/csi?app=cdff.mobileapp&os=11&e=318486317%2C318491267%2C318481907%2C318482079%2C318483611%2C318484496%2C318484802%2C318526849&network_coarse=1&task.request-parcel=s.1&task.renderer=f.0&task.webview-cookie=s.1&task.server-transaction=f.515&task.signals=s.12&s=gmob_sdk&is_lite_sdk=1&v=3&action=ftl&api_v=30&sdkVersion=afma-sdk-a-v201004999.6171000.1&network_fine=13&label.ttc=f.528&device=Google%20sdk_gphone_x86_64&ftl=1"
+    }
+  },
+  {
+    "ts": 1779132816269,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779132816269,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132816270,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132816271,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816271,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816272,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816272,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816272,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816272,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816272,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816273,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132816273,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132816273,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132816274,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132816274,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132816275,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816275,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816275,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816275,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816275,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816275,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816275,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816275,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132816276,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132816276,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132816276,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132816276,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132816278,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779132816279,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779132816802,
+    "type": "url_access",
+    "data": {
+      "url": "https://csi.gstatic.com/csi?app=cdff.mobileapp&os=11&e=318486317%2C318491267%2C318481907%2C318482079%2C318483611%2C318484496%2C318484802%2C318526849&network_coarse=1&task.request-parcel=s.0&task.renderer=f.0&task.webview-cookie=s.3&task.server-transaction=f.515&task.signals=s.7&s=gmob_sdk&is_lite_sdk=1&v=3&action=ftl&api_v=30&sdkVersion=afma-sdk-a-v201004999.6171000.1&network_fine=13&label.ttc=f.523&device=Google%20sdk_gphone_x86_64&ftl=1"
+    }
+  },
+  {
+    "ts": 1779132816803,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779132816803,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132816804,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132816806,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816806,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816807,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816807,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816807,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816807,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816807,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816808,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132816808,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132816808,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132816808,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132816808,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132816809,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816809,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816809,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816809,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816809,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816809,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816809,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132816810,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132816810,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132816810,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132816810,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132816810,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132816813,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779132816813,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779132817342,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779132817343,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132817344,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132817345,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817346,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817346,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817346,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817346,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817346,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817347,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817347,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132817347,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132817347,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132817347,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132817347,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132817348,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817348,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817348,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817348,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817348,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817349,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817349,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817349,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132817350,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132817350,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132817350,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132817350,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132817352,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779132817352,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779132817354,
+    "type": "url_access",
+    "data": {
+      "url": "https://csi.gstatic.com/csi?app=cdff.mobileapp&os=11&e=318486317%2C318491267%2C318481907%2C318482079%2C318483611%2C318484496%2C318484802%2C318526849&network_coarse=1&task.request-parcel=s.0&task.renderer=f.0&task.webview-cookie=s.1&task.server-transaction=f.519&task.signals=s.8&s=gmob_sdk&is_lite_sdk=1&v=3&action=ftl&api_v=30&sdkVersion=afma-sdk-a-v201004999.6171000.1&network_fine=13&label.ttc=f.527&device=Google%20sdk_gphone_x86_64&ftl=1"
+    }
+  },
+  {
+    "ts": 1779132817883,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779132817884,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132817885,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132817887,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817887,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817887,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817887,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817887,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817887,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817888,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817888,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132817888,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132817888,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132817888,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132817888,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132817889,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817889,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817889,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817889,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817889,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817889,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817890,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132817890,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132817890,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132817890,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132817890,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132817890,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132817892,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779132817893,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779132817895,
+    "type": "url_access",
+    "data": {
+      "url": "https://csi.gstatic.com/csi?app=cdff.mobileapp&os=11&e=318486317%2C318491267%2C318481907%2C318482079%2C318483611%2C318484496%2C318484802%2C318526849&network_coarse=1&task.request-parcel=s.0&task.renderer=f.1&task.server-transaction=f.518&task.signals=s.8&s=gmob_sdk&is_lite_sdk=1&v=3&action=ftl&api_v=30&sdkVersion=afma-sdk-a-v201004999.6171000.1&network_fine=13&label.ttc=f.526&device=Google%20sdk_gphone_x86_64&ftl=1"
+    }
+  },
+  {
+    "ts": 1779132818422,
+    "type": "url_access",
+    "data": {
+      "url": "https://csi.gstatic.com/csi?app=cdff.mobileapp&os=11&e=318486317%2C318491267%2C318481907%2C318482079%2C318483611%2C318484496%2C318484802%2C318526849&network_coarse=1&task.request-parcel=s.0&task.renderer=f.1&task.webview-cookie=s.2&task.server-transaction=f.518&task.signals=s.8&s=gmob_sdk&is_lite_sdk=1&v=3&action=ftl&api_v=30&sdkVersion=afma-sdk-a-v201004999.6171000.1&network_fine=13&label.ttc=f.527&device=Google%20sdk_gphone_x86_64&ftl=1"
+    }
+  },
+  {
+    "ts": 1779132818424,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779132818425,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132818425,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132818427,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818427,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818427,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818427,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818428,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818428,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818428,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818428,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132818428,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132818428,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132818428,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132818428,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132818429,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818429,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818429,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818429,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818430,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818430,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818430,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818430,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132818430,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132818430,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132818430,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132818431,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132818433,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779132818433,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779132818958,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779132818959,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132818960,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132818961,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818961,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818962,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818962,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818962,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818962,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818962,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818962,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132818962,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132818962,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132818962,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132818962,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132818963,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818963,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818963,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818966,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818966,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818966,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818966,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779132818966,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779132818967,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779132818967,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779132818967,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779132818967,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779132818969,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779132818969,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779132818971,
+    "type": "url_access",
+    "data": {
+      "url": "https://csi.gstatic.com/csi?app=cdff.mobileapp&os=11&e=318486317%2C318491267%2C318481907%2C318482079%2C318483611%2C318484496%2C318484802%2C318526849&network_coarse=1&task.renderer=f.1&task.webview-cookie=s.4&task.server-transaction=f.514&task.signals=s.7&s=gmob_sdk&is_lite_sdk=1&v=3&action=ftl&api_v=30&sdkVersion=afma-sdk-a-v201004999.6171000.1&network_fine=13&label.ttc=f.523&device=Google%20sdk_gphone_x86_64&ftl=1"
+    }
+  },
+  {
+    "ts": 1779132819425,
+    "type": "webview",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779132819427,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779132819439,
+    "type": "file_access",
+    "data": {
+      "path": "data:text/html;charset=utf-8;base64,"
+    }
+  },
+  {
+    "ts": 1779132819447,
+    "type": "file_access",
+    "data": {
+      "path": "https://www.gstatic.com/mysidia/824f6d67786cd66a99b283b541f7220e.js?tag=engine/client_fast/client_fast_engine"
+    }
+  },
+  {
+    "ts": 1779132819448,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/omsdk/releases/live/omsdk-v1.js"
+    }
+  },
+  {
+    "ts": 1779132819450,
+    "type": "file_access",
+    "data": {
+      "path": "https://www.gstatic.com/mysidia/d6b7775af140386df9644679ecc3cc4d.js?tag=pingback/client/pingback"
+    }
+  },
+  {
+    "ts": 1779132819450,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260514/r20110914/client/one_afma_third_party.js"
+    }
+  },
+  {
+    "ts": 1779132819451,
+    "type": "file_access",
+    "data": {
+      "path": "https://www.gstatic.com/mysidia/3b6d1c4ed5cbdecab10b51d4678fda1b.js?tag=third_party/faline_banner"
+    }
+  },
+  {
+    "ts": 1779132819451,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260514/r20110914/client/qs_click_protection.js"
+    }
+  },
+  {
+    "ts": 1779132819452,
+    "type": "file_access",
+    "data": {
+      "path": "https://www.googletagservices.com/activeview/js/current/lidar.js?cache=r20110914"
+    }
+  },
+  {
+    "ts": 1779132819453,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/omsdk/releases/live/omid_session_bin.js"
+    }
+  },
+  {
+    "ts": 1779132819474,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/favicon.ico"
+    }
+  },
+  {
+    "ts": 1779132820985,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260514/r20110914/client/load_preloaded_resource.js"
+    }
+  },
+  {
+    "ts": 1779132820985,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260514/r20110914/client/window_focus.js"
+    }
+  },
+  {
+    "ts": 1779132821087,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=colleague-executed&name=4"
+    }
+  },
+  {
+    "ts": 1779132821110,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=reach&proto=CAlgAWACaAM%3D"
+    }
+  },
+  {
+    "ts": 1779132821117,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?id=mys&d=CgsIByEAAAAAAAAUQAoHCAgqA2x0cgoJCAEqBWZpeGVkCgoIAioGc2VydmVyChgIBCoUbXlzaWRpYV9yZWxlYXNlX3Byb2QKDRArIQAAAAAAADJAMAESGkNKLVotcDNLdzVRREZZS09yQUlkWjZ3Mm53Ihl0aGlyZF9wYXJ0eS9mYWxpbmVfYmFubmVyKEE="
+    }
+  },
+  {
+    "ts": 1779132821123,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/favicon.ico"
+    }
+  },
+  {
+    "ts": 1779132821128,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779132821131,
+    "type": "url_access",
+    "data": {
+      "url": "https://csi.gstatic.com/csi?app=cdff.mobileapp&os=11&e=318486317%2C318491267%2C318481907%2C318482079%2C318483611%2C318484496%2C318484802%2C318526849&aai=-3&adapter_l=1716&sc=0&s=gmob_sdk&is_lite_sdk=1&v=3&action=adapter_status&api_v=30&sdkVersion=afma-sdk-a-v201004999.6171000.1&device=Google%20sdk_gphone_x86_64&gqi=k2kLauiaPOnI9fwP6ZDIwQE"
+    }
+  },
+  {
+    "ts": 1779132821135,
+    "type": "url_access",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/pagead/interaction/?ai=CawZvk2kLat-DPYKdssUP59ja-QnlzZe8eu_MhI7MEsCNtwEQASDN7d0gYOWy54PEDogBAcgBCagDAcgDApgECKoElwJP0I02HgQVexczxMIDZykJuZ-uJ8dGa9vAocx4NrKv7pOPTq5Q4EK9rtg8kElBBvrIlTAcYe-mEF9DohEddgy--FmgHDmXA9TV0DEnvpJbGHFTk5C4a1YNTKv6BYOGz-z1RlvFWsiMSQpH-L6-FNnaSMYmbkJVlbJHlE8ADMKiF1m1NGJuj0IBxTjWyA_MeYqhN2YpkqSy5RlSUns-PG9SVXcfdAwTTaKSbslFFRYOtPHKbMSN6FozRDBKWpvYurgR9PMjcYoKbnZIdbNo1T-VRGTB5b6cD6FbAkNMxVlKYH2Yesbq2lbjOxzDtJK1gpsmFoZy5iLr57ecDAVcyMd7WenJCxyv6DvJv0XHuK3zVmQ6V5OUSkqABrq8jpzjrI2WdqAGIagHk9ixAqgHlNixAqgHldixAqgHpr4bqAeW2BuoB6qbsQKoB_-esQKoB9-fsQKoB62-sQLYBwDSCC4IgGEQATIIioKAgICAgAg6D4BAgMCAgICAqIACqIOAEEi9_cE6WIrz-Z3Kw5QDgAoC-gsCCAGADAGqDQJJTuoNEwiBn_qdysOUAxWCjqwCHWesNp-IDgTQFQGAFwGyFzoKGBIUcHViLTQ0Mjc4OTYzMTY1MTcwODMYABgMKgo1MDkwNzkwODQ2Mg5jZGZmLm1vYmlsZWFwcFABqhgXCb-fGi8FGOVAEgo1MDkwNzkwODQ2GAE&sigh=-f6rKLOpFsk&cid=CAQSvwIABaugfV8HeeS7qtj5q1S-ZWOz0JG1sSTdr-LwMWdLpmCUcovI8uwmvjE49o6zjNmKuY6OO00D9yCfvBu5Q9pe32DChSa8PlL5WTYrMoUT2Q0drKi9Btvt7zy6c_iKxAfWxpKgv1HO-g1EJXV-XWsWEMIvqPyU_bwSiVt69MOCYVl93Mjje9LUUpMsUqZ7mNnnaRaAvZ5EOBm5sn8Bq0xpyPHo3IaAsbp9zKZIAQwwhUJR42muGiOqDjWR3v30qZLhoHTmGLOQCY5d8feVmbmpe-BzW3ZmX7XrF-De9ePyGiD2zJebIYhsZcRm0red88CMX5GxQDPfAKZtUnAGYvER503emoEc5XRqPX3ZcQfuK0gBZwwLK9KabI7YwXsPfp7--LdO-vbL34JEwsJ0GdfdWXx4VYmImGTWca31kEQZ&label=admob_mediation_request_fill_result&mediation_fill_status=-3.0.1716.-3&ttr=@gw_ttr@&smc_index=0"
+    }
+  },
+  {
+    "ts": 1779132821136,
+    "type": "url_access",
+    "data": {
+      "url": "https://csi.gstatic.com/csi?app=cdff.mobileapp&ad_format=banner&os=11&e=318486317%2C318491267%2C318481907%2C318482079%2C318483611%2C318484496%2C318484802%2C318526849&network_coarse=1&task.request-parcel=s.1&task.renderer=s.1718&task.webview-cookie=s.3&task.render-config-0-FirstPartyRendererBanner=s.1717&task.server-transaction=s.435&task.signals=s.6&s=gmob_sdk&is_lite_sdk=1&v=3&task.render-config-init=f.0&action=loaded&api_v=30&sdkVersion=afma-sdk-a-v201004999.6171000.1&network_fine=13&label.ttc=s.2160&device=Google%20sdk_gphone_x86_64&gqi=k2kLauiaPOnI9fwP6ZDIwQE"
+    }
+  },
+  {
+    "ts": 1779132821136,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.init({\"impressionOwner\":\"javascript\",\"videoEventsOwner\":\"none\",\"isolateVerificationScripts\":true})}"
+    }
+  },
+  {
+    "ts": 1779132821137,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setState(\"foregrounded\")}"
+    }
+  },
+  {
+    "ts": 1779132821140,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setDeviceVolume(0.0)}"
+    }
+  },
+  {
+    "ts": 1779132821141,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setDeviceVolume(0.0)}"
+    }
+  },
+  {
+    "ts": 1779132821141,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.startSession(\"71f36b6f-04f2-48dd-8155-9448f3a14e6a\",{\"environment\":\"app\",\"adSessionType\":\"html\",\"deviceInfo\":{\"deviceType\":\"Google; sdk_gphone_x86_64\",\"osVersion\":\"30\",\"os\":\"Android\"},\"supports\":[\"clid\",\"vlid\"],\"omidNativeInfo\":{\"partnerName\":\"Google\",\"partnerVersion\":\"201004999.6171000\"},\"app\":{\"libraryVersion\":\"1.3.1-google_20200121\",\"appId\":\"cdff.mobileapp\"},\"customReferenceData\":\"\"},{},\"\")}"
+    }
+  },
+  {
+    "ts": 1779132821154,
+    "type": "url_access",
+    "data": {
+      "url": "https://m.amazingmoboosts.com/impr?s=1&country=IND&ip=14.139.241.0&lat=23.190000&lon=80.040000&brand=android&model=sdk_gphone_x86_64&req_id=0fsOUJIyqJ2fHbl1CrB6hQ&bid_time=1779132820034&cid=207565270&ctid=274440164&eid=187&did=b812026a-97d9-4281-b475-7b41a56a9161&pos=3816460429&size=384x90&mb=cdff.mobileapp&t=0&rcn=ORSGP&place=&deal_id=&tag=0&blc=0&ext=a0b0c0d1e1f0g0h-1.0i0.899999976j0s167293473801n1p18768q8859r1u1v0x529y6&d.ltail=1&d.bidm=2&d.dtype=0&d.test=1&d.ct=0&d.gcrid=207565270_0_8859_6_164_39&d.aut=1&dc=4&mid=1785039&d.mexpd=1&d.crsize=768x180&d.ml_group=48&d.ml_gix=0&d.appTag=2&con_type=2&sign=ffb3896a81b4375f249108f646bf7455&plcmtid=@gw_placement_id@"
+    }
+  },
+  {
+    "ts": 1779132821158,
+    "type": "url_access",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/pagead/adview?ai=CawZvk2kLat-DPYKdssUP59ja-QnlzZe8eu_MhI7MEsCNtwEQASDN7d0gYOWy54PEDogBAcgBCagDAcgDApgECKoElwJP0I02HgQVexczxMIDZykJuZ-uJ8dGa9vAocx4NrKv7pOPTq5Q4EK9rtg8kElBBvrIlTAcYe-mEF9DohEddgy--FmgHDmXA9TV0DEnvpJbGHFTk5C4a1YNTKv6BYOGz-z1RlvFWsiMSQpH-L6-FNnaSMYmbkJVlbJHlE8ADMKiF1m1NGJuj0IBxTjWyA_MeYqhN2YpkqSy5RlSUns-PG9SVXcfdAwTTaKSbslFFRYOtPHKbMSN6FozRDBKWpvYurgR9PMjcYoKbnZIdbNo1T-VRGTB5b6cD6FbAkNMxVlKYH2Yesbq2lbjOxzDtJK1gpsmFoZy5iLr57ecDAVcyMd7WenJCxyv6DvJv0XHuK3zVmQ6V5OUSkqABrq8jpzjrI2WdqAGIagHk9ixAqgHlNixAqgHldixAqgHpr4bqAeW2BuoB6qbsQKoB_-esQKoB9-fsQKoB62-sQLYBwDSCC4IgGEQATIIioKAgICAgAg6D4BAgMCAgICAqIACqIOAEEi9_cE6WIrz-Z3Kw5QDgAoC-gsCCAGADAGqDQJJTuoNEwiBn_qdysOUAxWCjqwCHWesNp-IDgTQFQGAFwGyFzoKGBIUcHViLTQ0Mjc4OTYzMTY1MTcwODMYABgMKgo1MDkwNzkwODQ2Mg5jZGZmLm1vYmlsZWFwcFABqhgXCb-fGi8FGOVAEgo1MDkwNzkwODQ2GAE&sigh=nnD2QdY_3Kc&uach_m=%5BUACH%5D&sreq=1&cid=CAQSvwIABaugfV8HeeS7qtj5q1S-ZWOz0JG1sSTdr-LwMWdLpmCUcovI8uwmvjE49o6zjNmKuY6OO00D9yCfvBu5Q9pe32DChSa8PlL5WTYrMoUT2Q0drKi9Btvt7zy6c_iKxAfWxpKgv1HO-g1EJXV-XWsWEMIvqPyU_bwSiVt69MOCYVl93Mjje9LUUpMsUqZ7mNnnaRaAvZ5EOBm5sn8Bq0xpyPHo3IaAsbp9zKZIAQwwhUJR42muGiOqDjWR3v30qZLhoHTmGLOQCY5d8feVmbmpe-BzW3ZmX7XrF-De9ePyGiD2zJebIYhsZcRm0red88CMX5GxQDPfAKZtUnAGYvER503emoEc5XRqPX3ZcQfuK0gBZwwLK9KabI7YwXsPfp7--LdO-vbL34JEwsJ0GdfdWXx4VYmImGTWca31kEQZGAE&plcmtid=@gw_placement_id@&ms=CoAC83KRDrerOi6Jq5po1T3VZBsKM_3pfRvz8ZqbAXfmfS_BuouW3UPz-WnHYjUvW-e4O9KRmH8aJTCRmq8IEJwbw1Rn5NTetVYaHg9Pqbr4Wprg4nnAov5eghQlRigjvmJL8Fx6c0CqGb_nyc3Ya_Xdz01jTl9C-_sDq7h0iJIQhCvNhlZDgwlCr79ZgFPd5NzdL0LZPaw__nl3qQq60BNjbi0I6HpDfEysrE_NfnXfg2fc8mWAPm4w2mhHrU9HbSh4q5Nj0D-2AI3mMPlA_3bX5sKLHQNt3gO7ifqxSCM7YYhxmrG451ubGQD-uvOmO4mFEfKEiFO-auiMbChXWzJQ5AqAAimqiprTvq1tblz7oh0ywG2uaVEJJeKFFpNJ0EpBGTLM9EykE07stOV6vFnxcxvCQ2IYjgebx0tvxT1XF3blxtp-S6-5KoJrBy_8a3N54HALMNFQNo23kjRI213_ij7jEOx_9iT8Omt_v4U5F8UGst77P6VL-txPdkUdJrLWShIJ12b3yjzay-eWDyP8A4_FL8GG25QKs3Fl9MrGHPF7AFpLHxK8rabzpNrMZ0VYdwgwpYaW2x6JY5c0OKjQcwc_nfDAQsWcsG91dGmHT5uR-ChPq9w3WYErIA0MMdGo23P31ZBIb7ds0MmFY_28eGADB6QYYOH1cq23bKDNqtvD5-8SEGwqUJvNG_f03rU9RjdOMho"
+    }
+  },
+  {
+    "ts": 1779132821159,
+    "type": "url_access",
+    "data": {
+      "url": "https://apac.amazingmoboosts.com/google_ab_burl?price=agtpkwAPQd8CrI6CADasZ_0ed0UoBKCIfmaCWg&me=8cw6iR4kRCUhSXYjkkF1hbhCMZ_qutnwJYuhYyg-LEryNnxjQVmdZLBhvoJcywCpnLOTMWtLqmlT2w1S-O3ow1fsAvPrtlzw6r8yohjPFrIqaT0RETeXk5CgrKBKy9s-9LmSc5LUTH71Ot_Jj5iQGBDCRtuAxSRBGd0kbFuaIMyYtuWESxg_a8h0JeMS33P8er3rlITm9i6ukXLN_boyo_-EXdgBw3cXfLSh5uPgeDo6UKvhB_c0UBtvi9dxfazH3gccW_5zk-eHzn6WpnlyEjNIB6QhFmw8QP2d-mZNxIxRhXh0m7J0Y3w6M3q_zhSacoN8fGPjVnjqrzW-OM3P6MGU_x1VJQBuQS1XI96VNyCKUI81SxXxjMh0BghEoUEhz5A7RToh1OmcyeJeHSm2w_Nm_7UJnThuk2pnWePV4yAY3PptvHhhMnGOcuyvFaMu-JkdArb2fNPcXTnpqqtvD5wdbPukSHR4wzpTemXhHznA7T5UBNPy-0lnokkUNy2yHhzU-QdQRA0b1sfwJ21E5xxHXC0D-4LbBcLjyERTTKfrUXKvbG0BU4uNv52-6p30XxlmlAXlRK6b8gcmfeMgcdBc36wBfSqLWyf8uuj3XW7Fj4QQT66jCZQMa3ucLsej7ejynhz6vZ8uSOMBjyJkaMmL8HIo7XQtQVu24YiHu-7ZvA3XeuGJXPeoN5Om4cg5YpyR1JfWCI9vo0gFVngXag0FtU-kare6NtfmU8gkLaOsk3D4RbxoZMhXGhrRJ8004VdaLzLH96sgpm6L9AvXQhWjojgJqQmAka017DUEEyjcnBB1B5clq27bUWGJj-a4SGO-MoAW-dehY6hTG-r1CS7IS_qbz9TVX7SB3QHf0EkcY1Ay4yft4j0BHRkIPDwamvvr7G5kr2wCB8OLph_-6pAN3QEgvxnnUGolR6GVwgdJ6i6B_duZpppGzPaYPqyAfudpkTb3HSsXrxUM5FdnCL5HYbKHNeD6n7R0CkAwoSMmciU&plcmtid=@gw_placement_id@"
+    }
+  },
+  {
+    "ts": 1779132821159,
+    "type": "url_access",
+    "data": {
+      "url": "https://apac.amazingmoboosts.com/google_ab_win?price=agtpkwAPQd8CrI6CADasZ_0ed0UoBKCIfmaCWg&mbid=&me=8cw6iR4kRCUhSXYjkkF1hbhCMZ_qutnwJYuhYyg-LEryNnxjQVmdZLBhvoJcywCpnLOTMWtLqmlT2w1S-O3ow1fsAvPrtlzw6r8yohjPFrIqaT0RETeXk5CgrKBKy9s-9LmSc5LUTH71Ot_Jj5iQGBDCRtuAxSRBGd0kbFuaIMyYtuWESxg_a8h0JeMS33P8er3rlITm9i6ukXLN_boyo_-EXdgBw3cXfLSh5uPgeDo6UKvhB_c0UBtvi9dxfazH3gccW_5zk-eHzn6WpnlyEjNIB6QhFmw8QP2d-mZNxIxRhXh0m7J0Y3w6M3q_zhSacoN8fGPjVnjqrzW-OM3P6MGU_x1VJQBuQS1XI96VNyCKUI81SxXxjMh0BghEoUEhz5A7RToh1OmcyeJeHSm2w_Nm_7UJnThuk2pnWePV4yAY3PptvHhhMnGOcuyvFaMu-JkdArb2fNPcXTnpqqtvD5wdbPukSHR4wzpTemXhHznA7T5UBNPy-0lnokkUNy2yHhzU-QdQRA0b1sfwJ21E5xxHXC0D-4LbBcLjyERTTKfrUXKvbG0BU4uNv52-6p30XxlmlAXlRK6b8gcmfeMgcdBc36wBfSqLWyf8uuj3XW7Fj4QQT66jCZQMa3ucLsej7ejynhz6vZ8uSOMBjyJkaMmL8HIo7XQtQVu24YiHu-7ZvA3XeuGJXPeoN5Om4cg5YpyR1JfWCI9vo0gFVngXag0FtU-kare6NtfmU8gkLaOsk3D4RbxoZMhXGhrRJ8004VdaLzLH96sgpm6L9AvXQhWjojgJqQmAka017DUEEyjcnBB1B5clq27bUWGJj-a4SGO-MoAW-dehY6hTG-r1CS7IS_qbz9TVX7SB3QHf0EkcY1Ay4yft4j0BHRkIPDwamvvr7G5kr2wCB8OLph_-6pAN3QEgvxnnUGolR6GVwgdJ6i6B_duZpppGzPaYPqyAfudpkTb3HSsXrxUM5FdnCL5HYbKHNeD6n7R0CkAwoSMmciU&plcmtid=@gw_placement_id@"
+    }
+  },
+  {
+    "ts": 1779132821172,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setNativeViewHierarchy({\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":850.9091186523438,\"childViews\":[{\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":780,\"childViews\":[{\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":780,\"childViews\":[{\"x\":0,\"y\":52.727272033691406,\"width\":392.7272644042969,\"height\":727.272705078125,\"childViews\":[{\"x\":0,\"y\":52.727272033691406,\"width\":392.7272644042969,\"height\":727.272705078125,\"childViews\":[{\"x\":0,\"y\":690.1818237304688,\"width\":392,\"height\":89.81818389892578,\"childViews\":[{\"x\":0,\"y\":690.1818237304688,\"width\":392,\"height\":89.81818389892578,\"childViews\":[{\"x\":0,\"y\":690.1818237304688,\"width\":392,\"height\":89.81818389892578,\"childViews\":[{\"x\":0,\"y\":690.1818237304688,\"width\":392,\"height\":89.81818389892578,\"adSessionId\":\"71f36b6f-04f2-48dd-8155-9448f3a14e6a\"}]}]}]}]}]}]}]}]})}"
+    }
+  },
+  {
+    "ts": 1779132821173,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?zx=3bq333g6qcjf&id=gmob-apps-activeview&event=empty-clickstring&immediate=false&v=sdk_20260511_RC00&app_name=app_name_unavailable"
+    }
+  },
+  {
+    "ts": 1779132822192,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsszXWFF1Tg9OYQkq5_JR40lidHyOKvLt9l8_4B8qzxXk7CyOeZAEQb4CDMaHuTNTYO1wOPrTrIerahhFxoaRihF-y6vcfujW9m6eY0azXkQszLq1IxjJgA678YARPoqWfYegbF0eryP9J-ReyXPKdIOxjvGptPAyNlFSgUUPHhlr2K5KnCmg-nw9-8&sig=Cg0ArKJSzNMVReS1EJl-EAE&id=lidar2&mcvt=1000&p=690,0,780.203125,392&tm=1083.999999999629&tu=83.49999999973079&mtos=0,1000,1000,1000,1000&tos=0,1000,0,0,0&v=20260514&bin=2&avms=omio&bs=392,850&mc=0.99&app=1&itpl=22&adk=3816460429&rs=9&la=0&cr=0&vs=4&r=v&co=7506562100&rst=1779132819438&rpt=1682&sfr=15,15&met=mue&wmsd=0&pbe=0&fle=0&vae=0&spb=0&sfl=0&ffslot=0&reach=8&io2=0"
+    }
+  }
+]

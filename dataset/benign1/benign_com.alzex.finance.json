@@ -1,0 +1,37 @@
+[
+  {
+    "ts": 1779639271656,
+    "type": "shared_pref",
+    "data": {
+      "key": "ApplicationLanguage"
+    }
+  },
+  {
+    "ts": 1779639271656,
+    "type": "shared_pref",
+    "data": {
+      "key": "ApplicationLanguageCountry"
+    }
+  },
+  {
+    "ts": 1779639271671,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.alzex.finance.ActivityPresentation"
+    }
+  },
+  {
+    "ts": 1779639271760,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alzex.finance/shared_prefs/com.google.android.gms.signin.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639271762,
+    "type": "shared_pref",
+    "data": {
+      "key": "defaultGoogleSignInAccount"
+    }
+  }
+]

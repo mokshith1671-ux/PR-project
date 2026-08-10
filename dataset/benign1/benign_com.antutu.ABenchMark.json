@@ -1,0 +1,779 @@
+[
+  {
+    "ts": 1779640565558,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antutu.ABenchMark/files/secapps.txt"
+    }
+  },
+  {
+    "ts": 1779640565559,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antutu.ABenchMark/files/secapps_new.txt"
+    }
+  },
+  {
+    "ts": 1779640565559,
+    "type": "url_access",
+    "data": {
+      "url": "http://autovote.antutu.net/chart/secapps/secapps.txt"
+    }
+  },
+  {
+    "ts": 1779640565577,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.antutu.ABenchMark.ABenchMarkStart"
+    }
+  },
+  {
+    "ts": 1779640565584,
+    "type": "url_access",
+    "data": {
+      "url": "http://autovote.antutu.net/chart/secapps/secapps.txt"
+    }
+  },
+  {
+    "ts": 1779640565586,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779640565586,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779640565758,
+    "type": "shared_pref",
+    "data": {
+      "key": "faceImg"
+    }
+  },
+  {
+    "ts": 1779640565759,
+    "type": "shared_pref",
+    "data": {
+      "key": "test_sdcard_path"
+    }
+  },
+  {
+    "ts": 1779640565759,
+    "type": "shared_pref",
+    "data": {
+      "key": "checksum"
+    }
+  },
+  {
+    "ts": 1779640565759,
+    "type": "shared_pref",
+    "data": {
+      "key": "StabilityScores"
+    }
+  },
+  {
+    "ts": 1779640565759,
+    "type": "shared_pref",
+    "data": {
+      "key": "model"
+    }
+  },
+  {
+    "ts": 1779640565760,
+    "type": "file_access",
+    "data": {
+      "path": "data/data/com.antutu.ABenchMark/shared_prefs"
+    }
+  },
+  {
+    "ts": 1779640565762,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640565762,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640565762,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640565762,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640565766,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640565768,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640565769,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640565770,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640565775,
+    "type": "file_access",
+    "data": {
+      "path": "/sdcard/.antutu/benchmark/files"
+    }
+  },
+  {
+    "ts": 1779640565784,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640565784,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640565784,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640565784,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640565785,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/.antutu/benchmark/history_scores/"
+    }
+  },
+  {
+    "ts": 1779640565786,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779640565786,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antutu.ABenchMark/shared_prefs/LastScore.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640565787,
+    "type": "shared_pref",
+    "data": {
+      "key": "score"
+    }
+  },
+  {
+    "ts": 1779640565789,
+    "type": "shared_pref",
+    "data": {
+      "key": "sVersion"
+    }
+  },
+  {
+    "ts": 1779640565789,
+    "type": "shared_pref",
+    "data": {
+      "key": "sIMEI"
+    }
+  },
+  {
+    "ts": 1779640565790,
+    "type": "shared_pref",
+    "data": {
+      "key": "sExtra"
+    }
+  },
+  {
+    "ts": 1779640565790,
+    "type": "shared_pref",
+    "data": {
+      "key": "policy_message"
+    }
+  },
+  {
+    "ts": 1779640565791,
+    "type": "shared_pref",
+    "data": {
+      "key": "policy_tips"
+    }
+  },
+  {
+    "ts": 1779640565791,
+    "type": "shared_pref",
+    "data": {
+      "key": "TIME"
+    }
+  },
+  {
+    "ts": 1779640565791,
+    "type": "shared_pref",
+    "data": {
+      "key": "SGID"
+    }
+  },
+  {
+    "ts": 1779640565792,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779640565799,
+    "type": "shared_pref",
+    "data": {
+      "key": "CPUID"
+    }
+  },
+  {
+    "ts": 1779640565799,
+    "type": "shared_pref",
+    "data": {
+      "key": "GPUInfo2"
+    }
+  },
+  {
+    "ts": 1779640565799,
+    "type": "shared_pref",
+    "data": {
+      "key": "GPUInfo3"
+    }
+  },
+  {
+    "ts": 1779640565800,
+    "type": "shared_pref",
+    "data": {
+      "key": "CPUNOW"
+    }
+  },
+  {
+    "ts": 1779640565800,
+    "type": "shared_pref",
+    "data": {
+      "key": "RAMNOW"
+    }
+  },
+  {
+    "ts": 1779640565801,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779640565814,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antutu.ABenchMark/files/x64"
+    }
+  },
+  {
+    "ts": 1779640565814,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antutu.ABenchMark/files/x64"
+    }
+  },
+  {
+    "ts": 1779640565815,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antutu.ABenchMark/files/x64"
+    }
+  },
+  {
+    "ts": 1779640566263,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/sdcard"
+    }
+  },
+  {
+    "ts": 1779640566264,
+    "type": "runtime_exec",
+    "data": {
+      "command": "sh"
+    }
+  },
+  {
+    "ts": 1779640566284,
+    "type": "file_access",
+    "data": {
+      "path": "/etc/vold.fstab"
+    }
+  },
+  {
+    "ts": 1779640566285,
+    "type": "file_access",
+    "data": {
+      "path": "/Removable/MicroSD"
+    }
+  },
+  {
+    "ts": 1779640566297,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779640566551,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antutu.ABenchMark/files/secapps_new.txt"
+    }
+  },
+  {
+    "ts": 1779640566552,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antutu.ABenchMark/files/secapps_new.txt"
+    }
+  },
+  {
+    "ts": 1779640566566,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/virtual/kgsl/kgsl/subsystem/kgsl-3d0/max_gpuclk"
+    }
+  },
+  {
+    "ts": 1779640566569,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antutu.ABenchMark/files/chart_ranking.xml"
+    }
+  },
+  {
+    "ts": 1779640566570,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antutu.ABenchMark/files/chart_ranking.xml"
+    }
+  },
+  {
+    "ts": 1779640567601,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antutu.ABenchMark/files/chart_ranking_new.xml"
+    }
+  },
+  {
+    "ts": 1779640569420,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779640569450,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.antutu.benchmark.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779640569489,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antutu.ABenchMark/files/secapps.txt"
+    }
+  },
+  {
+    "ts": 1779640569492,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779640569497,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779640569519,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779640569524,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779640569527,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779640569542,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.antutu.ABenchMark/database/devinfo"
+    }
+  },
+  {
+    "ts": 1779640569542,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antutu.ABenchMark/shared_prefs/class com.antutu.benchmark.c.c.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640569543,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.antutu.ABenchMark/database"
+    }
+  },
+  {
+    "ts": 1779640569543,
+    "type": "file_access",
+    "data": {
+      "path": "/data/data/com.antutu.ABenchMark/database/devinfo"
+    }
+  },
+  {
+    "ts": 1779640569567,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779640569571,
+    "type": "url_access",
+    "data": {
+      "url": "http://info.antutu.com/info/info.php?gpv=dbf3d43d6760b22117984138a17293d2a5457ee99c971ceb3c4b12caf242b6cb4bc8e4461c094ac5ee18a30a1942bf725dce50928745fd0ca714b7ea35c06ae139ec6d081d8a60d1947e60e491b6d210b650403952f26e5f4144e94192cb5fbf6773d5f99eb9758a160f2aea2844dd01be9a8959a00537654d8720ff2160af54c47fda70c712a163156f63b63445921cd7db0e58bf55468ef1028b10c257d671a6583eea92f27d510edbd2b207ec9d734e6b7efbb1530074919d2741845b3f4f12d04c3349a83b5be06f8b49494c625ed6eb09655"
+    }
+  },
+  {
+    "ts": 1779640569725,
+    "type": "url_access",
+    "data": {
+      "url": "http://info.antutu.com/info/info.php?gpv=dbf3d43d6760b22117984138a17293d2a5457ee99c971ceb3c4b12caf242b6cb4bc8e4461c094ac5ee18a30a1942bf725dce50928745fd0ca714b7ea35c06ae139ec6d081d8a60d1947e60e491b6d210b650403952f26e5f4144e94192cb5fbf6773d5f99eb9758a160f2aea2844dd01be9a8959a00537654d8720ff2160af54c47fda70c712a163156f63b63445921cd7db0e58bf55468ef1028b10c257d671a6583eea92f27d510edbd2b207ec9d734e6b7efbb1530074919d2741845b3f4f12d04c3349a83b5be06f8b49494c625ed6eb09655"
+    }
+  },
+  {
+    "ts": 1779640569827,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.antutu.benchmark.activity.IndependentDialog"
+    }
+  },
+  {
+    "ts": 1779640570081,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640570083,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640570083,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640570083,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640571366,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640571366,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640571367,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640571369,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640571369,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/.antutu/benchmark/"
+    }
+  },
+  {
+    "ts": 1779640571370,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/.antutu/benchmark/bench64.apk"
+    }
+  },
+  {
+    "ts": 1779640571375,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/.antutu/benchmark/bench64.apk"
+    }
+  },
+  {
+    "ts": 1779640571637,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antutu.ABenchMark/files/chart_ranking.xml"
+    }
+  },
+  {
+    "ts": 1779640571638,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antutu.ABenchMark/files/chart_ranking.xml"
+    }
+  },
+  {
+    "ts": 1779640571717,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/.antutu/benchmark/bench64.apk"
+    }
+  },
+  {
+    "ts": 1779640571767,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.antutu.benchmark.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779640571769,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779640572456,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antutu.ABenchMark/files/chart_ranking_new.xml"
+    }
+  },
+  {
+    "ts": 1779640572469,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779640572470,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpufreq/MT_CPU_DVFS_BIG/cpufreq_oppidx"
+    }
+  },
+  {
+    "ts": 1779640572517,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpufreq/MT_CPU_DVFS_BIG/cpufreq_oppidx"
+    }
+  },
+  {
+    "ts": 1779640572536,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779640572540,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antutu.ABenchMark/shared_prefs/location.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640572540,
+    "type": "shared_pref",
+    "data": {
+      "key": "loc"
+    }
+  },
+  {
+    "ts": 1779640572541,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779640572545,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779640572546,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640572547,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640572547,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640572547,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640572549,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640572550,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640572550,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640572550,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640572550,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779640572698,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779640572700,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779640572701,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  }
+]

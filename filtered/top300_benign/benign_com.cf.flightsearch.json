@@ -1,0 +1,583 @@
+[
+  {
+    "ts": 1779646677237,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_profile_access_token"
+    }
+  },
+  {
+    "ts": 1779646677249,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779646677253,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_id"
+    }
+  },
+  {
+    "ts": 1779646677261,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.cf.flightsearch.activities.MainActivity"
+    }
+  },
+  {
+    "ts": 1779646677263,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779646677271,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_profile_access_token"
+    }
+  },
+  {
+    "ts": 1779646677272,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779646677273,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_profile_access_token"
+    }
+  },
+  {
+    "ts": 1779646677273,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_profile_access_token"
+    }
+  },
+  {
+    "ts": 1779646677278,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_id"
+    }
+  },
+  {
+    "ts": 1779646677302,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779646677311,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779646677311,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779646677311,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779646677314,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779646677318,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~pm-ZdbVxYBLpFwdBLCTXIQ==/com.cf.flightsearch--WBQ3pVmMEX1l7yVf18DfQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779646677321,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~pm-ZdbVxYBLpFwdBLCTXIQ==/com.cf.flightsearch--WBQ3pVmMEX1l7yVf18DfQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779646677328,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~pm-ZdbVxYBLpFwdBLCTXIQ==/com.cf.flightsearch--WBQ3pVmMEX1l7yVf18DfQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779646677463,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~pm-ZdbVxYBLpFwdBLCTXIQ==/com.cf.flightsearch--WBQ3pVmMEX1l7yVf18DfQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779646677465,
+    "type": "shared_pref",
+    "data": {
+      "key": "recent_searches"
+    }
+  },
+  {
+    "ts": 1779646677466,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_profile_access_token"
+    }
+  },
+  {
+    "ts": 1779646677728,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|140660194349|*"
+    }
+  },
+  {
+    "ts": 1779646677729,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779646677732,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779646677734,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779646677768,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646677774,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646677779,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646677781,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646677782,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779646677785,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779646677786,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646677788,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cf.flightsearch/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779646677790,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cf.flightsearch/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1340D4025C-0001-3587-4A37443B8AF2SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779646677791,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cf.flightsearch/shared_prefs/io.fabric.sdk.android:fabric:d.a.a.a.u.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646677793,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779646677794,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.cf.flightsearch/settings?instance=2dea0d57e9f17ea4591997bd98ce9e8de51a5a4c&build_version=1150&display_version=4.2.4&source=1&icon_hash=fb6c326b495b0fec64bda8a86e78c9db69b8c619"
+    }
+  },
+  {
+    "ts": 1779646677794,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.cf.flightsearch/settings?instance=2dea0d57e9f17ea4591997bd98ce9e8de51a5a4c&build_version=1150&display_version=4.2.4&source=1&icon_hash=fb6c326b495b0fec64bda8a86e78c9db69b8c619"
+    }
+  },
+  {
+    "ts": 1779646677825,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cf.flightsearch/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779646677838,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779646677839,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779646677904,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779646677934,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779646677937,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779646677938,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779646677983,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779646678406,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cf.flightsearch/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646678486,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cf.flightsearch/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779646678608,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779646682093,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|140660194349|*"
+    }
+  },
+  {
+    "ts": 1779646682093,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779646682490,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cf.flightsearch/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779646682496,
+    "type": "shared_pref",
+    "data": {
+      "key": "OptimizelyUserId"
+    }
+  },
+  {
+    "ts": 1779646687502,
+    "type": "shared_pref",
+    "data": {
+      "key": "registration_id"
+    }
+  },
+  {
+    "ts": 1779646687503,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_id"
+    }
+  },
+  {
+    "ts": 1779646687505,
+    "type": "shared_pref",
+    "data": {
+      "key": "cached_device"
+    }
+  },
+  {
+    "ts": 1779646687507,
+    "type": "url_access",
+    "data": {
+      "url": "https://dev.appboy.com/api/v2/data"
+    }
+  },
+  {
+    "ts": 1779646693623,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646693623,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646693623,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646693623,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646693625,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646693626,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646693626,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646693626,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646693629,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646693629,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646693629,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646693630,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646693634,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646693634,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646693634,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646693634,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646693638,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646693638,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646693638,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646693638,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646693640,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646693640,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646693640,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646693640,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646693642,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779646693643,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.6/101943550154386/activities?access_token=&format=json&sdk=android"
+    }
+  }
+]

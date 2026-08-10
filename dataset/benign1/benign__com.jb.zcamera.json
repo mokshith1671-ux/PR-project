@@ -1,0 +1,303 @@
+[
+  {
+    "ts": 1778233008152,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.jb.zcamera/shared_prefs/bgdatapro.xml.bak"
+    }
+  },
+  {
+    "ts": 1778233008231,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778233008244,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.jb.zcamera/shared_prefs/go_static_idcom.jb.zcamera.xml.bak"
+    }
+  },
+  {
+    "ts": 1778233008247,
+    "type": "sp",
+    "data": {
+      "key": "go_static_id"
+    }
+  },
+  {
+    "ts": 1778233008261,
+    "type": "file",
+    "data": {
+      "path": "/storage/emulated/0/.goproduct/goid"
+    }
+  },
+  {
+    "ts": 1778233008398,
+    "type": "file",
+    "data": {
+      "path": "/system/bin/su"
+    }
+  },
+  {
+    "ts": 1778233008399,
+    "type": "file",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1778233008445,
+    "type": "file",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1778233008502,
+    "type": "process",
+    "data": {
+      "event": "process_start"
+    }
+  },
+  {
+    "ts": 1778233008584,
+    "type": "file",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1778233008586,
+    "type": "file",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1778233008631,
+    "type": "file",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1778233008632,
+    "type": "file",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1778233008634,
+    "type": "file",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1778233008637,
+    "type": "file",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1778233008658,
+    "type": "file",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1778233008683,
+    "type": "file",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1778233008684,
+    "type": "file",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1778233008686,
+    "type": "file",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1778233008706,
+    "type": "file",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1778233008706,
+    "type": "file",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1778233008707,
+    "type": "file",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1778233008707,
+    "type": "file",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1778233008719,
+    "type": "sp",
+    "data": {
+      "key": "preference_rotate_preview"
+    }
+  },
+  {
+    "ts": 1778233008855,
+    "type": "sp",
+    "data": {
+      "key": "camera_resolution_0"
+    }
+  },
+  {
+    "ts": 1778233008868,
+    "type": "sp",
+    "data": {
+      "key": "preference_quality"
+    }
+  },
+  {
+    "ts": 1778233009028,
+    "type": "sp",
+    "data": {
+      "key": "video_quality_0"
+    }
+  },
+  {
+    "ts": 1778233009030,
+    "type": "sp",
+    "data": {
+      "key": "preference_flash_value"
+    }
+  },
+  {
+    "ts": 1778233009127,
+    "type": "sp",
+    "data": {
+      "key": "preference_preview_size"
+    }
+  },
+  {
+    "ts": 1778233009154,
+    "type": "sp",
+    "data": {
+      "key": "preference_grid"
+    }
+  },
+  {
+    "ts": 1778233009162,
+    "type": "sp",
+    "data": {
+      "key": "preference_timer"
+    }
+  },
+  {
+    "ts": 1778233009178,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778233009186,
+    "type": "process",
+    "data": {
+      "event": "process_start"
+    }
+  },
+  {
+    "ts": 1778233009247,
+    "type": "file",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1778233009260,
+    "type": "network",
+    "data": {
+      "url": "http://goupdate.3g.cn/GOClientData/DR?ptl=10&is_zip=1&is_response_json=1"
+    }
+  },
+  {
+    "ts": 1778233009281,
+    "type": "process",
+    "data": {
+      "event": "process_start"
+    }
+  },
+  {
+    "ts": 1778233009299,
+    "type": "network",
+    "data": {
+      "url": "http://goupdate.3g.cn/GOClientData/DR?ptl=10&is_zip=1&is_response_json=1"
+    }
+  },
+  {
+    "ts": 1778233009357,
+    "type": "file",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq"
+    }
+  },
+  {
+    "ts": 1778233009365,
+    "type": "file",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1778233009379,
+    "type": "file",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1778233009386,
+    "type": "sp",
+    "data": {
+      "key": "preference_grid"
+    }
+  },
+  {
+    "ts": 1778233009389,
+    "type": "file",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1778233010405,
+    "type": "sp",
+    "data": {
+      "key": "preference_grid"
+    }
+  }
+]

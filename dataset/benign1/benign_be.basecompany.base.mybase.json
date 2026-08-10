@@ -1,0 +1,163 @@
+[
+  {
+    "ts": 1779131514715,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.basecompany.base.mybase/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131514721,
+    "type": "shared_pref",
+    "data": {
+      "key": "465837183546332json"
+    }
+  },
+  {
+    "ts": 1779131514725,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131514772,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.base.consult.activity.TermsActivity"
+    }
+  },
+  {
+    "ts": 1779131514778,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779131514799,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779131514801,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.basecompany.base.mybase/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779131514804,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131514807,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131514807,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779131514807,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779131514807,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.basecompany.base.mybase/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B647A012A-0001-70F1-D9148754D556SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779131514808,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.basecompany.base.mybase/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131514810,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779131514810,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.basecompany.base.mybase/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-6A0B647A012A-0001-70F1-D9148754D556.temp.tmp"
+    }
+  },
+  {
+    "ts": 1779131514812,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/be.basecompany.base.mybase/settings?instance=6ab78aaed25e3b8763ada6213a413112cbcdcb1a&build_version=1620&display_version=1.6.2&source=1&icon_hash=2acc6f4782995dbdf81e70fd2e35ad36e1d64811"
+    }
+  },
+  {
+    "ts": 1779131514816,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/be.basecompany.base.mybase/settings?instance=6ab78aaed25e3b8763ada6213a413112cbcdcb1a&build_version=1620&display_version=1.6.2&source=1&icon_hash=2acc6f4782995dbdf81e70fd2e35ad36e1d64811"
+    }
+  },
+  {
+    "ts": 1779131514826,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/be.basecompany.base.mybase/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779131516222,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131516224,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131516225,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779131516226,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779131523478,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.base.consult.activity.LoginActivity"
+    }
+  }
+]

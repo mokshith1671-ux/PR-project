@@ -1,0 +1,2522 @@
+[
+  {
+    "ts": 1779140533975,
+    "type": "shared_pref",
+    "data": {
+      "key": "default_parsed_location"
+    }
+  },
+  {
+    "ts": 1779140533976,
+    "type": "shared_pref",
+    "data": {
+      "key": "locations"
+    }
+  },
+  {
+    "ts": 1779140533976,
+    "type": "shared_pref",
+    "data": {
+      "key": "home_location_id"
+    }
+  },
+  {
+    "ts": 1779140533976,
+    "type": "shared_pref",
+    "data": {
+      "key": "locations"
+    }
+  },
+  {
+    "ts": 1779140533976,
+    "type": "shared_pref",
+    "data": {
+      "key": "mobile_location"
+    }
+  },
+  {
+    "ts": 1779140534020,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whtm.android.weather/shared_prefs/APP_MEASUREMENT_CACHE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140534025,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779140534026,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_VISITORID_IDS"
+    }
+  },
+  {
+    "ts": 1779140534026,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID"
+    }
+  },
+  {
+    "ts": 1779140534027,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID_HINT"
+    }
+  },
+  {
+    "ts": 1779140534029,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID_BLOB"
+    }
+  },
+  {
+    "ts": 1779140534036,
+    "type": "url_access",
+    "data": {
+      "url": "http://b.scorecardresearch.com/p2?c1=19&c2=6036439&ns_ap_an=WHTM%20Weather&ns_ap_pn=android&ns_ap_pv=11&c12=2b7c4936060853c489fd6ac2d6fefdc7-cs72&ns_ak=2PRs%2B7RUyxI5fm7QX%2FXQL2%2BlEU1NjZCGdEOloBT86LnFiMM2BYxLWLv2T7IucNsQhfOxZ0AAXPphqOoLilKmZnkxAheo6UnYVS%2Fzvpm%2FN%2BXM94YZ1XWsteSrEGid4HFnt5PlATHmjeZHl5EBOpfwHC%2BXFwlBINs3VnUVisDAaSE%3D&name=start&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1779140534021&ns_ap_csf=1&ns_ap_bi=com.whtm.android.weather&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=4.2.1202&ns_ap_sv=3.1508.28&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1779140533939&ns_ap_jb=0&ns_ap_res=1080x2009&ns_ap_install=1779140533939&ns_ap_lastrun=0&ns_ap_cs=1&ns_ap_runs=1&ns_ap_usage=82&ns_ap_fg=1&ns_ap_ft=0&ns_ap_dft=0&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=82&ns_ap_as=1&ns_ap_das=83&ns_ap_it=82&ns_ap_lang=en&ns_ap_ar=i686&ns_ts=1779140534021"
+    }
+  },
+  {
+    "ts": 1779140534043,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140534045,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whtm.android.weather/shared_prefs/FLURRY_SHARED_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140534049,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779140534051,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779140534058,
+    "type": "url_access",
+    "data": {
+      "url": "http://b.scorecardresearch.com/p2?c1=19&c2=6036439&ns_ap_an=WHTM%20Weather&ns_ap_pn=android&ns_ap_pv=11&c12=2b7c4936060853c489fd6ac2d6fefdc7-cs72&ns_ak=2PRs%2B7RUyxI5fm7QX%2FXQL2%2BlEU1NjZCGdEOloBT86LnFiMM2BYxLWLv2T7IucNsQhfOxZ0AAXPphqOoLilKmZnkxAheo6UnYVS%2Fzvpm%2FN%2BXM94YZ1XWsteSrEGid4HFnt5PlATHmjeZHl5EBOpfwHC%2BXFwlBINs3VnUVisDAaSE%3D&name=start&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1779140534021&ns_ap_csf=1&ns_ap_bi=com.whtm.android.weather&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=4.2.1202&ns_ap_sv=3.1508.28&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1779140533939&ns_ap_jb=0&ns_ap_res=1080x2009&ns_ap_install=1779140533939&ns_ap_lastrun=0&ns_ap_cs=1&ns_ap_runs=1&ns_ap_usage=82&ns_ap_fg=1&ns_ap_ft=0&ns_ap_dft=0&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=82&ns_ap_as=1&ns_ap_das=83&ns_ap_it=82&ns_ap_lang=en&ns_ap_ar=i686&ns_ts=1779140534021"
+    }
+  },
+  {
+    "ts": 1779140534084,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADB_LIFETIME_VALUE"
+    }
+  },
+  {
+    "ts": 1779140534088,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whtm.android.weather/cacheADBMobileDataCache.sqlite"
+    }
+  },
+  {
+    "ts": 1779140534090,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADOBEMOBILE_STOREDDEFAULTS_AID"
+    }
+  },
+  {
+    "ts": 1779140534091,
+    "type": "url_access",
+    "data": {
+      "url": "http://lintv.122.2o7.net/id"
+    }
+  },
+  {
+    "ts": 1779140534092,
+    "type": "url_access",
+    "data": {
+      "url": "http://lintv.122.2o7.net/id"
+    }
+  },
+  {
+    "ts": 1779140534112,
+    "type": "shared_pref",
+    "data": {
+      "key": "default_parsed_location"
+    }
+  },
+  {
+    "ts": 1779140534113,
+    "type": "shared_pref",
+    "data": {
+      "key": "locations"
+    }
+  },
+  {
+    "ts": 1779140534113,
+    "type": "shared_pref",
+    "data": {
+      "key": "home_location_id"
+    }
+  },
+  {
+    "ts": 1779140534113,
+    "type": "shared_pref",
+    "data": {
+      "key": "locations"
+    }
+  },
+  {
+    "ts": 1779140534113,
+    "type": "shared_pref",
+    "data": {
+      "key": "mobile_location"
+    }
+  },
+  {
+    "ts": 1779140534161,
+    "type": "shared_pref",
+    "data": {
+      "key": "interstitial_ad_last_active_provider"
+    }
+  },
+  {
+    "ts": 1779140534164,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779140534164,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779140534166,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779140534172,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779140534173,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779140534182,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779140534183,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534183,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534184,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779140534184,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779140534185,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779140534186,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779140534187,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779140534189,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779140534189,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779140534193,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534193,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534193,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779140534194,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779140534202,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779140534213,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779140534214,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779140534230,
+    "type": "url_access",
+    "data": {
+      "url": "http://lintv.122.2o7.net/b/ss/lintvwhtmweather/0/JAVA-4.8.3-AN/s84635718"
+    }
+  },
+  {
+    "ts": 1779140534232,
+    "type": "url_access",
+    "data": {
+      "url": "http://lintv.122.2o7.net/b/ss/lintvwhtmweather/0/JAVA-4.8.3-AN/s84635718"
+    }
+  },
+  {
+    "ts": 1779140534236,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534236,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534237,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779140534239,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779140534243,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534244,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534244,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779140534253,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/google_ads_flags.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140534253,
+    "type": "shared_pref",
+    "data": {
+      "key": "flag_configuration"
+    }
+  },
+  {
+    "ts": 1779140534309,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779140534309,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779140534310,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779140534313,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779140534319,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779140534321,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779140534321,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779140534321,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779140534365,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/x86"
+    }
+  },
+  {
+    "ts": 1779140534365,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/armeabi-v7a"
+    }
+  },
+  {
+    "ts": 1779140534365,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/armeabi"
+    }
+  },
+  {
+    "ts": 1779140534365,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779140534374,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779140534381,
+    "type": "url_access",
+    "data": {
+      "url": "http://mobile-services.intellicast.com/200904-01/929686534/Locations/Cities/17057"
+    }
+  },
+  {
+    "ts": 1779140534400,
+    "type": "url_access",
+    "data": {
+      "url": "http://mobile-services.intellicast.com/200904-01/929686534/Locations/Cities/17057"
+    }
+  },
+  {
+    "ts": 1779140534402,
+    "type": "url_access",
+    "data": {
+      "url": "http://mobile-services.intellicast.com/200904-01/929686534/Locations/Cities/17057"
+    }
+  },
+  {
+    "ts": 1779140534416,
+    "type": "shared_pref",
+    "data": {
+      "key": "flag_configuration"
+    }
+  },
+  {
+    "ts": 1779140534447,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:interstitial:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779140534458,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whtm.android.weather/shared_prefs/admob.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140534459,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_url_hashes"
+    }
+  },
+  {
+    "ts": 1779140534459,
+    "type": "shared_pref",
+    "data": {
+      "key": "content_vertical_hashes"
+    }
+  },
+  {
+    "ts": 1779140534459,
+    "type": "shared_pref",
+    "data": {
+      "key": "app_settings_json"
+    }
+  },
+  {
+    "ts": 1779140534460,
+    "type": "shared_pref",
+    "data": {
+      "key": "display_cutout"
+    }
+  },
+  {
+    "ts": 1779140534460,
+    "type": "shared_pref",
+    "data": {
+      "key": "native_advanced_settings"
+    }
+  },
+  {
+    "ts": 1779140534463,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_csi_server"
+    }
+  },
+  {
+    "ts": 1779140534464,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/admob_user_agent.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140534464,
+    "type": "shared_pref",
+    "data": {
+      "key": "user_agent"
+    }
+  },
+  {
+    "ts": 1779140534479,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140534491,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140534519,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_csi_server"
+    }
+  },
+  {
+    "ts": 1779140534520,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534521,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534521,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534521,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534521,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534521,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534521,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534521,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779140534521,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779140534525,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779140534525,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779140534525,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779140534525,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_for_coarse_permission:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534525,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_timeout:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534525,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:auto_location_interval:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534526,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:pan:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534550,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534550,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534551,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534551,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534552,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534552,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534552,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534552,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779140534552,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779140534553,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779140534553,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779140534553,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779140534562,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whtm.android.weather/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779140534563,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140534566,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whtm.android.weather/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1779140534566,
+    "type": "dex_load",
+    "data": {
+      "dex": "/data/user/0/com.whtm.android.weather/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779140534567,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whtm.android.weather/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779140534567,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whtm.android.weather/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779140534568,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779140534568,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whtm.android.weather/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1779140534569,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whtm.android.weather/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1779140534570,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whtm.android.weather/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1779140534573,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whtm.android.weather/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1779140534575,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534575,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534575,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534575,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534575,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534576,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534576,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140534576,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779140534576,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779140534576,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779140534576,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779140534576,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779140534598,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779140534607,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whtm.android.weather/shared_prefs/mobileads_consent.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140534608,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779140534617,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779140534618,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779140534622,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~fXaR7xoQ0wXiU5KxwJ-6EQ==/com.whtm.android.weather-mHSgUtdfJsn8saPTHRHLUw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779140534634,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779140534634,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779140534634,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779140534643,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779140534644,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779140534650,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534650,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534650,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534651,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779140534652,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779140534652,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779140534656,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779140534657,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779140534661,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.wsi.android.weather.ui.MasterActivity"
+    }
+  },
+  {
+    "ts": 1779140534663,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534663,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534663,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534663,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779140534664,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779140534665,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779140534669,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534669,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534669,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534670,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779140534670,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779140534719,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779140534745,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779140534747,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779140534749,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779140534749,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779140534751,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779140534759,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whtm.android.weather/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140534790,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779140534932,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140534990,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whtm.android.weather/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140535031,
+    "type": "webview",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779140535058,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779140535169,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779140535949,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779140536137,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/favicon.ico"
+    }
+  },
+  {
+    "ts": 1779140536667,
+    "type": "settings_access",
+    "data": {
+      "setting": "location_providers_allowed"
+    }
+  },
+  {
+    "ts": 1779140536673,
+    "type": "settings_access",
+    "data": {
+      "setting": "location_providers_allowed"
+    }
+  },
+  {
+    "ts": 1779140536673,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779140536680,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779140536687,
+    "type": "url_access",
+    "data": {
+      "url": "http://lintv.122.2o7.net/b/ss/lintvwhtmweather/0/JAVA-4.8.3-AN/s56301099"
+    }
+  },
+  {
+    "ts": 1779140536689,
+    "type": "url_access",
+    "data": {
+      "url": "http://lintv.122.2o7.net/b/ss/lintvwhtmweather/0/JAVA-4.8.3-AN/s56301099"
+    }
+  },
+  {
+    "ts": 1779140536702,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779140551216,
+    "type": "url_access",
+    "data": {
+      "url": "http://mobile-services.intellicast.com/200904-01/929686534/Locations/Cities/17057"
+    }
+  },
+  {
+    "ts": 1779140551217,
+    "type": "url_access",
+    "data": {
+      "url": "http://mobile-services.intellicast.com/200904-01/929686534/Locations/Cities/17057"
+    }
+  },
+  {
+    "ts": 1779140551218,
+    "type": "url_access",
+    "data": {
+      "url": "http://mobile-services.intellicast.com/200904-01/929686534/Locations/Cities/17057"
+    }
+  },
+  {
+    "ts": 1779140553160,
+    "type": "settings_access",
+    "data": {
+      "setting": "location_providers_allowed"
+    }
+  },
+  {
+    "ts": 1779140553164,
+    "type": "settings_access",
+    "data": {
+      "setting": "location_providers_allowed"
+    }
+  },
+  {
+    "ts": 1779140553166,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779140553184,
+    "type": "url_access",
+    "data": {
+      "url": "http://lintv.122.2o7.net/b/ss/lintvwhtmweather/0/JAVA-4.8.3-AN/s57421754"
+    }
+  },
+  {
+    "ts": 1779140553185,
+    "type": "url_access",
+    "data": {
+      "url": "http://lintv.122.2o7.net/b/ss/lintvwhtmweather/0/JAVA-4.8.3-AN/s57421754"
+    }
+  },
+  {
+    "ts": 1779140557044,
+    "type": "settings_access",
+    "data": {
+      "setting": "location_providers_allowed"
+    }
+  },
+  {
+    "ts": 1779140559432,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.wsi.android.weather.ui.MasterActivity"
+    }
+  },
+  {
+    "ts": 1779140559483,
+    "type": "shared_pref",
+    "data": {
+      "key": "distance_units"
+    }
+  },
+  {
+    "ts": 1779140559485,
+    "type": "shared_pref",
+    "data": {
+      "key": "temperature_units"
+    }
+  },
+  {
+    "ts": 1779140559485,
+    "type": "shared_pref",
+    "data": {
+      "key": "wind_speed_units"
+    }
+  },
+  {
+    "ts": 1779140559489,
+    "type": "settings_access",
+    "data": {
+      "setting": "location_providers_allowed"
+    }
+  },
+  {
+    "ts": 1779140559495,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779140559495,
+    "type": "settings_access",
+    "data": {
+      "setting": "location_providers_allowed"
+    }
+  },
+  {
+    "ts": 1779140559503,
+    "type": "url_access",
+    "data": {
+      "url": "http://lintv.122.2o7.net/b/ss/lintvwhtmweather/0/JAVA-4.8.3-AN/s91234908"
+    }
+  },
+  {
+    "ts": 1779140559504,
+    "type": "url_access",
+    "data": {
+      "url": "http://lintv.122.2o7.net/b/ss/lintvwhtmweather/0/JAVA-4.8.3-AN/s91234908"
+    }
+  },
+  {
+    "ts": 1779140561032,
+    "type": "shared_pref",
+    "data": {
+      "key": "interstitial_ad_last_active_provider"
+    }
+  },
+  {
+    "ts": 1779140561059,
+    "type": "settings_access",
+    "data": {
+      "setting": "location_providers_allowed"
+    }
+  },
+  {
+    "ts": 1779140561064,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779140561065,
+    "type": "settings_access",
+    "data": {
+      "setting": "location_providers_allowed"
+    }
+  },
+  {
+    "ts": 1779140561077,
+    "type": "url_access",
+    "data": {
+      "url": "http://lintv.122.2o7.net/b/ss/lintvwhtmweather/0/JAVA-4.8.3-AN/s71918615"
+    }
+  },
+  {
+    "ts": 1779140561078,
+    "type": "shared_pref",
+    "data": {
+      "key": "distance_units"
+    }
+  },
+  {
+    "ts": 1779140561079,
+    "type": "shared_pref",
+    "data": {
+      "key": "height_units"
+    }
+  },
+  {
+    "ts": 1779140561079,
+    "type": "shared_pref",
+    "data": {
+      "key": "pressure_units"
+    }
+  },
+  {
+    "ts": 1779140561079,
+    "type": "shared_pref",
+    "data": {
+      "key": "wind_speed_units"
+    }
+  },
+  {
+    "ts": 1779140561079,
+    "type": "shared_pref",
+    "data": {
+      "key": "temperature_units"
+    }
+  },
+  {
+    "ts": 1779140561080,
+    "type": "url_access",
+    "data": {
+      "url": "http://lintv.122.2o7.net/b/ss/lintvwhtmweather/0/JAVA-4.8.3-AN/s71918615"
+    }
+  },
+  {
+    "ts": 1779140561155,
+    "type": "shared_pref",
+    "data": {
+      "key": "distance_units"
+    }
+  },
+  {
+    "ts": 1779140561155,
+    "type": "shared_pref",
+    "data": {
+      "key": "height_units"
+    }
+  },
+  {
+    "ts": 1779140561155,
+    "type": "shared_pref",
+    "data": {
+      "key": "pressure_units"
+    }
+  },
+  {
+    "ts": 1779140561155,
+    "type": "shared_pref",
+    "data": {
+      "key": "wind_speed_units"
+    }
+  },
+  {
+    "ts": 1779140561155,
+    "type": "shared_pref",
+    "data": {
+      "key": "temperature_units"
+    }
+  },
+  {
+    "ts": 1779140561161,
+    "type": "shared_pref",
+    "data": {
+      "key": "distance_units"
+    }
+  },
+  {
+    "ts": 1779140561161,
+    "type": "shared_pref",
+    "data": {
+      "key": "height_units"
+    }
+  },
+  {
+    "ts": 1779140561161,
+    "type": "shared_pref",
+    "data": {
+      "key": "pressure_units"
+    }
+  },
+  {
+    "ts": 1779140561161,
+    "type": "shared_pref",
+    "data": {
+      "key": "wind_speed_units"
+    }
+  },
+  {
+    "ts": 1779140561161,
+    "type": "shared_pref",
+    "data": {
+      "key": "temperature_units"
+    }
+  },
+  {
+    "ts": 1779140561173,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779140561174,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779140561174,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779140561175,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140561175,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779140561175,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779140561183,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779140561184,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779140561184,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779140561185,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779140561197,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/n/x86"
+    }
+  },
+  {
+    "ts": 1779140561197,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/n/armeabi-v7a"
+    }
+  },
+  {
+    "ts": 1779140561198,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/n/armeabi"
+    }
+  },
+  {
+    "ts": 1779140561198,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779140561202,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779140561245,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whtm.android.weather/shared_prefs/com.google.maps.api.android.lib6.drd.PREFERENCES_FILE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140561248,
+    "type": "settings_access",
+    "data": {
+      "setting": "logging_id2"
+    }
+  },
+  {
+    "ts": 1779140561303,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779140561303,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779140561314,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779140561314,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779140561315,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779140561315,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779140561340,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whtm.android.weather/shared_prefs/MapviewInitializerPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140561363,
+    "type": "shared_pref",
+    "data": {
+      "key": "location_based_overlay_key"
+    }
+  },
+  {
+    "ts": 1779140561367,
+    "type": "shared_pref",
+    "data": {
+      "key": "map_view_type"
+    }
+  },
+  {
+    "ts": 1779140561369,
+    "type": "shared_pref",
+    "data": {
+      "key": "layer_type"
+    }
+  },
+  {
+    "ts": 1779140561369,
+    "type": "shared_pref",
+    "data": {
+      "key": "basemap_layer_type"
+    }
+  },
+  {
+    "ts": 1779140561369,
+    "type": "shared_pref",
+    "data": {
+      "key": "layer_data_display_mode"
+    }
+  },
+  {
+    "ts": 1779140561369,
+    "type": "shared_pref",
+    "data": {
+      "key": "layer_time_display_mode"
+    }
+  },
+  {
+    "ts": 1779140561370,
+    "type": "shared_pref",
+    "data": {
+      "key": "layer_type"
+    }
+  },
+  {
+    "ts": 1779140561371,
+    "type": "shared_pref",
+    "data": {
+      "key": "basemap_layer_type"
+    }
+  },
+  {
+    "ts": 1779140561372,
+    "type": "shared_pref",
+    "data": {
+      "key": "overlay_cat_WeatherAlertsSevere"
+    }
+  },
+  {
+    "ts": 1779140561372,
+    "type": "shared_pref",
+    "data": {
+      "key": "layer_data_display_mode"
+    }
+  },
+  {
+    "ts": 1779140561372,
+    "type": "shared_pref",
+    "data": {
+      "key": "layer_time_display_mode"
+    }
+  },
+  {
+    "ts": 1779140561372,
+    "type": "shared_pref",
+    "data": {
+      "key": "distance_units"
+    }
+  },
+  {
+    "ts": 1779140561372,
+    "type": "shared_pref",
+    "data": {
+      "key": "height_units"
+    }
+  },
+  {
+    "ts": 1779140561373,
+    "type": "shared_pref",
+    "data": {
+      "key": "pressure_units"
+    }
+  },
+  {
+    "ts": 1779140561373,
+    "type": "shared_pref",
+    "data": {
+      "key": "wind_speed_units"
+    }
+  },
+  {
+    "ts": 1779140561373,
+    "type": "shared_pref",
+    "data": {
+      "key": "temperature_units"
+    }
+  },
+  {
+    "ts": 1779140561373,
+    "type": "shared_pref",
+    "data": {
+      "key": "location_based_overlay_key"
+    }
+  },
+  {
+    "ts": 1779140561387,
+    "type": "shared_pref",
+    "data": {
+      "key": "overlay_cat_StormTracks"
+    }
+  },
+  {
+    "ts": 1779140561387,
+    "type": "shared_pref",
+    "data": {
+      "key": "overlay_cat_WeatherAlertsSevere"
+    }
+  },
+  {
+    "ts": 1779140561387,
+    "type": "shared_pref",
+    "data": {
+      "key": "overlay_cat_WeatherAlertsFlood"
+    }
+  },
+  {
+    "ts": 1779140561388,
+    "type": "shared_pref",
+    "data": {
+      "key": "overlay_cat_TropicalTracks"
+    }
+  },
+  {
+    "ts": 1779140561388,
+    "type": "shared_pref",
+    "data": {
+      "key": "overlay_cat_WeatherAlertsTropical"
+    }
+  },
+  {
+    "ts": 1779140561388,
+    "type": "shared_pref",
+    "data": {
+      "key": "overlay_cat_Earthquakes"
+    }
+  },
+  {
+    "ts": 1779140561388,
+    "type": "shared_pref",
+    "data": {
+      "key": "overlay_cat_Lightning"
+    }
+  },
+  {
+    "ts": 1779140561388,
+    "type": "shared_pref",
+    "data": {
+      "key": "overlay_cat_WeatherAlertsOther"
+    }
+  },
+  {
+    "ts": 1779140561388,
+    "type": "shared_pref",
+    "data": {
+      "key": "overlay_cat_WeatherAlertsWinter"
+    }
+  },
+  {
+    "ts": 1779140561389,
+    "type": "shared_pref",
+    "data": {
+      "key": "overlay_cat_WeatherAlertsMarine"
+    }
+  },
+  {
+    "ts": 1779140561389,
+    "type": "shared_pref",
+    "data": {
+      "key": "layer_type"
+    }
+  },
+  {
+    "ts": 1779140561389,
+    "type": "shared_pref",
+    "data": {
+      "key": "basemap_layer_type"
+    }
+  },
+  {
+    "ts": 1779140561390,
+    "type": "shared_pref",
+    "data": {
+      "key": "layer_data_display_mode"
+    }
+  },
+  {
+    "ts": 1779140561390,
+    "type": "shared_pref",
+    "data": {
+      "key": "layer_time_display_mode"
+    }
+  },
+  {
+    "ts": 1779140561391,
+    "type": "shared_pref",
+    "data": {
+      "key": "layer_type"
+    }
+  },
+  {
+    "ts": 1779140561391,
+    "type": "shared_pref",
+    "data": {
+      "key": "basemap_layer_type"
+    }
+  },
+  {
+    "ts": 1779140561391,
+    "type": "shared_pref",
+    "data": {
+      "key": "layer_data_display_mode"
+    }
+  },
+  {
+    "ts": 1779140561391,
+    "type": "shared_pref",
+    "data": {
+      "key": "layer_time_display_mode"
+    }
+  },
+  {
+    "ts": 1779140561392,
+    "type": "shared_pref",
+    "data": {
+      "key": "layer_type"
+    }
+  },
+  {
+    "ts": 1779140561392,
+    "type": "shared_pref",
+    "data": {
+      "key": "basemap_layer_type"
+    }
+  },
+  {
+    "ts": 1779140561392,
+    "type": "shared_pref",
+    "data": {
+      "key": "layer_data_display_mode"
+    }
+  },
+  {
+    "ts": 1779140561392,
+    "type": "shared_pref",
+    "data": {
+      "key": "layer_time_display_mode"
+    }
+  },
+  {
+    "ts": 1779140561393,
+    "type": "shared_pref",
+    "data": {
+      "key": "overlay_cat_WeatherAlertsSevere"
+    }
+  },
+  {
+    "ts": 1779140561427,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:nonagon:banner:ad_unit_exclusions"
+    }
+  },
+  {
+    "ts": 1779140561428,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140561430,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140561434,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140561434,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140561434,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140561435,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779140561435,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779140561435,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140561435,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140561435,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779140561436,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779140561436,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779140561436,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779140561436,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779140561439,
+    "type": "shared_pref",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140561441,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140561441,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140561441,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1779140561442,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1779140561442,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140561442,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1779140561442,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1779140561442,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1779140561442,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1779140561442,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1779140561442,
+    "type": "shared_pref",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1779140561444,
+    "type": "shared_pref",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1779140561444,
+    "type": "shared_pref",
+    "data": {
+      "key": "fc_consent"
+    }
+  },
+  {
+    "ts": 1779140562057,
+    "type": "webview",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779140562060,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779140562069,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1779140562082,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779140562086,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779140562089,
+    "type": "file_access",
+    "data": {
+      "path": "data:text/html;charset=utf-8;base64,"
+    }
+  },
+  {
+    "ts": 1779140562113,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/omsdk/releases/live/omsdk-v1.js"
+    }
+  },
+  {
+    "ts": 1779140562114,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/simgad/11480762396268174954"
+    }
+  },
+  {
+    "ts": 1779140562127,
+    "type": "file_access",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/favicon.ico"
+    }
+  },
+  {
+    "ts": 1779140562128,
+    "type": "shared_pref",
+    "data": {
+      "key": "Cohort"
+    }
+  },
+  {
+    "ts": 1779140562129,
+    "type": "shared_pref",
+    "data": {
+      "key": "LegalCountry"
+    }
+  },
+  {
+    "ts": 1779140562137,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779140562234,
+    "type": "file_access",
+    "data": {
+      "path": "https://www.googletagservices.com/activeview/js/current/lidar.js?cache=r20110914"
+    }
+  },
+  {
+    "ts": 1779140562249,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/omsdk/releases/live/omid_session_bin.js"
+    }
+  },
+  {
+    "ts": 1779140562250,
+    "type": "file_access",
+    "data": {
+      "path": "https://tpc.googlesyndication.com/pagead/js/r20260514/r20110914/client/window_focus.js"
+    }
+  },
+  {
+    "ts": 1779140562564,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779140562573,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779140562618,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779140562624,
+    "type": "url_access",
+    "data": {
+      "url": "https://clients4.google.com/glm/mmap/api"
+    }
+  },
+  {
+    "ts": 1779140562752,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=colleague-executed&name=4"
+    }
+  },
+  {
+    "ts": 1779140562814,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=reach&proto=CAlgAWACaAM%3D"
+    }
+  },
+  {
+    "ts": 1779140562826,
+    "type": "file_access",
+    "data": {
+      "path": "https://pubads.g.doubleclick.net/favicon.ico"
+    }
+  },
+  {
+    "ts": 1779140562840,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779140562850,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779140562854,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.init({\"impressionOwner\":\"javascript\",\"videoEventsOwner\":\"none\",\"isolateVerificationScripts\":true})}"
+    }
+  },
+  {
+    "ts": 1779140562857,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setState(\"foregrounded\")}"
+    }
+  },
+  {
+    "ts": 1779140562860,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setDeviceVolume(0.73333335)}"
+    }
+  },
+  {
+    "ts": 1779140562861,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setDeviceVolume(0.73333335)}"
+    }
+  },
+  {
+    "ts": 1779140562861,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.startSession(\"5d8a930f-c1c6-4062-9082-cfb2f28fd01f\",{\"environment\":\"app\",\"adSessionType\":\"html\",\"deviceInfo\":{\"deviceType\":\"Google; sdk_gphone_x86_64\",\"osVersion\":\"30\",\"os\":\"Android\"},\"supports\":[\"clid\",\"vlid\"],\"omidNativeInfo\":{\"partnerName\":\"Google\",\"partnerVersion\":\"201004999.8298000\"},\"app\":{\"libraryVersion\":\"1.3.1-google_20200121\",\"appId\":\"com.whtm.android.weather\"},\"customReferenceData\":\"\"},{},\"\")}"
+    }
+  },
+  {
+    "ts": 1779140562863,
+    "type": "url_access",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/pagead/interaction/?ai=BIzi60YcLaueFLte1jMwP8-HdoAv7jdfPRwAAABABILbQoSs4AVjirM2VhARg5bLng8QOiAEBsgFANDIxMjAyLmFuZHJvaWQuY29tLndodG0uYW5kcm9pZC53ZWF0aGVyLmFkc2Vuc2Vmb3Jtb2JpbGVhcHBzLmNvbboBCWdmcF9pbWFnZcgBAtoBSGh0dHA6Ly80MjEyMDIuYW5kcm9pZC5jb20ud2h0bS5hbmRyb2lkLndlYXRoZXIuYWRzZW5zZWZvcm1vYmlsZWFwcHMuY29tL8ACAuACAOoCGi81Njc4L21nLndlYXRoZXIvd2h0bS9ob21l-AL80R6QA5oImAPgA6gDAcgDmQTQBJBO4AQB0gUGEL7u6Z8bkAYBoAYU2AYCqAe4vrECqAfz0RuoB5bYG6gHqpuxAqgHlcWxAqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAeAHAdIIMAiAYRABGB0yCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOljbgMGJ58OUA9gIAoAKBZgLAaoNAklO2g0TCOG6wonnw5QDFdcagwMd83AXtOoNEwij-cGJ58OUAxXXGoMDHfNwF7TQFQH4FgGAFwE&sigh=R-BdX99_zNo&cid=CAQSvwIABaugfUwmRV1yvwpDht--kTv0SkPm1yG8yCZPLFQ37MD6ljEKs4wu00HJvBG48JBc5jB4v3te5bCR-XoDll-ZeMY9ck2u26ysW-clr8Bk_3BX9jMgDlHgRdBm9c1uzpOdKvCIlbzkOTUJcYb_8eaw2Lqt2m2JaNH0as58IJeiuPVmbSdUYdGrmdmEnleIJ5dhhK6LBP08xlJlkv8M6dyt-2RkNHsSwefAXxAr8MRy7UiPoobWhWcq8pQdVq0clsS_GPw_9BPhpKJ3LWybgGkMcJBTrtcQJFCgMKR2QPZXX1m0xiNaNlSF_RKxgp5-6sLQ0uxTn6WShrUgfwoXeVNskNxY4x5MzISTy2G-EExSvKtVtFHWHQ8teYf8Skc_t12tQtXNC3EqXxYySZx5-825WrGpluCXvW3GWE9K0eil&label=drx_mediation_request_fill_result&mediation_fill_status=0.0.804.0&ttr=@gw_ttr@&smc_index=0"
+    }
+  },
+  {
+    "ts": 1779140562876,
+    "type": "url_access",
+    "data": {
+      "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjss-21RRwEaTcd10j9VV_GYC1910K0bKu7QLiRxEvptfOunDahCG-o0hGrTdM4wjmShrpdURhZhSyICjIS0wU9fCSJ1wKTZ2SlHnCAlIE4jlaxMuqJnAFXUBab9TBBOePNQiirZY7DJHuaUAEsfZHnqme38QzKJ-Pqtm_xP8RogIEsQwZwPWvphCxDSGZy95IZg18ef-b5A2Gk_-Bh4pbZhXToQ2RbVwReSgS083wA1YDqe0zWXnR9x62A-aN2XwB40Qs70y1_YUbEKrD1t50n101---c7xSL8tKTi5ChH7FYIyi-_gct9pQ77oHLC9DD6jutrj0lCbjzokWhoxvVvGbYtN5qYCbuqp8L5c2Rhb7D3t8Bid0dqy2T0G9Bahqt5Dqw7xb-xUItiB4sASptbO2JHDTpAShCoeTpJvmV-iKFrQcHEaCceKFfvDjEDLI6WyLNxLvdoZgq75Tciyp5-0QgcTdnJ8d8RmsMaBE_s0VYp47Yrf_HexqL4iCWiSY6DWL&sai=AMfl-YQtagWc2SJFFSb33fxD1G5xHbRJQaeNMzq-hgPFB5y6X4hbhXOQbNkAf5wXsGShAeRAxJ4jXjGB1Boa1KhsdsbtMmzV3WA_SxIYX6ADH8Ytr9J2RabRJPg4dsz2Qu6CfhYnCeYK3Z-0E2qJu04zUNldSs-LsqWQBwrWdEXN-kebJV7d2-iSqfo3PzROG_NOO1rYbo7PVLZZxpvLo_KQlZXMQZfx5yoBOSgfi-YdhkNUhmjaddL5kPReOwx1PVWrXq90HgcYz_D1cqmD81bc0q8nGNbNqfPGlV2873oe7tE8vAC8CeLrApH7xOqfjKQIOCQP249s8ADNpjurHF_b9SQZa0SW7m6QpJ0L_gO_CCs1O-H8ANYBw6_WBqR1Bxs_F21cSj6xm5A9tO9hxHb4_lS0qeznWh4uamC_NaArzKayFYS8xQg_yeVBmPXCNVa9oKu02T2pA15mscTEfZP0vLa691g&sig=Cg0ArKJSzNaqJNDaZHp-EAE&uach_m=%5BUACH%5D&adurl=&plcmtid=@gw_placement_id@&ms=CoACng_hWuzro2qqaVF9d9LVnHBfEDwvEA8lk7qPG2_GEVZTAwL37ft54g-ul9Fkk-hLdpiVi-ya6e5DUR_CIPonAdmhGsy577QPvmmDqMV6W6Z-tFA-GMt9prWy4LVYLphUV3GCphYmGPFxo1N-R0eF4RNDdoi2feWR_L34D5OySkpWpmzGzLGVlvI7Y_8z2qqOaW7k0akYpE8y-rZR61Y5GL4i2yEiFKxvQyZdRz_g2f64rX0QFiFTHlV0LGti-ygEY80VanUE7Y7m3CRre1OQ9UlMGpf8oaCIh-FUwoknpQHPp8R2CpIWKFntxAa18kV5nq-39IGrYEKR8mSnDcLVwQqAAo2c0o57kwS-fx_ATbJbotP_pZDdIL18S7cfm3xdqhwN0b1y-6nOnMvuUUzPLxmnEIammzLN44O4t2nSavUuiRSD6lkzbVrNFcqpF6aT9-eUZOyC6Pz8g7YBChLSsD4acpY8_horbuhF93DVunfEeZNOlUwQ24xdkXAQdqT0nsoyLO_Bae9gfK1I2Z4XACb1pF7LV1mid-AfGi7UHb_sBOol2SukPoTtQRbcy3k853CoK5fxPCw4btnbFiceuj3opTkddbXVl7bxq01qcWGjAVH_Z6f8k0Zm24ex9BDIFIOYyFgB8elQrN56A5sD6o6xiQIUGxf1Gcy_PhItkxFzaxwSEElGDp8iz70dlGCjraTNL3M"
+    }
+  },
+  {
+    "ts": 1779140562919,
+    "type": "file_access",
+    "data": {
+      "path": "https://pagead2.googlesyndication.com/pagead/gen_204?zx=d0ntb0z2zmjf&id=gmob-apps-activeview&event=empty-clickstring&immediate=false&v=sdk_20260511_RC00&app_name=app_name_unavailable"
+    }
+  },
+  {
+    "ts": 1779140562981,
+    "type": "webview",
+    "data": {
+      "url": "javascript: if(window.omidBridge!==undefined){omidBridge.setNativeViewHierarchy({\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":850.9091186523438,\"childViews\":[{\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":780,\"childViews\":[{\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":780,\"childViews\":[{\"x\":0,\"y\":52.727272033691406,\"width\":392.7272644042969,\"height\":727.272705078125,\"childViews\":[{\"x\":0,\"y\":52.727272033691406,\"width\":392.7272644042969,\"height\":727.272705078125,\"childViews\":[{\"x\":0,\"y\":52.727272033691406,\"width\":392.7272644042969,\"height\":727.272705078125,\"childViews\":[{\"x\":0,\"y\":52.727272033691406,\"width\":392.7272644042969,\"height\":727.272705078125,\"childViews\":[{\"x\":0,\"y\":52.727272033691406,\"width\":392.7272644042969,\"height\":727.272705078125,\"childViews\":[{\"x\":0,\"y\":52.727272033691406,\"width\":392.7272644042969,\"height\":727.272705078125,\"childViews\":[{\"x\":0,\"y\":52.727272033691406,\"width\":392.7272644042969,\"height\":727.272705078125,\"childViews\":[{\"x\":0,\"y\":52.727272033691406,\"width\":392.7272644042969,\"height\":50.181819915771484,\"childViews\":[{\"x\":0,\"y\":52.727272033691406,\"width\":392.7272644042969,\"height\":50.181819915771484,\"childViews\":[{\"x\":36.3636360168457,\"y\":52.727272033691406,\"width\":320,\"height\":49.818180084228516,\"childViews\":[{\"x\":36.3636360168457,\"y\":52.727272033691406,\"width\":320,\"height\":49.818180084228516,\"childViews\":[{\"x\":36.3636360168457,\"y\":52.727272033691406,\"width\":320,\"height\":49.818180084228516,\"adSessionId\":\"5d8a930f-c1c6-4062-9082-cfb2f28fd01f\"}]}]}]}]},{\"x\":0,\"y\":102.90908813476562,\"width\":392.7272644042969,\"height\":677.0908813476562,\"childViews\":[{\"x\":0,\"y\":102.90908813476562,\"width\":392.7272644042969,\"height\":677.0908813476562,\"childViews\":[{\"x\":0,\"y\":102.90908813476562,\"width\":392.7272644042969,\"height\":677.0908813476562,\"childViews\":[{\"x\":0,\"y\":102.90908813476562,\"width\":392.7272644042969,\"height\":36,\"childViews\":[{\"x\":0,\"y\":102.90908813476562,\"width\":392.7272644042969,\"height\":36,\"childViews\":[{\"x\":0,\"y\":102.90908813476562,\"width\":392.7272644042969,\"height\":34.90909194946289,\"childViews\":[{\"x\":0,\"y\":102.90908813476562,\"width\":100,\"height\":34.90909194946289},{\"x\":100,\"y\":102.90908813476562,\"width\":252.72727966308594,\"height\":34.90909194946289,\"childViews\":[{\"x\":170.18182373046875,\"y\":102.90908813476562,\"width\":112,\"height\":34.90909194946289}]},{\"x\":352.7272644042969,\"y\":102.90908813476562,\"width\":40,\"height\":34.90909194946289,\"childViews\":[{\"x\":352.7272644042969,\"y\":107.63636016845703,\"width\":34.90909194946289,\"height\":25.090909957885742}]}]},{\"x\":0,\"y\":137.81817626953125,\"width\":392.7272644042969,\"height\":1.0909091234207153}]}]},{\"x\":0,\"y\":138.90908813476562,\"width\":392.7272644042969,\"height\":641.0908813476562,\"childViews\":[{\"x\":0,\"y\":138.90908813476562,\"width\":392.7272644042969,\"height\":641.0908813476562,\"childViews\":[{\"x\":0,\"y\":138.90908813476562,\"width\":392.7272644042969,\"height\":641.0908813476562,\"childViews\":[{\"x\":0,\"y\":138.90908813476562,\"width\":392.7272644042969,\"height\":45.09090805053711}]},{\"x\":0,\"y\":289.0909118652344,\"width\":392.7272644042969,\"height\":490.9090881347656,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":30.18181800842285,\"childViews\":[{\"x\":8,\"y\":289.0909118652344,\"width\":232.36363220214844,\"height\":30.18181800842285},{\"x\":240.36363220214844,\"y\":289.0909118652344,\"width\":0,\"height\":30.18181800842285},{\"x\":240.36363220214844,\"y\":289.0909118652344,\"width\":31.636363983154297,\"height\":30.18181800842285}]},{\"x\":0,\"y\":319.2727355957031,\"width\":280,\"height\":0.3636363744735718},{\"x\":0,\"y\":319.6363525390625,\"width\":280,\"height\":193.4545440673828,\"childViews\":[{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828,\"childViews\":[{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828}]}]},{\"x\":0,\"y\":289.0909118652344,\"width\":0,\"height\":0}]}]}]}]},{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":30.18181800842285,\"childViews\":[{\"x\":8,\"y\":289.0909118652344,\"width\":222.90908813476562,\"height\":30.18181800842285},{\"x\":230.90908813476562,\"y\":289.0909118652344,\"width\":0,\"height\":30.18181800842285},{\"x\":230.90908813476562,\"y\":289.0909118652344,\"width\":41.09090805053711,\"height\":30.18181800842285}]},{\"x\":0,\"y\":319.2727355957031,\"width\":280,\"height\":0.3636363744735718},{\"x\":0,\"y\":319.6363525390625,\"width\":280,\"height\":193.4545440673828,\"childViews\":[{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828}]},{\"x\":0,\"y\":289.0909118652344,\"width\":0,\"height\":0}]}]}]}]},{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":30.18181800842285,\"childViews\":[{\"x\":8,\"y\":289.0909118652344,\"width\":232.36363220214844,\"height\":30.18181800842285},{\"x\":240.36363220214844,\"y\":289.0909118652344,\"width\":0,\"height\":30.18181800842285},{\"x\":240.36363220214844,\"y\":289.0909118652344,\"width\":31.636363983154297,\"height\":30.18181800842285}]},{\"x\":0,\"y\":319.2727355957031,\"width\":280,\"height\":0.3636363744735718},{\"x\":0,\"y\":319.6363525390625,\"width\":280,\"height\":193.4545440673828,\"childViews\":[{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828}]},{\"x\":0,\"y\":289.0909118652344,\"width\":0,\"height\":0}]}]}]}]},{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":30.18181800842285,\"childViews\":[{\"x\":8,\"y\":289.0909118652344,\"width\":232.36363220214844,\"height\":30.18181800842285},{\"x\":240.36363220214844,\"y\":289.0909118652344,\"width\":0,\"height\":30.18181800842285},{\"x\":240.36363220214844,\"y\":289.0909118652344,\"width\":31.636363983154297,\"height\":30.18181800842285}]},{\"x\":0,\"y\":319.2727355957031,\"width\":280,\"height\":0.3636363744735718},{\"x\":0,\"y\":319.6363525390625,\"width\":280,\"height\":193.4545440673828,\"childViews\":[{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828,\"childViews\":[{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":50.54545593261719}]}]},{\"x\":0,\"y\":289.0909118652344,\"width\":0,\"height\":0}]}]}]}]},{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":30.18181800842285,\"childViews\":[{\"x\":8,\"y\":289.0909118652344,\"width\":232.36363220214844,\"height\":30.18181800842285},{\"x\":240.36363220214844,\"y\":289.0909118652344,\"width\":0,\"height\":30.18181800842285},{\"x\":240.36363220214844,\"y\":289.0909118652344,\"width\":31.636363983154297,\"height\":30.18181800842285}]},{\"x\":0,\"y\":319.2727355957031,\"width\":280,\"height\":0.3636363744735718},{\"x\":0,\"y\":319.6363525390625,\"width\":280,\"height\":193.4545440673828,\"childViews\":[{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828,\"childViews\":[{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":25.454545974731445},{\"x\":8,\"y\":353.0909118652344,\"width\":264,\"height\":152}]}]},{\"x\":0,\"y\":289.0909118652344,\"width\":0,\"height\":0}]}]}]}]},{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":30.18181800842285,\"childViews\":[{\"x\":8,\"y\":289.0909118652344,\"width\":232.36363220214844,\"height\":30.18181800842285},{\"x\":240.36363220214844,\"y\":289.0909118652344,\"width\":0,\"height\":30.18181800842285},{\"x\":240.36363220214844,\"y\":289.0909118652344,\"width\":31.636363983154297,\"height\":30.18181800842285}]},{\"x\":0,\"y\":319.2727355957031,\"width\":280,\"height\":0.3636363744735718},{\"x\":0,\"y\":319.6363525390625,\"width\":280,\"height\":193.4545440673828,\"childViews\":[{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828,\"childViews\":[{\"x\":8,\"y\":327.6363525390625,\"width\":128,\"height\":177.4545440673828,\"childViews\":[{\"x\":8,\"y\":344.7272644042969,\"width\":128,\"height\":28},{\"x\":41.818180084228516,\"y\":372.7272644042969,\"width\":60,\"height\":60},{\"x\":10.181818008422852,\"y\":434.9090881347656,\"width\":123.63636016845703,\"height\":23.272727966308594},{\"x\":10.181818008422852,\"y\":462.5454406738281,\"width\":123.63636016845703,\"height\":23.272727966308594}]},{\"x\":144,\"y\":327.6363525390625,\"width\":128,\"height\":177.4545440673828,\"childViews\":[{\"x\":144,\"y\":344.7272644042969,\"width\":128,\"height\":28},{\"x\":177.81817626953125,\"y\":372.7272644042969,\"width\":60,\"height\":60},{\"x\":146.18182373046875,\"y\":434.9090881347656,\"width\":123.63636016845703,\"height\":23.272727966308594},{\"x\":146.18182373046875,\"y\":462.5454406738281,\"width\":123.63636016845703,\"height\":23.272727966308594}]}]}]},{\"x\":0,\"y\":289.0909118652344,\"width\":0,\"height\":0}]}]}]}]},{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":30.18181800842285,\"childViews\":[{\"x\":8,\"y\":289.0909118652344,\"width\":232.36363220214844,\"height\":30.18181800842285},{\"x\":240.36363220214844,\"y\":289.0909118652344,\"width\":0,\"height\":30.18181800842285},{\"x\":240.36363220214844,\"y\":289.0909118652344,\"width\":31.636363983154297,\"height\":30.18181800842285}]},{\"x\":0,\"y\":319.2727355957031,\"width\":280,\"height\":0.3636363744735718},{\"x\":0,\"y\":319.6363525390625,\"width\":280,\"height\":193.4545440673828,\"childViews\":[{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828,\"childViews\":[{\"x\":8,\"y\":327.6363525390625,\"width\":128,\"height\":177.4545440673828,\"childViews\":[{\"x\":8,\"y\":344.7272644042969,\"width\":128,\"height\":28},{\"x\":41.818180084228516,\"y\":372.7272644042969,\"width\":60,\"height\":60},{\"x\":10.181818008422852,\"y\":434.9090881347656,\"width\":123.63636016845703,\"height\":23.272727966308594},{\"x\":10.181818008422852,\"y\":462.5454406738281,\"width\":123.63636016845703,\"height\":23.272727966308594}]},{\"x\":144,\"y\":327.6363525390625,\"width\":128,\"height\":177.4545440673828,\"childViews\":[{\"x\":144,\"y\":344.7272644042969,\"width\":128,\"height\":28},{\"x\":177.81817626953125,\"y\":372.7272644042969,\"width\":60,\"height\":60},{\"x\":146.18182373046875,\"y\":434.9090881347656,\"width\":123.63636016845703,\"height\":23.272727966308594},{\"x\":146.18182373046875,\"y\":462.5454406738281,\"width\":123.63636016845703,\"height\":23.272727966308594}]}]}]},{\"x\":0,\"y\":289.0909118652344,\"width\":0,\"height\":0}]}]}]}]},{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":224,\"childViews\":[{\"x\":0,\"y\":289.0909118652344,\"width\":280,\"height\":30.18181800842285,\"childViews\":[{\"x\":8,\"y\":289.0909118652344,\"width\":232.36363220214844,\"height\":30.18181800842285},{\"x\":240.36363220214844,\"y\":289.0909118652344,\"width\":0,\"height\":30.18181800842285},{\"x\":240.36363220214844,\"y\":289.0909118652344,\"width\":31.636363983154297,\"height\":30.18181800842285}]},{\"x\":0,\"y\":319.2727355957031,\"width\":280,\"height\":0.3636363744735718},{\"x\":0,\"y\":319.6363525390625,\"width\":280,\"height\":193.4545440673828,\"childViews\":[{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828,\"childViews\":[{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828,\"childViews\":[{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828,\"childViews\":[{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828,\"childViews\":[{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828},{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828,\"childViews\":[{\"x\":13.090909004211426,\"y\":477.81817626953125,\"width\":60,\"height\":22.18181800842285}]},{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828,\"childViews\":[{\"x\":261.81817626953125,\"y\":337.81817626953125,\"width\":0,\"height\":157.09091186523438}]}]}]},{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828}]}]},{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828},{\"x\":8,\"y\":327.6363525390625,\"width\":264,\"height\":177.4545440673828}]},{\"x\":0,\"y\":289.0909118652344,\"width\":0,\"height\":0}]}]}]}]}]},{\"x\":10.181818008422852,\"y\":741.8181762695312,\"width\":28,\"height\":28},{\"x\":0,\"y\":138.90908813476562,\"width\":392.7272644042969,\"height\":641.0908813476562,\"childViews\":[{\"x\":0,\"y\":138.90908813476562,\"width\":392.7272644042969,\"height\":641.0908813476562,\"childViews\":[{\"x\":0,\"y\":138.90908813476562,\"width\":392.7272644042969,\"height\":44.727272033691406,\"childViews\":[{\"x\":0,\"y\":138.90908813476562,\"width\":392.7272644042969,\"height\":44.727272033691406,\"childViews\":[{\"x\":0,\"y\":138.90908813476562,\"width\":392.7272644042969,\"height\":0,\"childViews\":[{\"x\":0,\"y\":138.90908813476562,\"width\":0,\"height\":0}]},{\"x\":0,\"y\":138.90908813476562,\"width\":392.7272644042969,\"height\":44.727272033691406,\"childViews\":[{\"x\":0,\"y\":138.90908813476562,\"width\":392.7272644042969,\"height\":44.727272033691406}]}]}]},{\"x\":0,\"y\":183.63636779785156,\"width\":392.7272644042969,\"height\":596.3636474609375}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]},{\"x\":0,\"y\":0,\"width\":392.7272644042969,\"height\":52.727272033691406}]}]})}"
+    }
+  }
+]

@@ -1,0 +1,471 @@
+[
+  {
+    "ts": 1779140689472,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779140689475,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140689483,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/shared_prefs/account.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140689483,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/shared_prefs/user.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140689485,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/shared_prefs/WsEnvironment.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140689486,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/shared_prefs/withings-library.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140689487,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/shared_prefs/withings-library-temp.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140689489,
+    "type": "shared_pref",
+    "data": {
+      "key": "account_id"
+    }
+  },
+  {
+    "ts": 1779140689492,
+    "type": "shared_pref",
+    "data": {
+      "key": "previous_os_version"
+    }
+  },
+  {
+    "ts": 1779140689496,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/shared_prefs/com.withings.wiscale2_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140689509,
+    "type": "shared_pref",
+    "data": {
+      "key": "environment"
+    }
+  },
+  {
+    "ts": 1779140689514,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/databases/google_app_measurement.db"
+    }
+  },
+  {
+    "ts": 1779140689517,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~OO3VNdXWnfcD5o1EmyO9_g==/com.withings.wiscale2-nLtGOiTIHxC36a4LjKmTCg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779140689520,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/shared_prefs/com.crashlytics.sdk.android:answers:com.crashlytics.android.answers.Answers.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140689565,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/ECB/PKCS7Padding"
+    }
+  },
+  {
+    "ts": 1779140689571,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/shared_prefs/com.crashlytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140689572,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779140689573,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779140689576,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140689576,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779140689584,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779140689599,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140689602,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/shared_prefs/TwitterAdvertisingInfoPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140689604,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B8851023B-0001-74A7-8632190CDD76BeginSession.cls_temp"
+    }
+  },
+  {
+    "ts": 1779140689605,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779140689606,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B8851023B-0001-74A7-8632190CDD76BeginSession.cls"
+    }
+  },
+  {
+    "ts": 1779140689607,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B8851023B-0001-74A7-8632190CDD76SessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1779140689607,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779140689612,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B8851023B-0001-74A7-8632190CDD76SessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779140689612,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B8851023B-0001-74A7-8632190CDD76SessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779140689612,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140689613,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779140689613,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779140689617,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B8851023B-0001-74A7-8632190CDD76SessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779140689619,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B8851023B-0001-74A7-8632190CDD76SessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779140689619,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140689619,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779140689620,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140689620,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140689621,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779140689634,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779140689665,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/databases/Withings-WiScale-wal"
+    }
+  },
+  {
+    "ts": 1779140689667,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/databases/Withings-WiScale-wal"
+    }
+  },
+  {
+    "ts": 1779140689675,
+    "type": "shared_pref",
+    "data": {
+      "key": "email"
+    }
+  },
+  {
+    "ts": 1779140689685,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779140689685,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779140689686,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779140689686,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779140689686,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~OO3VNdXWnfcD5o1EmyO9_g==/com.withings.wiscale2-nLtGOiTIHxC36a4LjKmTCg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779140689687,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~OO3VNdXWnfcD5o1EmyO9_g==/com.withings.wiscale2-nLtGOiTIHxC36a4LjKmTCg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779140689687,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~OO3VNdXWnfcD5o1EmyO9_g==/com.withings.wiscale2-nLtGOiTIHxC36a4LjKmTCg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779140689805,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~OO3VNdXWnfcD5o1EmyO9_g==/com.withings.wiscale2-nLtGOiTIHxC36a4LjKmTCg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779140689814,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~OO3VNdXWnfcD5o1EmyO9_g==/com.withings.wiscale2-nLtGOiTIHxC36a4LjKmTCg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779140689819,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~OO3VNdXWnfcD5o1EmyO9_g==/com.withings.wiscale2-nLtGOiTIHxC36a4LjKmTCg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779140689822,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~OO3VNdXWnfcD5o1EmyO9_g==/com.withings.wiscale2-nLtGOiTIHxC36a4LjKmTCg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779140689826,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~OO3VNdXWnfcD5o1EmyO9_g==/com.withings.wiscale2-nLtGOiTIHxC36a4LjKmTCg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779140689846,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140689847,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779140689849,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.withings.wiscale2/settings?instance=b2b7e680801595a831f2ff670640d876960cb87d&build_version=2160013&display_version=2.16&source=1&icon_hash=7d7af0b3e47feebed0c5e7f3de08782fc3417e4c"
+    }
+  },
+  {
+    "ts": 1779140689851,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.withings.wiscale2/settings?instance=b2b7e680801595a831f2ff670640d876960cb87d&build_version=2160013&display_version=2.16&source=1&icon_hash=7d7af0b3e47feebed0c5e7f3de08782fc3417e4c"
+    }
+  },
+  {
+    "ts": 1779140689855,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140689855,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140689855,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779140689856,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779140689856,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B8851023B-0001-74A7-8632190CDD76SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779140689862,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/databases/Withings-WiScale-wal"
+    }
+  },
+  {
+    "ts": 1779140689865,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.withings.wiscale2/shared_prefs/Withings.xml.bak"
+    }
+  }
+]

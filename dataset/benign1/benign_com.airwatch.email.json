@@ -1,0 +1,268 @@
+[
+  {
+    "ts": 1779638684928,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779638684955,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwatch.email/shared_prefs/com.airwatch.email_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638684972,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwatch.email/shared_prefs/awsdk_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638685006,
+    "type": "file_access",
+    "data": {
+      "path": "/system"
+    }
+  },
+  {
+    "ts": 1779638685365,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/self/maps"
+    }
+  },
+  {
+    "ts": 1779638685454,
+    "type": "file_access",
+    "data": {
+      "path": "/system"
+    }
+  },
+  {
+    "ts": 1779638685495,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~ZW1m79oLQRyC3aA9-e1nTA==/com.airwatch.email-xINEWr6mVg6f9tRydlRU3A==/base.apk"
+    }
+  },
+  {
+    "ts": 1779638685593,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwatch.email/shared_prefs/p2pfile.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638685598,
+    "type": "shared_pref",
+    "data": {
+      "key": "host"
+    }
+  },
+  {
+    "ts": 1779638685600,
+    "type": "shared_pref",
+    "data": {
+      "key": "host"
+    }
+  },
+  {
+    "ts": 1779638685631,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwatch.email/shared_prefs/TwitterAdvertisingInfoPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638685634,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~ZW1m79oLQRyC3aA9-e1nTA==/com.airwatch.email-xINEWr6mVg6f9tRydlRU3A==/base.apk"
+    }
+  },
+  {
+    "ts": 1779638685637,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwatch.email/shared_prefs/com.crashlytics.sdk.android:answers:settings.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638685643,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638685645,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779638685651,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwatch.email/shared_prefs/AirWatchMail.Main.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638685653,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwatch.email/shared_prefs/com.crashlytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638685658,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779638685663,
+    "type": "shared_pref",
+    "data": {
+      "key": "emailConfiguration"
+    }
+  },
+  {
+    "ts": 1779638685663,
+    "type": "shared_pref",
+    "data": {
+      "key": "previousFileConfiguration"
+    }
+  },
+  {
+    "ts": 1779638685665,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779638685666,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779638685674,
+    "type": "shared_pref",
+    "data": {
+      "key": "awSdkEnrolledAnchorAppPkgName"
+    }
+  },
+  {
+    "ts": 1779638685718,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwatch.email/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13219D028B-0001-2C1C-16F87A72503CBeginSession.cls_temp"
+    }
+  },
+  {
+    "ts": 1779638685722,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwatch.email/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13219D028B-0001-2C1C-16F87A72503CBeginSession.cls"
+    }
+  },
+  {
+    "ts": 1779638685725,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwatch.email/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13219D028B-0001-2C1C-16F87A72503CSessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1779638685725,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779638685725,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwatch.email/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13219D028B-0001-2C1C-16F87A72503CSessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779638685726,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwatch.email/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13219D028B-0001-2C1C-16F87A72503CSessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779638685726,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638685727,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779638685727,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779638685729,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwatch.email/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13219D028B-0001-2C1C-16F87A72503CSessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779638685731,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.airwatch.email/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13219D028B-0001-2C1C-16F87A72503CSessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779638685731,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638685732,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779638685733,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638685734,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  }
+]

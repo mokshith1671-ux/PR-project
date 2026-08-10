@@ -1,0 +1,1430 @@
+[
+  {
+    "ts": 1779640710564,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aos.clean.security.android.boost/shared_prefs/track_user_behavior.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640710564,
+    "type": "shared_pref",
+    "data": {
+      "key": "track_user_behavior_sequence"
+    }
+  },
+  {
+    "ts": 1779640710566,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aos.clean.security.android.boost/shared_prefs/appsflyer-data.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640710567,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779640710569,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aos.clean.security.android.boost/shared_prefs/SHARED_PREFERENCES_ANALYTICS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640710570,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640710574,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640710578,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aos.clean.security.android.boost.activity.GuideActivity"
+    }
+  },
+  {
+    "ts": 1779640710581,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779640710581,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779640710590,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779640710591,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640710592,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779640710596,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640710598,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779640710601,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640710603,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779640710613,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779640710616,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779640710616,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640710617,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779640710617,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779640710618,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aos.clean.security.android.boost/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A132986017F-0001-67AF-8EF2D99B22A9SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779640710619,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779640710622,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779640710626,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779640710628,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779640710629,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aos.clean.security.android.boost/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779640710636,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640710642,
+    "type": "shared_pref",
+    "data": {
+      "key": "alp.pkey.sys.pattern"
+    }
+  },
+  {
+    "ts": 1779640710643,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aos.clean.security.android.boost/shared_prefs/io.fabric.sdk.android:fabric:c.a.a.a.t.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640710645,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779640710646,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER"
+    }
+  },
+  {
+    "ts": 1779640710646,
+    "type": "shared_pref",
+    "data": {
+      "key": "alp.pkey.sys.encrypter_class"
+    }
+  },
+  {
+    "ts": 1779640710647,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779640710649,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640710650,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640710651,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640710653,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779640710657,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.aos.clean.security.android.boost/settings?instance=2dbb799cb89786ab5e53904de305748957d1bb9d&build_version=1006&display_version=1.0.0.6&source=1&icon_hash=31f5ca5fb117d353e8d0f0d65b6d348999102555"
+    }
+  },
+  {
+    "ts": 1779640710662,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640710663,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640710665,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640710665,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640710668,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640710669,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640710674,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779640710674,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779640710677,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779640710677,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779640710682,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779640710682,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779640710685,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.aos.clean.security.android.boost/settings?instance=2dbb799cb89786ab5e53904de305748957d1bb9d&build_version=1006&display_version=1.0.0.6&source=1&icon_hash=31f5ca5fb117d353e8d0f0d65b6d348999102555"
+    }
+  },
+  {
+    "ts": 1779640710700,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aos.clean.security.android.boost/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779640710732,
+    "type": "shared_pref",
+    "data": {
+      "key": "UNLOCKED_APPS"
+    }
+  },
+  {
+    "ts": 1779640710746,
+    "type": "url_access",
+    "data": {
+      "url": "https://sa.unionstatistics.com/log/base?appid=124&type=login"
+    }
+  },
+  {
+    "ts": 1779640710751,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/Camera2/Camera2.apk"
+    }
+  },
+  {
+    "ts": 1779640710752,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640710753,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640710760,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/Contacts/Contacts.apk"
+    }
+  },
+  {
+    "ts": 1779640710760,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aos.clean.security.android.boost/shared_prefs/onemobile_analytics.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640710761,
+    "type": "shared_pref",
+    "data": {
+      "key": "GUID"
+    }
+  },
+  {
+    "ts": 1779640710764,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779640710766,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779640710766,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779640710767,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779640710767,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640710768,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640710771,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779640710771,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779640710781,
+    "type": "shared_pref",
+    "data": {
+      "key": "CONFIG_DETAILS"
+    }
+  },
+  {
+    "ts": 1779640710782,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/Maps/Maps.apk"
+    }
+  },
+  {
+    "ts": 1779640710784,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk"
+    }
+  },
+  {
+    "ts": 1779640710785,
+    "type": "file_access",
+    "data": {
+      "path": "/system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779640710787,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779640710789,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/Dialer/Dialer.apk"
+    }
+  },
+  {
+    "ts": 1779640710791,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/PrebuiltBugle/PrebuiltBugle.apk"
+    }
+  },
+  {
+    "ts": 1779640710794,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/Chrome/Chrome.apk"
+    }
+  },
+  {
+    "ts": 1779640710795,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640710799,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/Photos/Photos.apk"
+    }
+  },
+  {
+    "ts": 1779640710802,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/Videos/Videos.apk"
+    }
+  },
+  {
+    "ts": 1779640710812,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/Velvet/Velvet.apk"
+    }
+  },
+  {
+    "ts": 1779640710814,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~fVQfaeUmuUST0IBP7pbRxQ==/com.aos.clean.security.android.boost-SuAZa2P924qnqJBAon4dsQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779640710816,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/PrebuiltGmail/PrebuiltGmail.apk"
+    }
+  },
+  {
+    "ts": 1779640710819,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/Drive/Drive.apk"
+    }
+  },
+  {
+    "ts": 1779640710823,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/priv-app/Settings/Settings.apk"
+    }
+  },
+  {
+    "ts": 1779640710837,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/YouTube/YouTube.apk"
+    }
+  },
+  {
+    "ts": 1779640710842,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk"
+    }
+  },
+  {
+    "ts": 1779640710911,
+    "type": "shared_pref",
+    "data": {
+      "key": "KEY_NOTIFICATION_WHITE_LIST"
+    }
+  },
+  {
+    "ts": 1779640710958,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779640710958,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779640710958,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779640710959,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779640710974,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v3/androidevent?buildnumber=3.0&app_id=com.aos.clean.security.android.boost"
+    }
+  },
+  {
+    "ts": 1779640711025,
+    "type": "shared_pref",
+    "data": {
+      "key": "track_user_behavior_sequence"
+    }
+  },
+  {
+    "ts": 1779640711037,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779640711037,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779640711043,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640711046,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640711049,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779640711050,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779640711085,
+    "type": "shared_pref",
+    "data": {
+      "key": "language_locale"
+    }
+  },
+  {
+    "ts": 1779640711126,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779640711128,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779640711130,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779640711131,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779640711175,
+    "type": "shared_pref",
+    "data": {
+      "key": "CONFIG_DETAILS"
+    }
+  },
+  {
+    "ts": 1779640711181,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779640711206,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779640711212,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aos.clean.security.android.boost/shared_prefs/com.facebook.ads.FEATURE_CONFIG.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640711212,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aos.clean.security.android.boost/shared_prefs/FBAdPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640711213,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceIdHash"
+    }
+  },
+  {
+    "ts": 1779640711229,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aos.clean.security.android.boost/shared_prefs/SDKIDFA.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640711235,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779640711240,
+    "type": "shared_pref",
+    "data": {
+      "key": "track_user_behavior_sequence"
+    }
+  },
+  {
+    "ts": 1779640711249,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640711250,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640711252,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640711252,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640711252,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779640711285,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aos.clean.security.android.boost.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779640711285,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779640711292,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779640711307,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640711307,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640711314,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779640711316,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779640711470,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common/"
+    }
+  },
+  {
+    "ts": 1779640711471,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common/"
+    }
+  },
+  {
+    "ts": 1779640711586,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779640711807,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aos.clean.security.android.boost/shared_prefs/sort.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640711902,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779640711953,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779640711953,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779640711958,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640711959,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640711963,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779640711964,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779640712115,
+    "type": "url_access",
+    "data": {
+      "url": "https://sa.unionstatistics.com/log/base?appid=124&type=reach"
+    }
+  },
+  {
+    "ts": 1779640712116,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640712116,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640712117,
+    "type": "shared_pref",
+    "data": {
+      "key": "GUID"
+    }
+  },
+  {
+    "ts": 1779640712117,
+    "type": "shared_pref",
+    "data": {
+      "key": "uuid_time"
+    }
+  },
+  {
+    "ts": 1779640712427,
+    "type": "url_access",
+    "data": {
+      "url": "https://sa.unionstatistics.com/log/base?appid=124&type=reach"
+    }
+  },
+  {
+    "ts": 1779640712428,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640712428,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640712428,
+    "type": "shared_pref",
+    "data": {
+      "key": "GUID"
+    }
+  },
+  {
+    "ts": 1779640712428,
+    "type": "shared_pref",
+    "data": {
+      "key": "uuid_time"
+    }
+  },
+  {
+    "ts": 1779640717203,
+    "type": "shared_pref",
+    "data": {
+      "key": "language_locale"
+    }
+  },
+  {
+    "ts": 1779640717267,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779640717278,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640717288,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aos.clean.security.android.boost.activity.BoostActivity"
+    }
+  },
+  {
+    "ts": 1779640717291,
+    "type": "shared_pref",
+    "data": {
+      "key": "track_user_behavior_sequence"
+    }
+  },
+  {
+    "ts": 1779640717333,
+    "type": "url_access",
+    "data": {
+      "url": "https://sa.unionstatistics.com/log/event?appid=124"
+    }
+  },
+  {
+    "ts": 1779640717333,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640717333,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640717333,
+    "type": "shared_pref",
+    "data": {
+      "key": "GUID"
+    }
+  },
+  {
+    "ts": 1779640717333,
+    "type": "shared_pref",
+    "data": {
+      "key": "uuid_time"
+    }
+  },
+  {
+    "ts": 1779640717455,
+    "type": "shared_pref",
+    "data": {
+      "key": "language_locale"
+    }
+  },
+  {
+    "ts": 1779640717462,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779640717500,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aos.clean.security.android.boost.activity.BoostFinishActivity"
+    }
+  },
+  {
+    "ts": 1779640717844,
+    "type": "shared_pref",
+    "data": {
+      "key": "track_user_behavior_sequence"
+    }
+  },
+  {
+    "ts": 1779640717857,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aos.clean.security.android.boost/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779640720674,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779640720679,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640720767,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779640720767,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779640720769,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640720770,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640720772,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779640720773,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779640720775,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779640720775,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779640720778,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640720781,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640720783,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779640720785,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779640720786,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779640720788,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779640720791,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640720792,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640720794,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779640720795,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779640726309,
+    "type": "shared_pref",
+    "data": {
+      "key": "list_of_app_to_check_cache"
+    }
+  },
+  {
+    "ts": 1779640727618,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640727619,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640727621,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640727621,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640727623,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640727623,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640727624,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640727624,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640727626,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640727626,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640727627,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640727627,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640733294,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779640733377,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aos.clean.security.android.boost.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779640733378,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779640733924,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640733924,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640733925,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640733925,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640733926,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  }
+]

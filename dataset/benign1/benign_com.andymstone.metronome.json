@@ -1,0 +1,23 @@
+[
+  {
+    "ts": 1779640219300,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779640219307,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/self/cmdline"
+    }
+  },
+  {
+    "ts": 1779640219308,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.andymstone.metronome/shared_prefs/com.andymstone.metronome_preferences.xml.bak"
+    }
+  }
+]

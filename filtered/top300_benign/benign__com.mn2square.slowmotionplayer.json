@@ -1,0 +1,884 @@
+[
+  {
+    "ts": 1778237632256,
+    "type": "file",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1778237632448,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1778237632450,
+    "type": "file",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1778237632451,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1778237632461,
+    "type": "file",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1778237632462,
+    "type": "file",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1778237632482,
+    "type": "file",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1778237632484,
+    "type": "file",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1778237632484,
+    "type": "file",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1778237632484,
+    "type": "file",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1778237632485,
+    "type": "file",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1778237632488,
+    "type": "file",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1778237632488,
+    "type": "file",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1778237632507,
+    "type": "file",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1778237632507,
+    "type": "file",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1778237632509,
+    "type": "file",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1778237632520,
+    "type": "file",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1778237632521,
+    "type": "file",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1778237632525,
+    "type": "file",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1778237632539,
+    "type": "file",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1778237632550,
+    "type": "file",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1778237632551,
+    "type": "file",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1778237632551,
+    "type": "file",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1778237632551,
+    "type": "file",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1778237632553,
+    "type": "file",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1778237632564,
+    "type": "file",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1778237632565,
+    "type": "file",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1778237632566,
+    "type": "file",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1778237632586,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/google_ads_flags.xml.bak"
+    }
+  },
+  {
+    "ts": 1778237632588,
+    "type": "sp",
+    "data": {
+      "key": "flag_configuration"
+    }
+  },
+  {
+    "ts": 1778237632702,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1778237632705,
+    "type": "file",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1778237632705,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1778237632713,
+    "type": "file",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1778237632723,
+    "type": "file",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1778237632734,
+    "type": "file",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1778237632736,
+    "type": "file",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1778237632736,
+    "type": "file",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1778237632779,
+    "type": "file",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/x86_64"
+    }
+  },
+  {
+    "ts": 1778237632780,
+    "type": "file",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/n/arm64-v8a"
+    }
+  },
+  {
+    "ts": 1778237632781,
+    "type": "file",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1778237632781,
+    "type": "file",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1778237632789,
+    "type": "file",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000000/AdsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1778237632830,
+    "type": "sp",
+    "data": {
+      "key": "flag_configuration"
+    }
+  },
+  {
+    "ts": 1778237632914,
+    "type": "sp",
+    "data": {
+      "key": "gads:active_view_location:html"
+    }
+  },
+  {
+    "ts": 1778237632935,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/admob_user_agent.xml.bak"
+    }
+  },
+  {
+    "ts": 1778237632937,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mn2square.slowmotionplayer/shared_prefs/admob.xml.bak"
+    }
+  },
+  {
+    "ts": 1778237632939,
+    "type": "sp",
+    "data": {
+      "key": "user_agent"
+    }
+  },
+  {
+    "ts": 1778237632969,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778237633001,
+    "type": "sp",
+    "data": {
+      "key": "content_url_hashes"
+    }
+  },
+  {
+    "ts": 1778237633001,
+    "type": "sp",
+    "data": {
+      "key": "content_vertical_hashes"
+    }
+  },
+  {
+    "ts": 1778237633002,
+    "type": "sp",
+    "data": {
+      "key": "app_settings_json"
+    }
+  },
+  {
+    "ts": 1778237633003,
+    "type": "sp",
+    "data": {
+      "key": "display_cutout"
+    }
+  },
+  {
+    "ts": 1778237633004,
+    "type": "sp",
+    "data": {
+      "key": "native_advanced_settings"
+    }
+  },
+  {
+    "ts": 1778237633070,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mn2square.slowmotionplayer/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1778237633071,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1778237633115,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  },
+  {
+    "ts": 1778237633137,
+    "type": "sp",
+    "data": {
+      "key": "gads:sdk_core_location:client:html"
+    }
+  },
+  {
+    "ts": 1778237633150,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mn2square.slowmotionplayer/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1778237633197,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mn2square.slowmotionplayer/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1778237633239,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1778237633242,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mn2square.slowmotionplayer/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1778237633247,
+    "type": "file",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1778237633255,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1778237633265,
+    "type": "file",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1778237633265,
+    "type": "file",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1778237633267,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mn2square.slowmotionplayer/cache/1582435991586.jar"
+    }
+  },
+  {
+    "ts": 1778237633276,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mn2square.slowmotionplayer/cache/1582435991586.tmp"
+    }
+  },
+  {
+    "ts": 1778237633276,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mn2square.slowmotionplayer/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1778237633276,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mn2square.slowmotionplayer/cache/1582435991586.dex"
+    }
+  },
+  {
+    "ts": 1778237633327,
+    "type": "file",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1778237633328,
+    "type": "file",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1778237633384,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1778237633387,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1778237633388,
+    "type": "file",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1778237633388,
+    "type": "file",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1778237633388,
+    "type": "file",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1778237633388,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1778237633409,
+    "type": "file",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1778237633507,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1778237633508,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1778237633544,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1778237633544,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1778237633544,
+    "type": "file",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1778237633544,
+    "type": "file",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1778237633545,
+    "type": "file",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1778237633545,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1778237633545,
+    "type": "file",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1778237633565,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1778237633565,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1778237633566,
+    "type": "file",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1778237633566,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1778237633570,
+    "type": "file",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1778237633608,
+    "type": "file",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1778237633631,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1778237633634,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1778237633656,
+    "type": "file",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1778237633658,
+    "type": "file",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1778237633660,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mn2square.slowmotionplayer/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1778237633697,
+    "type": "file",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1778237633785,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1778237634066,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mn2square.slowmotionplayer/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1778237634311,
+    "type": "webview",
+    "data": {
+      "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1778237634359,
+    "type": "sp",
+    "data": {
+      "key": "gads:sdk_core_constants:experiment_id"
+    }
+  },
+  {
+    "ts": 1778237634364,
+    "type": "sp",
+    "data": {
+      "key": "gad:dynamite_module:experiment_id"
+    }
+  },
+  {
+    "ts": 1778237634365,
+    "type": "sp",
+    "data": {
+      "key": "gads:afs:csa:experiment_id"
+    }
+  },
+  {
+    "ts": 1778237634365,
+    "type": "sp",
+    "data": {
+      "key": "gads:app_index:experiment_id"
+    }
+  },
+  {
+    "ts": 1778237634365,
+    "type": "sp",
+    "data": {
+      "key": "gads:block_autoclicks_experiment_id"
+    }
+  },
+  {
+    "ts": 1778237634366,
+    "type": "sp",
+    "data": {
+      "key": "gads:sdk_core_experiment_id"
+    }
+  },
+  {
+    "ts": 1778237634366,
+    "type": "sp",
+    "data": {
+      "key": "gads:spam_app_context:experiment_id"
+    }
+  },
+  {
+    "ts": 1778237634366,
+    "type": "sp",
+    "data": {
+      "key": "gads:corewebview:experiment_id"
+    }
+  },
+  {
+    "ts": 1778237634366,
+    "type": "sp",
+    "data": {
+      "key": "gads:temporary_experiment_id:1"
+    }
+  },
+  {
+    "ts": 1778237634366,
+    "type": "sp",
+    "data": {
+      "key": "gads:temporary_experiment_id:2"
+    }
+  },
+  {
+    "ts": 1778237634366,
+    "type": "sp",
+    "data": {
+      "key": "gads:temporary_experiment_id:3"
+    }
+  },
+  {
+    "ts": 1778237634368,
+    "type": "sp",
+    "data": {
+      "key": "gads:temporary_experiment_id:4"
+    }
+  },
+  {
+    "ts": 1778237634369,
+    "type": "sp",
+    "data": {
+      "key": "gads:temporary_experiment_id:5"
+    }
+  },
+  {
+    "ts": 1778237634404,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mn2square.slowmotionplayer/shared_prefs/mobileads_consent.xml.bak"
+    }
+  },
+  {
+    "ts": 1778237634423,
+    "type": "sp",
+    "data": {
+      "key": "consent_string"
+    }
+  },
+  {
+    "ts": 1778237634431,
+    "type": "file",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1778237634452,
+    "type": "file",
+    "data": {
+      "path": "/data/app/~~Vxwsw4pRteQGQ4Svk-DPLg==/com.mn2square.slowmotionplayer-8Z9Fkj_fcOrPJHsEd_MYLA==/base.apk"
+    }
+  },
+  {
+    "ts": 1778237634542,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mn2square.slowmotionplayer/shared_prefs/com.mn2square.slowmotionplayer_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1778237634575,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.mn2square.slowmotionplayer/shared_prefs/apprater.xml.bak"
+    }
+  },
+  {
+    "ts": 1778237634622,
+    "type": "activity",
+    "data": {
+      "activity": "com.mn2square.slowmotionplayer.MainActivity"
+    }
+  },
+  {
+    "ts": 1778237634662,
+    "type": "file",
+    "data": {
+      "path": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+    }
+  },
+  {
+    "ts": 1778237634673,
+    "type": "settings",
+    "data": {
+      "key": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1778237649031,
+    "type": "webview",
+    "data": {
+      "url": "about:blank"
+    }
+  }
+]

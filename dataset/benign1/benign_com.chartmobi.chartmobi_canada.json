@@ -1,0 +1,457 @@
+[
+  {
+    "ts": 1779646794979,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chartmobi.chartmobi_canada/shared_prefs/config.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646795135,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chartmobi.chartmobi_canada/shared_prefs/com.chartmobi.chartmobi_canada_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646795136,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.chartmobi.chartmobi_canada_preferences.products.cache.v2_6"
+    }
+  },
+  {
+    "ts": 1779646795136,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.chartmobi.chartmobi_canada_preferences.products.cache.v2_6.version"
+    }
+  },
+  {
+    "ts": 1779646795136,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.chartmobi.chartmobi_canada_preferences.subscriptions.cache.v2_6"
+    }
+  },
+  {
+    "ts": 1779646795138,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/events/AppOpened"
+    }
+  },
+  {
+    "ts": 1779646795138,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/events/AppOpened"
+    }
+  },
+  {
+    "ts": 1779646795138,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.chartmobi.chartmobi_canada_preferences.subscriptions.cache.v2_6.version"
+    }
+  },
+  {
+    "ts": 1779646795141,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chartmobi.chartmobi_canada/shared_prefs/apprater.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646795152,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.stockmobi.MainActivity"
+    }
+  },
+  {
+    "ts": 1779646795189,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779646795189,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779646795190,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779646795190,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779646795190,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~SpFFagMjVQvXNGc8FfVfTQ==/com.chartmobi.chartmobi_canada-zYLC1ie_KBKaQ25omhFydw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779646795190,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~SpFFagMjVQvXNGc8FfVfTQ==/com.chartmobi.chartmobi_canada-zYLC1ie_KBKaQ25omhFydw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779646795190,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~SpFFagMjVQvXNGc8FfVfTQ==/com.chartmobi.chartmobi_canada-zYLC1ie_KBKaQ25omhFydw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779646795329,
+    "type": "url_access",
+    "data": {
+      "url": "http://streamerapi.finance.yahoo.com/streamer/1.0?s=RY.TO,TD.TO,CNR.TO,CP.TO,TRI.TO,&k=l84,c63,p43,t53,l86,t51,z08,z09,a00,b00,a50,b60&j=l84,c63,p43,t53,l86,t51,z08,z09,a00,b00,a50,b60&callback=parent.yfs_u1f&mktmcb=parent.yfs_mktmcb&gencallback=parent.yfs_gencb&mu=1&ts=1779646795328"
+    }
+  },
+  {
+    "ts": 1779646795335,
+    "type": "url_access",
+    "data": {
+      "url": "http://finance.services.appex.bing.com/marketv2.svc/QC3CombinedDataV2?cntryMkt=en-CA&localizeFor=en-CA&clientType=PHONE&clientVersion=1.1.0.781"
+    }
+  },
+  {
+    "ts": 1779646795337,
+    "type": "url_access",
+    "data": {
+      "url": "http://finance.services.appex.bing.com/Market.svc/ConsolidatedBingNews?a=NewsArticlesByTopic_2.1&appid=5021FF6D1971DEF2E613F5DAD265192472D38E86&q=abc&q2=0&q3=30&q4=1&symbol=127.1.RY.TSE%2C127.1.TD.TSE%2C127.1.CNR.TSE%2C127.1.CP.TSE%2C127.1.TRI.TSE%2C&mkt=en-CA&isGenNews=false&Type=2"
+    }
+  },
+  {
+    "ts": 1779646795342,
+    "type": "url_access",
+    "data": {
+      "url": "http://finance.services.appex.bing.com/marketv2.svc/QC3CombinedDataV2?cntryMkt=en-CA&localizeFor=en-CA&clientType=PHONE&clientVersion=1.1.0.781"
+    }
+  },
+  {
+    "ts": 1779646795342,
+    "type": "url_access",
+    "data": {
+      "url": "http://finance.services.appex.bing.com/Market.svc/ConsolidatedBingNews?a=NewsArticlesByTopic_2.1&appid=5021FF6D1971DEF2E613F5DAD265192472D38E86&q=abc&q2=0&q3=30&q4=1&symbol=127.1.RY.TSE%2C127.1.TD.TSE%2C127.1.CNR.TSE%2C127.1.CP.TSE%2C127.1.TRI.TSE%2C&mkt=en-CA&isGenNews=false&Type=2"
+    }
+  },
+  {
+    "ts": 1779646795345,
+    "type": "url_access",
+    "data": {
+      "url": "http://streamerapi.finance.yahoo.com/streamer/1.0?s=RY.TO,TD.TO,CNR.TO,CP.TO,TRI.TO,&k=l84,c63,p43,t53,l86,t51,z08,z09,a00,b00,a50,b60&j=l84,c63,p43,t53,l86,t51,z08,z09,a00,b00,a50,b60&callback=parent.yfs_u1f&mktmcb=parent.yfs_mktmcb&gencallback=parent.yfs_gencb&mu=1&ts=1779646795328"
+    }
+  },
+  {
+    "ts": 1779646795491,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779646795501,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chartmobi.chartmobi_canada/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646795511,
+    "type": "shared_pref",
+    "data": {
+      "key": "776522019087647json"
+    }
+  },
+  {
+    "ts": 1779646795535,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646795536,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646795537,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646795537,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646795541,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646795541,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646795541,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646795541,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646795546,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646795546,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646795546,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646795546,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646795549,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646795549,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646795549,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646795550,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646795550,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646795550,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646795550,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646795550,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646795554,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646795555,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779646795555,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646795555,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779646795557,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779646795570,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/776522019087647/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779646795574,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chartmobi.chartmobi_canada/shared_prefs/com.crashlytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646795574,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646795575,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779646795590,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779646795593,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.chartmobi.chartmobi_canada/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779646795593,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779646795618,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.chartmobi.chartmobi_canada/settings?instance=e3054a2331d612590368aeaf70227cca7bc58610&build_version=16&display_version=1.2&source=1&icon_hash=fedb6ab27091006e456123ed6174edc5599937ec"
+    }
+  },
+  {
+    "ts": 1779646795619,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.chartmobi.chartmobi_canada/settings?instance=e3054a2331d612590368aeaf70227cca7bc58610&build_version=16&display_version=1.2&source=1&icon_hash=fedb6ab27091006e456123ed6174edc5599937ec"
+    }
+  },
+  {
+    "ts": 1779646796637,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_appsession"
+    }
+  },
+  {
+    "ts": 1779646796654,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779646796656,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779646796658,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779646796659,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "ts": 1779639868568,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.andrewtretiakov.followers_assistant.ui.activities.MainActivity_"
+    }
+  },
+  {
+    "ts": 1779639868570,
+    "type": "shared_pref",
+    "data": {
+      "key": "primary_user_id"
+    }
+  },
+  {
+    "ts": 1779639868571,
+    "type": "shared_pref",
+    "data": {
+      "key": "primary_user_id"
+    }
+  },
+  {
+    "ts": 1779639868572,
+    "type": "shared_pref",
+    "data": {
+      "key": "primary_user_id"
+    }
+  },
+  {
+    "ts": 1779639868572,
+    "type": "shared_pref",
+    "data": {
+      "key": "primary_user_id"
+    }
+  },
+  {
+    "ts": 1779639868572,
+    "type": "shared_pref",
+    "data": {
+      "key": "primary_user_id"
+    }
+  },
+  {
+    "ts": 1779639868574,
+    "type": "shared_pref",
+    "data": {
+      "key": "primary_user_id"
+    }
+  },
+  {
+    "ts": 1779639868574,
+    "type": "shared_pref",
+    "data": {
+      "key": "primary_user_id"
+    }
+  },
+  {
+    "ts": 1779639868581,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|1005782475274|*"
+    }
+  },
+  {
+    "ts": 1779639868582,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|1005782475274|*"
+    }
+  },
+  {
+    "ts": 1779639868582,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779639868582,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779639868591,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779639868617,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779639868619,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.andrewtretiakov.followers_assistant/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779639868624,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779639868625,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779639868629,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779639868633,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779639868634,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779639868637,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.andrewtretiakov.followers_assistant/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13263C014F-0001-4CA4-05B5E6951CFESessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779639868638,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.andrewtretiakov.followers_assistant/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639868638,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779639868642,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.andrewtretiakov.followers_assistant/settings?instance=c390d46c20d0a2c8f5d7ee8b97943287be284f96&build_version=78&display_version=1.4.9&source=1&icon_hash=4199436e8483660e81c508a6e9b0185dd088b7b2"
+    }
+  },
+  {
+    "ts": 1779639868647,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.andrewtretiakov.followers_assistant/settings?instance=c390d46c20d0a2c8f5d7ee8b97943287be284f96&build_version=78&display_version=1.4.9&source=1&icon_hash=4199436e8483660e81c508a6e9b0185dd088b7b2"
+    }
+  },
+  {
+    "ts": 1779639868669,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.andrewtretiakov.followers_assistant/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779639878591,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.andrewtretiakov.followers_assistant/databases/google_app_measurement_local.db"
+    }
+  },
+  {
+    "ts": 1779639880494,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|1005782475274|*"
+    }
+  },
+  {
+    "ts": 1779639880494,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|1005782475274|*"
+    }
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "ts": 1779133846024,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779133846034,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779133846035,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779133846035,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779133846036,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779133846038,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.time/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133846054,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779133846094,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779133846104,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.time/shared_prefs/BugSenseHandler.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133846113,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.time/files/fixnotification"
+    }
+  },
+  {
+    "ts": 1779133846130,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779133846133,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779133846135,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779133846135,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779133846137,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~N8WqjuXyeEOSihqzAfAKfA==/com.aadhk.time-eF_Y1QIZpZHsQgq2uMQ44g==/base.apk"
+    }
+  },
+  {
+    "ts": 1779133846138,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~N8WqjuXyeEOSihqzAfAKfA==/com.aadhk.time-eF_Y1QIZpZHsQgq2uMQ44g==/base.apk"
+    }
+  },
+  {
+    "ts": 1779133846150,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.time/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133846268,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.time/shared_prefs/_has_set_default_values.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133846277,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefDate"
+    }
+  },
+  {
+    "ts": 1779133846280,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefPeriod"
+    }
+  },
+  {
+    "ts": 1779133846281,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefFirstDayofWeek"
+    }
+  },
+  {
+    "ts": 1779133846282,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefExportData"
+    }
+  },
+  {
+    "ts": 1779133846283,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefExportData"
+    }
+  },
+  {
+    "ts": 1779133846284,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefInvoiceData"
+    }
+  },
+  {
+    "ts": 1779133846285,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefInvoiceData"
+    }
+  },
+  {
+    "ts": 1779133846285,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefMileageUnit"
+    }
+  },
+  {
+    "ts": 1779133846285,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefLang"
+    }
+  },
+  {
+    "ts": 1779133846286,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefLang"
+    }
+  },
+  {
+    "ts": 1779133846300,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133846300,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133846300,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133846300,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133846300,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AadhkTime"
+    }
+  },
+  {
+    "ts": 1779133846333,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/AadhkTime/db"
+    }
+  },
+  {
+    "ts": 1779133846344,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.time/shared_prefs/prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133846345,
+    "type": "shared_pref",
+    "data": {
+      "key": "ACCESS_KEY"
+    }
+  },
+  {
+    "ts": 1779133846347,
+    "type": "shared_pref",
+    "data": {
+      "key": "ACCESS_SECRET"
+    }
+  },
+  {
+    "ts": 1779133846348,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.time/shared_prefs/apprate_prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133846363,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aadhk.time.MainActivity"
+    }
+  },
+  {
+    "ts": 1779133846364,
+    "type": "shared_pref",
+    "data": {
+      "key": "punchNote"
+    }
+  },
+  {
+    "ts": 1779133846405,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779133846438,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779133847083,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.time/files"
+    }
+  },
+  {
+    "ts": 1779133847086,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.time/files"
+    }
+  },
+  {
+    "ts": 1779133847089,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.time/files"
+    }
+  },
+  {
+    "ts": 1779133847091,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.time/files/Ping_1779133847091-1061"
+    }
+  },
+  {
+    "ts": 1779133847601,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aadhk.time.MainActivity"
+    }
+  },
+  {
+    "ts": 1779133847602,
+    "type": "shared_pref",
+    "data": {
+      "key": "punchNote"
+    }
+  },
+  {
+    "ts": 1779133848025,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aadhk.time.MainActivity"
+    }
+  },
+  {
+    "ts": 1779133848026,
+    "type": "shared_pref",
+    "data": {
+      "key": "punchNote"
+    }
+  },
+  {
+    "ts": 1779133848042,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aadhk.time.MainActivity"
+    }
+  },
+  {
+    "ts": 1779133848043,
+    "type": "shared_pref",
+    "data": {
+      "key": "punchNote"
+    }
+  }
+]

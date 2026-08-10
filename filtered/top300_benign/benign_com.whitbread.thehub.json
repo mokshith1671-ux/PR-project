@@ -1,0 +1,695 @@
+[
+  {
+    "ts": 1779140417653,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140417654,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140417654,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/ECB/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140417665,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/shared_prefs/TwitterAdvertisingInfoPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140417667,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~ojCiuiyITTDebhJdXwTR_g==/com.whitbread.thehub-b2OWg4j9gs11KT0jlzGgfw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779140417670,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/shared_prefs/com.crashlytics.sdk.android:answers:settings.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140417680,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779140417681,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140417685,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/shared_prefs/com.crashlytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140417686,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779140417687,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779140417691,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B874102AC-0001-67C4-481082895CF4BeginSession.cls_temp"
+    }
+  },
+  {
+    "ts": 1779140417691,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B874102AC-0001-67C4-481082895CF4BeginSession.cls"
+    }
+  },
+  {
+    "ts": 1779140417696,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B874102AC-0001-67C4-481082895CF4SessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1779140417697,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779140417699,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B874102AC-0001-67C4-481082895CF4SessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779140417703,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B874102AC-0001-67C4-481082895CF4SessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779140417704,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140417704,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779140417704,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779140417704,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B874102AC-0001-67C4-481082895CF4SessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779140417705,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B874102AC-0001-67C4-481082895CF4SessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779140417705,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140417706,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779140417711,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140417712,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140417766,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140417768,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140417769,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/ECB/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140417770,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140417771,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140417772,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/ECB/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140417787,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/shared_prefs/HockeyApp.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140417792,
+    "type": "shared_pref",
+    "data": {
+      "key": "versionInfo"
+    }
+  },
+  {
+    "ts": 1779140417797,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140417797,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140417798,
+    "type": "url_access",
+    "data": {
+      "url": "https://sdk.hockeyapp.net/api/2/apps/f9c2e012e618112f3b68db74ea7661a6?format=json&udid=18e4a923cefaf2c2&os=Android&os_version=11&device=sdk_gphone_x86_64&oem=Google&app_version=185&sdk=HockeySDK&sdk_version=3.0.1&lang=en&usage_time=0"
+    }
+  },
+  {
+    "ts": 1779140417801,
+    "type": "url_access",
+    "data": {
+      "url": "http://hub.premierinn.com/whitbread-services-unsecured/shared/countries"
+    }
+  },
+  {
+    "ts": 1779140417804,
+    "type": "url_access",
+    "data": {
+      "url": "http://hub.premierinn.com/whitbread-services-unsecured/shared/countries"
+    }
+  },
+  {
+    "ts": 1779140417844,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.premierinn.com/mobile/config/2.4.1.185/android/0"
+    }
+  },
+  {
+    "ts": 1779140417844,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.premierinn.com/mobile/config/2.4.1.185/android/0"
+    }
+  },
+  {
+    "ts": 1779140417854,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140417855,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140417855,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/ECB/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140417868,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140417869,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140417870,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/ECB/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140417885,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/shared_prefs/APP_MEASUREMENT_CACHE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140417891,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-54dcd2ab3765320019e00000.json"
+    }
+  },
+  {
+    "ts": 1779140417892,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-54dcd2ab3765320019e00000.json"
+    }
+  },
+  {
+    "ts": 1779140417893,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-54dcd2ab3861330019660100.json"
+    }
+  },
+  {
+    "ts": 1779140417896,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-54dcd2ab3861330019660100.json"
+    }
+  },
+  {
+    "ts": 1779140417910,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.monitisecreate.thehub.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779140417914,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADOBEMOBILE_STOREDDEFAULTS_AID"
+    }
+  },
+  {
+    "ts": 1779140417915,
+    "type": "url_access",
+    "data": {
+      "url": "http://premierinn.sc.omtrdc.net/id"
+    }
+  },
+  {
+    "ts": 1779140417920,
+    "type": "url_access",
+    "data": {
+      "url": "http://premierinn.sc.omtrdc.net/id"
+    }
+  },
+  {
+    "ts": 1779140417922,
+    "type": "url_access",
+    "data": {
+      "url": "https://hub.premierinn.com/content/hub/app/websites/mobile/gb/en/unsecured/locations.contentinfo.data"
+    }
+  },
+  {
+    "ts": 1779140417923,
+    "type": "url_access",
+    "data": {
+      "url": "https://hub.premierinn.com/content/hub/app/websites/mobile/gb/en/unsecured/homepage.contentinfo.data"
+    }
+  },
+  {
+    "ts": 1779140417924,
+    "type": "url_access",
+    "data": {
+      "url": "https://hub.premierinn.com/content/hub/app/websites/mobile/gb/en/unsecured/homepage.contentinfo.data"
+    }
+  },
+  {
+    "ts": 1779140417924,
+    "type": "url_access",
+    "data": {
+      "url": "https://hub.premierinn.com/content/hub/app/websites/mobile/gb/en/unsecured/locations.contentinfo.data"
+    }
+  },
+  {
+    "ts": 1779140417938,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140417938,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779140417950,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/shared_prefs/FLURRY_SHARED_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140417953,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779140417953,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779140418153,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779140418153,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140418154,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/shared_prefs/io.fabric.sdk.android:fabric:a.a.a.a.o.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140418157,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140418158,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140418158,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779140418160,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779140418160,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779140418161,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779140418163,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.whitbread.thehub/settings?instance=adc7caaa26b62fa2ec1ddf53f9c77f59ec37bf11&build_version=185&display_version=2.4.1.185&source=1&icon_hash=2498918fe00f10e36a66f6a7f8f2990e01dc3d86"
+    }
+  },
+  {
+    "ts": 1779140418164,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B874102AC-0001-67C4-481082895CF4SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779140418166,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779140418167,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.whitbread.thehub/settings?instance=adc7caaa26b62fa2ec1ddf53f9c77f59ec37bf11&build_version=185&display_version=2.4.1.185&source=1&icon_hash=2498918fe00f10e36a66f6a7f8f2990e01dc3d86"
+    }
+  },
+  {
+    "ts": 1779140418175,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779140418181,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779140418276,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779140418281,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/cacheADBMobileDataCache.sqlite"
+    }
+  },
+  {
+    "ts": 1779140418301,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779140418306,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779140418307,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779140418307,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779140418321,
+    "type": "url_access",
+    "data": {
+      "url": "http://premierinn.sc.omtrdc.net/b/ss/whitpreminnhubappandroid/0/JAVA-4.4.0-AN/s1037892"
+    }
+  },
+  {
+    "ts": 1779140418326,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779140418335,
+    "type": "url_access",
+    "data": {
+      "url": "http://premierinn.sc.omtrdc.net/b/ss/whitpreminnhubappandroid/0/JAVA-4.4.0-AN/s1037892"
+    }
+  },
+  {
+    "ts": 1779140418409,
+    "type": "url_access",
+    "data": {
+      "url": "http://premierinn.sc.omtrdc.net/b/ss/whitpreminnhubappandroid/0/JAVA-4.4.0-AN/s19582247"
+    }
+  },
+  {
+    "ts": 1779140418411,
+    "type": "url_access",
+    "data": {
+      "url": "http://premierinn.sc.omtrdc.net/b/ss/whitpreminnhubappandroid/0/JAVA-4.4.0-AN/s19582247"
+    }
+  },
+  {
+    "ts": 1779140419565,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140419566,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140419567,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/ECB/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779140419681,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.whitbread.thehub/cacheADBMobileDataCache.sqliteADBMobileTimedActionsCache.sqlite"
+    }
+  },
+  {
+    "ts": 1779140419681,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.monitisecreate.thehub.activity.CheckAvailabilityActivity"
+    }
+  },
+  {
+    "ts": 1779140419714,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779140419819,
+    "type": "url_access",
+    "data": {
+      "url": "http://premierinn.sc.omtrdc.net/b/ss/whitpreminnhubappandroid/0/JAVA-4.4.0-AN/s30437792"
+    }
+  },
+  {
+    "ts": 1779140419872,
+    "type": "url_access",
+    "data": {
+      "url": "http://premierinn.sc.omtrdc.net/b/ss/whitpreminnhubappandroid/0/JAVA-4.4.0-AN/s30437792"
+    }
+  }
+]

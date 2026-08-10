@@ -1,0 +1,51 @@
+[
+  {
+    "ts": 1779635802890,
+    "type": "shared_pref",
+    "data": {
+      "key": "CGM_TOKEN"
+    }
+  },
+  {
+    "ts": 1779635802896,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.ridsoftware.shoppinglist/cache/images_json"
+    }
+  },
+  {
+    "ts": 1779635802899,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.ridsoftware.shoppinglist/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779635802930,
+    "type": "activity_resume",
+    "data": {
+      "activity": "br.com.ridsoftware.shoppinglist.MainActivity"
+    }
+  },
+  {
+    "ts": 1779635802938,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.ridsoftware.shoppinglist/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779635802980,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779635803158,
+    "type": "activity_resume",
+    "data": {
+      "activity": "br.com.ridsoftware.shoppinglist.MainActivity"
+    }
+  }
+]

@@ -1,0 +1,513 @@
+[
+  {
+    "ts": 1779131131501,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ata.squid.pimd/shared_prefs/com.facebook.SharedPreferencesTokenCachingStrategy.DEFAULT_KEY.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131131514,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ata.squid.pimd.HomeActivity"
+    }
+  },
+  {
+    "ts": 1779131131534,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ata.squid.pimd/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131131535,
+    "type": "shared_pref",
+    "data": {
+      "key": "441264279235392json"
+    }
+  },
+  {
+    "ts": 1779131131536,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131131553,
+    "type": "shared_pref",
+    "data": {
+      "key": "login-oauth_first_view"
+    }
+  },
+  {
+    "ts": 1779131131561,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ata.squid.pimd/shared_prefs/home_screen_prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131131590,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131131590,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779131131604,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ata.squid.pimd.LoginActivity"
+    }
+  },
+  {
+    "ts": 1779131131607,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131131608,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131131618,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131131621,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779131131622,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779131131624,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779131131624,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779131131625,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ata.squid.pimd/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B62FB0182-0001-621F-98C6F199162DSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779131131638,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ata.squid.pimd/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-6A0B62FB0182-0001-621F-98C6F199162D.temp.tmp"
+    }
+  },
+  {
+    "ts": 1779131131640,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ata.squid.pimd/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131131649,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779131131675,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ata.squid.pimd/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779131131689,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/ata.squid.pimd/settings?instance=56599da02c4530daabf11b8c5fb987fbed1c2955&build_version=131&display_version=3.05&source=1&icon_hash=45d13b2c2b977c5f988f50008ae4beb749c3042e"
+    }
+  },
+  {
+    "ts": 1779131131708,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779131131713,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/ata.squid.pimd/settings?instance=56599da02c4530daabf11b8c5fb987fbed1c2955&build_version=131&display_version=3.05&source=1&icon_hash=45d13b2c2b977c5f988f50008ae4beb749c3042e"
+    }
+  },
+  {
+    "ts": 1779131131714,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ata.squid.pimd/shared_prefs/referrer.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131131718,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779131131747,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779131131748,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779131131748,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779131131761,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779131131761,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779131131768,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131131768,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131131768,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131131769,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779131131769,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779131131769,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779131131769,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779131131804,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779131131805,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779131131825,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131131828,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131131829,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131131829,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779131131830,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779131131831,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779131131831,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779131131833,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131131835,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131131836,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779131131837,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779131131837,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779131131939,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779131131941,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779131131941,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779131131953,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779131131955,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779131131958,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ata.squid.pimd/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131131971,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779131132064,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779131132233,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131132266,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779131132270,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779131132270,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779131132327,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ata.squid.pimd/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131133702,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ata.squid.pimd/shared_prefs/remote_client_address_cache.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131135518,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ata.squid.pimd/shared_prefs/tech_tree_prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131135676,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ata.squid.pimd.tutorial.NarrativeActivity"
+    }
+  },
+  {
+    "ts": 1779131135758,
+    "type": "shared_pref",
+    "data": {
+      "key": "tutorial-e_0-start_narrative_screen"
+    }
+  },
+  {
+    "ts": 1779131136364,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ata.squid.pimd/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779131143565,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ata.squid.pimd.tutorial.ChooseBannerActivity"
+    }
+  },
+  {
+    "ts": 1779131143602,
+    "type": "shared_pref",
+    "data": {
+      "key": "tutorial-e_1-choose_avatar_screen"
+    }
+  }
+]

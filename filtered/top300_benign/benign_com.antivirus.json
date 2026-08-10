@@ -1,0 +1,2809 @@
+[
+  {
+    "ts": 1779640513338,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779640513350,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513353,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|804293759086|*"
+    }
+  },
+  {
+    "ts": 1779640513359,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513363,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/24683/cmdline"
+    }
+  },
+  {
+    "ts": 1779640513386,
+    "type": "file_access",
+    "data": {
+      "path": "/"
+    }
+  },
+  {
+    "ts": 1779640513390,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640513391,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779640513391,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640513391,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779640513400,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/avast-burger-preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513400,
+    "type": "shared_pref",
+    "data": {
+      "key": "gmp_app_id"
+    }
+  },
+  {
+    "ts": 1779640513409,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779640513413,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779640513414,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779640513415,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779640513416,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~4IqVePjpu6_Xepz3zg9OAA==/com.antivirus-asDi4lVI95IBfBKqJmdWOw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779640513417,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~4IqVePjpu6_Xepz3zg9OAA==/com.antivirus-asDi4lVI95IBfBKqJmdWOw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779640513420,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/app_config.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513434,
+    "type": "shared_pref",
+    "data": {
+      "key": "previous_os_version"
+    }
+  },
+  {
+    "ts": 1779640513466,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/app_config_ft.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513489,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/nahche.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513490,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640513516,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779640513519,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779640513520,
+    "type": "shared_pref",
+    "data": {
+      "key": "rishuyrashiorig"
+    }
+  },
+  {
+    "ts": 1779640513520,
+    "type": "shared_pref",
+    "data": {
+      "key": "rishuymishneorig"
+    }
+  },
+  {
+    "ts": 1779640513566,
+    "type": "shared_pref",
+    "data": {
+      "key": "5000"
+    }
+  },
+  {
+    "ts": 1779640513567,
+    "type": "shared_pref",
+    "data": {
+      "key": "5000"
+    }
+  },
+  {
+    "ts": 1779640513579,
+    "type": "shared_pref",
+    "data": {
+      "key": "shemmutsarbasharat"
+    }
+  },
+  {
+    "ts": 1779640513579,
+    "type": "shared_pref",
+    "data": {
+      "key": "5000"
+    }
+  },
+  {
+    "ts": 1779640513588,
+    "type": "shared_pref",
+    "data": {
+      "key": "rishuy"
+    }
+  },
+  {
+    "ts": 1779640513588,
+    "type": "shared_pref",
+    "data": {
+      "key": "5000"
+    }
+  },
+  {
+    "ts": 1779640513594,
+    "type": "shared_pref",
+    "data": {
+      "key": "rishuy"
+    }
+  },
+  {
+    "ts": 1779640513623,
+    "type": "shared_pref",
+    "data": {
+      "key": "99000"
+    }
+  },
+  {
+    "ts": 1779640513641,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/external_attributes.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513642,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/sfParams.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513644,
+    "type": "shared_pref",
+    "data": {
+      "key": "appId"
+    }
+  },
+  {
+    "ts": 1779640513644,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779640513656,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/TwitterAdvertisingInfoPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513657,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~4IqVePjpu6_Xepz3zg9OAA==/com.antivirus-asDi4lVI95IBfBKqJmdWOw==/base.apk"
+    }
+  },
+  {
+    "ts": 1779640513659,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/com.crashlytics.sdk.android:answers:settings.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513664,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779640513670,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640513677,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/com.crashlytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513680,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779640513682,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/av.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513687,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779640513687,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/52b525c7.0"
+    }
+  },
+  {
+    "ts": 1779640513702,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/noel.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513705,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779640513707,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1dcd6f4c.0"
+    }
+  },
+  {
+    "ts": 1779640513709,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640513710,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779640513710,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779640513711,
+    "type": "shared_pref",
+    "data": {
+      "key": "applocker_user_password"
+    }
+  },
+  {
+    "ts": 1779640513711,
+    "type": "shared_pref",
+    "data": {
+      "key": "findR_user"
+    }
+  },
+  {
+    "ts": 1779640513713,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779640513720,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/lock.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513728,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/304d27c3.0"
+    }
+  },
+  {
+    "ts": 1779640513734,
+    "type": "shared_pref",
+    "data": {
+      "key": "ads_keywords"
+    }
+  },
+  {
+    "ts": 1779640513735,
+    "type": "shared_pref",
+    "data": {
+      "key": "use_jni_Scan"
+    }
+  },
+  {
+    "ts": 1779640513735,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/finder_mail.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513742,
+    "type": "shared_pref",
+    "data": {
+      "key": "finder_mail"
+    }
+  },
+  {
+    "ts": 1779640513745,
+    "type": "shared_pref",
+    "data": {
+      "key": "pass_recover_mail_addr"
+    }
+  },
+  {
+    "ts": 1779640513749,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/dfc0fe80.0"
+    }
+  },
+  {
+    "ts": 1779640513755,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/UI_shared_prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513758,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1328C102A5-0001-606B-69EBB5D58CC4BeginSession.cls_temp"
+    }
+  },
+  {
+    "ts": 1779640513762,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b0ed035a.0"
+    }
+  },
+  {
+    "ts": 1779640513763,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1328C102A5-0001-606B-69EBB5D58CC4BeginSession.cls"
+    }
+  },
+  {
+    "ts": 1779640513763,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1328C102A5-0001-606B-69EBB5D58CC4SessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1779640513763,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779640513764,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1328C102A5-0001-606B-69EBB5D58CC4SessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779640513766,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1328C102A5-0001-606B-69EBB5D58CC4SessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779640513766,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640513766,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779640513766,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779640513767,
+    "type": "shared_pref",
+    "data": {
+      "key": "sim_id1"
+    }
+  },
+  {
+    "ts": 1779640513768,
+    "type": "shared_pref",
+    "data": {
+      "key": "sim_id2"
+    }
+  },
+  {
+    "ts": 1779640513769,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1328C102A5-0001-606B-69EBB5D58CC4SessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779640513770,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1328C102A5-0001-606B-69EBB5D58CC4SessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779640513770,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640513773,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/cmb_av.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513776,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/pinprefsmutzpan.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513776,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779640513778,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640513779,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779640513780,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779640513781,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c7e2a638.0"
+    }
+  },
+  {
+    "ts": 1779640513782,
+    "type": "shared_pref",
+    "data": {
+      "key": "exx1"
+    }
+  },
+  {
+    "ts": 1779640513790,
+    "type": "shared_pref",
+    "data": {
+      "key": "xx1"
+    }
+  },
+  {
+    "ts": 1779640513790,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/bf64f35b.0"
+    }
+  },
+  {
+    "ts": 1779640513791,
+    "type": "shared_pref",
+    "data": {
+      "key": "xx6"
+    }
+  },
+  {
+    "ts": 1779640513793,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640513798,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a7605362.0"
+    }
+  },
+  {
+    "ts": 1779640513810,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/88950faa.0"
+    }
+  },
+  {
+    "ts": 1779640513811,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779640513820,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.antivirus/shared_prefs/RateUsSharedPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779640513821,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7c302982.0"
+    }
+  },
+  {
+    "ts": 1779640513837,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/1013/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513841,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10122/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513842,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10040/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513843,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/0d69c7e1.0"
+    }
+  },
+  {
+    "ts": 1779640513850,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/27af790d.0"
+    }
+  },
+  {
+    "ts": 1779640513851,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10132/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513853,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10018/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513857,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10064/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513857,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/e48193cf.0"
+    }
+  },
+  {
+    "ts": 1779640513860,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10043/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513861,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10079/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513861,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/1002/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513863,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10053/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513863,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/89c02a45.0"
+    }
+  },
+  {
+    "ts": 1779640513864,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10045/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513864,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10163/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513864,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10029/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513865,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10101/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513865,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10097/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513866,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10062/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513866,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10138/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513866,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10157/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513867,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10047/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513867,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/1000/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513868,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10025/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513868,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10158/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513868,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a81e292b.0"
+    }
+  },
+  {
+    "ts": 1779640513869,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10057/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513890,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10003/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513895,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/2000/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513896,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/1001/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513897,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/aeb67534.0"
+    }
+  },
+  {
+    "ts": 1779640513897,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10152/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513902,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10087/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513906,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10051/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513907,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10159/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513910,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10162/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513913,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1e1eab7c.0"
+    }
+  },
+  {
+    "ts": 1779640513917,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10117/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513923,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9576d26b.0"
+    }
+  },
+  {
+    "ts": 1779640513931,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10015/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513934,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10058/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513935,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d16a5865.0"
+    }
+  },
+  {
+    "ts": 1779640513943,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10033/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513945,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/dc99f41e.0"
+    }
+  },
+  {
+    "ts": 1779640513949,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10112/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513951,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10032/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513956,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b0f3e76e.0"
+    }
+  },
+  {
+    "ts": 1779640513961,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10093/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513969,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10156/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513973,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/455f1b52.0"
+    }
+  },
+  {
+    "ts": 1779640513983,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/1073/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513984,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10049/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513985,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/75680d2e.0"
+    }
+  },
+  {
+    "ts": 1779640513987,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10071/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513988,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10055/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513990,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10151/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513993,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10016/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513994,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10019/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640513999,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/343eb6cb.0"
+    }
+  },
+  {
+    "ts": 1779640514003,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10099/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514005,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10096/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514006,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10035/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514010,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10124/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514013,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10027/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514015,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10092/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514017,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10081/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514018,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10091/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514020,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5f47b495.0"
+    }
+  },
+  {
+    "ts": 1779640514022,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10146/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514024,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10139/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514025,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10095/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514025,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10149/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514026,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10039/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514028,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10030/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514030,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10070/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514030,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10083/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514033,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10052/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514033,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10042/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514033,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10094/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514034,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10153/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514036,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10140/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514038,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10127/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514041,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10102/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514042,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10115/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514043,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10050/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514047,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10012/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514049,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/dbc54cab.0"
+    }
+  },
+  {
+    "ts": 1779640514049,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10128/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514051,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10077/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514053,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10114/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514054,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10119/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514055,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10090/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514056,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10010/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514060,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10006/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514063,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10120/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514064,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10131/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514065,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10061/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514067,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10068/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514067,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10022/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514068,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d4c339cb.0"
+    }
+  },
+  {
+    "ts": 1779640514068,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10143/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514070,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10005/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514071,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10144/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514072,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10080/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514073,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10136/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514074,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10004/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514074,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10126/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514074,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10133/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514075,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10142/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514079,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10076/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514079,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10008/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514079,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10109/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514080,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10060/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514080,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10056/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514081,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10088/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514082,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10113/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514082,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/1068/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514082,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10046/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514082,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10021/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514082,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10105/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514083,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10034/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514083,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10110/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514084,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10048/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514084,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/86212b19.0"
+    }
+  },
+  {
+    "ts": 1779640514085,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10089/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514087,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10154/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514090,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10116/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514090,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10011/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514091,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10001/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514091,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10002/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514091,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10166/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514092,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10031/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514092,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10111/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514092,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10135/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514093,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10082/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514093,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10072/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514093,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10130/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514094,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10078/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514096,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/1027/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514096,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10104/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514097,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3a3b02ce.0"
+    }
+  },
+  {
+    "ts": 1779640514099,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10023/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514100,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10134/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514100,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10121/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514101,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10014/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514102,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10020/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514106,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/bc3f2570.0"
+    }
+  },
+  {
+    "ts": 1779640514107,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10017/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514108,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10013/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514109,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10155/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514111,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10009/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514112,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10100/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514114,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10041/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514116,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10063/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514118,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10106/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514120,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10107/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514121,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d18e9066.0"
+    }
+  },
+  {
+    "ts": 1779640514122,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10129/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514124,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10160/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514127,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10148/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514128,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10085/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514130,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10067/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514133,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10044/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514133,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b872f2b4.0"
+    }
+  },
+  {
+    "ts": 1779640514135,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10165/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514137,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10118/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514140,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10069/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514141,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10137/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514142,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1eb37bdf.0"
+    }
+  },
+  {
+    "ts": 1779640514144,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10037/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514147,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10141/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514150,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10145/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514152,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10066/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514161,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c58f906.0"
+    }
+  },
+  {
+    "ts": 1779640514162,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10108/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514166,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10098/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514170,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/cf701eeb.0"
+    }
+  },
+  {
+    "ts": 1779640514170,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10086/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514172,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10065/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514173,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10073/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514176,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10028/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514179,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/bd43e1dd.0"
+    }
+  },
+  {
+    "ts": 1779640514180,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10059/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514185,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10007/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514186,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10024/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514187,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10038/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514193,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10075/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514195,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10026/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514196,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10036/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514197,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c899c73.0"
+    }
+  },
+  {
+    "ts": 1779640514198,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10103/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514199,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10150/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514201,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10084/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514202,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10123/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514202,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10054/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514203,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10000/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514204,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10164/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514205,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10074/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514205,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10147/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514210,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/uid_stat/10161/tcp_rcv"
+    }
+  },
+  {
+    "ts": 1779640514212,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9772ca32.0"
+    }
+  },
+  {
+    "ts": 1779640514221,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5cf9d536.0"
+    }
+  },
+  {
+    "ts": 1779640514230,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5a250ea7.0"
+    }
+  },
+  {
+    "ts": 1779640514239,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/31188b5e.0"
+    }
+  },
+  {
+    "ts": 1779640514246,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1f58a078.0"
+    }
+  },
+  {
+    "ts": 1779640514253,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/fd08c599.0"
+    }
+  },
+  {
+    "ts": 1779640514259,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/cb156124.0"
+    }
+  },
+  {
+    "ts": 1779640514266,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/76579174.0"
+    }
+  },
+  {
+    "ts": 1779640514273,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/cb1c3204.0"
+    }
+  },
+  {
+    "ts": 1779640514280,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c6676aa.0"
+    }
+  },
+  {
+    "ts": 1779640514293,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a2c66da8.0"
+    }
+  },
+  {
+    "ts": 1779640514302,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/ab59055e.0"
+    }
+  },
+  {
+    "ts": 1779640514311,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9685a493.0"
+    }
+  },
+  {
+    "ts": 1779640514318,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/ccc52f49.0"
+    }
+  },
+  {
+    "ts": 1779640514322,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/111e6273.0"
+    }
+  },
+  {
+    "ts": 1779640514331,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/23f4c490.0"
+    }
+  },
+  {
+    "ts": 1779640514338,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/6b03dec0.0"
+    }
+  },
+  {
+    "ts": 1779640514343,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c559d742.0"
+    }
+  },
+  {
+    "ts": 1779640514350,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d7746a63.0"
+    }
+  },
+  {
+    "ts": 1779640514364,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/399e7759.0"
+    }
+  },
+  {
+    "ts": 1779640514373,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c51c224c.0"
+    }
+  },
+  {
+    "ts": 1779640514381,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/985c1f52.0"
+    }
+  },
+  {
+    "ts": 1779640514395,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/67495436.0"
+    }
+  },
+  {
+    "ts": 1779640514401,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9282e51c.0"
+    }
+  },
+  {
+    "ts": 1779640514413,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/302904dd.0"
+    }
+  },
+  {
+    "ts": 1779640514420,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/219d9499.0"
+    }
+  },
+  {
+    "ts": 1779640514427,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/524d9b43.0"
+    }
+  },
+  {
+    "ts": 1779640514434,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/10531352.0"
+    }
+  },
+  {
+    "ts": 1779640514440,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/2d9dafe4.0"
+    }
+  },
+  {
+    "ts": 1779640514449,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c9a4d3b.0"
+    }
+  },
+  {
+    "ts": 1779640514462,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/fde84897.0"
+    }
+  },
+  {
+    "ts": 1779640514470,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/95aff9e3.0"
+    }
+  },
+  {
+    "ts": 1779640514482,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/2add47b6.0"
+    }
+  },
+  {
+    "ts": 1779640514487,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/85cde254.0"
+    }
+  },
+  {
+    "ts": 1779640514494,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/facacbc6.0"
+    }
+  },
+  {
+    "ts": 1779640514505,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/869fbf79.0"
+    }
+  },
+  {
+    "ts": 1779640514511,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7d453d8f.0"
+    }
+  },
+  {
+    "ts": 1779640514517,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/00673b5b.0"
+    }
+  },
+  {
+    "ts": 1779640514523,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d41b5e2a.0"
+    }
+  },
+  {
+    "ts": 1779640514527,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9339512a.0"
+    }
+  },
+  {
+    "ts": 1779640514535,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/e8651083.0"
+    }
+  },
+  {
+    "ts": 1779640514540,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/f0cd152c.0"
+    }
+  },
+  {
+    "ts": 1779640514549,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d59297b8.0"
+    }
+  },
+  {
+    "ts": 1779640514556,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/40dc992e.0"
+    }
+  },
+  {
+    "ts": 1779640514563,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/35105088.0"
+    }
+  },
+  {
+    "ts": 1779640514570,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3e7271e8.0"
+    }
+  },
+  {
+    "ts": 1779640514576,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d06393bb.0"
+    }
+  },
+  {
+    "ts": 1779640514581,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/91739615.0"
+    }
+  },
+  {
+    "ts": 1779640514586,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3d441de8.0"
+    }
+  },
+  {
+    "ts": 1779640514594,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5acf816d.0"
+    }
+  },
+  {
+    "ts": 1779640514597,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/63a2c897.0"
+    }
+  },
+  {
+    "ts": 1779640514607,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/bdacca6f.0"
+    }
+  },
+  {
+    "ts": 1779640514614,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/dbff3a01.0"
+    }
+  },
+  {
+    "ts": 1779640514622,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b7db1890.0"
+    }
+  },
+  {
+    "ts": 1779640514633,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/04f60c28.0"
+    }
+  },
+  {
+    "ts": 1779640514639,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9d6523ce.0"
+    }
+  },
+  {
+    "ts": 1779640514646,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1df5a75f.0"
+    }
+  },
+  {
+    "ts": 1779640514654,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/60afe812.0"
+    }
+  },
+  {
+    "ts": 1779640514663,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/12d55845.0"
+    }
+  },
+  {
+    "ts": 1779640514671,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/ed39abd0.0"
+    }
+  },
+  {
+    "ts": 1779640514677,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7a7c655d.0"
+    }
+  },
+  {
+    "ts": 1779640514681,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5046c355.0"
+    }
+  },
+  {
+    "ts": 1779640514699,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/ab5346f4.0"
+    }
+  },
+  {
+    "ts": 1779640514713,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c90bc37d.0"
+    }
+  },
+  {
+    "ts": 1779640514721,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9479c8c3.0"
+    }
+  },
+  {
+    "ts": 1779640514734,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5e4e69e7.0"
+    }
+  },
+  {
+    "ts": 1779640514770,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/2fa87019.0"
+    }
+  },
+  {
+    "ts": 1779640514782,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7999be0d.0"
+    }
+  },
+  {
+    "ts": 1779640514798,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b74d2bd5.0"
+    }
+  },
+  {
+    "ts": 1779640514803,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3c860d51.0"
+    }
+  },
+  {
+    "ts": 1779640514815,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7a819ef2.0"
+    }
+  },
+  {
+    "ts": 1779640514830,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/7892ad52.0"
+    }
+  },
+  {
+    "ts": 1779640514835,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/4be590e0.0"
+    }
+  },
+  {
+    "ts": 1779640514846,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/33ee480d.0"
+    }
+  },
+  {
+    "ts": 1779640514853,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/e442e424.0"
+    }
+  },
+  {
+    "ts": 1779640514863,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/583d0756.0"
+    }
+  },
+  {
+    "ts": 1779640514876,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/9f533518.0"
+    }
+  },
+  {
+    "ts": 1779640514886,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c907e29b.0"
+    }
+  },
+  {
+    "ts": 1779640514894,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/87753b0d.0"
+    }
+  },
+  {
+    "ts": 1779640514903,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/6187b673.0"
+    }
+  },
+  {
+    "ts": 1779640514915,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/81b9768f.0"
+    }
+  },
+  {
+    "ts": 1779640514921,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b936d1c6.0"
+    }
+  },
+  {
+    "ts": 1779640514930,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/1e8e7201.0"
+    }
+  },
+  {
+    "ts": 1779640514935,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a3896b44.0"
+    }
+  },
+  {
+    "ts": 1779640514940,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/f013ecaf.0"
+    }
+  },
+  {
+    "ts": 1779640514946,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/882de061.0"
+    }
+  },
+  {
+    "ts": 1779640514951,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/5a3f0ff8.0"
+    }
+  },
+  {
+    "ts": 1779640514957,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c491639e.0"
+    }
+  },
+  {
+    "ts": 1779640514961,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/b3fb433b.0"
+    }
+  },
+  {
+    "ts": 1779640514965,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/da7377f6.0"
+    }
+  },
+  {
+    "ts": 1779640514974,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/e775ed2d.0"
+    }
+  },
+  {
+    "ts": 1779640514980,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/69105f4f.0"
+    }
+  },
+  {
+    "ts": 1779640514986,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/82223c44.0"
+    }
+  },
+  {
+    "ts": 1779640514992,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/fb5fa911.0"
+    }
+  },
+  {
+    "ts": 1779640514999,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/d0cddf45.0"
+    }
+  },
+  {
+    "ts": 1779640515008,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/a7d2cf64.0"
+    }
+  },
+  {
+    "ts": 1779640515013,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/8d6437c3.0"
+    }
+  },
+  {
+    "ts": 1779640515019,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/48a195d8.0"
+    }
+  },
+  {
+    "ts": 1779640515026,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/3ad48a91.0"
+    }
+  },
+  {
+    "ts": 1779640515032,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/f459871d.0"
+    }
+  },
+  {
+    "ts": 1779640515037,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts/c2c1704e.0"
+    }
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "ts": 1779636039045,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779636039047,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779636039047,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.bellmedia.cravetv/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A13174602C7-0001-5D75-BAC81847C7DCSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779636039048,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.bellmedia.cravetv/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636039049,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.bellmedia.cravetv/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779636039057,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/ca.bellmedia.cravetv/settings?instance=36942d23f67e43bf063d3e561887cf740b6c918e&build_version=1240912&display_version=1.24.9&source=1&icon_hash=c551b468f9328e6febe292001f0becf00c289f4f"
+    }
+  },
+  {
+    "ts": 1779636039061,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/ca.bellmedia.cravetv/settings?instance=36942d23f67e43bf063d3e561887cf740b6c918e&build_version=1240912&display_version=1.24.9&source=1&icon_hash=c551b468f9328e6febe292001f0becf00c289f4f"
+    }
+  },
+  {
+    "ts": 1779636039072,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.bellmedia.cravetv/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779636039081,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636039105,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636039109,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.bellmedia.cravetv/no_backup/com.urbanairship.databases"
+    }
+  },
+  {
+    "ts": 1779636039109,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.bellmedia.cravetv/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636039111,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779636039116,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779636039117,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779636042041,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ca.bellmedia.cravetv.MainActivity"
+    }
+  },
+  {
+    "ts": 1779636043265,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636043269,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779636045283,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779636045286,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779636045287,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779636045287,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779636045633,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  }
+]

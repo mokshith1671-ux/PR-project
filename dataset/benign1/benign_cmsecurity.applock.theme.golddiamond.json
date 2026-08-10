@@ -1,0 +1,72 @@
+[
+  {
+    "ts": 1779637083444,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637083445,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637083445,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637083445,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637083487,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.cmcm.applock/files"
+    }
+  },
+  {
+    "ts": 1779637083555,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.cleanmaster.security.applock.theme.main.ThemeMainActivity"
+    }
+  },
+  {
+    "ts": 1779637084081,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cmsecurity.applock.theme.golddiamond/cache"
+    }
+  },
+  {
+    "ts": 1779637084082,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cmsecurity.applock.theme.golddiamond/cache/infoc"
+    }
+  },
+  {
+    "ts": 1779637084083,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cmsecurity.applock.theme.golddiamond/cache"
+    }
+  },
+  {
+    "ts": 1779637103597,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/cmsecurity.applock.theme.golddiamond/cache/infoc_force"
+    }
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "ts": 1779641763375,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779641763378,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/android.test.base.jar"
+    }
+  },
+  {
+    "ts": 1779641763379,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779641763379,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/org.apache.http.legacy.jar"
+    }
+  },
+  {
+    "ts": 1779641763380,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~PT-cRSzNmyopUaBJNd9BzA==/com.appspot.scruffapp-zGtbuw5uawzDrbgBg7_2Cg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779641763380,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~PT-cRSzNmyopUaBJNd9BzA==/com.appspot.scruffapp-zGtbuw5uawzDrbgBg7_2Cg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779641763414,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.appspot.scruffapp.ScruffActivity"
+    }
+  },
+  {
+    "ts": 1779641763417,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641763417,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779641763417,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641763417,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779641763427,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.appspot.scruffapp/cache/tmp"
+    }
+  },
+  {
+    "ts": 1779641763444,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779641763446,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779641763447,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779641763448,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.appspot.scruffapp/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779641763448,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779641763449,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779641763450,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779641763452,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.appspot.scruffapp/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641763455,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779641763457,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779641763458,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.appspot.scruffapp/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A132DA3010C-0001-394D-19FF77D8099CSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779641763483,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.appspot.scruffapp/settings?instance=432140c618b9ec952c9f143d5308156efeb5ff98&build_version=787&display_version=5.0138&source=1&icon_hash=e083eb2fe6f8a6a6ad10b5e2a2426e81165b3479"
+    }
+  },
+  {
+    "ts": 1779641763484,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.appspot.scruffapp/settings?instance=432140c618b9ec952c9f143d5308156efeb5ff98&build_version=787&display_version=5.0138&source=1&icon_hash=e083eb2fe6f8a6a6ad10b5e2a2426e81165b3479"
+    }
+  },
+  {
+    "ts": 1779641763501,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.appspot.scruffapp/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779641763597,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779641763602,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|1020055585435|*"
+    }
+  },
+  {
+    "ts": 1779641763603,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|1020055585435|*"
+    }
+  },
+  {
+    "ts": 1779641763603,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779641763603,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779641763610,
+    "type": "shared_pref",
+    "data": {
+      "key": "chatHost"
+    }
+  },
+  {
+    "ts": 1779641763610,
+    "type": "shared_pref",
+    "data": {
+      "key": "chatPwd"
+    }
+  },
+  {
+    "ts": 1779641763611,
+    "type": "shared_pref",
+    "data": {
+      "key": "socket_subscription_id"
+    }
+  },
+  {
+    "ts": 1779641763612,
+    "type": "shared_pref",
+    "data": {
+      "key": "aes256_key"
+    }
+  },
+  {
+    "ts": 1779641763616,
+    "type": "shared_pref",
+    "data": {
+      "key": "aes256_iv"
+    }
+  },
+  {
+    "ts": 1779641763617,
+    "type": "shared_pref",
+    "data": {
+      "key": "latitude"
+    }
+  },
+  {
+    "ts": 1779641763617,
+    "type": "shared_pref",
+    "data": {
+      "key": "longitude"
+    }
+  },
+  {
+    "ts": 1779641763682,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=https://ads.scruffapp.com/ads?platform_type=2&client_version=1.0&locale=en_US, tag=null}"
+    }
+  },
+  {
+    "ts": 1779641763705,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779641763706,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779641763732,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=POST, url=https://ads.scruffapp.com/ads, tag=null}"
+    }
+  },
+  {
+    "ts": 1779641763748,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779641763749,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779641763753,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_id"
+    }
+  },
+  {
+    "ts": 1779641763756,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=https://api.scruffapp.com/app/grid/home?device_type=2&client_version=5.0138, tag=null}"
+    }
+  },
+  {
+    "ts": 1779641763758,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779641763760,
+    "type": "shared_pref",
+    "data": {
+      "key": "latitude"
+    }
+  },
+  {
+    "ts": 1779641763761,
+    "type": "shared_pref",
+    "data": {
+      "key": "latitude"
+    }
+  },
+  {
+    "ts": 1779641763761,
+    "type": "shared_pref",
+    "data": {
+      "key": "longitude"
+    }
+  },
+  {
+    "ts": 1779641763762,
+    "type": "shared_pref",
+    "data": {
+      "key": "install_referrer"
+    }
+  },
+  {
+    "ts": 1779641763762,
+    "type": "shared_pref",
+    "data": {
+      "key": "socket_subscription_id"
+    }
+  },
+  {
+    "ts": 1779641763763,
+    "type": "shared_pref",
+    "data": {
+      "key": "aes256_key"
+    }
+  },
+  {
+    "ts": 1779641763763,
+    "type": "shared_pref",
+    "data": {
+      "key": "aes256_iv"
+    }
+  },
+  {
+    "ts": 1779641763770,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_id"
+    }
+  },
+  {
+    "ts": 1779641763774,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=POST, url=https://api.scruffapp.com/app/account/register, tag=null}"
+    }
+  },
+  {
+    "ts": 1779641764377,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779641764378,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779641764379,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779641764379,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779641766733,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|1020055585435|*"
+    }
+  },
+  {
+    "ts": 1779641766734,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779641766734,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|1020055585435|*"
+    }
+  },
+  {
+    "ts": 1779641766751,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_id"
+    }
+  },
+  {
+    "ts": 1779641766756,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=POST, url=https://api.scruffapp.com/app/push, tag=null}"
+    }
+  },
+  {
+    "ts": 1779641778617,
+    "type": "shared_pref",
+    "data": {
+      "key": "chatHost"
+    }
+  },
+  {
+    "ts": 1779641778617,
+    "type": "shared_pref",
+    "data": {
+      "key": "chatPwd"
+    }
+  },
+  {
+    "ts": 1779641778618,
+    "type": "shared_pref",
+    "data": {
+      "key": "socket_subscription_id"
+    }
+  },
+  {
+    "ts": 1779641778618,
+    "type": "shared_pref",
+    "data": {
+      "key": "aes256_key"
+    }
+  },
+  {
+    "ts": 1779641778618,
+    "type": "shared_pref",
+    "data": {
+      "key": "aes256_iv"
+    }
+  },
+  {
+    "ts": 1779641778619,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_id"
+    }
+  },
+  {
+    "ts": 1779641778622,
+    "type": "okhttp",
+    "data": {
+      "request": "Request{method=GET, url=https://api.scruffapp.com/app/socket/poll?client_version=5.0138&request_guids=[%227DB4F6B3CD05C90AF21E42BC1B7EDC77%22]&device_type=2, tag=null}"
+    }
+  }
+]

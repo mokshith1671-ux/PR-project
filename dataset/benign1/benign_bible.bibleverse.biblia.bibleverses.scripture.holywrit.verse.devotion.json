@@ -1,0 +1,1045 @@
+[
+  {
+    "ts": 1779635568421,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779635568447,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779635568447,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779635568490,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779635568490,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779635568490,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779635568492,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779635568500,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779635568501,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779635568502,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779635568502,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779635568502,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/shared_prefs/bibble.xml.bak"
+    }
+  },
+  {
+    "ts": 1779635568505,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635568507,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635568514,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779635568516,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779635568517,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1315700139-0001-52E4-1BF943CF8AD8SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779635568518,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779635568518,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER"
+    }
+  },
+  {
+    "ts": 1779635568519,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779635568520,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779635568521,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779635568521,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779635568525,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/shared_prefs/SHARED_PREFERENCES_ANALYTICS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779635568534,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779635568544,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635568547,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635568548,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635568549,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779635568550,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635568550,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635568550,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779635568550,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779635568552,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779635568553,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635568554,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779635568555,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779635568558,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779635568558,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779635568558,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779635568583,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635568585,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779635568586,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779635568587,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/settings?instance=2ad476b793e7d401b331f06cbb8d39e08be207ba&build_version=1189&display_version=1.1.8.9&source=1&icon_hash=1342010b087ecc724ace5e474ece8ceabf3ba14f"
+    }
+  },
+  {
+    "ts": 1779635568591,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779635568594,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779635568599,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/settings?instance=2ad476b793e7d401b331f06cbb8d39e08be207ba&build_version=1189&display_version=1.1.8.9&source=1&icon_hash=1342010b087ecc724ace5e474ece8ceabf3ba14f"
+    }
+  },
+  {
+    "ts": 1779635568602,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/shared_prefs/appsflyer-data.xml.bak"
+    }
+  },
+  {
+    "ts": 1779635568604,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779635568608,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779635568618,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779635568618,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779635568621,
+    "type": "activity_resume",
+    "data": {
+      "activity": "bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion.base.ac.MainActivity"
+    }
+  },
+  {
+    "ts": 1779635568623,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635568628,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779635568630,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779635568636,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779635568637,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779635568639,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779635568649,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779635568650,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635568659,
+    "type": "url_access",
+    "data": {
+      "url": "https://sa.unionstatistics.com/log/base?appid=117&type=reach"
+    }
+  },
+  {
+    "ts": 1779635568668,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779635568668,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635568669,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/shared_prefs/onemobile_analytics.xml.bak"
+    }
+  },
+  {
+    "ts": 1779635568669,
+    "type": "shared_pref",
+    "data": {
+      "key": "GUID"
+    }
+  },
+  {
+    "ts": 1779635568673,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779635568681,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779635568681,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779635568682,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635568684,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779635568684,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779635568687,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779635568692,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779635568699,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779635568701,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/shared_prefs/com.facebook.ads.FEATURE_CONFIG.xml.bak"
+    }
+  },
+  {
+    "ts": 1779635568702,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635568704,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/shared_prefs/FBAdPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779635568705,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceIdHash"
+    }
+  },
+  {
+    "ts": 1779635568733,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/shared_prefs/SDKIDFA.xml.bak"
+    }
+  },
+  {
+    "ts": 1779635568735,
+    "type": "shared_pref",
+    "data": {
+      "key": "lastVersionId"
+    }
+  },
+  {
+    "ts": 1779635568744,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/files/bible/yes/en-kjv.yes"
+    }
+  },
+  {
+    "ts": 1779635568746,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/files/bible/yes/en-kjv.yes"
+    }
+  },
+  {
+    "ts": 1779635568780,
+    "type": "shared_pref",
+    "data": {
+      "key": "lastVersionId"
+    }
+  },
+  {
+    "ts": 1779635568781,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/files/bible/yes/en-kjv.yes"
+    }
+  },
+  {
+    "ts": 1779635568782,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/files/bible/yes/en-kjv.yes"
+    }
+  },
+  {
+    "ts": 1779635568783,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/files/bible/yes/en-kjv.yes"
+    }
+  },
+  {
+    "ts": 1779635568887,
+    "type": "activity_resume",
+    "data": {
+      "activity": "bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion.base.ac.LockScreenGuideActivity"
+    }
+  },
+  {
+    "ts": 1779635568900,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779635568901,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779635568901,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779635568901,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779635568907,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v3/androidevent?buildnumber=3.0&app_id=bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion"
+    }
+  },
+  {
+    "ts": 1779635569064,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common/"
+    }
+  },
+  {
+    "ts": 1779635569064,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/network_ads_common/"
+    }
+  },
+  {
+    "ts": 1779635569090,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779635569092,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779635569094,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779635569095,
+    "type": "activity_resume",
+    "data": {
+      "activity": "bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion.base.ac.WelcomeActivity"
+    }
+  },
+  {
+    "ts": 1779635569097,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635569098,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779635569099,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779635569099,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779635569127,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779635569131,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779635569132,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779635569133,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635569134,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779635569135,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779635569135,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779635569137,
+    "type": "shared_pref",
+    "data": {
+      "key": "CONFIG_DETAILS"
+    }
+  },
+  {
+    "ts": 1779635570646,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779635570649,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779635570649,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779635570649,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779635570985,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779635570996,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779635570996,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779635570998,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635570998,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779635570999,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779635570999,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779635571120,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779635571292,
+    "type": "url_access",
+    "data": {
+      "url": "https://sa.unionstatistics.com/log/base?appid=117&type=login"
+    }
+  },
+  {
+    "ts": 1779635571293,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779635571294,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635571294,
+    "type": "shared_pref",
+    "data": {
+      "key": "GUID"
+    }
+  },
+  {
+    "ts": 1779635571295,
+    "type": "shared_pref",
+    "data": {
+      "key": "uuid_time"
+    }
+  },
+  {
+    "ts": 1779635574134,
+    "type": "activity_resume",
+    "data": {
+      "activity": "bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion.base.ac.MainActivity"
+    }
+  },
+  {
+    "ts": 1779635574136,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779635574140,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779635579129,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779635579129,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779635579130,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635579131,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779635579132,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779635579132,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779635579135,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779635579135,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779635579136,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635579136,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779635579137,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779635579137,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  },
+  {
+    "ts": 1779635579139,
+    "type": "shared_pref",
+    "data": {
+      "key": "stg"
+    }
+  },
+  {
+    "ts": 1779635579139,
+    "type": "shared_pref",
+    "data": {
+      "key": "str"
+    }
+  },
+  {
+    "ts": 1779635579140,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779635579140,
+    "type": "shared_pref",
+    "data": {
+      "key": "GOOGLE_AD_ID"
+    }
+  },
+  {
+    "ts": 1779635579141,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALL_REFERRER_BACKUP"
+    }
+  },
+  {
+    "ts": 1779635579141,
+    "type": "shared_pref",
+    "data": {
+      "key": "SOURCE_RETURN_FROM_SERVER"
+    }
+  }
+]

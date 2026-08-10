@@ -1,0 +1,786 @@
+[
+  {
+    "ts": 1779134280968,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779134280973,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134280974,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779134280977,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134280977,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779134280978,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.accuweather.android/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134280989,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779134281030,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779134281115,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.accuweather.android/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134281167,
+    "type": "shared_pref",
+    "data": {
+      "key": "bundid"
+    }
+  },
+  {
+    "ts": 1779134281168,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.accuweather.android/shared_prefs/com.amobee.adsdk.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134281168,
+    "type": "shared_pref",
+    "data": {
+      "key": "bundid"
+    }
+  },
+  {
+    "ts": 1779134281274,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.accuweather.android/shared_prefs/com.urbanairship.preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134281276,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.urbanairship.preferences.CHANNEL_ID"
+    }
+  },
+  {
+    "ts": 1779134281350,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.urbanairship.preferences.CHANNEL_ID"
+    }
+  },
+  {
+    "ts": 1779134281356,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.urbanairship.preferences.CHANNEL_ID"
+    }
+  },
+  {
+    "ts": 1779134281368,
+    "type": "shared_pref",
+    "data": {
+      "key": "INSTALLATION_DATE"
+    }
+  },
+  {
+    "ts": 1779134281369,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.accuweather.android/shared_prefs/cSPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134281393,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134281398,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134281402,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779134281410,
+    "type": "crypto",
+    "data": {
+      "algorithm": "RSA/ECB/PKCS1PADDING"
+    }
+  },
+  {
+    "ts": 1779134281423,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779134281434,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779134281441,
+    "type": "url_access",
+    "data": {
+      "url": "http://b.scorecardresearch.com/p2?c1=19&c2=6005068&ns_ap_an=AccuWeather&ns_ap_pn=android&ns_ap_pv=11&c12=85da4f7c4c933ae65026c4b96f45477f-cs72&ns_ak=aT60w1nifAghjEn4m98ssvidbeye6HnRbkAgtDaGThdRpZCUuVtT%2F2Znq52pqzYdFtT%2Bi06o8ekw2qPJotblrVnZSBzY9ZTh6%2BYOP6k2ooOqnJQtSrf3E%2BfQEDd3Avthk8SwCbHznTPZZ0paGqHSZDXWZQC%2FkSuf9Kp8Jq2zoI8%3D&name=start&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1779134281420&ns_ap_csf=1&ns_ap_bi=com.accuweather.android&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=4.1.4-free&ns_ap_sv=3.1508.28&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1779134281386&ns_ap_jb=0&ns_ap_res=1080x2009&ns_ap_install=1779134281386&ns_ap_lastrun=0&ns_ap_cs=1&ns_ap_runs=1&ns_ap_usage=34&ns_ap_fg=0&ns_ap_ft=0&ns_ap_dft=0&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=30&ns_ap_as=1&ns_ap_das=0&ns_ap_it=30&ns_ap_lang=en_us&ns_ap_ar=x86_64&ns_ts=1779134281420"
+    }
+  },
+  {
+    "ts": 1779134281484,
+    "type": "url_access",
+    "data": {
+      "url": "http://b.scorecardresearch.com/p2?c1=19&c2=6005068&ns_ap_an=AccuWeather&ns_ap_pn=android&ns_ap_pv=11&c12=85da4f7c4c933ae65026c4b96f45477f-cs72&ns_ak=aT60w1nifAghjEn4m98ssvidbeye6HnRbkAgtDaGThdRpZCUuVtT%2F2Znq52pqzYdFtT%2Bi06o8ekw2qPJotblrVnZSBzY9ZTh6%2BYOP6k2ooOqnJQtSrf3E%2BfQEDd3Avthk8SwCbHznTPZZ0paGqHSZDXWZQC%2FkSuf9Kp8Jq2zoI8%3D&name=start&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1779134281420&ns_ap_csf=1&ns_ap_bi=com.accuweather.android&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=4.1.4-free&ns_ap_sv=3.1508.28&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1779134281386&ns_ap_jb=0&ns_ap_res=1080x2009&ns_ap_install=1779134281386&ns_ap_lastrun=0&ns_ap_cs=1&ns_ap_runs=1&ns_ap_usage=34&ns_ap_fg=0&ns_ap_ft=0&ns_ap_dft=0&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=30&ns_ap_as=1&ns_ap_das=0&ns_ap_it=30&ns_ap_lang=en_us&ns_ap_ar=x86_64&ns_ts=1779134281420"
+    }
+  },
+  {
+    "ts": 1779134281601,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.accuweather.app.SplashScreen"
+    }
+  },
+  {
+    "ts": 1779134281624,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.urbanairship.preferences.CHANNEL_ID"
+    }
+  },
+  {
+    "ts": 1779134281627,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779134281677,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.urbanairship.preferences.CHANNEL_ID"
+    }
+  },
+  {
+    "ts": 1779134281700,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779134281946,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779134281961,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.urbanairship.preferences.CHANNEL_ID"
+    }
+  },
+  {
+    "ts": 1779134281966,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.accuweather.android/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134281996,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779134281997,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779134284346,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { act=android.intent.action.VIEW dat=http://m.accuweather.com/... (has extras) }"
+    }
+  },
+  {
+    "ts": 1779134284395,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { act=android.intent.action.VIEW dat=http://m.accuweather.com/... (has extras) }"
+    }
+  },
+  {
+    "ts": 1779134284401,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { act=android.intent.action.VIEW dat=http://m.accuweather.com/... (has extras) }"
+    }
+  },
+  {
+    "ts": 1779134284440,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { act=android.intent.action.CALL_BUTTON flg=0x10000000 }"
+    }
+  },
+  {
+    "ts": 1779134284465,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { act=android.intent.action.VIEW dat=http://m.accuweather.com/... (has extras) }"
+    }
+  },
+  {
+    "ts": 1779134292063,
+    "type": "url_access",
+    "data": {
+      "url": "https://combine.urbanairship.com/warp9/"
+    }
+  },
+  {
+    "ts": 1779134292068,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.urbanairship.preferences.CHANNEL_ID"
+    }
+  },
+  {
+    "ts": 1779134292805,
+    "type": "url_access",
+    "data": {
+      "url": "https://device-api.urbanairship.com/api/channels/"
+    }
+  },
+  {
+    "ts": 1779134292807,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779134292807,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779134293373,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134293375,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779134293377,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779134293377,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779134294514,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.accuweather.app.SplashScreen"
+    }
+  },
+  {
+    "ts": 1779134296024,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.accuweather.app.MainActivity"
+    }
+  },
+  {
+    "ts": 1779134296085,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_TIME_FORMAT"
+    }
+  },
+  {
+    "ts": 1779134296088,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_TIME_FORMAT"
+    }
+  },
+  {
+    "ts": 1779134296213,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134296213,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134300047,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.accuweather.android/shared_prefs/DELETE_TUTORIAL.xml.bak"
+    }
+  },
+  {
+    "ts": 1779134300053,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.accuweather.locations.EditLocationsActivity"
+    }
+  },
+  {
+    "ts": 1779134303625,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.accuweather.app.MainActivity"
+    }
+  },
+  {
+    "ts": 1779134303631,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_TIME_FORMAT"
+    }
+  },
+  {
+    "ts": 1779134305196,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.accuweather.android"
+    }
+  },
+  {
+    "ts": 1779134305196,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.accuweather.android"
+    }
+  },
+  {
+    "ts": 1779134305196,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.accuweather.android"
+    }
+  },
+  {
+    "ts": 1779134305199,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.accuweather.locations.LocationSearch"
+    }
+  },
+  {
+    "ts": 1779134306424,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.accuweather.app.MainActivity"
+    }
+  },
+  {
+    "ts": 1779134306427,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_TIME_FORMAT"
+    }
+  },
+  {
+    "ts": 1779134307428,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134307429,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134308946,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.accuweather.core.CardViewPager"
+    }
+  },
+  {
+    "ts": 1779134308966,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134308966,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_DATE_FORMAT"
+    }
+  },
+  {
+    "ts": 1779134308967,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134308967,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_DATE_FORMAT"
+    }
+  },
+  {
+    "ts": 1779134308975,
+    "type": "shared_pref",
+    "data": {
+      "key": "CURRENT_CONDITIONS_CHOICES_ARRAY_LIST_"
+    }
+  },
+  {
+    "ts": 1779134308992,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134308992,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134308994,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134308995,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134308996,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134308996,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134308996,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134308997,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134309002,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134309002,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134309003,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134309003,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134309003,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134309003,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134309004,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134309004,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134309005,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134309005,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134309005,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134309005,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134309006,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134309006,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134309008,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134309009,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134309011,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134309011,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134309013,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134309014,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134309015,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134309015,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134309017,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134309017,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134309019,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134309019,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134309022,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134309022,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  },
+  {
+    "ts": 1779134309027,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_FIRST_LOCATION_ADDED"
+    }
+  },
+  {
+    "ts": 1779134309027,
+    "type": "shared_pref",
+    "data": {
+      "key": "SETTINGS_KEY_UNITS"
+    }
+  }
+]

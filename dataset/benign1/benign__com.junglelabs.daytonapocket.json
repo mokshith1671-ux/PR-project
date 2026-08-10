@@ -1,0 +1,79 @@
+[
+  {
+    "ts": 1778234412446,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1778234412806,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.junglelabs.daytonapocket/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1778234413111,
+    "type": "webview",
+    "data": {
+      "url": "file:///android_asset/www/index.html"
+    }
+  },
+  {
+    "ts": 1778234413279,
+    "type": "activity",
+    "data": {
+      "activity": "com.junglelabs.daytonapocket.CordovaApp"
+    }
+  },
+  {
+    "ts": 1778234413316,
+    "type": "network",
+    "data": {
+      "url": "file:/system/framework/framework.jar"
+    }
+  },
+  {
+    "ts": 1778234413497,
+    "type": "network",
+    "data": {
+      "url": "file:/system/framework/framework.jar"
+    }
+  },
+  {
+    "ts": 1778234413524,
+    "type": "network",
+    "data": {
+      "url": "file:/system/framework/framework.jar"
+    }
+  },
+  {
+    "ts": 1778234413659,
+    "type": "settings",
+    "data": {
+      "key": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1778234414737,
+    "type": "webview",
+    "data": {
+      "url": "javascript:try{cordova.fireDocumentEvent('pause');}catch(e){console.log('exception firing pause event from native');};"
+    }
+  },
+  {
+    "ts": 1778234414782,
+    "type": "activity",
+    "data": {
+      "activity": "com.junglelabs.daytonapocket.CordovaApp"
+    }
+  },
+  {
+    "ts": 1778234414785,
+    "type": "webview",
+    "data": {
+      "url": "javascript:try{cordova.fireDocumentEvent('resume');}catch(e){console.log('exception firing resume event from native');};"
+    }
+  }
+]

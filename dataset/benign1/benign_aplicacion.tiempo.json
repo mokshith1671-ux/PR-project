@@ -1,0 +1,534 @@
+[
+  {
+    "ts": 1779634638496,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779634638499,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779634638499,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779634638500,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779634638501,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779634638511,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/n/x86_64"
+    }
+  },
+  {
+    "ts": 1779634638511,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/n/arm64-v8a"
+    }
+  },
+  {
+    "ts": 1779634638512,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779634638512,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779634638515,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779634638570,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aplicacion.tiempo/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634638573,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/13727/cmdline"
+    }
+  },
+  {
+    "ts": 1779634638580,
+    "type": "file_access",
+    "data": {
+      "path": "/"
+    }
+  },
+  {
+    "ts": 1779634638582,
+    "type": "shared_pref",
+    "data": {
+      "key": "gmp_app_id"
+    }
+  },
+  {
+    "ts": 1779634638583,
+    "type": "file_access",
+    "data": {
+      "path": "ZoneInfoMap"
+    }
+  },
+  {
+    "ts": 1779634638586,
+    "type": "shared_pref",
+    "data": {
+      "key": "previous_os_version"
+    }
+  },
+  {
+    "ts": 1779634638597,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aplicacion.tiempo/shared_prefs/cSPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634638603,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779634638606,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779634638608,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779634638609,
+    "type": "crypto",
+    "data": {
+      "algorithm": "RSA/ECB/PKCS1PADDING"
+    }
+  },
+  {
+    "ts": 1779634638611,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aplicacion.tiempo/databases/google_tagmanager.db"
+    }
+  },
+  {
+    "ts": 1779634639114,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googletagmanager.com/r?id=GTM-MFS938&v=a65833898"
+    }
+  },
+  {
+    "ts": 1779634639170,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aplicacion.tiempo/shared_prefs/tiempo.com.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634639691,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aplicacion.tiempo/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634639720,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aplicacion.tiempo/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779634639741,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779634639785,
+    "type": "activity_resume",
+    "data": {
+      "activity": "aplicacion.tiempo.InicialActivity"
+    }
+  },
+  {
+    "ts": 1779634639790,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aplicacion.tiempo/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634639791,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.1542502069333743"
+    }
+  },
+  {
+    "ts": 1779634639792,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aplicacion.tiempo/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634639794,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.7/1542502069333743?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779634639795,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779634639799,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aplicacion.tiempo/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634639800,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|858154548956|*"
+    }
+  },
+  {
+    "ts": 1779634639800,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|858154548956|*"
+    }
+  },
+  {
+    "ts": 1779634639800,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779634639801,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779634639981,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aplicacion.tiempo/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634639984,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779634639985,
+    "type": "shared_pref",
+    "data": {
+      "key": "1542502069333743json"
+    }
+  },
+  {
+    "ts": 1779634639991,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634639992,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634639993,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634639993,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634639993,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634639995,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634639996,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634639996,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634639998,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634639998,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634639998,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634639998,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634640000,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634640000,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634640001,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634640002,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634640003,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634640003,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634640004,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634640005,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634640012,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634640013,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779634640013,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634640013,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779634640016,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779634640019,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.7/1542502069333743/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779634641086,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779634641088,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779634641088,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779634641089,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779634641255,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aplicacion.tiempo/shared_prefs/_gtmContainerRefreshPolicy_GTM-MFS938.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634642074,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/aplicacion.tiempo/databases/google_app_measurement_local.db"
+    }
+  },
+  {
+    "ts": 1779634644766,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|858154548956|*"
+    }
+  },
+  {
+    "ts": 1779634644767,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779634654991,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.7/1542502069333743/activities?access_token=&format=json&sdk=android"
+    }
+  }
+]

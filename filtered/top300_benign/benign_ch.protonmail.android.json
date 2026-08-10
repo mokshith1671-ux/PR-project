@@ -1,0 +1,1213 @@
+[
+  {
+    "ts": 1779636925430,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ch.protonmail.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131ABD017E-0001-6EEE-A9A371C4C663BeginSession.cls_temp"
+    }
+  },
+  {
+    "ts": 1779636925431,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ch.protonmail.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131ABD017E-0001-6EEE-A9A371C4C663BeginSession.cls"
+    }
+  },
+  {
+    "ts": 1779636925432,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ch.protonmail.android/shared_prefs/ProtonMailSSP.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636925436,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925436,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ch.protonmail.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131ABD017E-0001-6EEE-A9A371C4C663SessionApp.cls_temp"
+    }
+  },
+  {
+    "ts": 1779636925437,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779636925438,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ch.protonmail.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131ABD017E-0001-6EEE-A9A371C4C663SessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779636925439,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ch.protonmail.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131ABD017E-0001-6EEE-A9A371C4C663SessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779636925440,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779636925440,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779636925441,
+    "type": "shared_pref",
+    "data": {
+      "key": "nlrr+VXWVKhBcFGwjwgK3g=="
+    }
+  },
+  {
+    "ts": 1779636925442,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ch.protonmail.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131ABD017E-0001-6EEE-A9A371C4C663SessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779636925443,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925443,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ch.protonmail.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131ABD017E-0001-6EEE-A9A371C4C663SessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779636925445,
+    "type": "shared_pref",
+    "data": {
+      "key": "qBW5LB9dH3Bfky9af3DWmA=="
+    }
+  },
+  {
+    "ts": 1779636925445,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925446,
+    "type": "shared_pref",
+    "data": {
+      "key": "sBAZvCbTsQAXT+2G7V/Ygw=="
+    }
+  },
+  {
+    "ts": 1779636925447,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925448,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779636925449,
+    "type": "shared_pref",
+    "data": {
+      "key": "LTCmQA+z+CdhmFAzAo3LrA=="
+    }
+  },
+  {
+    "ts": 1779636925450,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ch.protonmail.android/shared_prefs/ch.protonmail.android_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636925452,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ch.protonmail.android/shared_prefs/backup_prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636925474,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925474,
+    "type": "shared_pref",
+    "data": {
+      "key": "bp0Gcn50hQCBIPbMurp8YA=="
+    }
+  },
+  {
+    "ts": 1779636925475,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925476,
+    "type": "shared_pref",
+    "data": {
+      "key": "X5aF7BhYl44aVJbDE+ugM/QytJhGZFj7J1rs0FDjmI8="
+    }
+  },
+  {
+    "ts": 1779636925476,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925477,
+    "type": "shared_pref",
+    "data": {
+      "key": "27EHHj8RZTYCz0Hr90ECrA=="
+    }
+  },
+  {
+    "ts": 1779636925477,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925478,
+    "type": "shared_pref",
+    "data": {
+      "key": "OmV0UMI/XPw66zrzelxxUQ=="
+    }
+  },
+  {
+    "ts": 1779636925478,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925479,
+    "type": "shared_pref",
+    "data": {
+      "key": "+Yl2ci0D49LtDBuVJwDEtA=="
+    }
+  },
+  {
+    "ts": 1779636925480,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925480,
+    "type": "shared_pref",
+    "data": {
+      "key": "/1bC/deyCUuzF7pcbpgeOWrVhg2ID2v61KsINkdM2EI="
+    }
+  },
+  {
+    "ts": 1779636925481,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925481,
+    "type": "shared_pref",
+    "data": {
+      "key": "6NHRlhEL0eviDsXm2o7vvZpOviTegNoSMaj/GJCosUk="
+    }
+  },
+  {
+    "ts": 1779636925482,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925482,
+    "type": "shared_pref",
+    "data": {
+      "key": "pBeevPqetNUmXHn5sfZRwg=="
+    }
+  },
+  {
+    "ts": 1779636925483,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925483,
+    "type": "shared_pref",
+    "data": {
+      "key": "9aVxemLCKPwYow7vbmHY8w=="
+    }
+  },
+  {
+    "ts": 1779636925483,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925484,
+    "type": "shared_pref",
+    "data": {
+      "key": "hRd4RSQFJoD/eI1JFiTsNyCtFNMhNS+4c3BvDucGKZA="
+    }
+  },
+  {
+    "ts": 1779636925484,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925484,
+    "type": "shared_pref",
+    "data": {
+      "key": "zYD8p6ohaNsmxVzjzbyUVS/x5fBBksf83Ua2YUbm0Qo="
+    }
+  },
+  {
+    "ts": 1779636925484,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925485,
+    "type": "shared_pref",
+    "data": {
+      "key": "VM/OZzqKM+r16IX6mNPqlZmTmq/GgtGVqVUCXPvHn7A="
+    }
+  },
+  {
+    "ts": 1779636925486,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925486,
+    "type": "shared_pref",
+    "data": {
+      "key": "P3eB2SyvW+S0gCoSEwOpSBZxSqBrK9Gybxn/bON69AA="
+    }
+  },
+  {
+    "ts": 1779636925486,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925486,
+    "type": "shared_pref",
+    "data": {
+      "key": "7CrvjXIp88FU7iSGHGj40g=="
+    }
+  },
+  {
+    "ts": 1779636925486,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925487,
+    "type": "shared_pref",
+    "data": {
+      "key": "pOgqd9k1C9ioWpjUWC/qAQ=="
+    }
+  },
+  {
+    "ts": 1779636925487,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925487,
+    "type": "shared_pref",
+    "data": {
+      "key": "Gt5iLGuZPMVGD339HYNdcg=="
+    }
+  },
+  {
+    "ts": 1779636925487,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925487,
+    "type": "shared_pref",
+    "data": {
+      "key": "xGXEDn+CdyjwIm1VF6fgjQ=="
+    }
+  },
+  {
+    "ts": 1779636925487,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925489,
+    "type": "shared_pref",
+    "data": {
+      "key": "bLajlaqk/2NulbJ461KLww=="
+    }
+  },
+  {
+    "ts": 1779636925490,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925490,
+    "type": "shared_pref",
+    "data": {
+      "key": "0jYz1xRrZU0864ZcG3dZmA=="
+    }
+  },
+  {
+    "ts": 1779636925491,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925491,
+    "type": "shared_pref",
+    "data": {
+      "key": "HM/owda9hQbqHzzjsL2ywAEnkFzSeEV5E917ubsuRbQ="
+    }
+  },
+  {
+    "ts": 1779636925492,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925492,
+    "type": "shared_pref",
+    "data": {
+      "key": "RaaHfGOodPq5eFfwWAMc4g=="
+    }
+  },
+  {
+    "ts": 1779636925493,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925493,
+    "type": "shared_pref",
+    "data": {
+      "key": "sNr+Tj9DCswh0okfIPVkjGGjM6EEPMD0iAI+g26ZLF4="
+    }
+  },
+  {
+    "ts": 1779636925493,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925494,
+    "type": "shared_pref",
+    "data": {
+      "key": "VlZwE4glFvba8Spy7xZp2cx+N3Qtdgl/8+cGvSEZOOA="
+    }
+  },
+  {
+    "ts": 1779636925494,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925495,
+    "type": "shared_pref",
+    "data": {
+      "key": "JRNT23gPsxhYswAk5UIQjA=="
+    }
+  },
+  {
+    "ts": 1779636925496,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925497,
+    "type": "shared_pref",
+    "data": {
+      "key": "4TraCc1j3WtHV3zbZtlRyA=="
+    }
+  },
+  {
+    "ts": 1779636925497,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925498,
+    "type": "shared_pref",
+    "data": {
+      "key": "0xSgl4Nb9y/SjDAoKWGOOXrBIHrPTbqSZyiUxBBDIZI="
+    }
+  },
+  {
+    "ts": 1779636925498,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925499,
+    "type": "shared_pref",
+    "data": {
+      "key": "EoFfxoe+v5sCvgHZHiC4L8OBByPsP23GMC9NmNxyDyI="
+    }
+  },
+  {
+    "ts": 1779636925500,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925500,
+    "type": "shared_pref",
+    "data": {
+      "key": "ClSuT4JjPWCfMaFJJBsn7e0ZuZXRMa5UlC6aedLdFSw="
+    }
+  },
+  {
+    "ts": 1779636925501,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925501,
+    "type": "shared_pref",
+    "data": {
+      "key": "npQn8DIBlfEnzXi8TqVmng=="
+    }
+  },
+  {
+    "ts": 1779636925501,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925502,
+    "type": "shared_pref",
+    "data": {
+      "key": "NxOKkiv9JnAG6f90P7dY8w=="
+    }
+  },
+  {
+    "ts": 1779636925502,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925503,
+    "type": "shared_pref",
+    "data": {
+      "key": "+zC6RL4JHcm9s9p8jXnGmw=="
+    }
+  },
+  {
+    "ts": 1779636925504,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925504,
+    "type": "shared_pref",
+    "data": {
+      "key": "NndOxWtLHkWzHfz7nG9bkw=="
+    }
+  },
+  {
+    "ts": 1779636925505,
+    "type": "shared_pref",
+    "data": {
+      "key": "ringtone"
+    }
+  },
+  {
+    "ts": 1779636925505,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925506,
+    "type": "shared_pref",
+    "data": {
+      "key": "HM/owda9hQbqHzzjsL2ywAEnkFzSeEV5E917ubsuRbQ="
+    }
+  },
+  {
+    "ts": 1779636925506,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925508,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925509,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925509,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925510,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925511,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925511,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925512,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925513,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925515,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925515,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925516,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925517,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925518,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925521,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925522,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925522,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925523,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925523,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925523,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925524,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925524,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925525,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925525,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925525,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925526,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925527,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925527,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925531,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925532,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925533,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925534,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925534,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925535,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925536,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925537,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925538,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925538,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925539,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925539,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925540,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925541,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925541,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925542,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925542,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925543,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925544,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925545,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925546,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925546,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925547,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925547,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925548,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925549,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925549,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925550,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925550,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925551,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925551,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925552,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925552,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925552,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925553,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925555,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925555,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925555,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES"
+    }
+  },
+  {
+    "ts": 1779636925663,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ch.protonmail.android.activities.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779636925861,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779636925871,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779636925875,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ch.protonmail.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779636925876,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636925877,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636925878,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ch.protonmail.android/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779636925879,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779636925883,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779636925884,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779636925885,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779636925885,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/ch.protonmail.android/settings?instance=29f6cec6220c2d7da8d6b250970125923b9fa62a&build_version=279&display_version=1.5.9&source=1&icon_hash=673f79a4e840ba497fb6e8d65ba91c861c47bc0d"
+    }
+  },
+  {
+    "ts": 1779636925889,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ch.protonmail.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131ABD017E-0001-6EEE-A9A371C4C663SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779636925894,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/ch.protonmail.android/settings?instance=29f6cec6220c2d7da8d6b250970125923b9fa62a&build_version=279&display_version=1.5.9&source=1&icon_hash=673f79a4e840ba497fb6e8d65ba91c861c47bc0d"
+    }
+  },
+  {
+    "ts": 1779636925916,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ch.protonmail.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779636927699,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ch.protonmail.android.activities.FirstActivity"
+    }
+  },
+  {
+    "ts": 1779636928911,
+    "type": "shared_pref",
+    "data": {
+      "key": "username"
+    }
+  },
+  {
+    "ts": 1779636928916,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ch.protonmail.android.activities.LoginActivity"
+    }
+  }
+]

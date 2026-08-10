@@ -1,0 +1,2249 @@
+[
+  {
+    "ts": 1779132643271,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779132643273,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779132643276,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779132643278,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779132643278,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779132643281,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.honeygarlic.garibaldi/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132643289,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779132643327,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779132643399,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.honeygarlic.garibaldi/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132643472,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/ca.honeygarlic.garibaldi/shared_prefs/ca.honeygarlic.garibaldi_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132643502,
+    "type": "shared_pref",
+    "data": {
+      "key": "ProfileTwitter"
+    }
+  },
+  {
+    "ts": 1779132643502,
+    "type": "shared_pref",
+    "data": {
+      "key": "ProfileSchoolname"
+    }
+  },
+  {
+    "ts": 1779132643502,
+    "type": "shared_pref",
+    "data": {
+      "key": "ProfileWebsite"
+    }
+  },
+  {
+    "ts": 1779132643502,
+    "type": "shared_pref",
+    "data": {
+      "key": "ProfileNewslink"
+    }
+  },
+  {
+    "ts": 1779132643503,
+    "type": "shared_pref",
+    "data": {
+      "key": "ProfileNewslinktext"
+    }
+  },
+  {
+    "ts": 1779132643503,
+    "type": "shared_pref",
+    "data": {
+      "key": "ProfileContacts"
+    }
+  },
+  {
+    "ts": 1779132643504,
+    "type": "shared_pref",
+    "data": {
+      "key": "ProfileAbsences"
+    }
+  },
+  {
+    "ts": 1779132643504,
+    "type": "shared_pref",
+    "data": {
+      "key": "eventlist_Monday"
+    }
+  },
+  {
+    "ts": 1779132643504,
+    "type": "shared_pref",
+    "data": {
+      "key": "eventlist_Tuesday"
+    }
+  },
+  {
+    "ts": 1779132643504,
+    "type": "shared_pref",
+    "data": {
+      "key": "eventlist_Wednesday"
+    }
+  },
+  {
+    "ts": 1779132643504,
+    "type": "shared_pref",
+    "data": {
+      "key": "eventlist_Thursday"
+    }
+  },
+  {
+    "ts": 1779132643504,
+    "type": "shared_pref",
+    "data": {
+      "key": "eventlist_Friday"
+    }
+  },
+  {
+    "ts": 1779132643504,
+    "type": "shared_pref",
+    "data": {
+      "key": "eventlist_Saturday"
+    }
+  },
+  {
+    "ts": 1779132643504,
+    "type": "shared_pref",
+    "data": {
+      "key": "eventlist_Sunday"
+    }
+  },
+  {
+    "ts": 1779132643507,
+    "type": "shared_pref",
+    "data": {
+      "key": "DaytypesCSV"
+    }
+  },
+  {
+    "ts": 1779132643512,
+    "type": "url_access",
+    "data": {
+      "url": "https://mobileagenda.ca/api/schoolinfo/?app=Garibaldi"
+    }
+  },
+  {
+    "ts": 1779132643578,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS1"
+    }
+  },
+  {
+    "ts": 1779132643579,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS2"
+    }
+  },
+  {
+    "ts": 1779132643580,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS3"
+    }
+  },
+  {
+    "ts": 1779132643581,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS4"
+    }
+  },
+  {
+    "ts": 1779132643581,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS5"
+    }
+  },
+  {
+    "ts": 1779132643581,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS6"
+    }
+  },
+  {
+    "ts": 1779132643582,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS7"
+    }
+  },
+  {
+    "ts": 1779132643582,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS8"
+    }
+  },
+  {
+    "ts": 1779132643582,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS201"
+    }
+  },
+  {
+    "ts": 1779132643582,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS202"
+    }
+  },
+  {
+    "ts": 1779132643583,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS203"
+    }
+  },
+  {
+    "ts": 1779132643583,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS204"
+    }
+  },
+  {
+    "ts": 1779132643583,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS205"
+    }
+  },
+  {
+    "ts": 1779132643583,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS206"
+    }
+  },
+  {
+    "ts": 1779132643583,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS207"
+    }
+  },
+  {
+    "ts": 1779132643584,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS208"
+    }
+  },
+  {
+    "ts": 1779132643584,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS301"
+    }
+  },
+  {
+    "ts": 1779132643584,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS302"
+    }
+  },
+  {
+    "ts": 1779132643584,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS303"
+    }
+  },
+  {
+    "ts": 1779132643584,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS304"
+    }
+  },
+  {
+    "ts": 1779132643584,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS305"
+    }
+  },
+  {
+    "ts": 1779132643585,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS306"
+    }
+  },
+  {
+    "ts": 1779132643585,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS307"
+    }
+  },
+  {
+    "ts": 1779132643585,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS308"
+    }
+  },
+  {
+    "ts": 1779132643585,
+    "type": "shared_pref",
+    "data": {
+      "key": "AM-Monday"
+    }
+  },
+  {
+    "ts": 1779132643585,
+    "type": "shared_pref",
+    "data": {
+      "key": "AM-Tuesday"
+    }
+  },
+  {
+    "ts": 1779132643585,
+    "type": "shared_pref",
+    "data": {
+      "key": "AM-Wednesday"
+    }
+  },
+  {
+    "ts": 1779132643585,
+    "type": "shared_pref",
+    "data": {
+      "key": "AM-Thursday"
+    }
+  },
+  {
+    "ts": 1779132643585,
+    "type": "shared_pref",
+    "data": {
+      "key": "AM-Friday"
+    }
+  },
+  {
+    "ts": 1779132643586,
+    "type": "shared_pref",
+    "data": {
+      "key": "LUNCH-Monday"
+    }
+  },
+  {
+    "ts": 1779132643586,
+    "type": "shared_pref",
+    "data": {
+      "key": "LUNCH-Tuesday"
+    }
+  },
+  {
+    "ts": 1779132643586,
+    "type": "shared_pref",
+    "data": {
+      "key": "LUNCH-Wednesday"
+    }
+  },
+  {
+    "ts": 1779132643586,
+    "type": "shared_pref",
+    "data": {
+      "key": "LUNCH-Thursday"
+    }
+  },
+  {
+    "ts": 1779132643586,
+    "type": "shared_pref",
+    "data": {
+      "key": "LUNCH-Friday"
+    }
+  },
+  {
+    "ts": 1779132643586,
+    "type": "shared_pref",
+    "data": {
+      "key": "PM-Monday"
+    }
+  },
+  {
+    "ts": 1779132643587,
+    "type": "shared_pref",
+    "data": {
+      "key": "PM-Tuesday"
+    }
+  },
+  {
+    "ts": 1779132643587,
+    "type": "shared_pref",
+    "data": {
+      "key": "PM-Wednesday"
+    }
+  },
+  {
+    "ts": 1779132643587,
+    "type": "shared_pref",
+    "data": {
+      "key": "PM-Thursday"
+    }
+  },
+  {
+    "ts": 1779132643587,
+    "type": "shared_pref",
+    "data": {
+      "key": "PM-Friday"
+    }
+  },
+  {
+    "ts": 1779132643587,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS1"
+    }
+  },
+  {
+    "ts": 1779132643587,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS1color"
+    }
+  },
+  {
+    "ts": 1779132643588,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS2"
+    }
+  },
+  {
+    "ts": 1779132643588,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS2color"
+    }
+  },
+  {
+    "ts": 1779132643588,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS3"
+    }
+  },
+  {
+    "ts": 1779132643588,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS3color"
+    }
+  },
+  {
+    "ts": 1779132643588,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS4"
+    }
+  },
+  {
+    "ts": 1779132643588,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS4color"
+    }
+  },
+  {
+    "ts": 1779132643589,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS5"
+    }
+  },
+  {
+    "ts": 1779132643589,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS5color"
+    }
+  },
+  {
+    "ts": 1779132643589,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS6"
+    }
+  },
+  {
+    "ts": 1779132643589,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS6color"
+    }
+  },
+  {
+    "ts": 1779132643589,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS7"
+    }
+  },
+  {
+    "ts": 1779132643590,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS7color"
+    }
+  },
+  {
+    "ts": 1779132643590,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS8"
+    }
+  },
+  {
+    "ts": 1779132643590,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS8color"
+    }
+  },
+  {
+    "ts": 1779132643590,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS9"
+    }
+  },
+  {
+    "ts": 1779132643590,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS9color"
+    }
+  },
+  {
+    "ts": 1779132643590,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS10"
+    }
+  },
+  {
+    "ts": 1779132643591,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS10color"
+    }
+  },
+  {
+    "ts": 1779132643591,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS11"
+    }
+  },
+  {
+    "ts": 1779132643591,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS11color"
+    }
+  },
+  {
+    "ts": 1779132643591,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS12"
+    }
+  },
+  {
+    "ts": 1779132643591,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS12color"
+    }
+  },
+  {
+    "ts": 1779132643591,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS13"
+    }
+  },
+  {
+    "ts": 1779132643592,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS13color"
+    }
+  },
+  {
+    "ts": 1779132643592,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS14"
+    }
+  },
+  {
+    "ts": 1779132643592,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS14color"
+    }
+  },
+  {
+    "ts": 1779132643592,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS15"
+    }
+  },
+  {
+    "ts": 1779132643593,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS15color"
+    }
+  },
+  {
+    "ts": 1779132643593,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS16"
+    }
+  },
+  {
+    "ts": 1779132643593,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS16color"
+    }
+  },
+  {
+    "ts": 1779132643593,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS17"
+    }
+  },
+  {
+    "ts": 1779132643593,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS17color"
+    }
+  },
+  {
+    "ts": 1779132643593,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS18"
+    }
+  },
+  {
+    "ts": 1779132643593,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS18color"
+    }
+  },
+  {
+    "ts": 1779132643593,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS19"
+    }
+  },
+  {
+    "ts": 1779132643593,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS19color"
+    }
+  },
+  {
+    "ts": 1779132643593,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS20"
+    }
+  },
+  {
+    "ts": 1779132643593,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS20color"
+    }
+  },
+  {
+    "ts": 1779132643593,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS21"
+    }
+  },
+  {
+    "ts": 1779132643594,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS21color"
+    }
+  },
+  {
+    "ts": 1779132643594,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS22"
+    }
+  },
+  {
+    "ts": 1779132643594,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS22color"
+    }
+  },
+  {
+    "ts": 1779132643594,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS23"
+    }
+  },
+  {
+    "ts": 1779132643594,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS23color"
+    }
+  },
+  {
+    "ts": 1779132643594,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS24"
+    }
+  },
+  {
+    "ts": 1779132643594,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS24color"
+    }
+  },
+  {
+    "ts": 1779132643594,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS25"
+    }
+  },
+  {
+    "ts": 1779132643595,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS25color"
+    }
+  },
+  {
+    "ts": 1779132643595,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS26"
+    }
+  },
+  {
+    "ts": 1779132643595,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS26color"
+    }
+  },
+  {
+    "ts": 1779132643595,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS27"
+    }
+  },
+  {
+    "ts": 1779132643595,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS27color"
+    }
+  },
+  {
+    "ts": 1779132643595,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS28"
+    }
+  },
+  {
+    "ts": 1779132643596,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS28color"
+    }
+  },
+  {
+    "ts": 1779132643596,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS29"
+    }
+  },
+  {
+    "ts": 1779132643596,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS29color"
+    }
+  },
+  {
+    "ts": 1779132643596,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS30"
+    }
+  },
+  {
+    "ts": 1779132643596,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS30color"
+    }
+  },
+  {
+    "ts": 1779132643597,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS31"
+    }
+  },
+  {
+    "ts": 1779132643597,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS31color"
+    }
+  },
+  {
+    "ts": 1779132643598,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS32"
+    }
+  },
+  {
+    "ts": 1779132643598,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS32color"
+    }
+  },
+  {
+    "ts": 1779132643598,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS33"
+    }
+  },
+  {
+    "ts": 1779132643598,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS33color"
+    }
+  },
+  {
+    "ts": 1779132643598,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS34"
+    }
+  },
+  {
+    "ts": 1779132643598,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS34color"
+    }
+  },
+  {
+    "ts": 1779132643598,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS35"
+    }
+  },
+  {
+    "ts": 1779132643598,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS35color"
+    }
+  },
+  {
+    "ts": 1779132643598,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS36"
+    }
+  },
+  {
+    "ts": 1779132643599,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS36color"
+    }
+  },
+  {
+    "ts": 1779132643599,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS37"
+    }
+  },
+  {
+    "ts": 1779132643599,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS37color"
+    }
+  },
+  {
+    "ts": 1779132643600,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS38"
+    }
+  },
+  {
+    "ts": 1779132643600,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS38color"
+    }
+  },
+  {
+    "ts": 1779132643600,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS39"
+    }
+  },
+  {
+    "ts": 1779132643600,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS39color"
+    }
+  },
+  {
+    "ts": 1779132643600,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS40"
+    }
+  },
+  {
+    "ts": 1779132643600,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS40color"
+    }
+  },
+  {
+    "ts": 1779132643600,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS201"
+    }
+  },
+  {
+    "ts": 1779132643600,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS201color"
+    }
+  },
+  {
+    "ts": 1779132643601,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS202"
+    }
+  },
+  {
+    "ts": 1779132643601,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS202color"
+    }
+  },
+  {
+    "ts": 1779132643601,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS203"
+    }
+  },
+  {
+    "ts": 1779132643601,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS203color"
+    }
+  },
+  {
+    "ts": 1779132643601,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS204"
+    }
+  },
+  {
+    "ts": 1779132643601,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS204color"
+    }
+  },
+  {
+    "ts": 1779132643602,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS205"
+    }
+  },
+  {
+    "ts": 1779132643602,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS205color"
+    }
+  },
+  {
+    "ts": 1779132643602,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS206"
+    }
+  },
+  {
+    "ts": 1779132643602,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS206color"
+    }
+  },
+  {
+    "ts": 1779132643602,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS207"
+    }
+  },
+  {
+    "ts": 1779132643602,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS207color"
+    }
+  },
+  {
+    "ts": 1779132643602,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS208"
+    }
+  },
+  {
+    "ts": 1779132643602,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS208color"
+    }
+  },
+  {
+    "ts": 1779132643602,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS209"
+    }
+  },
+  {
+    "ts": 1779132643602,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS209color"
+    }
+  },
+  {
+    "ts": 1779132643602,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS210"
+    }
+  },
+  {
+    "ts": 1779132643603,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS210color"
+    }
+  },
+  {
+    "ts": 1779132643603,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS211"
+    }
+  },
+  {
+    "ts": 1779132643603,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS211color"
+    }
+  },
+  {
+    "ts": 1779132643604,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS212"
+    }
+  },
+  {
+    "ts": 1779132643604,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS212color"
+    }
+  },
+  {
+    "ts": 1779132643604,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS213"
+    }
+  },
+  {
+    "ts": 1779132643604,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS213color"
+    }
+  },
+  {
+    "ts": 1779132643605,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS214"
+    }
+  },
+  {
+    "ts": 1779132643605,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS214color"
+    }
+  },
+  {
+    "ts": 1779132643605,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS215"
+    }
+  },
+  {
+    "ts": 1779132643605,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS215color"
+    }
+  },
+  {
+    "ts": 1779132643605,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS216"
+    }
+  },
+  {
+    "ts": 1779132643605,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS216color"
+    }
+  },
+  {
+    "ts": 1779132643605,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS217"
+    }
+  },
+  {
+    "ts": 1779132643605,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS217color"
+    }
+  },
+  {
+    "ts": 1779132643605,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS218"
+    }
+  },
+  {
+    "ts": 1779132643606,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS218color"
+    }
+  },
+  {
+    "ts": 1779132643606,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS219"
+    }
+  },
+  {
+    "ts": 1779132643606,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS219color"
+    }
+  },
+  {
+    "ts": 1779132643606,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS220"
+    }
+  },
+  {
+    "ts": 1779132643606,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS220color"
+    }
+  },
+  {
+    "ts": 1779132643607,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS221"
+    }
+  },
+  {
+    "ts": 1779132643607,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS221color"
+    }
+  },
+  {
+    "ts": 1779132643607,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS222"
+    }
+  },
+  {
+    "ts": 1779132643607,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS222color"
+    }
+  },
+  {
+    "ts": 1779132643607,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS223"
+    }
+  },
+  {
+    "ts": 1779132643608,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS223color"
+    }
+  },
+  {
+    "ts": 1779132643608,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS224"
+    }
+  },
+  {
+    "ts": 1779132643608,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS224color"
+    }
+  },
+  {
+    "ts": 1779132643608,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS225"
+    }
+  },
+  {
+    "ts": 1779132643608,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS225color"
+    }
+  },
+  {
+    "ts": 1779132643609,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS226"
+    }
+  },
+  {
+    "ts": 1779132643609,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS226color"
+    }
+  },
+  {
+    "ts": 1779132643609,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS227"
+    }
+  },
+  {
+    "ts": 1779132643609,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS227color"
+    }
+  },
+  {
+    "ts": 1779132643609,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS228"
+    }
+  },
+  {
+    "ts": 1779132643609,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS228color"
+    }
+  },
+  {
+    "ts": 1779132643609,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS229"
+    }
+  },
+  {
+    "ts": 1779132643609,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS229color"
+    }
+  },
+  {
+    "ts": 1779132643609,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS230"
+    }
+  },
+  {
+    "ts": 1779132643609,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS230color"
+    }
+  },
+  {
+    "ts": 1779132643609,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS231"
+    }
+  },
+  {
+    "ts": 1779132643610,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS231color"
+    }
+  },
+  {
+    "ts": 1779132643610,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS232"
+    }
+  },
+  {
+    "ts": 1779132643610,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS232color"
+    }
+  },
+  {
+    "ts": 1779132643610,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS233"
+    }
+  },
+  {
+    "ts": 1779132643610,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS233color"
+    }
+  },
+  {
+    "ts": 1779132643610,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS234"
+    }
+  },
+  {
+    "ts": 1779132643610,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS234color"
+    }
+  },
+  {
+    "ts": 1779132643610,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS235"
+    }
+  },
+  {
+    "ts": 1779132643610,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS235color"
+    }
+  },
+  {
+    "ts": 1779132643610,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS236"
+    }
+  },
+  {
+    "ts": 1779132643610,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS236color"
+    }
+  },
+  {
+    "ts": 1779132643610,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS237"
+    }
+  },
+  {
+    "ts": 1779132643611,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS237color"
+    }
+  },
+  {
+    "ts": 1779132643611,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS238"
+    }
+  },
+  {
+    "ts": 1779132643611,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS238color"
+    }
+  },
+  {
+    "ts": 1779132643611,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS239"
+    }
+  },
+  {
+    "ts": 1779132643611,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS239color"
+    }
+  },
+  {
+    "ts": 1779132643611,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS240"
+    }
+  },
+  {
+    "ts": 1779132643612,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS240color"
+    }
+  },
+  {
+    "ts": 1779132643612,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS301"
+    }
+  },
+  {
+    "ts": 1779132643612,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS301color"
+    }
+  },
+  {
+    "ts": 1779132643612,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS302"
+    }
+  },
+  {
+    "ts": 1779132643612,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS302color"
+    }
+  },
+  {
+    "ts": 1779132643612,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS303"
+    }
+  },
+  {
+    "ts": 1779132643612,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS303color"
+    }
+  },
+  {
+    "ts": 1779132643612,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS304"
+    }
+  },
+  {
+    "ts": 1779132643613,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS304color"
+    }
+  },
+  {
+    "ts": 1779132643613,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS305"
+    }
+  },
+  {
+    "ts": 1779132643613,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS305color"
+    }
+  },
+  {
+    "ts": 1779132643613,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS306"
+    }
+  },
+  {
+    "ts": 1779132643613,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS306color"
+    }
+  },
+  {
+    "ts": 1779132643614,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS307"
+    }
+  },
+  {
+    "ts": 1779132643614,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS307color"
+    }
+  },
+  {
+    "ts": 1779132643614,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS308"
+    }
+  },
+  {
+    "ts": 1779132643615,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS308color"
+    }
+  },
+  {
+    "ts": 1779132643615,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS309"
+    }
+  },
+  {
+    "ts": 1779132643615,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS309color"
+    }
+  },
+  {
+    "ts": 1779132643616,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS310"
+    }
+  },
+  {
+    "ts": 1779132643616,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS310color"
+    }
+  },
+  {
+    "ts": 1779132643616,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS311"
+    }
+  },
+  {
+    "ts": 1779132643616,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS311color"
+    }
+  },
+  {
+    "ts": 1779132643616,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS312"
+    }
+  },
+  {
+    "ts": 1779132643617,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS312color"
+    }
+  },
+  {
+    "ts": 1779132643617,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS313"
+    }
+  },
+  {
+    "ts": 1779132643617,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS313color"
+    }
+  },
+  {
+    "ts": 1779132643618,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS314"
+    }
+  },
+  {
+    "ts": 1779132643618,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS314color"
+    }
+  },
+  {
+    "ts": 1779132643618,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS315"
+    }
+  },
+  {
+    "ts": 1779132643618,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS315color"
+    }
+  },
+  {
+    "ts": 1779132643618,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS316"
+    }
+  },
+  {
+    "ts": 1779132643618,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS316color"
+    }
+  },
+  {
+    "ts": 1779132643618,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS317"
+    }
+  },
+  {
+    "ts": 1779132643619,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS317color"
+    }
+  },
+  {
+    "ts": 1779132643619,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS318"
+    }
+  },
+  {
+    "ts": 1779132643619,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS318color"
+    }
+  },
+  {
+    "ts": 1779132643619,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS319"
+    }
+  },
+  {
+    "ts": 1779132643619,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS319color"
+    }
+  },
+  {
+    "ts": 1779132643619,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS320"
+    }
+  },
+  {
+    "ts": 1779132643620,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS320color"
+    }
+  },
+  {
+    "ts": 1779132643620,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS321"
+    }
+  },
+  {
+    "ts": 1779132643620,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS321color"
+    }
+  },
+  {
+    "ts": 1779132643620,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS322"
+    }
+  },
+  {
+    "ts": 1779132643620,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS322color"
+    }
+  },
+  {
+    "ts": 1779132643620,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS323"
+    }
+  },
+  {
+    "ts": 1779132643620,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS323color"
+    }
+  },
+  {
+    "ts": 1779132643620,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS324"
+    }
+  },
+  {
+    "ts": 1779132643620,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS324color"
+    }
+  },
+  {
+    "ts": 1779132643620,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS325"
+    }
+  },
+  {
+    "ts": 1779132643621,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS325color"
+    }
+  },
+  {
+    "ts": 1779132643621,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS326"
+    }
+  },
+  {
+    "ts": 1779132643621,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS326color"
+    }
+  },
+  {
+    "ts": 1779132643621,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS327"
+    }
+  },
+  {
+    "ts": 1779132643621,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS327color"
+    }
+  },
+  {
+    "ts": 1779132643621,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS328"
+    }
+  },
+  {
+    "ts": 1779132643621,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS328color"
+    }
+  },
+  {
+    "ts": 1779132643622,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS329"
+    }
+  },
+  {
+    "ts": 1779132643622,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS329color"
+    }
+  },
+  {
+    "ts": 1779132643622,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS330"
+    }
+  },
+  {
+    "ts": 1779132643622,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS330color"
+    }
+  },
+  {
+    "ts": 1779132643622,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS331"
+    }
+  },
+  {
+    "ts": 1779132643622,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS331color"
+    }
+  },
+  {
+    "ts": 1779132643622,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS332"
+    }
+  },
+  {
+    "ts": 1779132643622,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS332color"
+    }
+  },
+  {
+    "ts": 1779132643623,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS333"
+    }
+  },
+  {
+    "ts": 1779132643623,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS333color"
+    }
+  },
+  {
+    "ts": 1779132643623,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS334"
+    }
+  },
+  {
+    "ts": 1779132643623,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS334color"
+    }
+  },
+  {
+    "ts": 1779132643623,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS335"
+    }
+  },
+  {
+    "ts": 1779132643624,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS335color"
+    }
+  },
+  {
+    "ts": 1779132643624,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS336"
+    }
+  },
+  {
+    "ts": 1779132643624,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS336color"
+    }
+  },
+  {
+    "ts": 1779132643624,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS337"
+    }
+  },
+  {
+    "ts": 1779132643624,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS337color"
+    }
+  },
+  {
+    "ts": 1779132643624,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS338"
+    }
+  },
+  {
+    "ts": 1779132643624,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS338color"
+    }
+  },
+  {
+    "ts": 1779132643624,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS339"
+    }
+  },
+  {
+    "ts": 1779132643624,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS339color"
+    }
+  },
+  {
+    "ts": 1779132643624,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS340"
+    }
+  },
+  {
+    "ts": 1779132643624,
+    "type": "shared_pref",
+    "data": {
+      "key": "CLASS340color"
+    }
+  },
+  {
+    "ts": 1779132643653,
+    "type": "shared_pref",
+    "data": {
+      "key": "2026-05-19.LOCALEVENTS"
+    }
+  },
+  {
+    "ts": 1779132643671,
+    "type": "shared_pref",
+    "data": {
+      "key": "Channels"
+    }
+  },
+  {
+    "ts": 1779132643684,
+    "type": "shared_pref",
+    "data": {
+      "key": "DAILYUPDATE"
+    }
+  },
+  {
+    "ts": 1779132643685,
+    "type": "shared_pref",
+    "data": {
+      "key": "WEEKLYUPDATE"
+    }
+  },
+  {
+    "ts": 1779132643708,
+    "type": "activity_resume",
+    "data": {
+      "activity": "ca.honeygarlic.agendacore.DayView"
+    }
+  },
+  {
+    "ts": 1779132643711,
+    "type": "shared_pref",
+    "data": {
+      "key": "2026-05-19.LOCALEVENTS"
+    }
+  },
+  {
+    "ts": 1779132643812,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779132644957,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779132644960,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779132644960,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779132644960,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779132646848,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779132651235,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  },
+  {
+    "ts": 1779132659468,
+    "type": "shared_pref",
+    "data": {
+      "key": "Channels"
+    }
+  },
+  {
+    "ts": 1779132659469,
+    "type": "url_access",
+    "data": {
+      "url": "https://mobileagenda.ca/api/channels/?app=Garibaldi"
+    }
+  },
+  {
+    "ts": 1779132659476,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/classes/_Installation"
+    }
+  }
+]

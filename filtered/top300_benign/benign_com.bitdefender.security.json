@@ -1,0 +1,898 @@
+[
+  {
+    "ts": 1779644810439,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779644810443,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/shared_prefs/com.google.android.gms.appid.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644810446,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|756778469907|*"
+    }
+  },
+  {
+    "ts": 1779644810466,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779644810467,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779644810467,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779644810470,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779644810470,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779644810475,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779644810475,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779644810475,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779644810476,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779644810476,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779644810477,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779644810480,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779644810480,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779644810480,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779644810481,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779644810482,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779644810482,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779644810486,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779644810486,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779644810486,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779644810486,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779644810491,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86"
+    }
+  },
+  {
+    "ts": 1779644810492,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779644810493,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779644810503,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779644810503,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779644810504,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779644810508,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779644810511,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779644810514,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779644810514,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779644810514,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779644810529,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/n/x86"
+    }
+  },
+  {
+    "ts": 1779644810530,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/n/armeabi-v7a"
+    }
+  },
+  {
+    "ts": 1779644810530,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/n/armeabi"
+    }
+  },
+  {
+    "ts": 1779644810530,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779644810537,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779644810545,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms/shared_prefs/google_sdk_flags.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644810559,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779644810565,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000002/DynamiteLoader.apk"
+    }
+  },
+  {
+    "ts": 1779644810568,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000002/DynamiteLoader.apk"
+    }
+  },
+  {
+    "ts": 1779644810574,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779644810584,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779644810587,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779644810587,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779644810589,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779644810590,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779644810599,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/n/x86"
+    }
+  },
+  {
+    "ts": 1779644810599,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/n/armeabi-v7a"
+    }
+  },
+  {
+    "ts": 1779644810599,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/n/armeabi"
+    }
+  },
+  {
+    "ts": 1779644810599,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779644810602,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"
+    }
+  },
+  {
+    "ts": 1779644810715,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644810717,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/2837/cmdline"
+    }
+  },
+  {
+    "ts": 1779644810727,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644810728,
+    "type": "shared_pref",
+    "data": {
+      "key": "gmp_app_id"
+    }
+  },
+  {
+    "ts": 1779644810735,
+    "type": "shared_pref",
+    "data": {
+      "key": "previous_os_version"
+    }
+  },
+  {
+    "ts": 1779644810744,
+    "type": "file_access",
+    "data": {
+      "path": "ZoneInfoMap"
+    }
+  },
+  {
+    "ts": 1779644810760,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/shared_prefs/BITDEFENDER_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644810765,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/shared_prefs/GLOBAL_SHARED_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644810769,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/shared_prefs/BDAntitheftSDK_PREFERENCES.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644810777,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICE_ID_3"
+    }
+  },
+  {
+    "ts": 1779644810783,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779644810797,
+    "type": "file_access",
+    "data": {
+      "path": "/sbin/su"
+    }
+  },
+  {
+    "ts": 1779644810797,
+    "type": "file_access",
+    "data": {
+      "path": "/system/bin/su"
+    }
+  },
+  {
+    "ts": 1779644810797,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779644810798,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/files/"
+    }
+  },
+  {
+    "ts": 1779644810798,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/shared_prefs/bd.connect.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644810802,
+    "type": "shared_pref",
+    "data": {
+      "key": "SDK_LICENSE_KEY"
+    }
+  },
+  {
+    "ts": 1779644810802,
+    "type": "shared_pref",
+    "data": {
+      "key": "SDK_LICENSE_MODULES_ID"
+    }
+  },
+  {
+    "ts": 1779644810802,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/shared_prefs/PREF_CONNECT_GCM_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644810803,
+    "type": "shared_pref",
+    "data": {
+      "key": "user.token"
+    }
+  },
+  {
+    "ts": 1779644810803,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_CONNECT_USER_MAIL"
+    }
+  },
+  {
+    "ts": 1779644810803,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/shared_prefs/bd.subscriptions.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644810805,
+    "type": "shared_pref",
+    "data": {
+      "key": "PREF_KEY_PROMO_TRIAL"
+    }
+  },
+  {
+    "ts": 1779644810807,
+    "type": "shared_pref",
+    "data": {
+      "key": "DEVICE_ID_3"
+    }
+  },
+  {
+    "ts": 1779644810808,
+    "type": "shared_pref",
+    "data": {
+      "key": "device_name_new"
+    }
+  },
+  {
+    "ts": 1779644810811,
+    "type": "shared_pref",
+    "data": {
+      "key": "client_id"
+    }
+  },
+  {
+    "ts": 1779644810812,
+    "type": "shared_pref",
+    "data": {
+      "key": "client_uuid"
+    }
+  },
+  {
+    "ts": 1779644810812,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/shared_prefs/BDTaskScheduler.preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644810821,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779644810821,
+    "type": "url_access",
+    "data": {
+      "url": "https://my.bitdefender.com/lv2/use_keys"
+    }
+  },
+  {
+    "ts": 1779644810838,
+    "type": "shared_pref",
+    "data": {
+      "key": "client_id"
+    }
+  },
+  {
+    "ts": 1779644810839,
+    "type": "shared_pref",
+    "data": {
+      "key": "client_uuid"
+    }
+  },
+  {
+    "ts": 1779644810851,
+    "type": "shared_pref",
+    "data": {
+      "key": "619337960018"
+    }
+  },
+  {
+    "ts": 1779644810855,
+    "type": "shared_pref",
+    "data": {
+      "key": "619337960018"
+    }
+  },
+  {
+    "ts": 1779644810855,
+    "type": "shared_pref",
+    "data": {
+      "key": "619337960018"
+    }
+  },
+  {
+    "ts": 1779644810864,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/shared_prefs/suggested.xml.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644810865,
+    "type": "shared_pref",
+    "data": {
+      "key": "SDK_LICENSE_KEY"
+    }
+  },
+  {
+    "ts": 1779644810865,
+    "type": "shared_pref",
+    "data": {
+      "key": "SDK_LICENSE_MODULES_ID"
+    }
+  },
+  {
+    "ts": 1779644810946,
+    "type": "shared_pref",
+    "data": {
+      "key": "SDK_LICENSE_KEY"
+    }
+  },
+  {
+    "ts": 1779644810947,
+    "type": "shared_pref",
+    "data": {
+      "key": "SDK_LICENSE_MODULES_ID"
+    }
+  },
+  {
+    "ts": 1779644810947,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/files/scanlog"
+    }
+  },
+  {
+    "ts": 1779644810948,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/shared_prefs/SCAN_SDK_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779644810951,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/files/scanlog/events.0.txt"
+    }
+  },
+  {
+    "ts": 1779644810954,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/files/scanlog/events.1.txt"
+    }
+  },
+  {
+    "ts": 1779644810955,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/files/scanlog/events.2.txt"
+    }
+  },
+  {
+    "ts": 1779644810955,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/files/scanlog/events.3.txt"
+    }
+  },
+  {
+    "ts": 1779644810955,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/files/scanlog/events.4.txt"
+    }
+  },
+  {
+    "ts": 1779644810955,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/files/scanlog/events.5.txt"
+    }
+  },
+  {
+    "ts": 1779644810955,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/files/scanlog/events.6.txt"
+    }
+  },
+  {
+    "ts": 1779644810956,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/files/scanlog/events.7.txt"
+    }
+  },
+  {
+    "ts": 1779644810956,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/files/scanlog/events.8.txt"
+    }
+  },
+  {
+    "ts": 1779644810956,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/files/scanlog/events.9.txt"
+    }
+  },
+  {
+    "ts": 1779644810962,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/cache//scan"
+    }
+  },
+  {
+    "ts": 1779644810963,
+    "type": "shared_pref",
+    "data": {
+      "key": "client_id"
+    }
+  },
+  {
+    "ts": 1779644810963,
+    "type": "shared_pref",
+    "data": {
+      "key": "client_uuid"
+    }
+  },
+  {
+    "ts": 1779644810968,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779644810969,
+    "type": "shared_pref",
+    "data": {
+      "key": "user.device.id"
+    }
+  },
+  {
+    "ts": 1779644810969,
+    "type": "shared_pref",
+    "data": {
+      "key": "user.token"
+    }
+  },
+  {
+    "ts": 1779644810969,
+    "type": "shared_pref",
+    "data": {
+      "key": "client_id"
+    }
+  },
+  {
+    "ts": 1779644810969,
+    "type": "shared_pref",
+    "data": {
+      "key": "client_uuid"
+    }
+  },
+  {
+    "ts": 1779644811017,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779644811023,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779644811023,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779644811023,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779644811039,
+    "type": "shared_pref",
+    "data": {
+      "key": "user.token"
+    }
+  },
+  {
+    "ts": 1779644811047,
+    "type": "shared_pref",
+    "data": {
+      "key": "client_id"
+    }
+  },
+  {
+    "ts": 1779644811047,
+    "type": "shared_pref",
+    "data": {
+      "key": "client_uuid"
+    }
+  },
+  {
+    "ts": 1779644811049,
+    "type": "url_access",
+    "data": {
+      "url": "https://nimbus.bitdefender.net/connect/default_app_settings"
+    }
+  },
+  {
+    "ts": 1779644811121,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779644811122,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/files/"
+    }
+  },
+  {
+    "ts": 1779644811123,
+    "type": "shared_pref",
+    "data": {
+      "key": "user.token"
+    }
+  },
+  {
+    "ts": 1779644811128,
+    "type": "url_access",
+    "data": {
+      "url": "https://central.bitdefender.com/lv2/use_keys"
+    }
+  },
+  {
+    "ts": 1779644811135,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.bitdefender.security/shared_prefs/migration.bit.xml.bak"
+    }
+  }
+]

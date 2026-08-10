@@ -1,0 +1,1353 @@
+[
+  {
+    "ts": 1779138655044,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.LoadingActivity"
+    }
+  },
+  {
+    "ts": 1779138655046,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/APP_MEASUREMENT_CACHE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138655047,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/AppRater.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138655048,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779138655048,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/com.trulia.android_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138655053,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-548b384134363300158d0500.json"
+    }
+  },
+  {
+    "ts": 1779138655056,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-548b38413031300018700500.json"
+    }
+  },
+  {
+    "ts": 1779138655058,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/FEATURE_SWITCH_PREF.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138655059,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-548b38413031300018700500.json"
+    }
+  },
+  {
+    "ts": 1779138655060,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-548b384134363300158d0500.json"
+    }
+  },
+  {
+    "ts": 1779138655064,
+    "type": "url_access",
+    "data": {
+      "url": "http://b.scorecardresearch.com/p2?c1=19&c2=6036206&ns_ap_an=Trulia&ns_ap_pn=android&ns_ap_pv=11&c12=74a1a6ebef989b4ea3b31a11c317d53d-cs72&name=start&ns_ak=je8lgoXA8TUfwbKt5Vix3iPlbiiLE7eVAULqv571xq5c33WWLoi5PNYSuokjHhLbgJA4tBxGeDG4rNfq1j4u6bacye2lu7VzwbU0I43J25f9w2OeHPQb5qyAGPnQ7lkWYjQGVPAkSbe9ZfRzI0kOkuhBPkKr6XJcwlbubYvGDGA%3D&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1779138655047&ns_ap_csf=1&ns_ap_bi=com.trulia.android&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=7.8.1&ns_ap_sv=3.1502.26&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1779138654783&ns_ap_jb=0&ns_ap_res=1080x2009&ns_ap_install=1779138654783&ns_ap_lastrun=0&ns_ap_cs=1&ns_ap_runs=1&ns_ap_usage=264&ns_ap_fg=1&ns_ap_ft=1&ns_ap_dft=1&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=263&ns_ap_as=1&ns_ap_das=264&ns_ap_it=263&ns_ap_lang=en&ns_ap_ar=x86_64&ns_ts=1779138655047"
+    }
+  },
+  {
+    "ts": 1779138655070,
+    "type": "url_access",
+    "data": {
+      "url": "http://b.scorecardresearch.com/p2?c1=19&c2=6036206&ns_ap_an=Trulia&ns_ap_pn=android&ns_ap_pv=11&c12=74a1a6ebef989b4ea3b31a11c317d53d-cs72&name=start&ns_ak=je8lgoXA8TUfwbKt5Vix3iPlbiiLE7eVAULqv571xq5c33WWLoi5PNYSuokjHhLbgJA4tBxGeDG4rNfq1j4u6bacye2lu7VzwbU0I43J25f9w2OeHPQb5qyAGPnQ7lkWYjQGVPAkSbe9ZfRzI0kOkuhBPkKr6XJcwlbubYvGDGA%3D&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=generic_x86_64_arm64&ns_ap_id=1779138655047&ns_ap_csf=1&ns_ap_bi=com.trulia.android&ns_ap_pfm=android&ns_ap_pfv=11&ns_ap_ver=7.8.1&ns_ap_sv=3.1502.26&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1779138654783&ns_ap_jb=0&ns_ap_res=1080x2009&ns_ap_install=1779138654783&ns_ap_lastrun=0&ns_ap_cs=1&ns_ap_runs=1&ns_ap_usage=264&ns_ap_fg=1&ns_ap_ft=1&ns_ap_dft=1&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=263&ns_ap_as=1&ns_ap_das=264&ns_ap_it=263&ns_ap_lang=en&ns_ap_ar=x86_64&ns_ts=1779138655047"
+    }
+  },
+  {
+    "ts": 1779138655081,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138655082,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138655082,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779138655087,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779138655089,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADB_LIFETIME_VALUE"
+    }
+  },
+  {
+    "ts": 1779138655093,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B805E0369-0001-3723-3BFE3934E018SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779138655101,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/io.fabric.sdk.android:fabric:b.a.a.a.u.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138655102,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADOBEMOBILE_STOREDDEFAULTS_AID"
+    }
+  },
+  {
+    "ts": 1779138655103,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/cacheADBMobileDataCache.sqlite"
+    }
+  },
+  {
+    "ts": 1779138655103,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_VISITORID_IDS"
+    }
+  },
+  {
+    "ts": 1779138655104,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID"
+    }
+  },
+  {
+    "ts": 1779138655104,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779138655108,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID_HINT"
+    }
+  },
+  {
+    "ts": 1779138655108,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADBMOBILE_PERSISTED_MID_BLOB"
+    }
+  },
+  {
+    "ts": 1779138655109,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.trulia.android/settings?instance=19e811c49167c0fb13ce368e38759645c6fade92&build_version=440&display_version=7.8.1&source=1&icon_hash=e80d146529973df1bbf5fa0b988194d1ed8ff992"
+    }
+  },
+  {
+    "ts": 1779138655109,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.trulia.android/settings?instance=19e811c49167c0fb13ce368e38759645c6fade92&build_version=440&display_version=7.8.1&source=1&icon_hash=e80d146529973df1bbf5fa0b988194d1ed8ff992"
+    }
+  },
+  {
+    "ts": 1779138655110,
+    "type": "url_access",
+    "data": {
+      "url": "http://dpm.demdex.net/id?d_ver=2&d_orgid=94641C8B532957EC0A490D4D@AdobeOrg"
+    }
+  },
+  {
+    "ts": 1779138655111,
+    "type": "url_access",
+    "data": {
+      "url": "http://dpm.demdex.net/id?d_ver=2&d_orgid=94641C8B532957EC0A490D4D@AdobeOrg"
+    }
+  },
+  {
+    "ts": 1779138655115,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138655126,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138655128,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779138655132,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779138655138,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138655151,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/CollaborationPref.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138655172,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138655175,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138655197,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/INDEXTYPE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138655198,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138655199,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/LOCATION.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138655200,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138655211,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138655211,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138655212,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138655213,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/TruliaReferralPrefrences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138655213,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779138655227,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779138655232,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779138655235,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779138655235,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779138655298,
+    "type": "url_access",
+    "data": {
+      "url": "http://metric.trulia.com/id?mid=07627512723328851680322888278019431750&mcorgid=94641C8B532957EC0A490D4D@AdobeOrg"
+    }
+  },
+  {
+    "ts": 1779138655299,
+    "type": "url_access",
+    "data": {
+      "url": "http://metric.trulia.com/id?mid=07627512723328851680322888278019431750&mcorgid=94641C8B532957EC0A490D4D@AdobeOrg"
+    }
+  },
+  {
+    "ts": 1779138655336,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138655336,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138655336,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779138655337,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138655337,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138655342,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138655344,
+    "type": "shared_pref",
+    "data": {
+      "key": "183577541666001json"
+    }
+  },
+  {
+    "ts": 1779138655368,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138655369,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138655371,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138655372,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138655373,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138655374,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138655375,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138655375,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138655376,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138655376,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138655377,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138655377,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779138655379,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779138655384,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/183577541666001/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138655464,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/cache"
+    }
+  },
+  {
+    "ts": 1779138655465,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/files"
+    }
+  },
+  {
+    "ts": 1779138655465,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/databases"
+    }
+  },
+  {
+    "ts": 1779138655465,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs"
+    }
+  },
+  {
+    "ts": 1779138655844,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/USER_INFO.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138655847,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/com.trulia.android.TruliaCoreApplication.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138655848,
+    "type": "shared_pref",
+    "data": {
+      "key": "ANDROID_MPID_PLATFORM_ID"
+    }
+  },
+  {
+    "ts": 1779138655849,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/SYNC_SETTING_PREF.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138655850,
+    "type": "url_access",
+    "data": {
+      "url": "https://origin-api.trulia.com/app/v1/query?platformId=4ttnk8jrpa04m5gvutu04rp1ti&os=30&model=sdk_gphone_x86_64&lang=en"
+    }
+  },
+  {
+    "ts": 1779138656083,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779138656088,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/cache/adbdownloadcache/e5d006c3d0edd07ae08fe06cfbad4f92.1445895136000_2235356138396336376366373031373933323736396565306532666464633061303A3134343538393531333622"
+    }
+  },
+  {
+    "ts": 1779138656090,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/cacheADBMobileDataCache.sqliteADBMobileTimedActionsCache.sqlite"
+    }
+  },
+  {
+    "ts": 1779138656101,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779138656959,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/cache/adbdownloadcache/13f33671459db8b5a0e056dfe6967ba9.1445895136000_2232303739393930353761663031353536613831363831373030646132643661363A3134343538393531333622"
+    }
+  },
+  {
+    "ts": 1779138658367,
+    "type": "url_access",
+    "data": {
+      "url": "https://origin-api.trulia.com/discovery/v1/summary?idt=For+Sale&limit=3&offset=0&lat=40.7127&lon=-74.0059"
+    }
+  },
+  {
+    "ts": 1779138658367,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138658370,
+    "type": "shared_pref",
+    "data": {
+      "key": "183577541666001json"
+    }
+  },
+  {
+    "ts": 1779138658372,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138658372,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138658378,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138658378,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138658390,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138658391,
+    "type": "shared_pref",
+    "data": {
+      "key": "mapLastCity"
+    }
+  },
+  {
+    "ts": 1779138658392,
+    "type": "url_access",
+    "data": {
+      "url": "https://app.adjust.com/session"
+    }
+  },
+  {
+    "ts": 1779138658418,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138658418,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138658670,
+    "type": "url_access",
+    "data": {
+      "url": "https://origin-api.trulia.com/discovery/v1/summary?idt=For+Sale&limit=3&offset=0&lat=40.7127&lon=-74.0059"
+    }
+  },
+  {
+    "ts": 1779138659371,
+    "type": "url_access",
+    "data": {
+      "url": "https://origin-api.trulia.com/app/v1/query?platformId=4ttnk8jrpa04m5gvutu04rp1ti&os=30&model=sdk_gphone_x86_64&lang=en"
+    }
+  },
+  {
+    "ts": 1779138660116,
+    "type": "url_access",
+    "data": {
+      "url": "http://metric.trulia.com/b/ss/truliaexternalapps/0/JAVA-4.8.2-AN/s45994128"
+    }
+  },
+  {
+    "ts": 1779138660117,
+    "type": "url_access",
+    "data": {
+      "url": "http://metric.trulia.com/b/ss/truliaexternalapps/0/JAVA-4.8.2-AN/s45994128"
+    }
+  },
+  {
+    "ts": 1779138660216,
+    "type": "url_access",
+    "data": {
+      "url": "http://metric.trulia.com/b/ss/truliaexternalapps/0/JAVA-4.8.2-AN/s49420788"
+    }
+  },
+  {
+    "ts": 1779138660217,
+    "type": "url_access",
+    "data": {
+      "url": "http://metric.trulia.com/b/ss/truliaexternalapps/0/JAVA-4.8.2-AN/s49420788"
+    }
+  },
+  {
+    "ts": 1779138670176,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/183577541666001/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779138670198,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779138670205,
+    "type": "url_access",
+    "data": {
+      "url": "http://metric.trulia.com/b/ss/truliaexternalapps/0/JAVA-4.8.2-AN/s71271942"
+    }
+  },
+  {
+    "ts": 1779138670206,
+    "type": "url_access",
+    "data": {
+      "url": "http://metric.trulia.com/b/ss/truliaexternalapps/0/JAVA-4.8.2-AN/s71271942"
+    }
+  },
+  {
+    "ts": 1779138670226,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779138670226,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779138670227,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779138670229,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779138670229,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.media.remotedisplay.jar"
+    }
+  },
+  {
+    "ts": 1779138670233,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779138670233,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779138670233,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779138670234,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779138670234,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138670234,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779138670235,
+    "type": "file_access",
+    "data": {
+      "path": "/system/framework/com.android.location.provider.jar"
+    }
+  },
+  {
+    "ts": 1779138670238,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779138670238,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779138670238,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779138670238,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779138670238,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138670240,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138670240,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138670245,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779138670245,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779138670246,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779138670246,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779138670246,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138670247,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779138670247,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779138670247,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138670256,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779138670256,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779138670256,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.gms"
+    }
+  },
+  {
+    "ts": 1779138670260,
+    "type": "file_access",
+    "data": {
+      "path": "/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk"
+    }
+  },
+  {
+    "ts": 1779138670262,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000003/DynamiteModulesA.apk"
+    }
+  },
+  {
+    "ts": 1779138670263,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000003/DynamiteModulesA.apk"
+    }
+  },
+  {
+    "ts": 1779138670264,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000003/DynamiteModulesA.apk"
+    }
+  },
+  {
+    "ts": 1779138670264,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000003/DynamiteModulesA.apk"
+    }
+  },
+  {
+    "ts": 1779138670271,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000003/n/x86_64"
+    }
+  },
+  {
+    "ts": 1779138670271,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000003/n/arm64-v8a"
+    }
+  },
+  {
+    "ts": 1779138670271,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779138670271,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779138670276,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000003/DynamiteModulesA.apk"
+    }
+  },
+  {
+    "ts": 1779138670300,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.LoginActivity"
+    }
+  },
+  {
+    "ts": 1779138678850,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138678852,
+    "type": "shared_pref",
+    "data": {
+      "key": "183577541666001json"
+    }
+  },
+  {
+    "ts": 1779138683815,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.trulia.android.activity.MainActivity"
+    }
+  },
+  {
+    "ts": 1779138683815,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/nearby_alert.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138683818,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779138683834,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/LOCATION_RANGE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138683834,
+    "type": "shared_pref",
+    "data": {
+      "key": "latRange"
+    }
+  },
+  {
+    "ts": 1779138683835,
+    "type": "shared_pref",
+    "data": {
+      "key": "lonRange"
+    }
+  },
+  {
+    "ts": 1779138683835,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/RECENT_SEARCH_FILE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138683836,
+    "type": "shared_pref",
+    "data": {
+      "key": "RECENT_SEARCH_LOC"
+    }
+  },
+  {
+    "ts": 1779138683837,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138683837,
+    "type": "shared_pref",
+    "data": {
+      "key": "RECENT_SEARCH_LOC"
+    }
+  },
+  {
+    "ts": 1779138683837,
+    "type": "shared_pref",
+    "data": {
+      "key": "RECENT_SEARCH_LOC"
+    }
+  },
+  {
+    "ts": 1779138683838,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/com.trulia.android.filter.ForSaleFilter.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138683839,
+    "type": "shared_pref",
+    "data": {
+      "key": "propertyType"
+    }
+  },
+  {
+    "ts": 1779138683839,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138683839,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/com.trulia.android.filter.SortByFilter.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138683839,
+    "type": "shared_pref",
+    "data": {
+      "key": "sortValueString"
+    }
+  },
+  {
+    "ts": 1779138683840,
+    "type": "shared_pref",
+    "data": {
+      "key": "indexType"
+    }
+  },
+  {
+    "ts": 1779138683840,
+    "type": "shared_pref",
+    "data": {
+      "key": "sortValueString"
+    }
+  },
+  {
+    "ts": 1779138683841,
+    "type": "shared_pref",
+    "data": {
+      "key": "keyword"
+    }
+  },
+  {
+    "ts": 1779138683841,
+    "type": "shared_pref",
+    "data": {
+      "key": "mlsId"
+    }
+  },
+  {
+    "ts": 1779138683841,
+    "type": "shared_pref",
+    "data": {
+      "key": "yearBuiltStart"
+    }
+  },
+  {
+    "ts": 1779138683841,
+    "type": "shared_pref",
+    "data": {
+      "key": "yearBuiltEnd"
+    }
+  },
+  {
+    "ts": 1779138683841,
+    "type": "shared_pref",
+    "data": {
+      "key": "lotSize"
+    }
+  },
+  {
+    "ts": 1779138683841,
+    "type": "shared_pref",
+    "data": {
+      "key": "unitAmenities"
+    }
+  },
+  {
+    "ts": 1779138683841,
+    "type": "shared_pref",
+    "data": {
+      "key": "buildingAmenities"
+    }
+  },
+  {
+    "ts": 1779138683841,
+    "type": "shared_pref",
+    "data": {
+      "key": "listingFeatures"
+    }
+  },
+  {
+    "ts": 1779138683842,
+    "type": "shared_pref",
+    "data": {
+      "key": "sortValueString"
+    }
+  },
+  {
+    "ts": 1779138683845,
+    "type": "url_access",
+    "data": {
+      "url": "http://origin-api.trulia.com/app/v3/search?idt=(for+sale%7Cassessor)&srch=San+Francisco%2C+CA&lt=(rs%7Cnh%7Cfc%7Cfsbo%7Cpend)&ft=2,3,4,1&page=1&size=25"
+    }
+  },
+  {
+    "ts": 1779138683846,
+    "type": "url_access",
+    "data": {
+      "url": "http://origin-api.trulia.com/app/v3/search?idt=(for+sale%7Cassessor)&srch=San+Francisco%2C+CA&lt=(rs%7Cnh%7Cfc%7Cfsbo%7Cpend)&ft=2,3,4,1&page=1&size=25"
+    }
+  },
+  {
+    "ts": 1779138683854,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779138683855,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779138683855,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779138683855,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779138683870,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/n/x86_64"
+    }
+  },
+  {
+    "ts": 1779138683871,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/n/arm64-v8a"
+    }
+  },
+  {
+    "ts": 1779138683871,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779138683871,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779138683876,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.gms/app_chimera/m/00000006/MapsDynamite.apk"
+    }
+  },
+  {
+    "ts": 1779138683927,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.trulia.android/shared_prefs/com.google.maps.api.android.lib6.drd.PREFERENCES_FILE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779138683930,
+    "type": "settings_access",
+    "data": {
+      "setting": "logging_id2"
+    }
+  }
+]

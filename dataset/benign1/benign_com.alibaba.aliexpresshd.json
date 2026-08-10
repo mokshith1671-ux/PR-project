@@ -1,0 +1,3404 @@
+[
+  {
+    "ts": 1779135484397,
+    "type": "shared_pref",
+    "data": {
+      "key": "channelKey"
+    }
+  },
+  {
+    "ts": 1779135484449,
+    "type": "shared_pref",
+    "data": {
+      "key": "currency_code_key"
+    }
+  },
+  {
+    "ts": 1779135484451,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.aliexpress.com/openapi/param2/100/aliexpress.mobile/address.country/13022"
+    }
+  },
+  {
+    "ts": 1779135484463,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135484492,
+    "type": "shared_pref",
+    "data": {
+      "key": "abtest_config"
+    }
+  },
+  {
+    "ts": 1779135484500,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779135484504,
+    "type": "url_access",
+    "data": {
+      "url": "https://ae01.alicdn.com"
+    }
+  },
+  {
+    "ts": 1779135484508,
+    "type": "url_access",
+    "data": {
+      "url": "https://ae01.alicdn.com"
+    }
+  },
+  {
+    "ts": 1779135484515,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.aliexpress.com/openapi/param2/100/aliexpress.mobile/member.findpreferences/13022"
+    }
+  },
+  {
+    "ts": 1779135484551,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.alibaba.aliexpresshd.module.home.MainActivity"
+    }
+  },
+  {
+    "ts": 1779135484553,
+    "type": "shared_pref",
+    "data": {
+      "key": "channelKey"
+    }
+  },
+  {
+    "ts": 1779135484597,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779135484600,
+    "type": "shared_pref",
+    "data": {
+      "key": "channelKey"
+    }
+  },
+  {
+    "ts": 1779135484600,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779135484603,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.aliexpress.com/openapi/param2/102/aliexpress.mobile/home.getFloorData/13022"
+    }
+  },
+  {
+    "ts": 1779135485557,
+    "type": "shared_pref",
+    "data": {
+      "key": "showPrefGuide"
+    }
+  },
+  {
+    "ts": 1779135485557,
+    "type": "shared_pref",
+    "data": {
+      "key": "needLoadHomeData"
+    }
+  },
+  {
+    "ts": 1779135487420,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779135487420,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779135487471,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779135487472,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779135487472,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779135487482,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779135487482,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779135487487,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779135487487,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779135487489,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779135487489,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779135487490,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779135487491,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779135487498,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779135487498,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779135487502,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779135487502,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779135487502,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779135487502,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779135487502,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779135487503,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779135487505,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779135487506,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779135487506,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779135487506,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779135487508,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779135487537,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779135487543,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779135487544,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779135487545,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779135487545,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779135487550,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135487567,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779135487650,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779135487749,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135487816,
+    "type": "webview",
+    "data": {
+      "url": "http://m.aliexpress.com/initialCk.do?local=en_US&curr=USD&"
+    }
+  },
+  {
+    "ts": 1779135487839,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135487840,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2.tmp"
+    }
+  },
+  {
+    "ts": 1779135487840,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135487844,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataReprot_Data_bdb13dc551d3db53"
+    }
+  },
+  {
+    "ts": 1779135487852,
+    "type": "shared_pref",
+    "data": {
+      "key": "bdb13dc551d3db53"
+    }
+  },
+  {
+    "ts": 1779135488299,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.aliexpress.com/openapi/param2/100/aliexpress.mobile/address.country/13022"
+    }
+  },
+  {
+    "ts": 1779135488988,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135489253,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/shared_prefs/ut_setting.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135489276,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/databases/usertrack.db-wal"
+    }
+  },
+  {
+    "ts": 1779135489277,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/databases/usertrack.db-wal"
+    }
+  },
+  {
+    "ts": 1779135489288,
+    "type": "url_access",
+    "data": {
+      "url": "http://adash.m.taobao.com/rest/sur?ak=21371601&av=4.9.2&c=play&v=3.0&s=103bcf1ac15707998754616dfc5dbf94700631b6&d=agtz%2FLG6iXgDAO1hJoFv16kS&sv=5.0.0&p=a&t=1779135489287&u=&is=1"
+    }
+  },
+  {
+    "ts": 1779135489289,
+    "type": "url_access",
+    "data": {
+      "url": "http://adash.m.taobao.com/rest/sur?ak=21371601&av=4.9.2&c=play&v=3.0&s=103bcf1ac15707998754616dfc5dbf94700631b6&d=agtz%2FLG6iXgDAO1hJoFv16kS&sv=5.0.0&p=a&t=1779135489287&u=&is=1"
+    }
+  },
+  {
+    "ts": 1779135489479,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779135489483,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779135489483,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779135489485,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779135490148,
+    "type": "shared_pref",
+    "data": {
+      "key": "abtest_config"
+    }
+  },
+  {
+    "ts": 1779135490180,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779135490601,
+    "type": "shared_pref",
+    "data": {
+      "key": "channelKey"
+    }
+  },
+  {
+    "ts": 1779135490645,
+    "type": "shared_pref",
+    "data": {
+      "key": "ip_country"
+    }
+  },
+  {
+    "ts": 1779135490645,
+    "type": "shared_pref",
+    "data": {
+      "key": "channelKey"
+    }
+  },
+  {
+    "ts": 1779135490645,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779135490658,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779135490662,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779135490662,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135490664,
+    "type": "shared_pref",
+    "data": {
+      "key": "UUID_00f3acddd00fa671"
+    }
+  },
+  {
+    "ts": 1779135490666,
+    "type": "shared_pref",
+    "data": {
+      "key": "00f3acddd00fa671"
+    }
+  },
+  {
+    "ts": 1779135490668,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490668,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490668,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490668,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490669,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490669,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490669,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490669,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490670,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490670,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490670,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490670,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490670,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/.com.taobao.dp"
+    }
+  },
+  {
+    "ts": 1779135490672,
+    "type": "file_access",
+    "data": {
+      "path": ""
+    }
+  },
+  {
+    "ts": 1779135490672,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135490673,
+    "type": "shared_pref",
+    "data": {
+      "key": "UUID_APP_58669b0e4dd2beb8"
+    }
+  },
+  {
+    "ts": 1779135490678,
+    "type": "shared_pref",
+    "data": {
+      "key": "58669b0e4dd2beb8"
+    }
+  },
+  {
+    "ts": 1779135490679,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135490679,
+    "type": "shared_pref",
+    "data": {
+      "key": "UUID_APP_85d32f14e4edccf2"
+    }
+  },
+  {
+    "ts": 1779135490680,
+    "type": "shared_pref",
+    "data": {
+      "key": "85d32f14e4edccf2"
+    }
+  },
+  {
+    "ts": 1779135490682,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490683,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490683,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490684,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490685,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490685,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490685,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490685,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490686,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490687,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490687,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490687,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490687,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/.com.taobao.dp"
+    }
+  },
+  {
+    "ts": 1779135490689,
+    "type": "file_access",
+    "data": {
+      "path": ""
+    }
+  },
+  {
+    "ts": 1779135490690,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135490691,
+    "type": "shared_pref",
+    "data": {
+      "key": "UUID_APP_e5c06c338bfa3568"
+    }
+  },
+  {
+    "ts": 1779135490691,
+    "type": "shared_pref",
+    "data": {
+      "key": "e5c06c338bfa3568"
+    }
+  },
+  {
+    "ts": 1779135490699,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/version"
+    }
+  },
+  {
+    "ts": 1779135490700,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779135490703,
+    "type": "subscriber_id_access",
+    "data": {
+      "action": "getSubscriberId"
+    }
+  },
+  {
+    "ts": 1779135490705,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779135490718,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135490718,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2.tmp"
+    }
+  },
+  {
+    "ts": 1779135490718,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135490719,
+    "type": "shared_pref",
+    "data": {
+      "key": "mac_address_mac_address"
+    }
+  },
+  {
+    "ts": 1779135490721,
+    "type": "shared_pref",
+    "data": {
+      "key": "mac_address"
+    }
+  },
+  {
+    "ts": 1779135490723,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779135490724,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/cpuinfo_max_freq"
+    }
+  },
+  {
+    "ts": 1779135490724,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779135490726,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490726,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490726,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490726,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490726,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490727,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490727,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490727,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490728,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490728,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135490728,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490728,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135490729,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135490730,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135490731,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick"
+    }
+  },
+  {
+    "ts": 1779135490732,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick"
+    }
+  },
+  {
+    "ts": 1779135490735,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779135490736,
+    "type": "runtime_exec",
+    "data": {
+      "command": "cat /proc/cpuinfo | grep Serial"
+    }
+  },
+  {
+    "ts": 1779135490985,
+    "type": "url_access",
+    "data": {
+      "url": "http://adash.m.taobao.com/rest/sur?ak=21371601&av=4.9.2&c=play&v=3.0&s=be5438f80cb1f582e88338c903d6d737db1aa439&d=agtz%2FLG6iXgDAO1hJoFv16kS&sv=5.0.0&p=a&t=1779135490981&u=&is=1"
+    }
+  },
+  {
+    "ts": 1779135490986,
+    "type": "url_access",
+    "data": {
+      "url": "http://adash.m.taobao.com/rest/sur?ak=21371601&av=4.9.2&c=play&v=3.0&s=be5438f80cb1f582e88338c903d6d737db1aa439&d=agtz%2FLG6iXgDAO1hJoFv16kS&sv=5.0.0&p=a&t=1779135490981&u=&is=1"
+    }
+  },
+  {
+    "ts": 1779135493148,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493149,
+    "type": "shared_pref",
+    "data": {
+      "key": "SafeGuard_mriwkjf3jadg_13022"
+    }
+  },
+  {
+    "ts": 1779135493149,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/shared_prefs/SafeGuard.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135493150,
+    "type": "shared_pref",
+    "data": {
+      "key": "mriwkjf3jadg_13022"
+    }
+  },
+  {
+    "ts": 1779135493151,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493153,
+    "type": "shared_pref",
+    "data": {
+      "key": "SafeGuard_ek2kkie9akcc_13022"
+    }
+  },
+  {
+    "ts": 1779135493153,
+    "type": "shared_pref",
+    "data": {
+      "key": "ek2kkie9akcc_13022"
+    }
+  },
+  {
+    "ts": 1779135493178,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779135493184,
+    "type": "subscriber_id_access",
+    "data": {
+      "action": "getSubscriberId"
+    }
+  },
+  {
+    "ts": 1779135493189,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493189,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493189,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493189,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493190,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493190,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493190,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493191,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493193,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493194,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493196,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493197,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493199,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493200,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick"
+    }
+  },
+  {
+    "ts": 1779135493201,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick"
+    }
+  },
+  {
+    "ts": 1779135493203,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493204,
+    "type": "shared_pref",
+    "data": {
+      "key": "UUID_00f3acddd00fa671"
+    }
+  },
+  {
+    "ts": 1779135493205,
+    "type": "shared_pref",
+    "data": {
+      "key": "00f3acddd00fa671"
+    }
+  },
+  {
+    "ts": 1779135493206,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493207,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493207,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493207,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493207,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493207,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_service_securityguard_nick_count_securityguard"
+    }
+  },
+  {
+    "ts": 1779135493208,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/shared_prefs/nick_service_securityguard.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135493209,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_count_securityguard"
+    }
+  },
+  {
+    "ts": 1779135493210,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493212,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick"
+    }
+  },
+  {
+    "ts": 1779135493212,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493212,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493212,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493213,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493214,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick"
+    }
+  },
+  {
+    "ts": 1779135493215,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493215,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493215,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493215,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493216,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/.com.taobao.dp"
+    }
+  },
+  {
+    "ts": 1779135493216,
+    "type": "file_access",
+    "data": {
+      "path": ""
+    }
+  },
+  {
+    "ts": 1779135493216,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493219,
+    "type": "shared_pref",
+    "data": {
+      "key": "UUID_APP_58669b0e4dd2beb8"
+    }
+  },
+  {
+    "ts": 1779135493219,
+    "type": "shared_pref",
+    "data": {
+      "key": "58669b0e4dd2beb8"
+    }
+  },
+  {
+    "ts": 1779135493220,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493220,
+    "type": "shared_pref",
+    "data": {
+      "key": "UUID_APP_85d32f14e4edccf2"
+    }
+  },
+  {
+    "ts": 1779135493221,
+    "type": "shared_pref",
+    "data": {
+      "key": "85d32f14e4edccf2"
+    }
+  },
+  {
+    "ts": 1779135493222,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493222,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493222,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493222,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493222,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493223,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_service_securityguard_nick_count_securityguard_alipay"
+    }
+  },
+  {
+    "ts": 1779135493223,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493224,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493224,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493224,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493224,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_count_securityguard_alipay"
+    }
+  },
+  {
+    "ts": 1779135493226,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493226,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493226,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493226,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493226,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/.com.taobao.dp"
+    }
+  },
+  {
+    "ts": 1779135493227,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493229,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick_64"
+    }
+  },
+  {
+    "ts": 1779135493230,
+    "type": "file_access",
+    "data": {
+      "path": ""
+    }
+  },
+  {
+    "ts": 1779135493231,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick_64"
+    }
+  },
+  {
+    "ts": 1779135493233,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493233,
+    "type": "shared_pref",
+    "data": {
+      "key": "UUID_APP_e5c06c338bfa3568"
+    }
+  },
+  {
+    "ts": 1779135493235,
+    "type": "shared_pref",
+    "data": {
+      "key": "e5c06c338bfa3568"
+    }
+  },
+  {
+    "ts": 1779135493235,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/version"
+    }
+  },
+  {
+    "ts": 1779135493238,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779135493240,
+    "type": "subscriber_id_access",
+    "data": {
+      "action": "getSubscriberId"
+    }
+  },
+  {
+    "ts": 1779135493244,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779135493247,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779135493249,
+    "type": "subscriber_id_access",
+    "data": {
+      "action": "getSubscriberId"
+    }
+  },
+  {
+    "ts": 1779135493252,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493253,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493253,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493253,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493253,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493254,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2.tmp"
+    }
+  },
+  {
+    "ts": 1779135493254,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493255,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493255,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493255,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493255,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493255,
+    "type": "shared_pref",
+    "data": {
+      "key": "mac_address_mac_address"
+    }
+  },
+  {
+    "ts": 1779135493256,
+    "type": "shared_pref",
+    "data": {
+      "key": "mac_address"
+    }
+  },
+  {
+    "ts": 1779135493263,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493263,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779135493263,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493264,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493264,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493264,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/cpuinfo_max_freq"
+    }
+  },
+  {
+    "ts": 1779135493265,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779135493267,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493267,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493267,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493267,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493268,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493268,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493269,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493269,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493269,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493270,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick"
+    }
+  },
+  {
+    "ts": 1779135493270,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493270,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493270,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493270,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493271,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick"
+    }
+  },
+  {
+    "ts": 1779135493272,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135493273,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493274,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick"
+    }
+  },
+  {
+    "ts": 1779135493278,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick"
+    }
+  },
+  {
+    "ts": 1779135493281,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493282,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_service_securityguard_nick_count_securityguard"
+    }
+  },
+  {
+    "ts": 1779135493282,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_count_securityguard"
+    }
+  },
+  {
+    "ts": 1779135493283,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779135493284,
+    "type": "runtime_exec",
+    "data": {
+      "command": "cat /proc/cpuinfo | grep Serial"
+    }
+  },
+  {
+    "ts": 1779135493285,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493286,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick"
+    }
+  },
+  {
+    "ts": 1779135493288,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick"
+    }
+  },
+  {
+    "ts": 1779135493289,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493291,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_service_securityguard_nick_count_securityguard_alipay"
+    }
+  },
+  {
+    "ts": 1779135493292,
+    "type": "webview",
+    "data": {
+      "url": "https://m.aliexpress.com/initialCk.do?local=en_US&curr=USD&fromApp=true&_currency=USD&_lang=en_US"
+    }
+  },
+  {
+    "ts": 1779135493294,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_count_securityguard_alipay"
+    }
+  },
+  {
+    "ts": 1779135493295,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493305,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick_64"
+    }
+  },
+  {
+    "ts": 1779135493311,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick_64"
+    }
+  },
+  {
+    "ts": 1779135493318,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779135493321,
+    "type": "subscriber_id_access",
+    "data": {
+      "action": "getSubscriberId"
+    }
+  },
+  {
+    "ts": 1779135493323,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493323,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493324,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493326,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493327,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493328,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493328,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493328,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493330,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493331,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493331,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493332,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493335,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493336,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick"
+    }
+  },
+  {
+    "ts": 1779135493337,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick"
+    }
+  },
+  {
+    "ts": 1779135493339,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493340,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_service_securityguard_nick_count_securityguard"
+    }
+  },
+  {
+    "ts": 1779135493343,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_count_securityguard"
+    }
+  },
+  {
+    "ts": 1779135493343,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493345,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick"
+    }
+  },
+  {
+    "ts": 1779135493346,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick"
+    }
+  },
+  {
+    "ts": 1779135493349,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493351,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_service_securityguard_nick_count_securityguard_alipay"
+    }
+  },
+  {
+    "ts": 1779135493352,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_count_securityguard_alipay"
+    }
+  },
+  {
+    "ts": 1779135493353,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493354,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick_64"
+    }
+  },
+  {
+    "ts": 1779135493354,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick_64"
+    }
+  },
+  {
+    "ts": 1779135493359,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779135493362,
+    "type": "subscriber_id_access",
+    "data": {
+      "action": "getSubscriberId"
+    }
+  },
+  {
+    "ts": 1779135493367,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493368,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493368,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493368,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493369,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493369,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493370,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493370,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493371,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493371,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493372,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493372,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493374,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493376,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick"
+    }
+  },
+  {
+    "ts": 1779135493377,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick"
+    }
+  },
+  {
+    "ts": 1779135493381,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493382,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_service_securityguard_nick_count_securityguard"
+    }
+  },
+  {
+    "ts": 1779135493384,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_count_securityguard"
+    }
+  },
+  {
+    "ts": 1779135493385,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493385,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick"
+    }
+  },
+  {
+    "ts": 1779135493387,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick"
+    }
+  },
+  {
+    "ts": 1779135493388,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493389,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_service_securityguard_nick_count_securityguard_alipay"
+    }
+  },
+  {
+    "ts": 1779135493390,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_count_securityguard_alipay"
+    }
+  },
+  {
+    "ts": 1779135493391,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493393,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick_64"
+    }
+  },
+  {
+    "ts": 1779135493394,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick_64"
+    }
+  },
+  {
+    "ts": 1779135493398,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779135493401,
+    "type": "subscriber_id_access",
+    "data": {
+      "action": "getSubscriberId"
+    }
+  },
+  {
+    "ts": 1779135493403,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493404,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493404,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493404,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493405,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493405,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493405,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493405,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493407,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493407,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135493407,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493408,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135493414,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493415,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick"
+    }
+  },
+  {
+    "ts": 1779135493417,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick"
+    }
+  },
+  {
+    "ts": 1779135493419,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493420,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_service_securityguard_nick_count_securityguard"
+    }
+  },
+  {
+    "ts": 1779135493421,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_count_securityguard"
+    }
+  },
+  {
+    "ts": 1779135493422,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493423,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick"
+    }
+  },
+  {
+    "ts": 1779135493424,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick"
+    }
+  },
+  {
+    "ts": 1779135493427,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493429,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_service_securityguard_nick_count_securityguard_alipay"
+    }
+  },
+  {
+    "ts": 1779135493431,
+    "type": "shared_pref",
+    "data": {
+      "key": "nick_count_securityguard_alipay"
+    }
+  },
+  {
+    "ts": 1779135493432,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135493433,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick_64"
+    }
+  },
+  {
+    "ts": 1779135493434,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick_64"
+    }
+  },
+  {
+    "ts": 1779135494312,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779135494315,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779135494318,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779135494319,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779135494319,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779135494655,
+    "type": "url_access",
+    "data": {
+      "url": "http://adash.m.taobao.com/rest/sur?ak=21371601&av=4.9.2&c=play&v=3.0&s=aa250890b4087248bc8de41b7918cd92a21aa681&d=agtz%2FLG6iXgDAO1hJoFv16kS&sv=5.0.0&p=a&t=1779135494653&u=&is=1"
+    }
+  },
+  {
+    "ts": 1779135494656,
+    "type": "url_access",
+    "data": {
+      "url": "http://adash.m.taobao.com/rest/sur?ak=21371601&av=4.9.2&c=play&v=3.0&s=aa250890b4087248bc8de41b7918cd92a21aa681&d=agtz%2FLG6iXgDAO1hJoFv16kS&sv=5.0.0&p=a&t=1779135494653&u=&is=1"
+    }
+  },
+  {
+    "ts": 1779135498081,
+    "type": "shared_pref",
+    "data": {
+      "key": "abtest_config"
+    }
+  },
+  {
+    "ts": 1779135498152,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.alibaba.aliexpresshd.module.shopcart.ShopingCartActivity"
+    }
+  },
+  {
+    "ts": 1779135498255,
+    "type": "shared_pref",
+    "data": {
+      "key": "loginName"
+    }
+  },
+  {
+    "ts": 1779135498257,
+    "type": "shared_pref",
+    "data": {
+      "key": "abtest_config"
+    }
+  },
+  {
+    "ts": 1779135498258,
+    "type": "shared_pref",
+    "data": {
+      "key": "abtest_config"
+    }
+  },
+  {
+    "ts": 1779135498301,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.alibaba.aliexpresshd.auth.user.ui.AliLoginActivity"
+    }
+  },
+  {
+    "ts": 1779135501500,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.aliexpress.com/openapi/param2/100/aliexpress.mobile/clientSetting.abTestAndroid/13022"
+    }
+  },
+  {
+    "ts": 1779135501500,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.aliexpress.com/openapi/param2/101/aliexpress.mobile/deviceInfo/13022"
+    }
+  },
+  {
+    "ts": 1779135501807,
+    "type": "shared_pref",
+    "data": {
+      "key": "abtest_config"
+    }
+  },
+  {
+    "ts": 1779135506511,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.aliexpress.com/openapi/param2/102/aliexpress.mobile/home.getQualityPicks/13022"
+    }
+  },
+  {
+    "ts": 1779135508211,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.aliexpress.com/openapi/param2/101/aliexpress.mobile/dnslookup.list/13022"
+    }
+  },
+  {
+    "ts": 1779135508995,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135508996,
+    "type": "shared_pref",
+    "data": {
+      "key": "DynamicUpdateDataPreferences_116BEE92FAA0CA2E3ADB35ABBA5832A1"
+    }
+  },
+  {
+    "ts": 1779135508997,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/shared_prefs/DynamicUpdateDataPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779135508997,
+    "type": "shared_pref",
+    "data": {
+      "key": "116BEE92FAA0CA2E3ADB35ABBA5832A1"
+    }
+  },
+  {
+    "ts": 1779135509000,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135509000,
+    "type": "shared_pref",
+    "data": {
+      "key": "DynamicUpdateDataPreferences_dynamicSoUpdateTimeStamp"
+    }
+  },
+  {
+    "ts": 1779135509001,
+    "type": "shared_pref",
+    "data": {
+      "key": "dynamicSoUpdateTimeStamp"
+    }
+  },
+  {
+    "ts": 1779135509002,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135509003,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2.tmp"
+    }
+  },
+  {
+    "ts": 1779135509003,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135509003,
+    "type": "shared_pref",
+    "data": {
+      "key": "DynamicUpdateDataPreferences_dynamicSoUpdateTimeStamp"
+    }
+  },
+  {
+    "ts": 1779135509004,
+    "type": "shared_pref",
+    "data": {
+      "key": "dynamicSoUpdateTimeStamp"
+    }
+  },
+  {
+    "ts": 1779135509005,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135509005,
+    "type": "shared_pref",
+    "data": {
+      "key": "DynamicUpdateDataPreferences_0D56484C954A560E75F930471787A4F3"
+    }
+  },
+  {
+    "ts": 1779135509006,
+    "type": "shared_pref",
+    "data": {
+      "key": "0D56484C954A560E75F930471787A4F3"
+    }
+  },
+  {
+    "ts": 1779135509007,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135509009,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick"
+    }
+  },
+  {
+    "ts": 1779135509010,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick"
+    }
+  },
+  {
+    "ts": 1779135509012,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135509012,
+    "type": "shared_pref",
+    "data": {
+      "key": "DynamicUpdateDataPreferences_0F85B5793D0954A95CEDB95CB176BFED"
+    }
+  },
+  {
+    "ts": 1779135509013,
+    "type": "shared_pref",
+    "data": {
+      "key": "0F85B5793D0954A95CEDB95CB176BFED"
+    }
+  },
+  {
+    "ts": 1779135509014,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779135509015,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135509015,
+    "type": "shared_pref",
+    "data": {
+      "key": "UUID_00f3acddd00fa671"
+    }
+  },
+  {
+    "ts": 1779135509016,
+    "type": "shared_pref",
+    "data": {
+      "key": "00f3acddd00fa671"
+    }
+  },
+  {
+    "ts": 1779135509018,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509019,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509019,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509019,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509021,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509021,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509022,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509022,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509023,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509024,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509024,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509024,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509024,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/.com.taobao.dp"
+    }
+  },
+  {
+    "ts": 1779135509026,
+    "type": "file_access",
+    "data": {
+      "path": ""
+    }
+  },
+  {
+    "ts": 1779135509026,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135509027,
+    "type": "shared_pref",
+    "data": {
+      "key": "UUID_APP_58669b0e4dd2beb8"
+    }
+  },
+  {
+    "ts": 1779135509028,
+    "type": "shared_pref",
+    "data": {
+      "key": "58669b0e4dd2beb8"
+    }
+  },
+  {
+    "ts": 1779135509029,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135509029,
+    "type": "shared_pref",
+    "data": {
+      "key": "UUID_APP_85d32f14e4edccf2"
+    }
+  },
+  {
+    "ts": 1779135509030,
+    "type": "shared_pref",
+    "data": {
+      "key": "85d32f14e4edccf2"
+    }
+  },
+  {
+    "ts": 1779135509031,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509031,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509031,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509031,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509032,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509033,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509033,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509033,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509034,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509034,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509034,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509034,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509034,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/.com.taobao.dp"
+    }
+  },
+  {
+    "ts": 1779135509035,
+    "type": "file_access",
+    "data": {
+      "path": ""
+    }
+  },
+  {
+    "ts": 1779135509036,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135509037,
+    "type": "shared_pref",
+    "data": {
+      "key": "UUID_APP_e5c06c338bfa3568"
+    }
+  },
+  {
+    "ts": 1779135509038,
+    "type": "shared_pref",
+    "data": {
+      "key": "e5c06c338bfa3568"
+    }
+  },
+  {
+    "ts": 1779135509039,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/version"
+    }
+  },
+  {
+    "ts": 1779135509039,
+    "type": "device_id_access",
+    "data": {
+      "action": "getDeviceId"
+    }
+  },
+  {
+    "ts": 1779135509041,
+    "type": "subscriber_id_access",
+    "data": {
+      "action": "getSubscriberId"
+    }
+  },
+  {
+    "ts": 1779135509044,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779135509055,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135509055,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2.tmp"
+    }
+  },
+  {
+    "ts": 1779135509056,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135509057,
+    "type": "shared_pref",
+    "data": {
+      "key": "mac_address_mac_address"
+    }
+  },
+  {
+    "ts": 1779135509057,
+    "type": "shared_pref",
+    "data": {
+      "key": "mac_address"
+    }
+  },
+  {
+    "ts": 1779135509060,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779135509061,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/cpu0/cpufreq/cpuinfo_max_freq"
+    }
+  },
+  {
+    "ts": 1779135509061,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779135509062,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509062,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509062,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509062,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509063,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509063,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509063,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509063,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509065,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509065,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779135509066,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509066,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779135509066,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779135509067,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.alibaba.aliexpresshd/files/SGMANAGER_DATA2"
+    }
+  },
+  {
+    "ts": 1779135509068,
+    "type": "shared_pref",
+    "data": {
+      "key": "DataCollectionData_key_nick"
+    }
+  },
+  {
+    "ts": 1779135509069,
+    "type": "shared_pref",
+    "data": {
+      "key": "key_nick"
+    }
+  },
+  {
+    "ts": 1779135509072,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/cpuinfo"
+    }
+  },
+  {
+    "ts": 1779135509097,
+    "type": "runtime_exec",
+    "data": {
+      "command": "cat /proc/cpuinfo | grep Serial"
+    }
+  },
+  {
+    "ts": 1779135514501,
+    "type": "url_access",
+    "data": {
+      "url": "http://adash.m.taobao.com/rest/sur?ak=21371601&av=4.9.2&c=play&v=3.0&s=e6dc88061ef0aa63593a365f32cb1ccf784f8b51&d=agtz%2FLG6iXgDAO1hJoFv16kS&sv=5.0.0&p=a&t=1779135514500&u=&is=1"
+    }
+  },
+  {
+    "ts": 1779135514502,
+    "type": "url_access",
+    "data": {
+      "url": "http://adash.m.taobao.com/rest/sur?ak=21371601&av=4.9.2&c=play&v=3.0&s=e6dc88061ef0aa63593a365f32cb1ccf784f8b51&d=agtz%2FLG6iXgDAO1hJoFv16kS&sv=5.0.0&p=a&t=1779135514500&u=&is=1"
+    }
+  },
+  {
+    "ts": 1779135515400,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.aliexpress.com/ok.jsp"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "ts": 1778237400029,
+    "type": "activity",
+    "data": {
+      "activity": "com.ansca.corona.CoronaActivity"
+    }
+  },
+  {
+    "ts": 1778237400905,
+    "type": "file",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1778237400913,
+    "type": "file",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1778237400914,
+    "type": "file",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1778237400914,
+    "type": "file",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1778237402042,
+    "type": "settings",
+    "data": {
+      "key": "android_id"
+    }
+  }
+]

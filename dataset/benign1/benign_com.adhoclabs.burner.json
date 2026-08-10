@@ -1,0 +1,254 @@
+[
+  {
+    "ts": 1779638096312,
+    "type": "shared_pref",
+    "data": {
+      "key": "User"
+    }
+  },
+  {
+    "ts": 1779638096314,
+    "type": "shared_pref",
+    "data": {
+      "key": "BURNER_PIN"
+    }
+  },
+  {
+    "ts": 1779638096324,
+    "type": "shared_pref",
+    "data": {
+      "key": "InstallStepCompleted"
+    }
+  },
+  {
+    "ts": 1779638096345,
+    "type": "shared_pref",
+    "data": {
+      "key": "User"
+    }
+  },
+  {
+    "ts": 1779638096376,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.adhoclabs.burner.BurnerTourActivity"
+    }
+  },
+  {
+    "ts": 1779638096396,
+    "type": "shared_pref",
+    "data": {
+      "key": "User"
+    }
+  },
+  {
+    "ts": 1779638096399,
+    "type": "shared_pref",
+    "data": {
+      "key": "BURNER_PIN"
+    }
+  },
+  {
+    "ts": 1779638096399,
+    "type": "shared_pref",
+    "data": {
+      "key": "BURNER_PIN"
+    }
+  },
+  {
+    "ts": 1779638096400,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638096412,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779638096414,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779638096417,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638096418,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638096419,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779638096419,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.adhoclabs.burner/shared_prefs/com.adhoclabs.burner_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638096419,
+    "type": "shared_pref",
+    "data": {
+      "key": "AdjustInstallReferrer"
+    }
+  },
+  {
+    "ts": 1779638096420,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638096422,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.adhoclabs.burner/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779638096423,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779638096423,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.adhoclabs.burner/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A131F4F03D9-0001-2090-30B79F5B643ESessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779638096423,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.adhoclabs.burner/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779638096426,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779638096440,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.adhoclabs.burner/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779638096451,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.adhoclabs.burner/settings?instance=109b1e31ef4b98dedf7b959db1fc203595a394aa&build_version=449&display_version=3.3.9&source=1&icon_hash=af8c31c0ed0087358827c8e9218cf245b61ec625"
+    }
+  },
+  {
+    "ts": 1779638096451,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.adhoclabs.burner/settings?instance=109b1e31ef4b98dedf7b959db1fc203595a394aa&build_version=449&display_version=3.3.9&source=1&icon_hash=af8c31c0ed0087358827c8e9218cf245b61ec625"
+    }
+  },
+  {
+    "ts": 1779638096782,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.changes"
+    }
+  },
+  {
+    "ts": 1779638096783,
+    "type": "shared_pref",
+    "data": {
+      "key": "mixpanel.viewcrawler.bindings"
+    }
+  },
+  {
+    "ts": 1779638097129,
+    "type": "shared_pref",
+    "data": {
+      "key": "User"
+    }
+  },
+  {
+    "ts": 1779638097129,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackerToken"
+    }
+  },
+  {
+    "ts": 1779638097129,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackerName"
+    }
+  },
+  {
+    "ts": 1779638097129,
+    "type": "shared_pref",
+    "data": {
+      "key": "network"
+    }
+  },
+  {
+    "ts": 1779638097129,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638097129,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779638097130,
+    "type": "shared_pref",
+    "data": {
+      "key": "User"
+    }
+  },
+  {
+    "ts": 1779638097130,
+    "type": "shared_pref",
+    "data": {
+      "key": "trackerToken"
+    }
+  },
+  {
+    "ts": 1779638099436,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { act=android.intent.action.CALL_BUTTON flg=0x10000000 }"
+    }
+  }
+]

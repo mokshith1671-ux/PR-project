@@ -1,0 +1,44 @@
+[
+  {
+    "ts": 1779646715745,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cg.android.pregnancytracker/databases/PregTrackerMergedDB.sqlite"
+    }
+  },
+  {
+    "ts": 1779646715746,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cg.android.pregnancytracker/databases/PregTrackerMergedDB.sqlite"
+    }
+  },
+  {
+    "ts": 1779646715781,
+    "type": "url_access",
+    "data": {
+      "url": "https://data.flurry.com/aap.do"
+    }
+  },
+  {
+    "ts": 1779646715921,
+    "type": "url_access",
+    "data": {
+      "url": "file:/data/app/~~MZV8_xqFF1HMdaxueEnW_Q==/com.cg.android.pregnancytracker-QpLNtmmAZIww_r4yWA6isQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779646715938,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.cg.android.pregnancytracker/databases/PregTrackerMergedDB.sqlite"
+    }
+  },
+  {
+    "ts": 1779646718809,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.cg.android.pregnancytracker.onboarding.OnBoardingFirstActivity"
+    }
+  }
+]

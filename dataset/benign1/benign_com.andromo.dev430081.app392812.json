@@ -1,0 +1,16 @@
+[
+  {
+    "ts": 1779640064883,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779640064886,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.andromo.dev430081.app392812/shared_prefs/com.andromo.dev430081.app392812_preferences.xml.bak"
+    }
+  }
+]

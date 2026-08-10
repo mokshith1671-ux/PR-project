@@ -1,0 +1,569 @@
+[
+  {
+    "ts": 1779140217470,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.appevents.SessionInfo.sessionId"
+    }
+  },
+  {
+    "ts": 1779140217494,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.weheartit/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140217513,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779140217517,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779140217518,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140217523,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.weheartit/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779140217539,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_version"
+    }
+  },
+  {
+    "ts": 1779140217542,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_identifier"
+    }
+  },
+  {
+    "ts": 1779140217543,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_link"
+    }
+  },
+  {
+    "ts": 1779140217543,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_push_identifier"
+    }
+  },
+  {
+    "ts": 1779140217544,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_uri"
+    }
+  },
+  {
+    "ts": 1779140217544,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_external_intent_extra"
+    }
+  },
+  {
+    "ts": 1779140217546,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.weheartit.app.MainActivity"
+    }
+  },
+  {
+    "ts": 1779140217561,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~hxgkdtv1P0Fb9ihgWdMXwA==/com.weheartit-Bw-V6TQLGv5l8VYW0pQ3KQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779140217562,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779140217588,
+    "type": "url_access",
+    "data": {
+      "url": "http://rt.applovin.com/pix?event=landing&ts=1779140217455&platform=Android&model=sdk_gphone_x86_64&package_name=com.weheartit&sdk_key=aAe__FSgrwlAZ_5xi1zoK7QdiROPnZaMlDLlTpPIk9SH8TCrZAdvH2W_UvOGTzcCBzxenLxUUOncx-SV94OR6w&idfa=29471ce5-214d-4137-ac6b-0e0e9fd03b28&dnt=false&ia=1779140215000&api_did=&brand=Google&model=sdk_gphone_x86_64&revision=generic_x86_64_arm64&sdk_version=6.2.2&os=11&app_version=5.2.6&postback_ts=1779140217563"
+    }
+  },
+  {
+    "ts": 1779140217590,
+    "type": "url_access",
+    "data": {
+      "url": "http://rt.applovin.com/pix?event=landing&ts=1779140217455&platform=Android&model=sdk_gphone_x86_64&package_name=com.weheartit&sdk_key=aAe__FSgrwlAZ_5xi1zoK7QdiROPnZaMlDLlTpPIk9SH8TCrZAdvH2W_UvOGTzcCBzxenLxUUOncx-SV94OR6w&idfa=29471ce5-214d-4137-ac6b-0e0e9fd03b28&dnt=false&ia=1779140215000&api_did=&brand=Google&model=sdk_gphone_x86_64&revision=generic_x86_64_arm64&sdk_version=6.2.2&os=11&app_version=5.2.6&postback_ts=1779140217563"
+    }
+  },
+  {
+    "ts": 1779140217659,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779140217660,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140217660,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140217660,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779140217660,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779140217660,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.weheartit/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140217661,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.weheartit/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B86790163-0001-60EA-AD07DA3EB705SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779140217666,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.weheartit/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-6A0B86790163-0001-60EA-AD07DA3EB705.temp.tmp"
+    }
+  },
+  {
+    "ts": 1779140217667,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779140217668,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.weheartit/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779140217669,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.weheartit/settings?instance=f37fd56c3562f76c3f13028cc72d082f54e0778c&build_version=18367&display_version=5.2.6&source=1&icon_hash=ab37d4f407acf51649de091cd1bff52165c7ec7b"
+    }
+  },
+  {
+    "ts": 1779140217669,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.weheartit/settings?instance=f37fd56c3562f76c3f13028cc72d082f54e0778c&build_version=18367&display_version=5.2.6&source=1&icon_hash=ab37d4f407acf51649de091cd1bff52165c7ec7b"
+    }
+  },
+  {
+    "ts": 1779140217683,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779140217683,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/install"
+    }
+  },
+  {
+    "ts": 1779140217695,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.weheartit/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779140217727,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779140217731,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.weheartit.app.authentication.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779140217738,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.weheartit/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B86790163-0001-60EA-AD07DA3EB705SessionEvent0000000000.cls_temp"
+    }
+  },
+  {
+    "ts": 1779140217745,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140217754,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.weheartit/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B86790163-0001-60EA-AD07DA3EB705SessionEvent0000000000.cls"
+    }
+  },
+  {
+    "ts": 1779140217754,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.weheartit/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-6A0B86790163-0001-60EA-AD07DA3EB705.temp.tmp"
+    }
+  },
+  {
+    "ts": 1779140217820,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779140217956,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.weheartit/shared_prefs/applovin.sdk.targeting.xml.bak"
+    }
+  },
+  {
+    "ts": 1779140217967,
+    "type": "url_access",
+    "data": {
+      "url": "http://a.applovin.com/2.0/ad?vz=a1722b1f35f48d97&app_version=5.2.6&locale=en_US&platform=android&network=wifi&dx=1080&dy=2009&api_did=&si=0&sdk_version=6.2.2&ia=1779140215000&model=sdk_gphone_x86_64&brand=Google&os=11&idfa=29471ce5-214d-4137-ac6b-0e0e9fd03b28&format=json&require=REGULAR&dnt=false&revision=generic_x86_64_arm64&accept=custom_size,launch_app,video&carrier=&size=BANNER&sdk_key=aAe__FSgrwlAZ_5xi1zoK7QdiROPnZaMlDLlTpPIk9SH8TCrZAdvH2W_UvOGTzcCBzxenLxUUOncx-SV94OR6w&v1=false&preloading=true&v2=true&li=0"
+    }
+  },
+  {
+    "ts": 1779140217968,
+    "type": "url_access",
+    "data": {
+      "url": "http://a.applovin.com/2.0/ad?vz=a1722b1f35f48d97&app_version=5.2.6&locale=en_US&platform=android&network=wifi&dx=1080&dy=2009&api_did=&si=0&sdk_version=6.2.2&ia=1779140215000&model=sdk_gphone_x86_64&brand=Google&os=11&idfa=29471ce5-214d-4137-ac6b-0e0e9fd03b28&format=json&require=REGULAR&dnt=false&revision=generic_x86_64_arm64&accept=custom_size,launch_app,video&carrier=&size=BANNER&sdk_key=aAe__FSgrwlAZ_5xi1zoK7QdiROPnZaMlDLlTpPIk9SH8TCrZAdvH2W_UvOGTzcCBzxenLxUUOncx-SV94OR6w&v1=false&preloading=true&v2=true&li=0"
+    }
+  },
+  {
+    "ts": 1779140218331,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_twittersession"
+    }
+  },
+  {
+    "ts": 1779140218332,
+    "type": "shared_pref",
+    "data": {
+      "key": "active_appsession"
+    }
+  },
+  {
+    "ts": 1779140219348,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779140219351,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779140219352,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779140219352,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779140219484,
+    "type": "url_access",
+    "data": {
+      "url": "https://a4.applovin.com/2.0/ad?vz=a1722b1f35f48d97&app_version=5.2.6&locale=en_US&platform=android&network=wifi&dx=1080&dy=2009&api_did=100b9f678330982170&si=0&etf=1522&sdk_version=6.2.2&ia=1779140215000&model=sdk_gphone_x86_64&brand=Google&ntf=wifi&os=11&idfa=29471ce5-214d-4137-ac6b-0e0e9fd03b28&format=json&require=REGULAR&dnt=false&revision=generic_x86_64_arm64&accept=custom_size,launch_app,video&carrier=&size=INTER&sdk_key=aAe__FSgrwlAZ_5xi1zoK7QdiROPnZaMlDLlTpPIk9SH8TCrZAdvH2W_UvOGTzcCBzxenLxUUOncx-SV94OR6w&v1=false&preloading=true&v2=true&li=0"
+    }
+  },
+  {
+    "ts": 1779140219657,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779140219667,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_params"
+    }
+  },
+  {
+    "ts": 1779140219668,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_params"
+    }
+  },
+  {
+    "ts": 1779140220420,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.weheartit.app.authentication.SignupActivity"
+    }
+  },
+  {
+    "ts": 1779140220426,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.weheartit/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779140220811,
+    "type": "url_access",
+    "data": {
+      "url": "https://a4.applovin.com/2.0/ad?vz=a1722b1f35f48d97&app_version=5.2.6&locale=en_US&platform=android&network=wifi&dx=1080&dy=2009&api_did=100b9f678330982170&si=0&etf=1320&sdk_version=6.2.2&ia=1779140215000&model=sdk_gphone_x86_64&brand=Google&ntf=wifi&os=11&idfa=29471ce5-214d-4137-ac6b-0e0e9fd03b28&format=json&require=VIDEOA&dnt=false&revision=generic_x86_64_arm64&accept=custom_size,launch_app,video&carrier=&size=INTER&sdk_key=aAe__FSgrwlAZ_5xi1zoK7QdiROPnZaMlDLlTpPIk9SH8TCrZAdvH2W_UvOGTzcCBzxenLxUUOncx-SV94OR6w&v1=false&preloading=true&v2=true&li=0"
+    }
+  },
+  {
+    "ts": 1779140220862,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.weheartit.app.MainActivity"
+    }
+  },
+  {
+    "ts": 1779140220941,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.weheartit/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B86790163-0001-60EA-AD07DA3EB705SessionEvent0000000001.cls_temp"
+    }
+  },
+  {
+    "ts": 1779140220951,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779140220958,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.weheartit/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B86790163-0001-60EA-AD07DA3EB705SessionEvent0000000001.cls"
+    }
+  },
+  {
+    "ts": 1779140220994,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779140220994,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_id"
+    }
+  },
+  {
+    "ts": 1779140220995,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.weheartit/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-6A0B86790163-0001-60EA-AD07DA3EB705.temp.tmp"
+    }
+  },
+  {
+    "ts": 1779140221001,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.weheartit.app.authentication.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779140221051,
+    "type": "url_access",
+    "data": {
+      "url": "https://a4.applovin.com/2.0/ad?vz=a1722b1f35f48d97&app_version=5.2.6&locale=en_US&platform=android&network=wifi&dx=1080&dy=2009&api_did=100b9f678330982170&si=0&etf=144&sdk_version=6.2.2&ia=1779140215000&model=sdk_gphone_x86_64&brand=Google&ntf=wifi&os=11&idfa=29471ce5-214d-4137-ac6b-0e0e9fd03b28&format=json&require=VIDEOA&dnt=false&revision=generic_x86_64_arm64&accept=custom_size,launch_app,video&carrier=&size=INTER&sdk_key=aAe__FSgrwlAZ_5xi1zoK7QdiROPnZaMlDLlTpPIk9SH8TCrZAdvH2W_UvOGTzcCBzxenLxUUOncx-SV94OR6w&v1=false&preloading=true&v2=true&li=0"
+    }
+  },
+  {
+    "ts": 1779140221237,
+    "type": "url_access",
+    "data": {
+      "url": "https://a4.applovin.com/nad?vz=a1722b1f35f48d97&app_version=5.2.6&locale=en_US&platform=android&network=wifi&dx=1080&dy=2009&api_did=100b9f678330982170&si=0&sdk_version=6.2.2&ia=1779140215000&model=sdk_gphone_x86_64&slot_count=1&brand=Google&os=11&idfa=29471ce5-214d-4137-ac6b-0e0e9fd03b28&format=json&dnt=false&revision=generic_x86_64_arm64&accept=custom_size,launch_app,video&carrier=&size=NATIVE&sdk_key=aAe__FSgrwlAZ_5xi1zoK7QdiROPnZaMlDLlTpPIk9SH8TCrZAdvH2W_UvOGTzcCBzxenLxUUOncx-SV94OR6w&v1=false&preloading=true&v2=true&li=0"
+    }
+  },
+  {
+    "ts": 1779140221397,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.applovin.sdk.impl.isFirstRun"
+    }
+  },
+  {
+    "ts": 1779140221398,
+    "type": "url_access",
+    "data": {
+      "url": "http://d.applovin.com/device?api_key=aAe__FSgrwlAZ_5xi1zoK7QdiROPnZaMlDLlTpPIk9SH8TCrZAdvH2W_UvOGTzcCBzxenLxUUOncx-SV94OR6w"
+    }
+  },
+  {
+    "ts": 1779140221400,
+    "type": "url_access",
+    "data": {
+      "url": "http://d.applovin.com/device?api_key=aAe__FSgrwlAZ_5xi1zoK7QdiROPnZaMlDLlTpPIk9SH8TCrZAdvH2W_UvOGTzcCBzxenLxUUOncx-SV94OR6w"
+    }
+  },
+  {
+    "ts": 1779140221514,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.weheartit/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779140222989,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.weheartit.app.authentication.SignupActivity"
+    }
+  },
+  {
+    "ts": 1779140226317,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_device_fingerprint_id"
+    }
+  },
+  {
+    "ts": 1779140226317,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779140226318,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_id"
+    }
+  },
+  {
+    "ts": 1779140226318,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_link_click_id"
+    }
+  },
+  {
+    "ts": 1779140226319,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_identity_id"
+    }
+  },
+  {
+    "ts": 1779140226319,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_session_id"
+    }
+  },
+  {
+    "ts": 1779140226319,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_device_fingerprint_id"
+    }
+  },
+  {
+    "ts": 1779140226323,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779140226323,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/close"
+    }
+  },
+  {
+    "ts": 1779140231897,
+    "type": "shared_pref",
+    "data": {
+      "key": "bnc_app_key"
+    }
+  },
+  {
+    "ts": 1779140231897,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.branch.io/v1/close"
+    }
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "ts": 1779131282567,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779131282571,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779131282572,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779131282572,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779131282572,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779131282574,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/au.gov.dhs.centrelinkexpressplus/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131282596,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779131282628,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/au.gov.dhs.centrelinkexpressplus/shared_prefs/settings.xml.bak"
+    }
+  },
+  {
+    "ts": 1779131282630,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779131282665,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/au.gov.dhs.centrelinkexpressplus/files/session"
+    }
+  },
+  {
+    "ts": 1779131282666,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/au.gov.dhs.centrelinkexpressplus/files/session"
+    }
+  },
+  {
+    "ts": 1779131282669,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/au.gov.dhs.centrelinkexpressplus/files/Temp"
+    }
+  },
+  {
+    "ts": 1779131282669,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/au.gov.dhs.centrelinkexpressplus/files/ExtTemp"
+    }
+  },
+  {
+    "ts": 1779131282711,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779131282716,
+    "type": "activity_resume",
+    "data": {
+      "activity": "au.gov.dhs.centrelinkexpressplus.activities.anonymous.EntryPageActivity"
+    }
+  },
+  {
+    "ts": 1779131282726,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779131282742,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779131282744,
+    "type": "shared_pref",
+    "data": {
+      "key": "orgSearchUrl"
+    }
+  },
+  {
+    "ts": 1779131282754,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779131282767,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779131282773,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  },
+  {
+    "ts": 1779131282780,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/PKCS5Padding"
+    }
+  }
+]

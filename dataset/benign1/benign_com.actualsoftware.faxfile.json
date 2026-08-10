@@ -1,0 +1,464 @@
+[
+  {
+    "ts": 1779637950548,
+    "type": "shared_pref",
+    "data": {
+      "key": "sid"
+    }
+  },
+  {
+    "ts": 1779637950549,
+    "type": "shared_pref",
+    "data": {
+      "key": "pin"
+    }
+  },
+  {
+    "ts": 1779637950550,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637950552,
+    "type": "url_access",
+    "data": {
+      "url": "https://faxfile.actualsoftware.com/transferFaxFile"
+    }
+  },
+  {
+    "ts": 1779637951660,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779637951663,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779637951663,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779637951663,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779637952091,
+    "type": "shared_pref",
+    "data": {
+      "key": "sid"
+    }
+  },
+  {
+    "ts": 1779637952092,
+    "type": "shared_pref",
+    "data": {
+      "key": "server_ver"
+    }
+  },
+  {
+    "ts": 1779637952103,
+    "type": "shared_pref",
+    "data": {
+      "key": "sid"
+    }
+  },
+  {
+    "ts": 1779637952103,
+    "type": "shared_pref",
+    "data": {
+      "key": "server_ver"
+    }
+  },
+  {
+    "ts": 1779637952113,
+    "type": "shared_pref",
+    "data": {
+      "key": "sid"
+    }
+  },
+  {
+    "ts": 1779637952115,
+    "type": "shared_pref",
+    "data": {
+      "key": "pin"
+    }
+  },
+  {
+    "ts": 1779637952115,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637952115,
+    "type": "url_access",
+    "data": {
+      "url": "https://faxfile.actualsoftware.com/transferFaxFile"
+    }
+  },
+  {
+    "ts": 1779637952147,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.actualsoftware.faxfile.activity.Welcome"
+    }
+  },
+  {
+    "ts": 1779637952470,
+    "type": "shared_pref",
+    "data": {
+      "key": "sid"
+    }
+  },
+  {
+    "ts": 1779637952471,
+    "type": "shared_pref",
+    "data": {
+      "key": "server_ver"
+    }
+  },
+  {
+    "ts": 1779637952473,
+    "type": "shared_pref",
+    "data": {
+      "key": "fromname"
+    }
+  },
+  {
+    "ts": 1779637952474,
+    "type": "shared_pref",
+    "data": {
+      "key": "fromname"
+    }
+  },
+  {
+    "ts": 1779637952477,
+    "type": "shared_pref",
+    "data": {
+      "key": "fromemail"
+    }
+  },
+  {
+    "ts": 1779637952478,
+    "type": "shared_pref",
+    "data": {
+      "key": "fromemail"
+    }
+  },
+  {
+    "ts": 1779637952482,
+    "type": "shared_pref",
+    "data": {
+      "key": "fromfax"
+    }
+  },
+  {
+    "ts": 1779637952482,
+    "type": "shared_pref",
+    "data": {
+      "key": "fromfax"
+    }
+  },
+  {
+    "ts": 1779637952488,
+    "type": "shared_pref",
+    "data": {
+      "key": "phone"
+    }
+  },
+  {
+    "ts": 1779637952489,
+    "type": "shared_pref",
+    "data": {
+      "key": "phone"
+    }
+  },
+  {
+    "ts": 1779637952492,
+    "type": "shared_pref",
+    "data": {
+      "key": "address"
+    }
+  },
+  {
+    "ts": 1779637952492,
+    "type": "shared_pref",
+    "data": {
+      "key": "address"
+    }
+  },
+  {
+    "ts": 1779637952499,
+    "type": "shared_pref",
+    "data": {
+      "key": "reviewresult"
+    }
+  },
+  {
+    "ts": 1779637952499,
+    "type": "shared_pref",
+    "data": {
+      "key": "reviewresult"
+    }
+  },
+  {
+    "ts": 1779637952502,
+    "type": "shared_pref",
+    "data": {
+      "key": "rateresponse"
+    }
+  },
+  {
+    "ts": 1779637952502,
+    "type": "shared_pref",
+    "data": {
+      "key": "rateresponse"
+    }
+  },
+  {
+    "ts": 1779637955481,
+    "type": "shared_pref",
+    "data": {
+      "key": "fromname"
+    }
+  },
+  {
+    "ts": 1779637955481,
+    "type": "shared_pref",
+    "data": {
+      "key": "fromfax"
+    }
+  },
+  {
+    "ts": 1779637955485,
+    "type": "shared_pref",
+    "data": {
+      "key": "sid"
+    }
+  },
+  {
+    "ts": 1779637955486,
+    "type": "shared_pref",
+    "data": {
+      "key": "pin"
+    }
+  },
+  {
+    "ts": 1779637955487,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637955489,
+    "type": "url_access",
+    "data": {
+      "url": "https://faxfile.actualsoftware.com/transferFaxFile"
+    }
+  },
+  {
+    "ts": 1779637955495,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.actualsoftware.faxfile.activity.FaxSendSetup"
+    }
+  },
+  {
+    "ts": 1779637956196,
+    "type": "shared_pref",
+    "data": {
+      "key": "sid"
+    }
+  },
+  {
+    "ts": 1779637956196,
+    "type": "shared_pref",
+    "data": {
+      "key": "server_ver"
+    }
+  },
+  {
+    "ts": 1779637957970,
+    "type": "shared_pref",
+    "data": {
+      "key": "lastpath"
+    }
+  },
+  {
+    "ts": 1779637959885,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.actualsoftware.faxfile.activity.FaxSendSetup"
+    }
+  },
+  {
+    "ts": 1779637962554,
+    "type": "shared_pref",
+    "data": {
+      "key": "lastpath"
+    }
+  },
+  {
+    "ts": 1779637964007,
+    "type": "shared_pref",
+    "data": {
+      "key": "fromname"
+    }
+  },
+  {
+    "ts": 1779637964007,
+    "type": "shared_pref",
+    "data": {
+      "key": "fromfax"
+    }
+  },
+  {
+    "ts": 1779637964034,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.actualsoftware.faxfile.activity.FaxSendSetup"
+    }
+  },
+  {
+    "ts": 1779637964065,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637964065,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637964065,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637964066,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637964073,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.actualsoftware.faxfile/cache/stream17796379640654340287840335667740.png"
+    }
+  },
+  {
+    "ts": 1779637964126,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.actualsoftware.faxfile/cache/stream17796379640654340287840335667740.png"
+    }
+  },
+  {
+    "ts": 1779637964144,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.actualsoftware.faxfile/cache"
+    }
+  },
+  {
+    "ts": 1779637964144,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.actualsoftware.faxfile/cache"
+    }
+  },
+  {
+    "ts": 1779637964145,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.actualsoftware.faxfile/cache"
+    }
+  },
+  {
+    "ts": 1779637964145,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.actualsoftware.faxfile"
+    }
+  },
+  {
+    "ts": 1779637964146,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637964146,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779637964146,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637964146,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779637964147,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.actualsoftware.faxfile/cache"
+    }
+  },
+  {
+    "ts": 1779637964147,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.actualsoftware.faxfile/cache"
+    }
+  },
+  {
+    "ts": 1779637964148,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/data/com.actualsoftware.faxfile"
+    }
+  },
+  {
+    "ts": 1779637965868,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.actualsoftware.faxfile.activity.FaxNumberEnterActivity"
+    }
+  }
+]

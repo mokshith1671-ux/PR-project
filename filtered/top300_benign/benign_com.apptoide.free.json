@@ -1,0 +1,1290 @@
+[
+  {
+    "ts": 1779641995575,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.apptoide.free.splash_screen"
+    }
+  },
+  {
+    "ts": 1779641995778,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|999999999999|*"
+    }
+  },
+  {
+    "ts": 1779641995778,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779641995778,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779641995778,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779641995891,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779641995892,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779641998899,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { act=android.intent.action.CALL_BUTTON flg=0x10000000 }"
+    }
+  },
+  {
+    "ts": 1779641999649,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files"
+    }
+  },
+  {
+    "ts": 1779641999650,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files"
+    }
+  },
+  {
+    "ts": 1779641999650,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files"
+    }
+  },
+  {
+    "ts": 1779641999651,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files"
+    }
+  },
+  {
+    "ts": 1779641999655,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779641999658,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files"
+    }
+  },
+  {
+    "ts": 1779641999659,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779641999661,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779641999665,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779641999666,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779641999667,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/shared_prefs/com.startapp.android.publish.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641999670,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779641999671,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779641999675,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779641999676,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files"
+    }
+  },
+  {
+    "ts": 1779641999677,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/shared_prefs/com.startapp.android.publish.CookiePrefsFile.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641999677,
+    "type": "shared_pref",
+    "data": {
+      "key": "names"
+    }
+  },
+  {
+    "ts": 1779641999682,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779641999683,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779641999684,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779641999686,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779641999688,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/startapp_ads/keys"
+    }
+  },
+  {
+    "ts": 1779641999689,
+    "type": "shared_pref",
+    "data": {
+      "key": "sharedPrefsWrappers"
+    }
+  },
+  {
+    "ts": 1779641999697,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~CX47TCLajMg7WgGrkd3jXQ==/com.apptoide.free-QAX9AFVfkTUs4CXDqCGLHg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779641999713,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779641999714,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779641999714,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779641999716,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641999717,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641999717,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641999717,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641999717,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641999717,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779641999718,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779641999718,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641999718,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641999718,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641999719,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641999719,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641999720,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641999720,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641999720,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779641999720,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779641999720,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641999720,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641999722,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641999723,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641999723,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779641999723,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641999723,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641999751,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779641999755,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641999755,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779641999759,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641999759,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779641999761,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641999769,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779641999774,
+    "type": "shared_pref",
+    "data": {
+      "key": "sharedPrefsWrappers"
+    }
+  },
+  {
+    "ts": 1779641999792,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779641999814,
+    "type": "url_access",
+    "data": {
+      "url": "http://init.startappexchange.com/1.4/getadsmetadata?productId=201128941&os=android&sdkVersion=3.5.4&flavor=1023&packageId=com.apptoide.free&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&networkOperName=IHRncmJ5YA%3D%3D%0A&roaming=false&grid=13&silev=e106&cellSignalLevel=e106&wifiSignalLevel=e106&wifiRssiLevel=e106&outsource=true&width=1080&height=2072&density=2.75&fgApp=true&sdkId=3&clientSessionId=6daf3183-777f-4efc-894c-69c8951268cc&appVersion=1.0&appCode=1&totalSessions=0&daysSinceFirstSession=0&payingUser=false&paidAmount=0.0&reason=LAUNCH&apkHash=D692EC75488D98DBF3219369B085D0C71E698EFE32491BD5E64258E15FC83D25&ian=2&token=1779641999607-4-H4sIAAAAAAAAADMwoBAYUmoANmBEC0NHwSgYBcSDQZ8JaVL0jIJRMAooASMrWw76UpK_AABcCrhRUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779641999828,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779641999829,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779641999837,
+    "type": "url_access",
+    "data": {
+      "url": "http://init.startappexchange.com/1.4/getadsmetadata?productId=201128941&os=android&sdkVersion=3.5.4&flavor=1023&packageId=com.apptoide.free&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&networkOperName=IHRncmJ5YA%3D%3D%0A&roaming=false&grid=13&silev=e106&cellSignalLevel=e106&wifiSignalLevel=e106&wifiRssiLevel=e106&outsource=true&width=1080&height=2072&density=2.75&fgApp=true&sdkId=3&clientSessionId=6daf3183-777f-4efc-894c-69c8951268cc&appVersion=1.0&appCode=1&totalSessions=0&daysSinceFirstSession=0&payingUser=false&paidAmount=0.0&reason=LAUNCH&apkHash=D692EC75488D98DBF3219369B085D0C71E698EFE32491BD5E64258E15FC83D25&ian=2&token=1779641999607-4-H4sIAAAAAAAAADMwoBAYUmoANmBEC0NHwSgYBcSDQZ8JaVL0jIJRMAooASMrWw76UpK_AABcCrhRUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779641999897,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.apptoide.free.all_recipes"
+    }
+  },
+  {
+    "ts": 1779641999911,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779641999911,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779641999937,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779641999937,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779641999939,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779641999939,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779641999939,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779641999939,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779641999968,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/trackdownload?productId=201128941&os=android&sdkVersion=3.5.4&flavor=1023&packageId=com.apptoide.free&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&networkOperName=IHRncmJ5YA%3D%3D%0A&roaming=false&grid=13&silev=e106&cellSignalLevel=e106&outsource=true&width=1080&height=2072&density=2.75&fgApp=true&sdkId=3&clientSessionId=6daf3183-777f-4efc-894c-69c8951268cc&appVersion=1.0&appCode=1&placement=INAPP_DOWNLOAD"
+    }
+  },
+  {
+    "ts": 1779641999976,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779641999979,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/trackdownload?productId=201128941&os=android&sdkVersion=3.5.4&flavor=1023&packageId=com.apptoide.free&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&networkOperName=IHRncmJ5YA%3D%3D%0A&roaming=false&grid=13&silev=e106&cellSignalLevel=e106&outsource=true&width=1080&height=2072&density=2.75&fgApp=true&sdkId=3&clientSessionId=6daf3183-777f-4efc-894c-69c8951268cc&appVersion=1.0&appCode=1&placement=INAPP_DOWNLOAD"
+    }
+  },
+  {
+    "ts": 1779641999980,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779641999980,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642000000,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779642000057,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.startapp.android.publish.adsCommon.activities.OverlayActivity"
+    }
+  },
+  {
+    "ts": 1779642000181,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642000181,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642000182,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642000182,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642000198,
+    "type": "shared_pref",
+    "data": {
+      "key": "sharedPrefsWrappers"
+    }
+  },
+  {
+    "ts": 1779642000212,
+    "type": "url_access",
+    "data": {
+      "url": "file:/apex/com.android.art/javalib/core-oj.jar"
+    }
+  },
+  {
+    "ts": 1779642000239,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=201128941&os=android&sdkVersion=3.5.4&flavor=1023&packageId=com.apptoide.free&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&networkOperName=IHRncmJ5YA%3D%3D%0A&roaming=false&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2072&density=2.75&fgApp=true&sdkId=3&clientSessionId=6daf3183-777f-4efc-894c-69c8951268cc&appVersion=1.0&appCode=1&timeSinceSessionStart=512&adsDisplayed=0&twoClicks=true&placement=INAPP_SPLASH&testMode=false&adsNumber=1&packageExclude=com.apptoide.free&offset=0&engInclude=true&hardwareAccelerated=true&dts=true&downloadingMode=CACHE&contentAd=false&ts=1779642000238&afh=PO7s%2Bi8ks5wBmrfhO5f8DA&token2=1779641999923-4-H4sIAAAAAAAAAO3BMQEAAADCoErrn84O3kABAMBvzUw_1VAKAAA%23"
+    }
+  },
+  {
+    "ts": 1779642000241,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642000243,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=201128941&os=android&sdkVersion=3.5.4&flavor=1023&packageId=com.apptoide.free&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&networkOperName=IHRncmJ5YA%3D%3D%0A&roaming=false&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2072&density=2.75&fgApp=true&sdkId=3&clientSessionId=6daf3183-777f-4efc-894c-69c8951268cc&appVersion=1.0&appCode=1&timeSinceSessionStart=512&adsDisplayed=0&twoClicks=true&placement=INAPP_SPLASH&testMode=false&adsNumber=1&packageExclude=com.apptoide.free&offset=0&engInclude=true&hardwareAccelerated=true&dts=true&downloadingMode=CACHE&contentAd=false&ts=1779642000238&afh=PO7s%2Bi8ks5wBmrfhO5f8DA&token2=1779641999923-4-H4sIAAAAAAAAAO3BMQEAAADCoErrn84O3kABAMBvzUw_1VAKAAA%23"
+    }
+  },
+  {
+    "ts": 1779642000265,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779642000276,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779642000278,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779642000280,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779642000355,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files"
+    }
+  },
+  {
+    "ts": 1779642000373,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642000374,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642000379,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files"
+    }
+  },
+  {
+    "ts": 1779642000381,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files"
+    }
+  },
+  {
+    "ts": 1779642000382,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files"
+    }
+  },
+  {
+    "ts": 1779642000383,
+    "type": "shared_pref",
+    "data": {
+      "key": "sharedPrefsWrappers"
+    }
+  },
+  {
+    "ts": 1779642000395,
+    "type": "shared_pref",
+    "data": {
+      "key": "sharedPrefsWrappers"
+    }
+  },
+  {
+    "ts": 1779642000398,
+    "type": "shared_pref",
+    "data": {
+      "key": "sharedPrefsWrappers"
+    }
+  },
+  {
+    "ts": 1779642000402,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files"
+    }
+  },
+  {
+    "ts": 1779642000403,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779642000404,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779642000404,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779642000409,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=201128941&os=android&sdkVersion=3.5.4&flavor=1023&packageId=com.apptoide.free&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&networkOperName=IHRncmJ5YA%3D%3D%0A&roaming=false&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2072&density=2.75&fgApp=true&sdkId=3&clientSessionId=6daf3183-777f-4efc-894c-69c8951268cc&appVersion=1.0&appCode=1&timeSinceSessionStart=697&adsDisplayed=0&twoClicks=true&placement=INAPP_BANNER&testMode=false&adsNumber=4&packageExclude=com.apptoide.free&offset=0&engInclude=true&hardwareAccelerated=true&dts=true&downloadingMode=CACHE&contentAd=false&ts=1779642000403&afh=E9Cm6fs5GUXm8SeEpqbmQA&token2=1779641999923-4-H4sIAAAAAAAAAO3BMQEAAADCoErrn84O3kABAMBvzUw_1VAKAAA%23"
+    }
+  },
+  {
+    "ts": 1779642000413,
+    "type": "url_access",
+    "data": {
+      "url": ""
+    }
+  },
+  {
+    "ts": 1779642000427,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642000435,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/getads?productId=201128941&os=android&sdkVersion=3.5.4&flavor=1023&packageId=com.apptoide.free&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&networkOperName=IHRncmJ5YA%3D%3D%0A&roaming=false&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2072&density=2.75&fgApp=true&sdkId=3&clientSessionId=6daf3183-777f-4efc-894c-69c8951268cc&appVersion=1.0&appCode=1&timeSinceSessionStart=697&adsDisplayed=0&twoClicks=true&placement=INAPP_BANNER&testMode=false&adsNumber=4&packageExclude=com.apptoide.free&offset=0&engInclude=true&hardwareAccelerated=true&dts=true&downloadingMode=CACHE&contentAd=false&ts=1779642000403&afh=E9Cm6fs5GUXm8SeEpqbmQA&token2=1779641999923-4-H4sIAAAAAAAAAO3BMQEAAADCoErrn84O3kABAMBvzUw_1VAKAAA%23"
+    }
+  },
+  {
+    "ts": 1779642000457,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=201128941&os=android&sdkVersion=3.5.4&flavor=1023&packageId=com.apptoide.free&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&networkOperName=IHRncmJ5YA%3D%3D%0A&roaming=false&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2072&density=2.75&fgApp=true&sdkId=3&clientSessionId=6daf3183-777f-4efc-894c-69c8951268cc&appVersion=1.0&appCode=1&timeSinceSessionStart=692&adsDisplayed=0&twoClicks=true&placement=INAPP_OVERLAY&testMode=false&adsNumber=1&packageExclude=com.apptoide.free&offset=0&engInclude=true&hardwareAccelerated=true&dts=true&downloadingMode=CACHE&contentAd=false&ts=1779642000434&afh=vU0rrWrQC2%2BT6IjXuwSxiw&token=1779641999921-4-H4sIAAAAAAAAADMwoBAYUmoANmBEC0NHwSgYBcSDQZ8JaVL0jIJRMAooASMrWw76UpK_AABcCrhRUAoAAA%23%23&video=ENABLED&videoMode=INTERSTITIAL"
+    }
+  },
+  {
+    "ts": 1779642000459,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642000466,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=201128941&os=android&sdkVersion=3.5.4&flavor=1023&packageId=com.apptoide.free&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&networkOperName=IHRncmJ5YA%3D%3D%0A&roaming=false&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2072&density=2.75&fgApp=true&sdkId=3&clientSessionId=6daf3183-777f-4efc-894c-69c8951268cc&appVersion=1.0&appCode=1&timeSinceSessionStart=692&adsDisplayed=0&twoClicks=true&placement=INAPP_OVERLAY&testMode=false&adsNumber=1&packageExclude=com.apptoide.free&offset=0&engInclude=true&hardwareAccelerated=true&dts=true&downloadingMode=CACHE&contentAd=false&ts=1779642000434&afh=vU0rrWrQC2%2BT6IjXuwSxiw&token=1779641999921-4-H4sIAAAAAAAAADMwoBAYUmoANmBEC0NHwSgYBcSDQZ8JaVL0jIJRMAooASMrWw76UpK_AABcCrhRUAoAAA%23%23&video=ENABLED&videoMode=INTERSTITIAL"
+    }
+  },
+  {
+    "ts": 1779642000477,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=201128941&os=android&sdkVersion=3.5.4&flavor=1023&packageId=com.apptoide.free&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&networkOperName=IHRncmJ5YA%3D%3D%0A&roaming=false&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2072&density=2.75&fgApp=true&sdkId=3&clientSessionId=6daf3183-777f-4efc-894c-69c8951268cc&appVersion=1.0&appCode=1&timeSinceSessionStart=692&adsDisplayed=0&twoClicks=true&placement=INAPP_RETURN&testMode=false&adsNumber=1&packageExclude=com.apptoide.free&offset=0&engInclude=true&hardwareAccelerated=true&dts=true&downloadingMode=CACHE&contentAd=false&ts=1779642000462&afh=fqCWwB8RWDJquGfD7gD5tw&token=1779641999921-4-H4sIAAAAAAAAADMwoBAYUmoANmBEC0NHwSgYBcSDQZ8JaVL0jIJRMAooASMrWw76UpK_AABcCrhRUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642000485,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642000502,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=201128941&os=android&sdkVersion=3.5.4&flavor=1023&packageId=com.apptoide.free&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&networkOperName=IHRncmJ5YA%3D%3D%0A&roaming=false&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2072&density=2.75&fgApp=true&sdkId=3&clientSessionId=6daf3183-777f-4efc-894c-69c8951268cc&appVersion=1.0&appCode=1&timeSinceSessionStart=692&adsDisplayed=0&twoClicks=true&placement=INAPP_RETURN&testMode=false&adsNumber=1&packageExclude=com.apptoide.free&offset=0&engInclude=true&hardwareAccelerated=true&dts=true&downloadingMode=CACHE&contentAd=false&ts=1779642000462&afh=fqCWwB8RWDJquGfD7gD5tw&token=1779641999921-4-H4sIAAAAAAAAADMwoBAYUmoANmBEC0NHwSgYBcSDQZ8JaVL0jIJRMAooASMrWw76UpK_AABcCrhRUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642000799,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642000799,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779642000799,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642000799,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779642000799,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/Android/obb/com.apptoide.free/"
+    }
+  },
+  {
+    "ts": 1779642000800,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~CX47TCLajMg7WgGrkd3jXQ==/com.apptoide.free-QAX9AFVfkTUs4CXDqCGLHg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779642000821,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/drawable-hdpi.zip"
+    }
+  },
+  {
+    "ts": 1779642000823,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/drawable-hdpi.zip"
+    }
+  },
+  {
+    "ts": 1779642000823,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/empty_star.png"
+    }
+  },
+  {
+    "ts": 1779642000824,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/filled_star.png"
+    }
+  },
+  {
+    "ts": 1779642000825,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/half_star.png"
+    }
+  },
+  {
+    "ts": 1779642000826,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/logo.png"
+    }
+  },
+  {
+    "ts": 1779642000827,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/tab_side.png"
+    }
+  },
+  {
+    "ts": 1779642000828,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/.DS_Store"
+    }
+  },
+  {
+    "ts": 1779642000828,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/back_.png"
+    }
+  },
+  {
+    "ts": 1779642000829,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/back_dark.png"
+    }
+  },
+  {
+    "ts": 1779642000829,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/browser_icon_dark.png"
+    }
+  },
+  {
+    "ts": 1779642000830,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/forward_.png"
+    }
+  },
+  {
+    "ts": 1779642000830,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/forward_dark.png"
+    }
+  },
+  {
+    "ts": 1779642000831,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/x_dark.png"
+    }
+  },
+  {
+    "ts": 1779642000832,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~CX47TCLajMg7WgGrkd3jXQ==/com.apptoide.free-QAX9AFVfkTUs4CXDqCGLHg==/base.apk"
+    }
+  },
+  {
+    "ts": 1779642000847,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/drawable.zip"
+    }
+  },
+  {
+    "ts": 1779642000849,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/drawable.zip"
+    }
+  },
+  {
+    "ts": 1779642000849,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/info_s.png"
+    }
+  },
+  {
+    "ts": 1779642000849,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/info_l.png"
+    }
+  },
+  {
+    "ts": 1779642000850,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/close_button.png"
+    }
+  },
+  {
+    "ts": 1779642000850,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/back_.png"
+    }
+  },
+  {
+    "ts": 1779642000850,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/back_dark.png"
+    }
+  },
+  {
+    "ts": 1779642000851,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/browser_icon_dark.png"
+    }
+  },
+  {
+    "ts": 1779642000853,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/forward_.png"
+    }
+  },
+  {
+    "ts": 1779642000853,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/forward_dark.png"
+    }
+  },
+  {
+    "ts": 1779642000854,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/x_dark.png"
+    }
+  },
+  {
+    "ts": 1779642000855,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/StartAppSplash.html"
+    }
+  },
+  {
+    "ts": 1779642000858,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/filled_star.png"
+    }
+  },
+  {
+    "ts": 1779642000868,
+    "type": "url_access",
+    "data": {
+      "url": "https://images.startappservice.com/image/fetch/f_auto,q_auto,e_sharpen,w_100,h_100/https%3A%2F%2Fimages-origin.startappservice.com%2Fadvertisers%2F185727079%2F313927735%2F415328922%2F4f2bf9b6-e81f-4d6e-b2ca-d077d6fa476d.webp"
+    }
+  },
+  {
+    "ts": 1779642000873,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/info_s.png"
+    }
+  },
+  {
+    "ts": 1779642000910,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/cacerts"
+    }
+  },
+  {
+    "ts": 1779642000913,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779642000914,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779642000915,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779642000916,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779642001894,
+    "type": "url_access",
+    "data": {
+      "url": "https://adimpression.startappservice.com/adimpression/api/v1.0/adimp?d=IAAAAAAgAAA6X1tPSEdDUFlaWVVJQkZQQFdQRUBYX1RFQEZAW19eW1FJQFdVT09VTUheW15DSUtDVF5dUF1EQkJaS0lQSEtUXl5ASUtFWFJcWV5IQUlTRk9QQ01XWFhDTU1GUVRfXlhKQ09QSklSRktUV15BQUtGWVJaW15LQklVQ09TQk1RXVhASk1AXFRcXlhNSk9TRElUQUtXWV5HTUtGUVJbXl5LSklUSk9SQE1QV1hBSE1CW1RdWVhPQE9SQUlXRktWWl5ETktHXFJZW15KRUlWS09SR01SXVhBQU1MWVRdUlhORE9VQklZQEtRX15KSEtAW1JWWF5NQElZR09VRE1dWVhGTE1MUFRaXVhAQU9VRUlYREtRVl5LT0tBWVJfW1dCRkVcQ0RSS0VXU1JCTEtBWlJfW11CRkBcQ0VRS0VQU1JDS0tBX1JfWldCRkJcQ0VSS0VSU1JDTEtBUVJfWlJCRk1cQ0VYS0ZVU1JAS0tCWFJfWVFCRUdcQ0ZZS0ZRU1JAQEtCXFJfWF1CRUJcQ0dXS0ZSU1JBQEtCUFJfX1ZCRERcQ0BUS0dUU1JGQUtDWlJfXlRCREBcQ0FSS0dQU1JHT0tDX1JfXlJCRExcQ0JUS0dcU1JHSUtMXVJfXFFCS0FcQ0NXS0hTU1JFTktMXlJfXFxCS0xcQ0xTS0lVU1JLSEtNWFJfUldCSkZcQ01US0lWU1JLT0tNXVJfUl1CSkxcQERXS0FVX15AQlxGIAtCSxYLLBMTHQERLxkBVENGSUBARU8dGToeARsUAisIFEpFWlNCTVxUGh0xDBcWBgQ%2BGxBbUERVXldeWQMGNggcBBAJLB0FSFRVQEBRTVpFREFEWkFfUlxXQkxZXEZVQ1NUXl5DSUlDXFtYUlBaQkVcQERQQUJdV1dDWkFGVF5WXlJLRERWS1dXQU0AXAZDSBVECkJYWQEcXkAEFBVMSEhdWU4UTklGWlpcXVUdF0xCQ0dRTURGX1BPSkFHUF1ZXFZMUEVVT0BQRUNXVlpAS1NFUFINBAhXEgQRBhsIFBVLCBEXHFNGXlJeRVVJQldTSkkiPDkmJUBBSE0mICwmNDE8KyBCQUZcOT4kPjMtOzE6Jyo8SFZOTh4SHRpCQ0lYIywwMDwxSltYVjU0Pjg%2BITAqU0FXWV4RCxUVHQYYDiYJHisVAisRHwcAHEBDS0hJWkxaXFgrNjMsPTAkPFNRVl5CV0lDX1lNXlVEMjolIDsoNFNQWF5FQF5NXFhNXlJEQUdPQ0NRQVNQVl5BWkZEVCM6LkZPQElQSkVSQ0FGWFZPKjQ%2FSllZVlVXQ0RYQFdQQUFYCAIeChVXXl9TCQoDCloCHRlCR0hYX1NKSVNDUFJcW1JLUEVRRklRXkBUV1JRTkdJWUFYWFVJUEVcSk0EQ0cEXAZfSUFDXkJaCABOXk0AERZMFEhXWldET0dBXQ4ISFJITjEXFwYYHx4ATVdCRDgdDgdOBgQNBgYIBg1CRUNYL1JCWkFEUVIICgkKFldQQERcQFNUXFJPSVNFW11TW0ZIQUFcQldQQkRYXEBDSkhJWFdbXFdOQ0NYUUVVQU1WX1BLS0dDWlpNWlZPTgcFGVkECBMNDw0VHF1CXltYDVFMRxJUXxMLBkYWTVJBTk0CWUFYX0tJUEZcQ1pVU0VYXVJCS0ZESl5YVhYQHRMNF1dQR01UTVFCRAMQAjAJGw0WHRE%2BCkxXL0ZRTVJHQU0HDQQxDBURHBoELQxZRi9TWkBASE0zBgAJBwBaQUZcQURCQURVU1JDV0BXWl9TIitaQExcQVpUXkRGWldPSlNAXFJeSFFATkxYF0dWEUIAQ1NDTkdZXQwLXEhAEhcDXxBZQkRRWFVFTEQVD0xbX1g0I1dUS0kVAgUATVVLREFaWUxZWVgfEhgSF1dWQ00AAE4HClNDXVJZW1ZPSkJRQUVWQUFXXVFRQUZJLSY9Kic1NjBCSkNcQF5VX1dFWkhMVF9AW0ZBSklRXERQSUVGX1dBREBXWFtaVlVXQ1dQRkFcQV5VTVJGT01FR19NWlBLTkVQUUVUQ00sABcbCgMVG08tAwQWBh1CQ0RXTRYEAhAXWkFFXFJfW1dKUEVQRElQUw%3D%3D&isPubImp=true&dp=true&clientSessionId=6daf3183-777f-4efc-894c-69c8951268cc&ts=1779642001891&afh=BsM6J%2FzYooVl%2FH61uVkHhQ"
+    }
+  },
+  {
+    "ts": 1779642001898,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642003195,
+    "type": "webview",
+    "data": {
+      "url": "javascript:splash_fadeout()"
+    }
+  },
+  {
+    "ts": 1779642005202,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642005202,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642005202,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_devId"
+    }
+  },
+  {
+    "ts": 1779642005202,
+    "type": "shared_pref",
+    "data": {
+      "key": "shared_prefs_appId"
+    }
+  },
+  {
+    "ts": 1779642005204,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { flg=0x14800000 cmp=com.apptoide.free/com.startapp.android.publish.adsCommon.activities.OverlayActivity (has extras) }"
+    }
+  },
+  {
+    "ts": 1779642005206,
+    "type": "shared_pref",
+    "data": {
+      "key": "sharedPrefsWrappers"
+    }
+  },
+  {
+    "ts": 1779642005221,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=201128941&os=android&sdkVersion=3.5.4&flavor=1023&packageId=com.apptoide.free&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&networkOperName=IHRncmJ5YA%3D%3D%0A&roaming=false&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2072&density=2.75&fgApp=true&sdkId=3&clientSessionId=6daf3183-777f-4efc-894c-69c8951268cc&appVersion=1.0&appCode=1&timeSinceSessionStart=5521&adsDisplayed=1&twoClicks=true&placement=INAPP_SPLASH&testMode=false&adsNumber=1&packageExclude=com.apptoide.free&offset=0&engInclude=true&hardwareAccelerated=true&dts=true&downloadingMode=CACHE&contentAd=false&ts=1779642005219&afh=qgG8TfENNLHbLUjfjeEfRA&token=1779641999921-4-H4sIAAAAAAAAADMwoBAYUmoANmBEC0NHwSgYBcSDQZ8JaVL0jIJRMAooASMrWw76UpK_AABcCrhRUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642005222,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642005224,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.startappexchange.com/1.4/gethtmlad?productId=201128941&os=android&sdkVersion=3.5.4&flavor=1023&packageId=com.apptoide.free&userAdvertisingId=e2e11e0c-62de-4efa-8887-f79235260dd8&advertisingIdSource=APP&model=sdk_gphone_x86_64&manufacturer=Google&deviceVersion=30&locale=en_US&inputLangs=&isp=310260&ispName=T-Mobile&netOper=UiszMjsg%0A&networkOperName=IHRncmJ5YA%3D%3D%0A&roaming=false&grid=13&silev=3&cellSignalLevel=3&outsource=true&width=1080&height=2072&density=2.75&fgApp=true&sdkId=3&clientSessionId=6daf3183-777f-4efc-894c-69c8951268cc&appVersion=1.0&appCode=1&timeSinceSessionStart=5521&adsDisplayed=1&twoClicks=true&placement=INAPP_SPLASH&testMode=false&adsNumber=1&packageExclude=com.apptoide.free&offset=0&engInclude=true&hardwareAccelerated=true&dts=true&downloadingMode=CACHE&contentAd=false&ts=1779642005219&afh=qgG8TfENNLHbLUjfjeEfRA&token=1779641999921-4-H4sIAAAAAAAAADMwoBAYUmoANmBEC0NHwSgYBcSDQZ8JaVL0jIJRMAooASMrWw76UpK_AABcCrhRUAoAAA%23%23"
+    }
+  },
+  {
+    "ts": 1779642005263,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.startapp.android.publish.adsCommon.activities.OverlayActivity"
+    }
+  },
+  {
+    "ts": 1779642005272,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.apptoide.free/files/info_l.png"
+    }
+  },
+  {
+    "ts": 1779642005392,
+    "type": "webview",
+    "data": {
+      "url": "javascript:gClientInterface.setMode(\"interstitial\")"
+    }
+  },
+  {
+    "ts": 1779642005393,
+    "type": "webview",
+    "data": {
+      "url": "javascript:enableScheme(\"externalLinks\")"
+    }
+  },
+  {
+    "ts": 1779642006286,
+    "type": "url_access",
+    "data": {
+      "url": "https://adimpression.startappservice.com/adimpression/api/v1.0/adimp?d=IAAAAAAgAAA6X1tPSEdDUFlaWVVJQkRTR1dQRUBYX1RFQEZAW19eW1dKS1dVT09VTUheW15DSUtDVF5dUF1EQkJaS0lQSEtUXl5ASUtFWFJcWV5IQUlTRk9QQ01XWFhDTU1GUVRfXlhKQ09QSklSRktUV15BQUtGWVJaW15LQklVQ09TQk1RXVhASk1AXFRcXlhNSk9TRElUQUtXWV5HTUtGUVJbXV5LSklUSk9SQE1QV1hBSE1CW1RdWVhPQE9SQUlXRktWWl5ETktHXFJZW15KRUlWS09SR01SXVhBQU1MWVRdUlhORE9VQklZQEtRX15KSEtAW1JWWF5NQElZR09VRE1dWVhGTE1MUFRaXVhAQU9VRUlYREtRVl5LT0tBWVJfW1dCRkVcQ0RSS0VXU1JCTEtBWlJfW11CRkBcQ0VRS0VQU1JDS0tBX1JfWldCRkJcQ0VSS0VSU1JDTEtBUVJfWlJCRk1cQ0VYS0ZVU1JAS0tCWFJfWVFCRUdcQ0ZZS0ZRU1JAQEtCXFJfWF1CRUJcQ0dXS0ZSU1JBQEtCUFJfX1ZCRERcQ0BUS0dUU1JGQUtDWlJfXlRCREBcQ0FSS0dQU1JHTEtDX1JfXlJCRExcQ0JUS0dcU1JHSUtMXVJfXFFCS0FcQ0NXS0hTU1JFTktMXlJfXFxCS0xcQ0xTS0lVU1JLSUtNWFJfUldCSkZcQ01VS0lWU1JLTktNXVJfUl1CSkxcQERXS0FVX15AQkRJUVRbVlRJSENcQ0daSE1UWFhLREFMUl5eVldJSEVQT0ZTS0FXU1FGQkFHVF1YUFRNTkZZSUVUTUNVVVJKRENCUl5XVlZBSEZRT0BRS0JUU1dDQkJGVFtdUFdKTkBUSUZUTURcVVFEREVGUl1ZVlBNSEZZT0FUS0JcU1ZKQkNEVFpXUFZITkJTSUdTTUZWVVBBREZCUlxaVlNOSEdUT0NRS0NTU1RLQkNDVFhdUFZBTkxRSUdYTUdSVVdCREhEUltfVl1ISEBTT0xSS0RWU1tHQkRAVFdZUFFMTkxYSUBXTUlXVVdFRElAUltWVlxPSEFRT0VRQktQX15DSURPXF1TWlVMSEFST0VRSEtQWl5DSEBPXFpTWlRLSEFXT0VQQktQWF5DSENPXFhTWlRMSEFZT0VQR0tQV15DSElPX19TWldLSEJQT0VTREtTXV5DS0hPX1tTWldASEJUT0VSSEtTWF5DSkZPX1hTWlZASEJYT0VVQktSXl5DTUVPXl5TWlFBSENST0VUQUtSWl5DTERPXlpTWlBMSENXT0VUR0tSVl5DT0ZPXlZTWlBJSExVT0VWREtdW15DTkZPUVlTWlJOSExWT0VWSUtdVl5DQUJPUF9TWlxISE1QT0VYQktcXF5DQERPUFxTWlxPSE1VT0VYSEtcVl5ASUZPWF9fVldCX0YoFlhBAwI6CREdDAArAAtUS1FJQ0FCS0NcQURLX1BLV0JAWEFcWlFaQkRcQ0RYR0VRWFpHWkFFVF1eWlRLS01VQ1dQQk1UVlZFS0dEXlZNXVREFkYEQ0UEQBNIWFEWHF1ADAkPRl1BS0NMFENYQkNQXFVCHRRMSl5dW1hNUEVST0dQQ0lWXVFATFNFXVJaWlBKRkJYSkFCQUlYDQwfVxEEGRsBAgEcXRITFxFCQkdYWE1KPF1ASl1WViY1OjcqUUdQTSIsLSstLTUsPUxdWVgwPTUxIisyIDwkPStRSkdJDxoCBxUYFBE%2BGxsSLxIMCTwbFxYGCDACAgsSLBoOFBsOBBUXMQIcEB0WHQExHwwUFgY%2BGxoAAAA6HRMeGAMcSlxXVig2MT0tN1dVRk01Iy4%2BJiMwIkxfWVJEEAYEEwAIBhUmHg4tDQArGQAZDhdaQkZZT0dCREdYPCY1ND8wLCNNX11EQ1pSR0VZU0VVUyI8PSI7ICtNXlNERENPQEVYSFNQWV5AQV5CWl1ZSFBBTkdCRERcPCQgTVVBREJAWFxdWkZPRkkyNj9CRkdYXk1CQUZHSl5fWlgfEhgSF1dWQE0HARkLVxMbBExZU1hIQ0xRUUNYTUJVWVFRSEBAVF9AWlJASldWRUlRXkRdXlNRSE1ACAxXW1ZPElkEQUEHXURTDFZfG0URWkJcW11KFRVWR0NXFRNGWVJPPAYRGxYBBQBaR0RcOh0GGFAIDxcHCxkAEExbWFg4QVdQQkxcFhEJHQZRSEJFVF9NWldLTkRCQ0ZUTUBGX1FGREJXWFxWVlRBRkNTRURWSVNUWlJPSkFHUFxdWVdMUEVSREkSFBtICxsREREaDgpDXVJNRRJVR0AHRV0RAg8CC1NFWlhTHVVXRUBPQldTTUFLWkBHRENFWV1YW0ZIRUkSGxoGHBVGX1RPSFNGWVIdDw4mFAQJHRoELwhdWDxETVNFXFdTGAESLBMRGhsPFS8dVlUtT0RXW15TLAoWFBgEUUZTTUNVTVJGSU1FWEFeSFZJTj0vUUdZTUNLW01GWkRAVFxNX1BEQ1dVS0lVERNcXlBEGF0RWloIRlFPEUFMEEEEQ11XXltBHxFDXFhYDgZaRkBcNjhCRUlYGhEHHFNCUFJfRVVaREZcFBUNAxVGWVBPHB5ZHBxNXFFERERSRE1XQENUWVJDS0NGSldYViEwIDUjPjElU0hSU1NcSEdNUExWU1hJXURCSk1cQF5XWFdHWkFAWlJeSFRNR0lRXERCQURQU1JcSVNFXVlTWktJUEVUQElRU0FQXV47FwQdGhwPGUU6GxUOBx1CQUBTUwUTFQMRSl5fXlhIQ0ZSUUVQRk1UTQ%3D%3D&isPubImp=true&dp=true&position=interstitial&clientSessionId=6daf3183-777f-4efc-894c-69c8951268cc&ts=1779642006285&afh=jJ%2F7UzbBS7JkVANp6mB1wA"
+    }
+  },
+  {
+    "ts": 1779642006292,
+    "type": "shared_pref",
+    "data": {
+      "key": "User-Agent"
+    }
+  },
+  {
+    "ts": 1779642007198,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|999999999999|*"
+    }
+  },
+  {
+    "ts": 1779642007198,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  }
+]

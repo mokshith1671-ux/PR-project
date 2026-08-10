@@ -1,0 +1,415 @@
+[
+  {
+    "ts": 1779639786756,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ancestry.android.apps.ancestry/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639786757,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.5388815661"
+    }
+  },
+  {
+    "ts": 1779639786762,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ancestry.android.apps.ancestry/shared_prefs/com.facebook.SharedPreferencesTokenCachingStrategy.DEFAULT_KEY.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639786764,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.2/5388815661?fields=supports_attribution%2Csupports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779639786801,
+    "type": "shared_pref",
+    "data": {
+      "key": "UserToken"
+    }
+  },
+  {
+    "ts": 1779639786801,
+    "type": "shared_pref",
+    "data": {
+      "key": "Tree"
+    }
+  },
+  {
+    "ts": 1779639786816,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779639786824,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.ancestry.android.apps.ancestry.StartupActivity"
+    }
+  },
+  {
+    "ts": 1779639786830,
+    "type": "shared_pref",
+    "data": {
+      "key": "FacebookId"
+    }
+  },
+  {
+    "ts": 1779639786831,
+    "type": "shared_pref",
+    "data": {
+      "key": "FacebookId"
+    }
+  },
+  {
+    "ts": 1779639786836,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ancestry.android.apps.ancestry/shared_prefs/APP_MEASUREMENT_CACHE.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639786841,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADOBEMOBILE_STOREDDEFAULTS_AID"
+    }
+  },
+  {
+    "ts": 1779639786847,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779639786852,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779639786855,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779639786856,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779639786856,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779639786857,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779639786857,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779639786863,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ancestry.android.apps.ancestry/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1325EA0259-0001-4B36-61B0FD45C789SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779639786864,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ancestry.android.apps.ancestry/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639786880,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ancestry.android.apps.ancestry/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779639786882,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779639786889,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.ancestry.android.apps.ancestry/settings?instance=4e1df2493c689603053eb0169cd85af0692d0622&build_version=85&display_version=4.0.20&source=1&icon_hash=787c978c7e29814b54ecf0a5c9eec24a04495b68"
+    }
+  },
+  {
+    "ts": 1779639786889,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.ancestry.android.apps.ancestry/settings?instance=4e1df2493c689603053eb0169cd85af0692d0622&build_version=85&display_version=4.0.20&source=1&icon_hash=787c978c7e29814b54ecf0a5c9eec24a04495b68"
+    }
+  },
+  {
+    "ts": 1779639786920,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ancestry.android.apps.ancestry/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779639786942,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779639786949,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779639786951,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779639786953,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779639786962,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779639786963,
+    "type": "shared_pref",
+    "data": {
+      "key": "ADMS_LifecycleData"
+    }
+  },
+  {
+    "ts": 1779639786973,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ancestry.android.apps.ancestry/cacheADBMobileDataCache.sqlite"
+    }
+  },
+  {
+    "ts": 1779639787012,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-5447e3991d3b0397cf00056c.json"
+    }
+  },
+  {
+    "ts": 1779639787013,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-5447e399fe7d11fc1d000643.json"
+    }
+  },
+  {
+    "ts": 1779639787013,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-5447e3991d3b0397cf00056c.json"
+    }
+  },
+  {
+    "ts": 1779639787014,
+    "type": "url_access",
+    "data": {
+      "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-5447e399fe7d11fc1d000643.json"
+    }
+  },
+  {
+    "ts": 1779639787031,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779639787063,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779639787084,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779639787111,
+    "type": "url_access",
+    "data": {
+      "url": "http://ancestrycom.sc.omtrdc.net/b/ss/ancestrymobile/0/JAVA-4.2.0-AN/s15338687"
+    }
+  },
+  {
+    "ts": 1779639787115,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.ancestry.com/cs/robots/androidsettings"
+    }
+  },
+  {
+    "ts": 1779639787119,
+    "type": "url_access",
+    "data": {
+      "url": "http://ancestrycom.sc.omtrdc.net/b/ss/ancestrymobile/0/JAVA-4.2.0-AN/s15338687"
+    }
+  },
+  {
+    "ts": 1779639787268,
+    "type": "url_access",
+    "data": {
+      "url": "http://ancestrycom.sc.omtrdc.net/b/ss/ancestrymobile/0/JAVA-4.2.0-AN/s20411442"
+    }
+  },
+  {
+    "ts": 1779639787269,
+    "type": "url_access",
+    "data": {
+      "url": "http://ancestrycom.sc.omtrdc.net/b/ss/ancestrymobile/0/JAVA-4.2.0-AN/s20411442"
+    }
+  },
+  {
+    "ts": 1779639787374,
+    "type": "url_access",
+    "data": {
+      "url": "http://ancestrycom.sc.omtrdc.net/b/ss/ancestrymobile/0/JAVA-4.2.0-AN/s49346731"
+    }
+  },
+  {
+    "ts": 1779639787375,
+    "type": "url_access",
+    "data": {
+      "url": "http://ancestrycom.sc.omtrdc.net/b/ss/ancestrymobile/0/JAVA-4.2.0-AN/s49346731"
+    }
+  },
+  {
+    "ts": 1779639787488,
+    "type": "url_access",
+    "data": {
+      "url": "http://ancestrycom.sc.omtrdc.net/b/ss/ancestrymobile/0/JAVA-4.2.0-AN/s22935988"
+    }
+  },
+  {
+    "ts": 1779639787489,
+    "type": "url_access",
+    "data": {
+      "url": "http://ancestrycom.sc.omtrdc.net/b/ss/ancestrymobile/0/JAVA-4.2.0-AN/s22935988"
+    }
+  },
+  {
+    "ts": 1779639787818,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ancestry.android.apps.ancestry/shared_prefs/AncestrySettings.xml.bak"
+    }
+  },
+  {
+    "ts": 1779639788226,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ancestry.android.apps.ancestry/cache/adbdownloadcache/15f3ef09ff1b3894c552d23e69ce5387.1445895497000_2232303739393930353761663031353536613831363831373030646132643661363A3134343538393534393722"
+    }
+  },
+  {
+    "ts": 1779639788519,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ancestry.android.apps.ancestry/cache/adbdownloadcache/5d16282368c7a346eee1db9ad251e814.1445895497000_2235356138396336376366373031373933323736396565306532666464633061303A3134343538393534393722"
+    }
+  },
+  {
+    "ts": 1779639790300,
+    "type": "shared_pref",
+    "data": {
+      "key": "Username"
+    }
+  },
+  {
+    "ts": 1779639790302,
+    "type": "shared_pref",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1779639790316,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.ancestry.android.apps.ancestry.SignInActivity"
+    }
+  },
+  {
+    "ts": 1779639790317,
+    "type": "url_access",
+    "data": {
+      "url": "http://ancestrycom.sc.omtrdc.net/b/ss/ancestrymobile/0/JAVA-4.2.0-AN/s74533350"
+    }
+  },
+  {
+    "ts": 1779639790318,
+    "type": "url_access",
+    "data": {
+      "url": "http://ancestrycom.sc.omtrdc.net/b/ss/ancestrymobile/0/JAVA-4.2.0-AN/s74533350"
+    }
+  },
+  {
+    "ts": 1779639790319,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.ancestry.android.apps.ancestry/cacheADBMobileDataCache.sqliteADBMobileTimedActionsCache.sqlite"
+    }
+  },
+  {
+    "ts": 1779639790401,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.2/5388815661?fields=supports_attribution%2Csupports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs&format=json&sdk=android"
+    }
+  }
+]

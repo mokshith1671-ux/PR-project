@@ -1,0 +1,5021 @@
+[
+  {
+    "ts": 1779643592874,
+    "type": "shared_pref",
+    "data": {
+      "key": "subscriptionType"
+    }
+  },
+  {
+    "ts": 1779643592881,
+    "type": "shared_pref",
+    "data": {
+      "key": "firstName"
+    }
+  },
+  {
+    "ts": 1779643592890,
+    "type": "shared_pref",
+    "data": {
+      "key": "lastName"
+    }
+  },
+  {
+    "ts": 1779643592944,
+    "type": "shared_pref",
+    "data": {
+      "key": "deviceID"
+    }
+  },
+  {
+    "ts": 1779643592945,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779643592957,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643592959,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/startup?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&OSVersion=30&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643592960,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/startup?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&OSVersion=30&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643592961,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643592962,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643593050,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643593054,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643593054,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/startup?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&OSVersion=30&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643593059,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643593059,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643593092,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643593092,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643593092,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643593093,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643593101,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_BOOK_LIST"
+    }
+  },
+  {
+    "ts": 1779643593102,
+    "type": "shared_pref",
+    "data": {
+      "key": "USER_BOOK_LIST"
+    }
+  },
+  {
+    "ts": 1779643593103,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643593106,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643593106,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643593107,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643593107,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643593113,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643593305,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779643593312,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779643593315,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779643593318,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779643596674,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643596675,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/category/categories?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&series=1&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643596676,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/category/categories?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&series=1&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643596677,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643596677,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643596678,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/category/categories?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&series=1&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643596718,
+    "type": "shared_pref",
+    "data": {
+      "key": "gcmId"
+    }
+  },
+  {
+    "ts": 1779643596723,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.audiobooks.androidapp/shared_prefs/com.google.android.gcm.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643596730,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779643596785,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643596786,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643596799,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643596800,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643596800,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643596800,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643596800,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643596806,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643596814,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.audiobooks.androidapp/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643596822,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.633083713531938"
+    }
+  },
+  {
+    "ts": 1779643596830,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.audiobooks.androidapp/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643596833,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.audiobooks.androidapp/shared_prefs/com.audiobooks.androidapp_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643596833,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.appevents.AnalyticsUserIDStore.userID"
+    }
+  },
+  {
+    "ts": 1779643596835,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.8/633083713531938?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout%2Capp_events_feature_bitmask%2Cseamless_login%2Csmart_login_bookmark_icon_url%2Csmart_login_menu_icon_url&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779643596841,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779643596872,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.audiobooks.androidapp/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643596893,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.appevents.SessionInfo.sessionId"
+    }
+  },
+  {
+    "ts": 1779643596919,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643596919,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643596919,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643596919,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643596921,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643596921,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643596921,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643596921,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643596924,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643596924,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643596924,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643596924,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643596924,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/myspin"
+    }
+  },
+  {
+    "ts": 1779643596937,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.audiobooks.androidapp/shared_prefs/intercomsdk_cordova_prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643596937,
+    "type": "shared_pref",
+    "data": {
+      "key": "cordova_version"
+    }
+  },
+  {
+    "ts": 1779643596948,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.audiobooks.androidapp.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779643596969,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643596975,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643596979,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643596986,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643596989,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643596989,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643596990,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643596992,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643596992,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643597005,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643597008,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643597009,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643597012,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643597013,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/startup?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&OSVersion=30&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643597013,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/startup?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&OSVersion=30&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643597024,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643597026,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/startup?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&OSVersion=30&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643597026,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/startup?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&OSVersion=30&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643597032,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643597033,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/startup?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&OSVersion=30&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643597034,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/startup?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&OSVersion=30&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=&"
+    }
+  },
+  {
+    "ts": 1779643597112,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643597113,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643597200,
+    "type": "shared_pref",
+    "data": {
+      "key": "badgesJSON"
+    }
+  },
+  {
+    "ts": 1779643597202,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597202,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597202,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597202,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597205,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597205,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597206,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597206,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597233,
+    "type": "url_access",
+    "data": {
+      "url": "https://images.audiobooks.com/badges/large/updated/badge_staffpick-01.png"
+    }
+  },
+  {
+    "ts": 1779643597234,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597234,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597235,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597237,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597241,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597241,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597241,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597241,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597245,
+    "type": "url_access",
+    "data": {
+      "url": "https://images.audiobooks.com/badges/large/updated/badge_newtitles-01.png"
+    }
+  },
+  {
+    "ts": 1779643597246,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597246,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597247,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597247,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597250,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597250,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597250,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597251,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597254,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597254,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597254,
+    "type": "url_access",
+    "data": {
+      "url": "https://images.audiobooks.com/badges/large/updated/badge_mostloved-01.png"
+    }
+  },
+  {
+    "ts": 1779643597255,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597255,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597258,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597259,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597259,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597259,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597261,
+    "type": "url_access",
+    "data": {
+      "url": "https://images.audiobooks.com/badges/large/updated/badge_bestseller-01.png"
+    }
+  },
+  {
+    "ts": 1779643597262,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597262,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597262,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597262,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597265,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597265,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597265,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597265,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597269,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597269,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597269,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597269,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597271,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597271,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597272,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597272,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597274,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597275,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597275,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597275,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597279,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597279,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597279,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597279,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597282,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597282,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597282,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597282,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597285,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597285,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597286,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597286,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597289,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597289,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597289,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597289,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597291,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597292,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597292,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597292,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597294,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597295,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597295,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597295,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597298,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597298,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597298,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597298,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597300,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643597302,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/startup?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&OSVersion=30&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643597302,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/startup?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&OSVersion=30&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643597307,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779643597310,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.audiobooks.androidapp/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643597311,
+    "type": "shared_pref",
+    "data": {
+      "key": "633083713531938json"
+    }
+  },
+  {
+    "ts": 1779643597311,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779643597312,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.8/633083713531938/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779643597350,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597351,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597352,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597353,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597355,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597355,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597355,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597355,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597370,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597370,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597370,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597370,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597371,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597372,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597372,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597372,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597375,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597375,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597375,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597375,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597378,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597379,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597379,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597379,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597393,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.8/633083713531938/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779643597447,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|64932069113|*"
+    }
+  },
+  {
+    "ts": 1779643597449,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643597451,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643597451,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779643597451,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643597452,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643597453,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779643597453,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779643597454,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779643597457,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779643597457,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779643597459,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779643597463,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779643597464,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.audiobooks.androidapp/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.Onboarding.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643597464,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779643597466,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779643597467,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.audiobooks.androidapp/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779643597467,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.audiobooks.androidapp/settings?instance=a82ef5865303c4711911de3804642e1dcd34c839&build_version=60&display_version=5.2&source=1&icon_hash=cdd8317687c71d9d78e1035d0f37422424c94df6"
+    }
+  },
+  {
+    "ts": 1779643597468,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.audiobooks.androidapp/settings?instance=a82ef5865303c4711911de3804642e1dcd34c839&build_version=60&display_version=5.2&source=1&icon_hash=cdd8317687c71d9d78e1035d0f37422424c94df6"
+    }
+  },
+  {
+    "ts": 1779643597470,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643597471,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779643597471,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643597472,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.audiobooks.androidapp/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1334C802FC-0001-6D1A-1B06DB94C80DSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779643597475,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643597477,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643597477,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643597478,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643597481,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643597481,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/getcustombookmarks?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643597513,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.audiobooks.androidapp/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779643597541,
+    "type": "shared_pref",
+    "data": {
+      "key": "STRING_Audiobooks"
+    }
+  },
+  {
+    "ts": 1779643597586,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779643597589,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779643597700,
+    "type": "url_access",
+    "data": {
+      "url": "https://images.audiobooks.com/badges/large/updated/badge_dealalert-01.png"
+    }
+  },
+  {
+    "ts": 1779643597711,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643597725,
+    "type": "url_access",
+    "data": {
+      "url": "https://images.audiobooks.com/badges/large/updated/badge_ownedTitle-01.png"
+    }
+  },
+  {
+    "ts": 1779643597732,
+    "type": "url_access",
+    "data": {
+      "url": "https://images.audiobooks.com/badges/VIP_L.png"
+    }
+  },
+  {
+    "ts": 1779643597743,
+    "type": "url_access",
+    "data": {
+      "url": "https://images.audiobooks.com/comingsoon/CS_Badge_L.png"
+    }
+  },
+  {
+    "ts": 1779643597767,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643597782,
+    "type": "shared_pref",
+    "data": {
+      "key": "server_sorting_options"
+    }
+  },
+  {
+    "ts": 1779643597782,
+    "type": "shared_pref",
+    "data": {
+      "key": "server_sorting_options"
+    }
+  },
+  {
+    "ts": 1779643597786,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.audiobooks.androidapp/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779643597843,
+    "type": "shared_pref",
+    "data": {
+      "key": "spotLightImages"
+    }
+  },
+  {
+    "ts": 1779643597850,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.audiobooks.androidapp/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779643597852,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.audiobooks.androidapp.ParentActivity"
+    }
+  },
+  {
+    "ts": 1779643597853,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643597853,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643597859,
+    "type": "shared_pref",
+    "data": {
+      "key": "STRING_splashCategories"
+    }
+  },
+  {
+    "ts": 1779643597864,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643597865,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643597867,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643597868,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643597871,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597871,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597871,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597871,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597874,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597874,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597874,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597874,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597876,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597876,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643597877,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597877,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643597893,
+    "type": "shared_pref",
+    "data": {
+      "key": "playingBook"
+    }
+  },
+  {
+    "ts": 1779643597893,
+    "type": "shared_pref",
+    "data": {
+      "key": "playingBook"
+    }
+  },
+  {
+    "ts": 1779643597894,
+    "type": "shared_pref",
+    "data": {
+      "key": "playingBook"
+    }
+  },
+  {
+    "ts": 1779643597894,
+    "type": "shared_pref",
+    "data": {
+      "key": "gcmId"
+    }
+  },
+  {
+    "ts": 1779643597895,
+    "type": "shared_pref",
+    "data": {
+      "key": "gcmId"
+    }
+  },
+  {
+    "ts": 1779643597895,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643597895,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643597900,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643597901,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643597902,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643597902,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643597910,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643597911,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643597948,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779643597988,
+    "type": "url_access",
+    "data": {
+      "url": "https://images.audiobooks.com/banbadges/AudiobookClubs.png"
+    }
+  },
+  {
+    "ts": 1779643597993,
+    "type": "url_access",
+    "data": {
+      "url": "https://images.audiobooks.com/banbadges/MyAudiobookClub.png"
+    }
+  },
+  {
+    "ts": 1779643597995,
+    "type": "shared_pref",
+    "data": {
+      "key": "playingBook"
+    }
+  },
+  {
+    "ts": 1779643597996,
+    "type": "shared_pref",
+    "data": {
+      "key": "playingBook"
+    }
+  },
+  {
+    "ts": 1779643598022,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779643598022,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779643598022,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779643598027,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598029,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerExternalAdvertisingId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598031,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerExternalAdvertisingId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598036,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598039,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643598043,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerExternalAdvertisingId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598058,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598061,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598063,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598063,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598065,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643598071,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598074,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598079,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598081,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598082,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598083,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643598089,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598119,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598120,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598122,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598139,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598139,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643598155,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598156,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598156,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598157,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598157,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643598161,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598161,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598161,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598162,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598162,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643598192,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598192,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598194,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598194,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598199,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598199,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598199,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598199,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598207,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598207,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598208,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598209,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598211,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598212,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598213,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598213,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598218,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598218,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598218,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598218,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598220,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598220,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598220,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598220,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598233,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598233,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598233,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598233,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598236,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598236,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598236,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598236,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598246,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598246,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598246,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598246,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598250,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598250,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598250,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598250,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598261,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598261,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598261,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598261,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598264,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598265,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598265,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598265,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598275,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598275,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598275,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598275,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598279,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598280,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598280,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598280,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598283,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598283,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598283,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598283,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598286,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598286,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598286,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598286,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598314,
+    "type": "start_activity",
+    "data": {
+      "intent": "Intent { act=android.intent.action.CALL_BUTTON flg=0x10000000 }"
+    }
+  },
+  {
+    "ts": 1779643598400,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598421,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598425,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerExternalAdvertisingId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598426,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerExternalAdvertisingId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598426,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598427,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerExternalAdvertisingId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598428,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerExternalAdvertisingId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598428,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598429,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerExternalAdvertisingId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598430,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerExternalAdvertisingId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598430,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598431,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerExternalAdvertisingId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598431,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerExternalAdvertisingId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598484,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598487,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598487,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598487,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598499,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598499,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598499,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598499,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598527,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598529,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598529,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598529,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598536,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598538,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598539,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598539,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598552,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598568,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598572,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598572,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598605,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598606,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598606,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598619,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598623,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598623,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598669,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598673,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598677,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598771,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598812,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598815,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598818,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598852,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598853,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598853,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598859,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598859,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598859,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598890,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643598899,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598900,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643598934,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.audiobooks.androidapp.ParentActivity"
+    }
+  },
+  {
+    "ts": 1779643598943,
+    "type": "shared_pref",
+    "data": {
+      "key": "playingBook"
+    }
+  },
+  {
+    "ts": 1779643598953,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643598953,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643598958,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643598959,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643598964,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598965,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598965,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598965,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598977,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598978,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598978,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598978,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598987,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598988,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779643598989,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643598989,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779643599029,
+    "type": "shared_pref",
+    "data": {
+      "key": "spotLightImages"
+    }
+  },
+  {
+    "ts": 1779643599036,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599036,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599041,
+    "type": "shared_pref",
+    "data": {
+      "key": "STRING_splashCategories"
+    }
+  },
+  {
+    "ts": 1779643599042,
+    "type": "shared_pref",
+    "data": {
+      "key": "playingBook"
+    }
+  },
+  {
+    "ts": 1779643599043,
+    "type": "shared_pref",
+    "data": {
+      "key": "playingBook"
+    }
+  },
+  {
+    "ts": 1779643599043,
+    "type": "shared_pref",
+    "data": {
+      "key": "gcmId"
+    }
+  },
+  {
+    "ts": 1779643599043,
+    "type": "shared_pref",
+    "data": {
+      "key": "gcmId"
+    }
+  },
+  {
+    "ts": 1779643599043,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599043,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599050,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599056,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599057,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599057,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599057,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599057,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599065,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599067,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599067,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599082,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599084,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599084,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599086,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599091,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599091,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599114,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599117,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599117,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599211,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599226,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599230,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599247,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599253,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599253,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599272,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599274,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599274,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599286,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599287,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599287,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599289,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599290,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599295,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599295,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599296,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599318,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599331,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599332,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599332,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599333,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599334,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599334,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599337,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599338,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599338,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599345,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599365,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599368,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599370,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599371,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599371,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599396,
+    "type": "url_access",
+    "data": {
+      "url": "https://covers.audiobooks.com/images/covers/full/9798349114472.jpg"
+    }
+  },
+  {
+    "ts": 1779643599396,
+    "type": "url_access",
+    "data": {
+      "url": "https://covers.audiobooks.com/images/covers/full/9781541431638.jpg"
+    }
+  },
+  {
+    "ts": 1779643599401,
+    "type": "url_access",
+    "data": {
+      "url": "https://covers.audiobooks.com/images/covers/full/9798349102691.jpg"
+    }
+  },
+  {
+    "ts": 1779643599411,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599412,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599414,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599414,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599414,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599415,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599416,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599416,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599417,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599418,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599418,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900112?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599445,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599446,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599446,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599450,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599452,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599452,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599453,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599454,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599461,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599463,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599464,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599481,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599481,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599519,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599521,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/viewed/951407?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&&platform=android"
+    }
+  },
+  {
+    "ts": 1779643599522,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/viewed/951407?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&&platform=android"
+    }
+  },
+  {
+    "ts": 1779643599522,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599522,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599523,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/viewed/951407?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&&platform=android"
+    }
+  },
+  {
+    "ts": 1779643599523,
+    "type": "shared_pref",
+    "data": {
+      "key": "STRING_you_might_enjoy"
+    }
+  },
+  {
+    "ts": 1779643599525,
+    "type": "shared_pref",
+    "data": {
+      "key": "STRING_you_might_enjoy"
+    }
+  },
+  {
+    "ts": 1779643599537,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599540,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/similarbooks/951407?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599540,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/similarbooks/951407?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599543,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599543,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643599546,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/similarbooks/951407?utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599547,
+    "type": "url_access",
+    "data": {
+      "url": "https://covers.audiobooks.com/images/covers/full/9798349114472.jpg?blur=true"
+    }
+  },
+  {
+    "ts": 1779643599566,
+    "type": "shared_pref",
+    "data": {
+      "key": "STRING_and"
+    }
+  },
+  {
+    "ts": 1779643599567,
+    "type": "shared_pref",
+    "data": {
+      "key": "STRING_and"
+    }
+  },
+  {
+    "ts": 1779643599567,
+    "type": "shared_pref",
+    "data": {
+      "key": "STRING_hours"
+    }
+  },
+  {
+    "ts": 1779643599567,
+    "type": "shared_pref",
+    "data": {
+      "key": "STRING_hours"
+    }
+  },
+  {
+    "ts": 1779643599567,
+    "type": "shared_pref",
+    "data": {
+      "key": "STRING_minutes"
+    }
+  },
+  {
+    "ts": 1779643599569,
+    "type": "shared_pref",
+    "data": {
+      "key": "STRING_minutes"
+    }
+  },
+  {
+    "ts": 1779643599574,
+    "type": "shared_pref",
+    "data": {
+      "key": "isSaved_951407"
+    }
+  },
+  {
+    "ts": 1779643599574,
+    "type": "shared_pref",
+    "data": {
+      "key": "isSaved_951407"
+    }
+  },
+  {
+    "ts": 1779643599599,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599602,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599603,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599621,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599624,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599625,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599629,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599633,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599634,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599665,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599667,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599669,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599673,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599678,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599678,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599681,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599682,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599688,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901032?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599713,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599715,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599716,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599723,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599725,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599725,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599813,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599813,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599813,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599813,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599814,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599814,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901358?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599824,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599825,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599825,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599832,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599833,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599834,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599841,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599842,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599842,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599843,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599844,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599844,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/901380?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599844,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599845,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599845,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599864,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599864,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599864,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599866,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599867,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599867,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599873,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599874,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599874,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/category/900743?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599884,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599885,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/category/categories?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&series=1&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599886,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/category/categories?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&series=1&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599913,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599914,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/category/categories?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&series=1&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599914,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/category/categories?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&series=1&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599917,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599917,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/category/categories?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&series=1&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599918,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/category/categories?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&series=1&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599960,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599961,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/category/categories?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&series=1&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599961,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/category/categories?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&series=1&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599963,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599964,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/viewed/951407?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&&platform=android"
+    }
+  },
+  {
+    "ts": 1779643599965,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/viewed/951407?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&&platform=android"
+    }
+  },
+  {
+    "ts": 1779643599965,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599968,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/viewed/951407?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&&platform=android"
+    }
+  },
+  {
+    "ts": 1779643599969,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/viewed/951407?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&&platform=android"
+    }
+  },
+  {
+    "ts": 1779643599969,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599970,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/viewed/951407?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&&platform=android"
+    }
+  },
+  {
+    "ts": 1779643599970,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/viewed/951407?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&&platform=android"
+    }
+  },
+  {
+    "ts": 1779643599971,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599972,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/viewed/951407?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&&platform=android"
+    }
+  },
+  {
+    "ts": 1779643599972,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/book/viewed/951407?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&&platform=android"
+    }
+  },
+  {
+    "ts": 1779643599974,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599975,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/similarbooks/951407?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599975,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/similarbooks/951407?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599988,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599989,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/similarbooks/951407?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599989,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/similarbooks/951407?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599990,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643599990,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/similarbooks/951407?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643599991,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/similarbooks/951407?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643600002,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643600003,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/similarbooks/951407?deviceType=Google%2Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643600003,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/booklist/similarbooks/951407?deviceType=Google%252Fsdk_gphone_x86_64&utcOffset=5.0&apiKey=345c61ff334b5b699649c2c60bb85371&numberOfBooks=10&deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643600013,
+    "type": "url_access",
+    "data": {
+      "url": "https://covers.audiobooks.com/images/covers/full/9781666690880.jpg"
+    }
+  },
+  {
+    "ts": 1779643600016,
+    "type": "url_access",
+    "data": {
+      "url": "https://covers.audiobooks.com/images/covers/full/9781803144399.jpg"
+    }
+  },
+  {
+    "ts": 1779643600020,
+    "type": "url_access",
+    "data": {
+      "url": "https://covers.audiobooks.com/images/covers/full/9781666626063.jpg"
+    }
+  },
+  {
+    "ts": 1779643600593,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~-3-FU35x1eENgo2svxwneQ==/com.audiobooks.androidapp-oLgAzUstK1kLDEQ5zTPY3g==/base.apk"
+    }
+  },
+  {
+    "ts": 1779643600594,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~-3-FU35x1eENgo2svxwneQ==/com.audiobooks.androidapp-oLgAzUstK1kLDEQ5zTPY3g==/base.apk"
+    }
+  },
+  {
+    "ts": 1779643601939,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|64932069113|*"
+    }
+  },
+  {
+    "ts": 1779643601939,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  },
+  {
+    "ts": 1779643603122,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643603122,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603123,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603123,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643603123,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643603123,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603124,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779643603124,
+    "type": "shared_pref",
+    "data": {
+      "key": "lastToken"
+    }
+  },
+  {
+    "ts": 1779643603124,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|64932069113|GCM"
+    }
+  },
+  {
+    "ts": 1779643603125,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643603125,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603125,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603126,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643603126,
+    "type": "shared_pref",
+    "data": {
+      "key": "customerId"
+    }
+  },
+  {
+    "ts": 1779643603128,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603393,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643603393,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603394,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603394,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643603394,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603395,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603395,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643603396,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603397,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603397,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643603397,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603397,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603447,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643603447,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603448,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603448,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643603449,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603449,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603449,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643603450,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603450,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603450,
+    "type": "shared_pref",
+    "data": {
+      "key": "token"
+    }
+  },
+  {
+    "ts": 1779643603451,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  },
+  {
+    "ts": 1779643603453,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.audiobooks.com/api/v2/authenticate/registerNotificationId?deviceId=A-09bfea2e49ae8e0a&version=5.2&token=e26ef348ba693cd8aff95263a3a2977e&"
+    }
+  }
+]

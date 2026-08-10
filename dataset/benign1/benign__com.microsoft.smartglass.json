@@ -1,0 +1,177 @@
+[
+  {
+    "ts": 1778236194214,
+    "type": "file",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1778236194220,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1778236194221,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1778236194221,
+    "type": "file",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1778236194223,
+    "type": "file",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1778236194232,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.microsoft.smartglass/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1778236194273,
+    "type": "file",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1778236194563,
+    "type": "network",
+    "data": {
+      "url": "http://www.xbox.com/en-US/Platform/Android/XboxLIVE/sgversion"
+    }
+  },
+  {
+    "ts": 1778236194589,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.microsoft.smartglass/shared_prefs/APP_MEASUREMENT_CACHE.xml.bak"
+    }
+  },
+  {
+    "ts": 1778236194597,
+    "type": "sp",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1778236194667,
+    "type": "sp",
+    "data": {
+      "key": "APP_MEASUREMENT_VISITOR_ID"
+    }
+  },
+  {
+    "ts": 1778236194669,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.microsoft.smartglass/cache/AppMeasurement.offline"
+    }
+  },
+  {
+    "ts": 1778236194682,
+    "type": "network",
+    "data": {
+      "url": "http://o.xbox.com/b/ss/msxboxandroid,msxboxsg/0/JAVA-1.2.4-AN/s52303038?AQB=1&ndh=1&t=8%2F4%2F2026%2015%3A59%3A54%205%20-330&vid=01186a89cc934e77902ac1d6db37357d&ce=UTF-8&pageName=xleandroid%3ALaunch%3ALogin&cc=USD&ch=xleandroid%3ALaunch&server=xleandroid&events=event1&v8=D%3DpageName&s=1080x2009&AQE=1"
+    }
+  },
+  {
+    "ts": 1778236194710,
+    "type": "network",
+    "data": {
+      "url": "http://o.xbox.com/b/ss/msxboxandroid,msxboxsg/0/JAVA-1.2.4-AN/s52303038?AQB=1&ndh=1&t=8%2F4%2F2026%2015%3A59%3A54%205%20-330&vid=01186a89cc934e77902ac1d6db37357d&ce=UTF-8&pageName=xleandroid%3ALaunch%3ALogin&cc=USD&ch=xleandroid%3ALaunch&server=xleandroid&events=event1&v8=D%3DpageName&s=1080x2009&AQE=1"
+    }
+  },
+  {
+    "ts": 1778236194801,
+    "type": "file",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1778236194989,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.microsoft.smartglass/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1778236195527,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.microsoft.smartglass/cache/avatars"
+    }
+  },
+  {
+    "ts": 1778236195633,
+    "type": "file",
+    "data": {
+      "path": "/data/user/0/com.microsoft.smartglass/shared_prefs/xlesetting.xml.bak"
+    }
+  },
+  {
+    "ts": 1778236195642,
+    "type": "activity",
+    "data": {
+      "activity": "com.microsoft.xbox.xle.app.XLEActivity"
+    }
+  },
+  {
+    "ts": 1778236195769,
+    "type": "settings",
+    "data": {
+      "key": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1778236196579,
+    "type": "webview",
+    "data": {
+      "url": "https://login.live.com/oauth20_authorize.srf?client_id=0000000048093EE3&redirect_uri=https://login.live.com/oauth20_desktop.srf&response_type=token&display=touch&scope=service::live.xbox.com::MBI_SSL&locale=en"
+    }
+  },
+  {
+    "ts": 1778236197641,
+    "type": "activity",
+    "data": {
+      "activity": "com.microsoft.xbox.xle.app.XLEActivity"
+    }
+  },
+  {
+    "ts": 1778236198565,
+    "type": "settings",
+    "data": {
+      "key": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1778236203286,
+    "type": "network",
+    "data": {
+      "url": "http://o.xbox.com/b/ss/msxboxandroid,msxboxsg/0/JAVA-1.2.4-AN/s97068289?AQB=1&ndh=1&t=8%2F4%2F2026%2015%3A59%3A58%205%20-330&vid=01186a89cc934e77902ac1d6db37357d&ce=UTF-8&pageName=xleandroid%3ALaunch%3ALogin&cc=USD&ch=xleandroid%3ALaunch&server=xleandroid&events=event1&v8=D%3DpageName&s=1080x2148&AQE=1"
+    }
+  },
+  {
+    "ts": 1778236203288,
+    "type": "network",
+    "data": {
+      "url": "http://o.xbox.com/b/ss/msxboxandroid,msxboxsg/0/JAVA-1.2.4-AN/s97068289?AQB=1&ndh=1&t=8%2F4%2F2026%2015%3A59%3A58%205%20-330&vid=01186a89cc934e77902ac1d6db37357d&ce=UTF-8&pageName=xleandroid%3ALaunch%3ALogin&cc=USD&ch=xleandroid%3ALaunch&server=xleandroid&events=event1&v8=D%3DpageName&s=1080x2148&AQE=1"
+    }
+  }
+]

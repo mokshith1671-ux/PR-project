@@ -1,0 +1,65 @@
+[
+  {
+    "ts": 1779134958454,
+    "type": "shared_pref",
+    "data": {
+      "key": "distanceUnit"
+    }
+  },
+  {
+    "ts": 1779134958454,
+    "type": "shared_pref",
+    "data": {
+      "key": "consumptionUnit"
+    }
+  },
+  {
+    "ts": 1779134958454,
+    "type": "shared_pref",
+    "data": {
+      "key": "fuelQuantityUnit"
+    }
+  },
+  {
+    "ts": 1779134958454,
+    "type": "shared_pref",
+    "data": {
+      "key": "fuelPriceUnit"
+    }
+  },
+  {
+    "ts": 1779134958472,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aguirre.android.mycar.activity.MyCarsWizardActivity"
+    }
+  },
+  {
+    "ts": 1779134958475,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  },
+  {
+    "ts": 1779134961839,
+    "type": "shared_pref",
+    "data": {
+      "key": "fuelPriceUnit"
+    }
+  },
+  {
+    "ts": 1779134962083,
+    "type": "shared_pref",
+    "data": {
+      "key": "fuelPriceUnit"
+    }
+  },
+  {
+    "ts": 1779134982962,
+    "type": "shared_pref",
+    "data": {
+      "key": "fuelPriceUnit"
+    }
+  }
+]

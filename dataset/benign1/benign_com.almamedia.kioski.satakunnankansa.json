@@ -1,0 +1,23 @@
+[
+  {
+    "ts": 1779135687313,
+    "type": "shared_pref",
+    "data": {
+      "key": "refresh_token"
+    }
+  },
+  {
+    "ts": 1779135687334,
+    "type": "activity_resume",
+    "data": {
+      "activity": "fi.almamedia.lehtikioski.LoaderActivity"
+    }
+  },
+  {
+    "ts": 1779135687339,
+    "type": "shared_pref",
+    "data": {
+      "key": "installation_campaign"
+    }
+  }
+]

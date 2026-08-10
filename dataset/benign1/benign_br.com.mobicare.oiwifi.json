@@ -1,0 +1,681 @@
+[
+  {
+    "ts": 1779132133544,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.mobicare.oiwifi/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B66E501FA-0001-055A-EF308DB154E9SessionApp.cls"
+    }
+  },
+  {
+    "ts": 1779132133545,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.mobicare.oiwifi/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B66E501FA-0001-055A-EF308DB154E9SessionOS.cls_temp"
+    }
+  },
+  {
+    "ts": 1779132133546,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779132133546,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779132133548,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.mobicare.oiwifi/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B66E501FA-0001-055A-EF308DB154E9SessionOS.cls"
+    }
+  },
+  {
+    "ts": 1779132133549,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.mobicare.oiwifi/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B66E501FA-0001-055A-EF308DB154E9SessionDevice.cls_temp"
+    }
+  },
+  {
+    "ts": 1779132133550,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779132133551,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779132133592,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.mobicare.oiwifi/shared_prefs/br.com.mobicare.oiwifi.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132133592,
+    "type": "shared_pref",
+    "data": {
+      "key": "pref_user_agent"
+    }
+  },
+  {
+    "ts": 1779132133593,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.mobicare.oiwifi/shared_prefs/br.com.mobicare.oiwifi_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132133595,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.mobicare.oiwifi/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132133627,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.mobicare.oiwifi/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779132133639,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_username"
+    }
+  },
+  {
+    "ts": 1779132133639,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_password"
+    }
+  },
+  {
+    "ts": 1779132133667,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.mobicare.oiwifi/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132133667,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.internal.APP_SETTINGS.237611696573594"
+    }
+  },
+  {
+    "ts": 1779132133668,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.mobicare.oiwifi/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132133670,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_username"
+    }
+  },
+  {
+    "ts": 1779132133670,
+    "type": "shared_pref",
+    "data": {
+      "key": "com.facebook.ProfileManager.CachedProfile"
+    }
+  },
+  {
+    "ts": 1779132133671,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_name"
+    }
+  },
+  {
+    "ts": 1779132133671,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.5/237611696573594?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779132133683,
+    "type": "activity_resume",
+    "data": {
+      "activity": "br.com.mobicare.wifi.base.BaseDrawerActivity"
+    }
+  },
+  {
+    "ts": 1779132133685,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_username"
+    }
+  },
+  {
+    "ts": 1779132133685,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_name"
+    }
+  },
+  {
+    "ts": 1779132133685,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_user_complement_type"
+    }
+  },
+  {
+    "ts": 1779132133685,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.mobicare.oiwifi/shared_prefs/oauthPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132133686,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_username"
+    }
+  },
+  {
+    "ts": 1779132133686,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_password"
+    }
+  },
+  {
+    "ts": 1779132133713,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_last_etag"
+    }
+  },
+  {
+    "ts": 1779132133716,
+    "type": "url_access",
+    "data": {
+      "url": "http://cm-ssid-list.wifioi.com.br/cm-android-ssid-list.json"
+    }
+  },
+  {
+    "ts": 1779132133717,
+    "type": "url_access",
+    "data": {
+      "url": "http://cm-ssid-list.wifioi.com.br/cm-android-ssid-list.json"
+    }
+  },
+  {
+    "ts": 1779132133821,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|368693467621|*"
+    }
+  },
+  {
+    "ts": 1779132133822,
+    "type": "shared_pref",
+    "data": {
+      "key": "appVersion"
+    }
+  },
+  {
+    "ts": 1779132133822,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||P|"
+    }
+  },
+  {
+    "ts": 1779132133822,
+    "type": "shared_pref",
+    "data": {
+      "key": "|S||K|"
+    }
+  },
+  {
+    "ts": 1779132133828,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779132133831,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.mobicare.oiwifi/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779132133833,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.mobicare.oiwifi/shared_prefs/io.fabric.sdk.android:fabric:b.a.a.a.q.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132133840,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132133841,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779132133841,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/br.com.mobicare.oiwifi/settings?instance=d9a8aa5af7681a58ca672150866ba065554840a7&build_version=1414320&display_version=3.2.0&source=1&icon_hash=1afdc0f503b68ee00cab4dae84304642220deeef"
+    }
+  },
+  {
+    "ts": 1779132133845,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.mobicare.oiwifi/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779132133846,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132133846,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779132133846,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779132133848,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.mobicare.oiwifi/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B66E501FA-0001-055A-EF308DB154E9SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779132133850,
+    "type": "activity_resume",
+    "data": {
+      "activity": "br.com.mobicare.wifi.wizard.WizardActivity"
+    }
+  },
+  {
+    "ts": 1779132133851,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/br.com.mobicare.oiwifi/settings?instance=d9a8aa5af7681a58ca672150866ba065554840a7&build_version=1414320&display_version=3.2.0&source=1&icon_hash=1afdc0f503b68ee00cab4dae84304642220deeef"
+    }
+  },
+  {
+    "ts": 1779132133999,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779132134000,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779132134000,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779132134004,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779132134004,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779132134005,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779132134005,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779132134005,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779132134005,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779132134005,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779132134006,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779132134006,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779132134007,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779132134007,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779132134009,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779132134010,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779132134010,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779132134010,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib64"
+    }
+  },
+  {
+    "ts": 1779132134010,
+    "type": "file_access",
+    "data": {
+      "path": "/system_ext/lib64"
+    }
+  },
+  {
+    "ts": 1779132134010,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779132134011,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779132134012,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779132134013,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779132134013,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86_64"
+    }
+  },
+  {
+    "ts": 1779132134013,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779132134013,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779132134029,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779132134032,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779132134032,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779132134034,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779132134034,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779132134035,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.mobicare.oiwifi/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132134041,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779132134078,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779132134113,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/br.com.mobicare.oiwifi/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779132134172,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779132134240,
+    "type": "url_access",
+    "data": {
+      "url": "523144"
+    }
+  },
+  {
+    "ts": 1779132134249,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_username"
+    }
+  },
+  {
+    "ts": 1779132134249,
+    "type": "shared_pref",
+    "data": {
+      "key": "preference_password"
+    }
+  },
+  {
+    "ts": 1779132134261,
+    "type": "settings_access",
+    "data": {
+      "setting": "accessibility_captioning_locale"
+    }
+  },
+  {
+    "ts": 1779132134271,
+    "type": "webview",
+    "data": {
+      "url": "javascript:if (typeof mraid != 'undefined') mraid.fireSizeChangeEvent(\"392\",\"50\")"
+    }
+  },
+  {
+    "ts": 1779132134301,
+    "type": "webview",
+    "data": {
+      "url": "about:blank"
+    }
+  },
+  {
+    "ts": 1779132134636,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779132134641,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779132134642,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779132134643,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779132137714,
+    "type": "shared_pref",
+    "data": {
+      "key": "|T|368693467621|*"
+    }
+  },
+  {
+    "ts": 1779132137714,
+    "type": "shared_pref",
+    "data": {
+      "key": "topic_operaion_queue"
+    }
+  }
+]

@@ -1,0 +1,667 @@
+[
+  {
+    "ts": 1779133886073,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/users"
+    }
+  },
+  {
+    "ts": 1779133886115,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.woinvoice/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.t.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133886116,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779133886121,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.aadhk.woinvoice/settings?instance=b8591ac9b7ba9755ef1e679f293775b3487382a4&build_version=2000243&display_version=0.1.216&source=1&icon_hash=69afc1020699807f7974f376d9f710c26cb404ec"
+    }
+  },
+  {
+    "ts": 1779133886122,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.aadhk.woinvoice/settings?instance=b8591ac9b7ba9755ef1e679f293775b3487382a4&build_version=2000243&display_version=0.1.216&source=1&icon_hash=69afc1020699807f7974f376d9f710c26cb404ec"
+    }
+  },
+  {
+    "ts": 1779133886142,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aadhk.woinvoice.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779133886145,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.woinvoice/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133886156,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133886160,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.woinvoice/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133886160,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133886161,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779133886161,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779133886163,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.woinvoice/shared_prefs/google_conversion.xml.bak"
+    }
+  },
+  {
+    "ts": 1779133886164,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.woinvoice/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6DBD033B-0001-3CBB-6E748FC3C464SessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779133886168,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.woinvoice/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6DBD033B-0001-3CBB-6E748FC3C464SessionEvent0000000000.cls_temp"
+    }
+  },
+  {
+    "ts": 1779133886169,
+    "type": "shared_pref",
+    "data": {
+      "key": "489502034559763json"
+    }
+  },
+  {
+    "ts": 1779133886169,
+    "type": "shared_pref",
+    "data": {
+      "key": "anonymousAppDeviceGUID"
+    }
+  },
+  {
+    "ts": 1779133886179,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133886195,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886196,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886196,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886196,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886197,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886198,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886198,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886198,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886205,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886206,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886206,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886207,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886209,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886209,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886210,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886210,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886210,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.woinvoice/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A0B6DBD033B-0001-3CBB-6E748FC3C464SessionEvent0000000000.cls"
+    }
+  },
+  {
+    "ts": 1779133886211,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886211,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886211,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886211,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886214,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886215,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886216,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886216,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886220,
+    "type": "file_access",
+    "data": {
+      "path": "/sys/devices/system/cpu/"
+    }
+  },
+  {
+    "ts": 1779133886224,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/489502034559763/activities?format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779133886253,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googleadservices.com/pagead/conversion/1006814914/?bundleid=com.aadhk.woinvoice&appversion=0.1.216&osversion=11&sdkversion=ct-sdk-a-v2.2.4&gms=1&lat=0&rdid=b812026a-97d9-4281-b475-7b41a56a9161&label=Qpw8CP-3ymIQwo2L4AM&value=0.00&timestamp=1779133886.162&usage_tracking_enabled=1"
+    }
+  },
+  {
+    "ts": 1779133886265,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.woinvoice/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779133886290,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779133886299,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779133886336,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779133886357,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.aadhk.woinvoice/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779133886449,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/WOInvoice/picture"
+    }
+  },
+  {
+    "ts": 1779133886452,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/WOInvoice/picture"
+    }
+  },
+  {
+    "ts": 1779133886453,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886453,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886453,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886453,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886454,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886455,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886455,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886456,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886458,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886458,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886458,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886458,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886460,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886460,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886460,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886460,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886463,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886463,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0"
+    }
+  },
+  {
+    "ts": 1779133886464,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886464,
+    "type": "file_access",
+    "data": {
+      "path": "/mnt/media_rw/0000-0000"
+    }
+  },
+  {
+    "ts": 1779133886467,
+    "type": "shared_pref",
+    "data": {
+      "key": "company_name"
+    }
+  },
+  {
+    "ts": 1779133886468,
+    "type": "shared_pref",
+    "data": {
+      "key": "company_address1"
+    }
+  },
+  {
+    "ts": 1779133886468,
+    "type": "shared_pref",
+    "data": {
+      "key": "company_address2"
+    }
+  },
+  {
+    "ts": 1779133886469,
+    "type": "shared_pref",
+    "data": {
+      "key": "company_address3"
+    }
+  },
+  {
+    "ts": 1779133886469,
+    "type": "shared_pref",
+    "data": {
+      "key": "contact_phone"
+    }
+  },
+  {
+    "ts": 1779133886470,
+    "type": "shared_pref",
+    "data": {
+      "key": "contact_email"
+    }
+  },
+  {
+    "ts": 1779133886471,
+    "type": "shared_pref",
+    "data": {
+      "key": "contact_web"
+    }
+  },
+  {
+    "ts": 1779133886475,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.aadhk.woinvoice.OnboardingActivity"
+    }
+  },
+  {
+    "ts": 1779133887256,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779133887261,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779133887262,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779133887262,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779133887471,
+    "type": "url_access",
+    "data": {
+      "url": "https://www.googleadservices.com/pagead/conversion/1006814914/?bundleid=com.aadhk.woinvoice&appversion=0.1.216&osversion=11&sdkversion=ct-sdk-a-v2.2.4&gms=1&lat=0&rdid=b812026a-97d9-4281-b475-7b41a56a9161&timestamp=1779137.485&auto=1&usage_tracking_enabled=1"
+    }
+  },
+  {
+    "ts": 1779133888874,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/users"
+    }
+  },
+  {
+    "ts": 1779133892908,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/users"
+    }
+  },
+  {
+    "ts": 1779133898952,
+    "type": "shared_pref",
+    "data": {
+      "key": "prefLang"
+    }
+  },
+  {
+    "ts": 1779133898953,
+    "type": "shared_pref",
+    "data": {
+      "key": "abtest"
+    }
+  },
+  {
+    "ts": 1779133898954,
+    "type": "shared_pref",
+    "data": {
+      "key": "cdtest"
+    }
+  },
+  {
+    "ts": 1779133900005,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.parse.com/1/users"
+    }
+  },
+  {
+    "ts": 1779133901144,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/489502034559763?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779133901382,
+    "type": "url_access",
+    "data": {
+      "url": "https://graph.facebook.com/v2.4/489502034559763/activities?access_token=&format=json&sdk=android"
+    }
+  },
+  {
+    "ts": 1779133909890,
+    "type": "file_access",
+    "data": {
+      "path": "/storage/emulated/0/WOInvoice/picture/logo.png"
+    }
+  }
+]

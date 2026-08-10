@@ -1,0 +1,163 @@
+[
+  {
+    "ts": 1779634907100,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779634907101,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779634907101,
+    "type": "file_access",
+    "data": {
+      "path": "/system/app/Superuser.apk"
+    }
+  },
+  {
+    "ts": 1779634907102,
+    "type": "file_access",
+    "data": {
+      "path": "/system/xbin/su"
+    }
+  },
+  {
+    "ts": 1779634907103,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/au.com.tapstyle/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/6A1312DA034A-0001-3C4B-18D1CC02461FSessionDevice.cls"
+    }
+  },
+  {
+    "ts": 1779634907118,
+    "type": "activity_resume",
+    "data": {
+      "activity": "au.com.tapstyle.activity.MenuActivity"
+    }
+  },
+  {
+    "ts": 1779634907125,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/au.com.tapstyle/shared_prefs/io.fabric.sdk.android:fabric:a.a.a.a.m.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634907129,
+    "type": "shared_pref",
+    "data": {
+      "key": "existing_instance_identifier"
+    }
+  },
+  {
+    "ts": 1779634907130,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/au.com.tapstyle/settings?instance=8005c70f6c1322f7b86288990eeeb0fb5b47dbd3&build_version=296&display_version=2.9.6&source=1&icon_hash=da3c7fd160d7e744387559eff4cd818ad5589aec"
+    }
+  },
+  {
+    "ts": 1779634907131,
+    "type": "url_access",
+    "data": {
+      "url": "https://settings.crashlytics.com/spi/v2/platforms/android/apps/au.com.tapstyle/settings?instance=8005c70f6c1322f7b86288990eeeb0fb5b47dbd3&build_version=296&display_version=2.9.6&source=1&icon_hash=da3c7fd160d7e744387559eff4cd818ad5589aec"
+    }
+  },
+  {
+    "ts": 1779634907718,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/au.com.tapstyle/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779634907725,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779634907725,
+    "type": "shared_pref",
+    "data": {
+      "key": "advertising_id"
+    }
+  },
+  {
+    "ts": 1779634907730,
+    "type": "shared_pref",
+    "data": {
+      "key": "crashlytics.installation.id"
+    }
+  },
+  {
+    "ts": 1779634907734,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/au.com.tapstyle/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp"
+    }
+  },
+  {
+    "ts": 1779634910374,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/au.com.tapstyle/shared_prefs/au.com.tapstyle_preferences.xml.bak"
+    }
+  },
+  {
+    "ts": 1779634910382,
+    "type": "activity_resume",
+    "data": {
+      "activity": "au.com.tapstyle.activity.account.AccountPreferenceActivity"
+    }
+  },
+  {
+    "ts": 1779634913838,
+    "type": "activity_resume",
+    "data": {
+      "activity": "au.com.tapstyle.activity.customer.CustomerSearchActivity"
+    }
+  },
+  {
+    "ts": 1779634917765,
+    "type": "url_access",
+    "data": {
+      "url": "http://www.tapstyle.net/technologies/websvc/server_info.php"
+    }
+  },
+  {
+    "ts": 1779634920400,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779634920404,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779634920404,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779634920404,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  }
+]

@@ -1,0 +1,604 @@
+[
+  {
+    "ts": 1779637625660,
+    "type": "file_access",
+    "data": {
+      "path": "/data/app/~~r5hhh5i30xocmwMzyatWLw==/com.abbyy.mobile.lingvo.market-2XZ4yFjLjK4QCMoF8EvpzQ==/base.apk"
+    }
+  },
+  {
+    "ts": 1779637625673,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abbyy.mobile.lingvo.market/shared_prefs/mat_id.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637625675,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abbyy.mobile.lingvo.market/shared_prefs/com.mobileapptracking.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637625675,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_id"
+    }
+  },
+  {
+    "ts": 1779637625679,
+    "type": "crypto",
+    "data": {
+      "algorithm": "AES/CBC/NoPadding"
+    }
+  },
+  {
+    "ts": 1779637625679,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_referrer"
+    }
+  },
+  {
+    "ts": 1779637625680,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abbyy.mobile.lingvo.market/shared_prefs/mat_queue.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637625685,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637625687,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abbyy.mobile.lingvo.market/shared_prefs/appsflyer-data.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637625687,
+    "type": "shared_pref",
+    "data": {
+      "key": "savedProperties"
+    }
+  },
+  {
+    "ts": 1779637625688,
+    "type": "url_access",
+    "data": {
+      "url": "https://8342.deeplink.mobileapptracking.com/v1/link.txt?platform=android&advertiser_id=8342&ver=3.11.0&package_name=com.abbyy.mobile.lingvo.market&ad_id=0be0254039591286&user_agent=null"
+    }
+  },
+  {
+    "ts": 1779637625690,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abbyy.mobile.lingvo.market/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637625742,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abbyy.mobile.lingvo.market/databases/google_analytics_v4.db"
+    }
+  },
+  {
+    "ts": 1779637625772,
+    "type": "activity_resume",
+    "data": {
+      "activity": "com.abbyy.mobile.lingvo.SplashActivity"
+    }
+  },
+  {
+    "ts": 1779637625773,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779637625775,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abbyy.mobile.lingvo.market/shared_prefs/com.pushwoosh.pushnotifications.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637625776,
+    "type": "shared_pref",
+    "data": {
+      "key": "dm_pwapp"
+    }
+  },
+  {
+    "ts": 1779637625783,
+    "type": "shared_pref",
+    "data": {
+      "key": "dm_pwapp"
+    }
+  },
+  {
+    "ts": 1779637625783,
+    "type": "shared_pref",
+    "data": {
+      "key": "dm_sender_id"
+    }
+  },
+  {
+    "ts": 1779637625786,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abbyy.mobile.lingvo.market/shared_prefs/com.google.android.gcm.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637625787,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779637625789,
+    "type": "shared_pref",
+    "data": {
+      "key": "regId"
+    }
+  },
+  {
+    "ts": 1779637625790,
+    "type": "shared_pref",
+    "data": {
+      "key": "dm_sender_id"
+    }
+  },
+  {
+    "ts": 1779637625797,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_referrer"
+    }
+  },
+  {
+    "ts": 1779637625798,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_log_id_last_open"
+    }
+  },
+  {
+    "ts": 1779637625798,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_id"
+    }
+  },
+  {
+    "ts": 1779637625799,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_log_id_open"
+    }
+  },
+  {
+    "ts": 1779637625800,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_is_paying_user"
+    }
+  },
+  {
+    "ts": 1779637625800,
+    "type": "shared_pref",
+    "data": {
+      "key": "mat_user_id"
+    }
+  },
+  {
+    "ts": 1779637625809,
+    "type": "shared_pref",
+    "data": {
+      "key": "1"
+    }
+  },
+  {
+    "ts": 1779637625823,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779637625824,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user_de/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779637625824,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.google.android.webview"
+    }
+  },
+  {
+    "ts": 1779637625829,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779637625830,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779637625834,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637625835,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637625835,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637625835,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779637625836,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779637625836,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779637625838,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779637625838,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779637625841,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637625841,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637625841,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637625842,
+    "type": "file_access",
+    "data": {
+      "path": "/system/lib"
+    }
+  },
+  {
+    "ts": 1779637625842,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779637625842,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779637625843,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637625843,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637625844,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637625844,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779637625844,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779637625870,
+    "type": "file_access",
+    "data": {
+      "path": "/data/local/tmp/webview-command-line"
+    }
+  },
+  {
+    "ts": 1779637625873,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779637625873,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/WebViewGoogle.apk"
+    }
+  },
+  {
+    "ts": 1779637625874,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779637625874,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/TrichromeLibrary/TrichromeLibrary.apk"
+    }
+  },
+  {
+    "ts": 1779637625876,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abbyy.mobile.lingvo.market/shared_prefs/WebViewChromiumPrefs.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637625883,
+    "type": "file_access",
+    "data": {
+      "path": "/proc/meminfo"
+    }
+  },
+  {
+    "ts": 1779637625909,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/pubkey_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779637625911,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/serial_blacklist.txt"
+    }
+  },
+  {
+    "ts": 1779637625911,
+    "type": "file_access",
+    "data": {
+      "path": "/data/misc/keychain/trusted_ct_logs/current/"
+    }
+  },
+  {
+    "ts": 1779637625911,
+    "type": "file_access",
+    "data": {
+      "path": "/system/etc/security/ct_known_logs/"
+    }
+  },
+  {
+    "ts": 1779637625928,
+    "type": "file_access",
+    "data": {
+      "path": "/product/app/WebViewGoogle/lib/x86"
+    }
+  },
+  {
+    "ts": 1779637625985,
+    "type": "file_access",
+    "data": {
+      "path": "/data/user/0/com.abbyy.mobile.lingvo.market/shared_prefs/WebViewProfilePrefsDefault.xml.bak"
+    }
+  },
+  {
+    "ts": 1779637626063,
+    "type": "shared_pref",
+    "data": {
+      "key": "dm_pwapp"
+    }
+  },
+  {
+    "ts": 1779637626064,
+    "type": "settings_access",
+    "data": {
+      "setting": "android_id"
+    }
+  },
+  {
+    "ts": 1779637626064,
+    "type": "shared_pref",
+    "data": {
+      "key": "pw_base_url"
+    }
+  },
+  {
+    "ts": 1779637626078,
+    "type": "url_access",
+    "data": {
+      "url": "http://cp.pushwoosh.com/json/1.3/applicationOpen"
+    }
+  },
+  {
+    "ts": 1779637626078,
+    "type": "shared_pref",
+    "data": {
+      "key": "AF_INSTALLATION"
+    }
+  },
+  {
+    "ts": 1779637626080,
+    "type": "url_access",
+    "data": {
+      "url": "http://cp.pushwoosh.com/json/1.3/applicationOpen"
+    }
+  },
+  {
+    "ts": 1779637626092,
+    "type": "url_access",
+    "data": {
+      "url": "https://8342.deeplink.mobileapptracking.com/v1/link.txt?platform=android&advertiser_id=8342&ver=3.11.0&package_name=com.abbyy.mobile.lingvo.market&ad_id=e2e11e0c-62de-4efa-8887-f79235260dd8&user_agent=Mozilla%2F5.0%20(Linux%3B%20Android%2011%3B%20sdk_gphone_x86_64%20Build%2FRSR1.240422.006%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F83.0.4103.106%20Mobile%20Safari%2F537.36&google_ad_tracking_disabled=0"
+    }
+  },
+  {
+    "ts": 1779637626259,
+    "type": "file_access",
+    "data": {
+      "path": ""
+    }
+  },
+  {
+    "ts": 1779637626260,
+    "type": "file_access",
+    "data": {
+      "path": "/etc/pre_install.appsflyer"
+    }
+  },
+  {
+    "ts": 1779637626263,
+    "type": "shared_pref",
+    "data": {
+      "key": "imeiCached"
+    }
+  },
+  {
+    "ts": 1779637626267,
+    "type": "shared_pref",
+    "data": {
+      "key": "androidIdCached"
+    }
+  },
+  {
+    "ts": 1779637626278,
+    "type": "shared_pref",
+    "data": {
+      "key": "appsFlyerFirstInstall"
+    }
+  },
+  {
+    "ts": 1779637626278,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779637626278,
+    "type": "shared_pref",
+    "data": {
+      "key": "referrer"
+    }
+  },
+  {
+    "ts": 1779637626278,
+    "type": "shared_pref",
+    "data": {
+      "key": "sentSuccessfully"
+    }
+  },
+  {
+    "ts": 1779637626281,
+    "type": "url_access",
+    "data": {
+      "url": "https://t.appsflyer.com/api/v4/androidevent?buildnumber=6.0&app_id=com.abbyy.mobile.lingvo.market"
+    }
+  },
+  {
+    "ts": 1779637626566,
+    "type": "url_access",
+    "data": {
+      "url": "https://stats.appsflyer.com/stats"
+    }
+  },
+  {
+    "ts": 1779637626852,
+    "type": "shared_pref",
+    "data": {
+      "key": "attributionId"
+    }
+  },
+  {
+    "ts": 1779637626864,
+    "type": "url_access",
+    "data": {
+      "url": "https://api.appsflyer.com/install_data/v3/com.abbyy.mobile.lingvo.market?devkey=AhqwFxufawDq7g3WrdR6xb&device_id=1779637623168-6415072484099879262"
+    }
+  }
+]
