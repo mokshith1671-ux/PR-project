@@ -12,7 +12,7 @@ with open("output.txt", "r", encoding="utf-8", errors="ignore") as f:
         except:
             continue
 
-with open("output.json", "w") as f:
+with open("output.json", "w", encoding="utf-8") as f:
     json.dump(events, f, indent=2)
 
-print(f"✅ Raw events captured: {len(events)}")
+print(f"[OK] Raw events captured: {len(events)}")

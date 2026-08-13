@@ -1,0 +1,28 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints & cache
+.ipynb_checkpoints/
+
+# Frida & large binaries (>100MB)
+frida-server*
+
+# Temporary / scratch / output files
+output.txt
+*.log
+
+# Models & binary artifacts
+models/*.pkl
+!models/.gitkeep
+
+# OS generated files
+.DS_Store
+Thumbs.db
