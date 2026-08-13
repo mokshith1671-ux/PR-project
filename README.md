@@ -8,7 +8,7 @@
 ## Table of Contents
 
 1. [Project Architecture & Pipeline](#1-project-architecture--pipeline)
-2. [System Requirements](#2-system-requirements)
+2. [Key Components](#2-key-components)
 3. [Environment & Prerequisites](#3-environment--prerequisites)
 4. [Frida & Emulator Setup](#4-frida--emulator-setup)
 5. [Project Structure](#5-project-structure)
@@ -121,26 +121,41 @@ python -m venv .venv
 
 ## 5. Project Structure
 
-```
+```text
 final_project/
 │
-├── input/                             ← Place target files (.apk, .pdf, .png, .zip) here
-├── dataset/                           ← Generated behavioral JSON traces
-│   ├── benign/
-│   └── malware/
-├── features/
-│   ├── features_raw.csv               ← Full feature matrix
-│   └── dataset_E_top300_balanced.csv  ← Balanced Dataset E (600+ samples)
-├── models/
-│   └── malware_detector.pkl           ← Saved ML classifier
+├── input/                                ← Drop target files to analyze (.apk, .pdf, .png, .zip)
+│   ├── 8. PWM in STM32.pdf               ← Example PDF with embedded payload
+│   ├── com.neumorphic.calculator_2.apk   ← Target APK file
+│   └── swati4star.createpdf_110.apk       ← Target APK file
 │
-├── payload_extractor.py               ← Binary payload extractor
-├── runner.py                          ← Stage 1 pipeline script
-├── parser.py                          ← Frida output log parser
-├── quality_filter.py                  ← Stage 2 quality filter & merger
-├── feature_engineering.py             ← Feature extraction matrix
-├── train_model.py                     ← Stage 3 model trainer
-└── finalBTPcode_models.ipynb          ← ML benchmark notebook
+├── dataset/                              ← Captured JSON behavioral traces (Stage 1 output)
+│   ├── benign/                           ← Benign app trace outputs
+│   └── malware/                          ← Malware app trace outputs
+│
+├── filtered/                             ← Quality-filtered dataset traces
+│   ├── quality_scores.csv                ← Quality scores & MinHash LSH penalty metrics
+│   ├── top300_benign/                    ← Top 300 benign JSON traces
+│   └── top300_malware/                   ← Top 300 malware JSON traces
+│
+├── features/                             ← Feature matrices ready for Machine Learning
+│   ├── features_raw.csv                  ← Feature matrix from raw un-filtered traces
+│   └── dataset_E_top300_balanced.csv     ← Curated Dataset E (602 balanced samples)
+│
+├── models/                               ← Machine Learning models directory
+│   └── malware_detector.pkl              ← Serialized Random Forest classifier artifact
+│
+├── script.js                             ← Frida JavaScript hooks for API interception
+├── payload_extractor.py                  ← Stage 1: Carves hidden APK payloads from non-APK files
+├── runner.py                             ← Stage 1: ADB & Frida dynamic analysis orchestrator
+├── parser.py                             ← Stage 1: Normalizes Frida log outputs into JSON traces
+├── quality_filter.py                     ← Stage 2: Quality scoring, duplicate removal, & dataset merger
+├── feature_engineering.py                ← Stage 2: Feature matrix extractor (60+ behavioral features)
+├── train_model.py                        ← Stage 3: Trains ML model and updates malware_detector.pkl
+├── finalBTPcode_models.ipynb             ← Stage 3: Full ML benchmark & experiment notebook
+├── BTP_Final_Report_Android_Malware.pdf  ← Project research documentation
+├── .gitignore                            ← Git exclusions (.venv, __pycache__, frida-server)
+└── README.md                             ← Project documentation & setup instructions
 ```
 
 ---
