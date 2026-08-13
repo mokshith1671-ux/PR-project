@@ -74,7 +74,7 @@ def uninstall_apk(pkg):
 
 # ---------- CORE PIPELINE ---------- #
 
-def process_apk(apk_path, original_source=None):
+def process_apk(apk_path, original_source=None, forced_label=None):
     source_info = f" (Origin: {os.path.basename(original_source)})" if original_source else ""
     print(f"\n[+] Processing APK Payload: {apk_path}{source_info}")
 
@@ -140,9 +140,17 @@ def process_apk(apk_path, original_source=None):
         uninstall_apk(pkg)
         return
 
-    # ---------- ML CLASSIFICATION ---------- #
-    predicted_label, confidence, reason = predict_apk_behavior("output.json")
-    print(f"[ML] Predicted Class: {predicted_label.upper()} (Confidence: {confidence * 100:.1f}%) | Signals: {reason}")
+    # ---------- CLASSIFICATION ---------- #
+    if forced_label:
+        # User explicitly told us this is benign or malware via subfolder placement
+        predicted_label = forced_label
+        confidence = 1.0
+        reason = f"User-labeled ({forced_label})"
+        print(f"[LABEL] Forced Class: {predicted_label.upper()} | Source: {reason}")
+    else:
+        # Use ML model to decide
+        predicted_label, confidence, reason = predict_apk_behavior("output.json")
+        print(f"[ML] Predicted Class: {predicted_label.upper()} (Confidence: {confidence * 100:.1f}%) | Signals: {reason}")
 
     # ---------- SAVE AUTOMATICALLY ---------- #
     raw_filename = os.path.basename(apk_path)
@@ -185,22 +193,39 @@ def run_all():
     print(f"    - Benign : {BENIGN_OUT}")
     print(f"    - Malware: {MALWARE_OUT}\n")
 
-    input_files = []
+    # Build list of (file_path, forced_label)
+    # input/benign/  -> forced benign
+    # input/malware/ -> forced malware
+    # input/         -> let ML model decide
+    input_benign_dir  = os.path.join(INPUT_DIR, "benign")
+    input_malware_dir = os.path.join(INPUT_DIR, "malware")
+
+    input_files = []  # list of (path, forced_label or None)
     for root, dirs, files in os.walk(INPUT_DIR):
+        # Skip nested subfolders of benign/malware
+        rel = os.path.relpath(root, INPUT_DIR)
         for file in files:
-            input_files.append(os.path.join(root, file))
+            fpath = os.path.join(root, file)
+            if root == input_benign_dir or root.startswith(input_benign_dir + os.sep):
+                input_files.append((fpath, "benign"))
+            elif root == input_malware_dir or root.startswith(input_malware_dir + os.sep):
+                input_files.append((fpath, "malware"))
+            else:
+                input_files.append((fpath, None))  # ML decides
 
     if not input_files:
         print("[!] No files found in input folder.")
         return
 
-    print(f"[*] Found {len(input_files)} file(s) in input folder to scan for APK payloads.\n")
+    print(f"[*] Found {len(input_files)} file(s) in input folder to scan for APK payloads.")
+    print(f"[*] Tip: Place files in input/benign/ or input/malware/ to force-label them.\n")
 
     total_payloads_processed = 0
 
-    for idx, input_path in enumerate(input_files, 1):
-        print(f"--- [{idx}/{len(input_files)}] Scanning: {os.path.basename(input_path)} ---")
-        
+    for idx, (input_path, forced_label) in enumerate(input_files, 1):
+        label_hint = f" [Forced: {forced_label.upper()}]" if forced_label else " [ML will classify]"
+        print(f"--- [{idx}/{len(input_files)}] Scanning: {os.path.basename(input_path)}{label_hint} ---")
+
         # Extract all APK payloads (raw APK, archive, PDF attachment, polyglot byte carving)
         extracted_apks = extract_apk_payloads(input_path, TEMP_EXTRACT_DIR)
 
@@ -211,7 +236,7 @@ def run_all():
         print(f"[+] Found {len(extracted_apks)} APK payload(s) inside {os.path.basename(input_path)}")
 
         for apk_payload in extracted_apks:
-            process_apk(apk_payload, original_source=input_path)
+            process_apk(apk_payload, original_source=input_path, forced_label=forced_label)
             total_payloads_processed += 1
             # Cleanup extracted temp apk
             if os.path.exists(apk_payload):
