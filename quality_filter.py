@@ -31,6 +31,11 @@ RAW_CSV      = FEATURES_DIR / "features_raw.csv"
 BALANCED_CSV = FEATURES_DIR / "dataset_E_top300_balanced.csv"
 TOP_N        = 300                  # top samples to keep per class
 
+# ---------- MODE ---------- #
+# FRESH_START = True  → Ignore existing baseline CSV, train ONLY on your new APKs
+# FRESH_START = False → Merge new APKs with existing baseline 600 samples
+FRESH_START = True
+
 # Importance weights for quality scoring
 WEIGHTS = {
     'runtime_exec': 5.0, 'runtime': 5.0,
@@ -165,14 +170,16 @@ def build_dataset():
     print("  STAGE 2: Quality Scoring & Feature Engineering")
     print("=" * 60)
 
-    # 1. Load baseline balanced dataset if it exists
+    # 1. Load existing baseline dataset (only if NOT in fresh-start mode)
     existing_balanced_df = None
-    if BALANCED_CSV.exists():
+    if not FRESH_START and BALANCED_CSV.exists():
         try:
             existing_balanced_df = pd.read_csv(BALANCED_CSV)
             print(f"[*] Loaded baseline balanced dataset: {len(existing_balanced_df)} samples ({BALANCED_CSV.name})")
         except Exception as e:
             print(f"[!] Warning reading existing balanced CSV: {e}")
+    elif FRESH_START:
+        print("[*] FRESH START mode: Ignoring baseline dataset. Training only on your new APKs.")
 
     # 2. Extract features for new JSON files in dataset/
     new_rows = []
@@ -221,9 +228,8 @@ def build_dataset():
             parts.append(subset)
         new_df = pd.concat(parts, ignore_index=True)
 
-        if existing_balanced_df is not None:
-            # Merge existing 600 dataset rows with new trace rows
-            # Identify source_file column or add placeholder if missing
+        if existing_balanced_df is not None and not FRESH_START:
+            # Merge existing baseline rows with new trace rows
             if 'source_file' not in existing_balanced_df.columns:
                 existing_balanced_df['source_file'] = [f"baseline_{i}.json" for i in range(len(existing_balanced_df))]
             if 'quality_score' not in existing_balanced_df.columns:
@@ -238,7 +244,9 @@ def build_dataset():
             combined_df = pd.concat([existing_balanced_df, new_filtered], ignore_index=True)
             print(f"[+] Merged {len(new_filtered)} new trace(s) into baseline {len(existing_balanced_df)} dataset.")
         else:
+            # FRESH_START mode — use only new APKs
             combined_df = new_df
+            print(f"[+] Fresh start: using {len(new_df)} newly processed traces only.")
     else:
         print("\n[*] No new JSON traces found in dataset/. Keeping baseline dataset intact.")
         if existing_balanced_df is not None:
